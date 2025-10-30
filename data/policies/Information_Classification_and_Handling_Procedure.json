@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Information Classification and Handling Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=300",
+    "scraped_date": "2025-10-31 01:23:10"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Overview",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) RMIT is legally and contractually obliged to manage its Information. Classification enables Information to be managed properly throughout its lifecycle, in accordance with legislative compliance and RMIT policy. It protects Information from unauthorised access, use and disclosure, and supports openness and collaboration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Information Classification provides context for information management and security. Provision and protection of Information in digital format is defined according to role-based access controls established by the Information Technology and Security Policy, which address baseline cyber security requirements for managing access on an approved, need-to-know basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Individuals are responsible for understanding what constitutes Information Custodianship at RMIT, as defined by the Information Governance Policy, and for the proper treatment of Information across its lifecycle, as outlined in the Data and Information Lifecycle Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Information Handling",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Handling and protecting Information must occur whether Information is at rest or in use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "‘At rest’ includes Information stored in databases, tables, email systems, file cabinets, desk drawers, etc.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "‘In use’ includes Information being processed by application systems, electronically transmitted, used in spreadsheets, or manually manipulated, etc.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(11) Handling and protecting Information depends on its Information Classification, physical and cyber security requirements, context and risk. The table below provides some recommendations for the handling of Information based on Security Classification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Information in non-digital format must be handled with equivalent levels of diligence as Information in digital format.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(13) Where it is feasible, duplicating of Information should be avoided and Information containing Personally Identifiable Information (PII) should be de-identified.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Information Classification",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) Information Custodians should refer to Schedule 1 for definitions and examples of Security Labelling.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) Information Custodians should take care in applying the appropriate Security Label as there are implications for having an unreasonable security classification:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Under-classification may expose RMIT to risk if Information Custodians have not allocated sufficient security resources to the Information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Over-classification may devalue Security Classification overall, add administrative arrangements and security costs, and the Security Classifications may be ignored by individuals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(16) The application of Security Labels is a two-step process:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Step 1 – Determine if the Information requires Security Labelling. Information that was obtained, generated or received for RMIT purposes or to support RMIT purposes (Institutional Data and Research Data) must have a Security Label.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Step 2 – Determine Security Labelling of the Information. Consider the impact to RMIT from the compromise, loss, or unauthorised disclosure of this Information. Refer to the Risk Consequence Tool to make this assessment. Consider whether custodianship of the Information Asset should be shared.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(17) In general, the most confidential Information element determines the Security Classification of the Information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(18) Management Classifications are metadata that enable the proper management of Information across the Information lifecycle. These metadata designations are optional and assist RMIT to identify Information, subject to internal governance, personal privacy, legal privilege, and/or records management obligations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(19) A Management Classification may be applied to Information to distinguish which RMIT policy it is governed by. Parts A, B and C of the Data and Information Lifecycle Management Procedure define the governance and lifecycle of RMIT Information as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Institutional Data is governed by the Information Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Research Data is governed by the Research Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Unofficial Information is governed by the Acceptable Use Standard, Information Technology and Security Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Personal Privacy and Legal Privilege",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) A Management Classification may be added to identify Information subject to obligations under the Privacy Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) A Management Classification adds context and helps differentiate between confidentiality requirements for Security Classification and obligations outlined in the Privacy Policy. For example:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Academic staff may have contact details such as an email address on the RMIT website. The Security Classification for the webpage may be Public even though it contains Personally Identifiable Information (PII) which traditionally requires a higher level of Security Classification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Via role-based access control, colleagues within the same team are both authorised to handle Information containing Personally Identifiable Information (PII). Emails between these colleagues containing PII may be sent with the Trusted Security Classification, rather than the Protected Security Classifcaton in some contexts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(22) A Management Classification may be applied to identify Information under Legal Privilege.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Public Records Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) RMIT University is a public institution and must comply with the Public Records Act 1973. A Management Classification may be applied to enable records management compliance and the identification of Institutional Data and Research Data subject to retention classes in Section 5 of the Records Retention and Disposal Standard.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Institution Data Information Domain",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) A Management Classification may be applied to identify the Information Domain of Institutional Information and Information Trustee(s) accountable for the Information.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

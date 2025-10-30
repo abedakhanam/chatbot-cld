@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "title": "Managing Conduct Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=153",
+    "scraped_date": "2025-10-31 01:21:19"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Application",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) This procedure is used to address suspected, reported or known forms of misconduct or serious misconduct which occurs in connection with RMIT or the workplace.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) In some instances, another appropriate RMIT procedure or process may be followed as an alternative. This includes, but is not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a process for addressing staff conduct in an applicable enterprise agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an RMIT procedure for managing staff under-performance where the conduct in question might be dealt with as either underperformance and/or misconduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "procedures for dealing with suspected or reported fraud or corruption by a staff member.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(8) Where matters are to be addressed under more than one procedure or process, RMIT must determine a fair and sensible order for events to proceed. Other matters which might reasonably overlap with this procedure include complaints or reports within the scope of the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Fraud and Corruption Control Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Compliance Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Whistleblower Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Student and Student-Related Complaints Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Health, Safety and Wellbeing Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Student Conduct Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Third-Party Complaints Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Gender-Based Violence Response Procedure - Australia",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "a complaint or report being managed by an external agency.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Handling Reports and Complaints About Conduct",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(9) Reports or complaints related to staff conduct must follow the Complaints Governance Policy and Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(10) People and Central Complaints and Investigations provide resources on how to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "make a complaint or report about staff conduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "advise a person who has made a report, or parties involved in the report or complaint, of their rights and expectations in the management of the report or complaint.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(11) Depending on the circumstances and nature of the complaint, staff who have made a report or a complaint may receive:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an outline of the process expected to be followed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "updates on progress where appropriate and reasons for any lengthy delays",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "notice that under certain circumstances RMIT may continue to pursue the matter even if: a report or complaint is withdrawn the staff member who has made a report or complaint or who is the subject of the report or complaint resigns, or their association with RMIT comes to an end",
+              "subclauses": [
+                "a report or complaint is withdrawn",
+                "the staff member who has made a report or complaint or who is the subject of the report or complaint resigns, or their association with RMIT comes to an end"
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "notice when the matter has been closed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(12) Staff who are the subject of a report or a complaint may receive:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an outline of the process expected to be followed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "updates on progress where appropriate and reasons for any lengthy delays",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "sufficient information to understand the report or complaint (where appropriate and lawful) and adequate time to respond in a considered manner",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "sufficient information to understand the reason for any decision made during the complaints process (where applicable)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "notice that under certain circumstances RMIT may continue to pursue the matter even if: a report or complaint is withdrawn they or the staff member who has made a report or complaint resigns, or their association with RMIT comes to an end",
+              "subclauses": [
+                "a report or complaint is withdrawn",
+                "they or the staff member who has made a report or complaint resigns, or their association with RMIT comes to an end"
+              ]
+            },
+            {
+              "clause_number": "16",
+              "text": "(13) Where a staff member who has made a report or complaint displays unreasonable conduct (as defined in the Complaints Governance Policy) RMIT may restrict access to the complaint management services. This may include a decision by the Vice President, People and Culture or delegate to close the report or complaint and decline any further response.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(14) RMIT strictly prohibits the making of knowingly false or misleading complaints intended to harm or deceive. Vexatious or malicious reports or complaints found to be made in bad faith may result in disciplinary action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(15) A staff member may make a report or complaint anonymously, but this may limit the effectiveness of an investigation and impact the outcome. All reasonable efforts are taken to preserve anonymity where requested, but it is not always possible to do so. This is clearly communicated to the staff member making the report or complaint.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Assessing a Report or Complaint",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) RMIT assesses issues arising from a report or complaint confidentially, sensitively, and as quickly as reasonably possible. Consideration is given to whether additional information is required to properly assess the matter.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) There are circumstances where RMIT may not accept or proceed with a complaint. This may include but is not limited to where the conduct issue raised is unfounded or is trivial. Where a complaint is not accepted, reasons are provided to the complainant.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responding to a Report or a Complaint",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) RMIT considers how best to manage the issues arising from a report or complaint having regard to factors including but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the seriousness and extent of the issues",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the health, safety and wellbeing of the parties",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the available information and witnesses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "any legislative obligations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "any earlier or related issues",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the impact in the workplace",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "the standards and reputation of RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(19) The Safer Community team must be notified of reports or complaints involving sexual harassment, sexual assault, family violence and child safety.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(20) RMIT may take interim measures when considering how to manage issues raised by a report or complaint, including but not limited to directing a staff member to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "work from a different campus, building or location",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be suspended with pay",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "temporarily not attend the workplace, including for events or meetings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "temporarily have modified reporting lines or duties",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "any other measure appropriate in the circumstances to protect health, wellbeing, safety, assets and RMIT’s reputation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(21) A decision to suspend a staff member with pay must be approved by the Vice President, People and Culture or their delegate. In Vietnam, additional local legal obligations also apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(22) RMIT may decide to manage the issues by taking non-disciplinary action and/or conducting a workplace investigation. The outcome of a workplace investigation may result in a decision to take disciplinary or non-disciplinary action against a staff member. Examples of disciplinary and non-disciplinary actions are provided in Schedule 1.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Workplace Investigations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) RMIT case manages issues that it determines require a workplace investigation and determines the appropriate manner in which the workplace investigation is conducted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Staff who are the subject of a report or complaint concerning misconduct are notified in writing if a workplace investigation is to occur.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(25) Where there are concerns about health, safety and wellbeing, RMIT may take interim measures as outlined in clause 20 above.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(26) Where RMIT decides to undertake a workplace investigation, this may be conducted by either a suitable representative from People team, Central Complaints and Investigations, Safer Community team, Legal Services or an external investigator appointed by People or Central Complaints and Investigations (the investigator).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "If the matter is referred to an external investigator, this procedure continues to apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(27) The investigator follows a procedurally fair process and determines the allegations to be tested based on the information provided by the complainant or otherwise available. As new information is introduced during a workplace investigation, the investigator may decide to modify or add to the allegations to be tested.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(28) Staff may be directed to attend a workplace investigation meeting to discuss the matters in question, on more than one occasion.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(29) Staff can have an appropriate support person present at any meeting during the process which may lead to disciplinary action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(30) When attending a meeting the support person must not:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "unduly delay or disrupt the process or meeting",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "act as a representative or advocate on behalf of the staff member (subject to any legal entitlement to do so).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(31) A support person cannot be a person involved in the complaint or report or whose presence may create a conflict of interest for participants– for example, a possible witness or decision maker.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(32) The inability to find a suitable support person is not an acceptable reason to delay the workplace investigation process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(33) The investigator provides the relevant manager and/or People with their findings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(34) At the conclusion of a workplace investigation a range of possible disciplinary and non-disciplinary actions may result from the findings and the investigator may make broad recommendations. Decisions about disciplinary action are made in accordance with any existing laws, local regulations, or enterprise agreements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(35) Before any proposed disciplinary action is carried out, the staff member is given an opportunity to respond to the proposed disciplinary action. The relevant decision maker considers the response before deciding what disciplinary action is to be taken.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(36) Any decision to take disciplinary action is not limited by a requirement for prior disciplinary action to have occurred. For example:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "termination of employment or contract of engagement might occur as an outcome, even if there have been no prior formal warnings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a final written warning may be issued even if there has been no previous written warning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(37) If the staff member who is the subject of a report or complaint ceases employment or their association with RMIT before the conclusion of the workplace investigation, RMIT may choose to provide them with the opportunity to comment on the report or complaint.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT may also hold the report concerning the conduct and any workplace investigation findings on file to be revisited if the person wishes to work, hold an honorary position, or be associated with RMIT in the future.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(38) The person(s) who made the initial report or complaint is not informed of any disciplinary action imposed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(39) A previously closed investigation may be reopened if new information is presented that RMIT considers to be material.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Privacy and Confidentiality",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(40) All parties and support persons involved in a matter dealt with under this procedure must treat the details, their involvement, the names of other associated parties and all reports, findings, recommendations and actions as private and confidential. Where a party to a complaint is found to have breached the privacy of another person, they may be subject to disciplinary action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(41) Limitations may apply to privacy and confidentiality:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "where risks to health and safety are present",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "in matters involving persons under 18 years of age, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "in circumstances where information is otherwise permitted or required to be shared by law.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(42) This procedure includes the following schedule(s):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Schedule 1 – Examples of Disciplinary and Non-Disciplinary Actions.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

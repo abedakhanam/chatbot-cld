@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "title": "Business Resilience Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=67",
+    "scraped_date": "2025-10-31 01:21:12"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Business Resilience Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT develops and maintains a comprehensive Critical Incident Management Plan, including clear protocols to ensure preparedness for a coordinated and strategic response to a range of potential critical incidents that may negatively impact RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) RMIT conducts systematic and periodic testing of the Critical Incident Management Plan using diverse scenarios to validate effectiveness in responding to real-world critical incidents, ensuring preparedness of the Critical Incident Management Team, identifying areas for improvement, and enhancing RMIT’s resilience to a spectrum of potential situations or threats.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) RMIT establishes and maintains robust business continuity plans that cover people, processes, technology, sites, facilities and third parties to enable essential staff to plan for and manage potential disruptions and for immediate and long-term consequences of incidents.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) RMIT conducts systematic and periodic testing of business continuity plans using diverse scenarios to validate their effectiveness in real-world disruptions to ensure preparedness, identify areas for improvement and enhance RMIT’s resilience to a spectrum of potential threats.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) RMIT develops and maintains a thorough IT Disaster Recovery Plan that encompasses critical systems, data and infrastructure, outlining clear protocols for response, recovery and restoration to ensure minimal disruption to IT services during and after disaster in line with the Information Technology and Security Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(9) RMIT implements a routine testing regimen for the IT Disaster Recovery Plan, conducting simulations and exercises to validate the effectiveness of recovery strategies, identify weaknesses and refine procedures to enhance RMIT’s readiness to address diverse disaster scenarios.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(10) RMIT provides adequate training to prepare essential staff to manage critical incidents covering CIM, BCM and ITDR processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(11) RMIT ensures effective communication of information relating to incidents, disruptions, or disasters to all RMIT stakeholders. Incidents are managed and responded to in a coordinated, consistent, and sustainable manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) RMIT activates the three capabilities (CIM, BCM, IT DR) independently or in conjunction with each other depending on the nature and extent of the risk or threat, and all three capabilities are considered as part of key conversations, analysis, recommendations, and decision making.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) RMIT enforces accountability to manage business resilience risks in line with the Risk Management Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Business Resilience Governance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) RMIT publishes standards and procedures to implement principles in this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) Business owners and system owners are identified for all CIM, BCM and ITDR plans including services managed by third parties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(16) Audit and Risk Management Committee (ARMC) has regular oversight of business resilience capabilities and related critical incidents.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) The University Executive Committee is responsible for monitoring the implementation of the policy and effective management of systems and processes that enables business resilience.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) The Executive Director Property Services is responsible for establishing Critical Incident Management capability, and the team is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing clear roles and responsibilities related to Critical Incident Management (CIM)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "developing and maintaining effective and clear approaches, processes and plans for CIM",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring readiness of the Critical Incident Management Team (CIMT) to strategically manage critical incidents to protect RMIT’s people, assets, business, financial and legal responsibilities, reputation, and regulatory requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "supporting and collaborating with the ITDR team and BCM team to strategically manage disruptions, including communications, and protecting RMIT’s brand and image in both testing and live incident scenarios, and executing plans accordingly",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "conducting Critical Incident Management training on an annual basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(19) The Chief Information Officer is responsible for establishing Business Continuity and IT Disaster Recovery capability, and the team is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing clear roles and responsibilities related to BCM and IT DR",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "developing and maintaining effective and clear approaches, processes and plans for BCM and IT DR",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring recovery objectives for IT systems are aligned with the business’ expectations and are achievable",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "supporting the Critical Incident Management team during live disruption events and testing resulting in the invocation of business continuity plans and /or IT disaster recovery plans and/or Critical Incident Management Plan",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "conducting BCM and ITDR training and awareness on an annual basis across RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(20) Business owners are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "completing a Business Impact Analysis (BIA) in conjunction with the Business Continuity team to determine the effectiveness of Business Continuity Planning (BCP).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring maintenance of overarching Business Resilience plans with up-to-date data and active participation in periodic tests along with essential staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(21) System owners must complete the disaster recovery planning and testing in conjunction with the Disaster Recovery team and in accordance with ITDR Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(22) All employees, researchers, third parties and contractors are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "understanding and adhering to any responsibilities they may have under this policy including those from the underlying CIM, BCM and ITDR capabilities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "contributing to and participating in the identification, escalation and management of business resilience related risks or incidents",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) RMIT’s Information Technology Services (ITS) and Property Services Group monitor compliance with this policy and related obligations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Breaches of this policy will be managed in accordance with the RMIT Compliance Breach Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(25) This policy will undergo a major review at least every five years in line with the Policy Governance Policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

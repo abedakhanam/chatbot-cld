@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "title": "Business Expenses Policy Schedule 1 - Allowable Expenses",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=325",
+    "scraped_date": "2025-10-31 01:23:59"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Schedule 1 – Allowable Expenses Guidance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) These schedules are not exhaustive lists. Where it is unclear whether an expense is allowable, staff must discuss with their manager prior to incurring the expense. RMIT travellers incurring business expenses must also refer to the Travel Policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

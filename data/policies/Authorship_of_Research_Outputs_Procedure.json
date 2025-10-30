@@ -1,0 +1,392 @@
+{
+  "metadata": {
+    "title": "Authorship of Research Outputs Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=83",
+    "scraped_date": "2025-10-31 01:21:36"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Responsible Authorship",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) Authorship of research outputs recognises significant intellectual and scholarly contributions to research, and assigns accountability for those contributions, in a responsible, respectful, and fair manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) Authorship will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "honestly reflect significant intellectual and scholarly contributions to research",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "fairly and consistently recognise those contributions, in line with responsible disciplinary practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be communicated clearly and transparently between those who contribute to the research",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be approached with generosity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(6) Responsible authorship embodies the principles of Honesty, Fairness, Recognition and Accountability in the Australian Code for the Responsible Conduct of Research, 2018 and the RMIT Values of Inclusion, Integrity, Courage and Passion.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) Researchers will discuss, agree and document authorship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(8) A person is listed as an author of a research output only when they have made a significant intellectual or scholarly contribution to the research described in the research output, are willing to be accountable for their contribution, and agree to be listed as an author.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(9) Researchers acknowledge all contributors and contributions to the research described in the research output.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(10) Researchers name RMIT University as their affiliation where warranted (where a part of the research was conducted at RMIT or with RMIT support) and may list multiple affiliations, as appropriate and in accordance with this procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Authorship Criteria",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) In order to qualify for authorship, a person must make a significant scholarly contribution to the intellectual shaping of a research output by:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "participating in the conception and design of the project; and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "acquiring research data where that acquisition requires significant intellectual judgement, planning, or design; and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "contributing relevant knowledge, including Indigenous knowledge; and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "analysing and interpreting research data; and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "drafting significant parts of the work or critically revising it so as to contribute to the interpretation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(12) Contributors who make a significant intellectual or scholarly contribution to one or more of the criteria in clause 11 will qualify as authors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(13) To be named as an author, contributors will take responsibility for the integrity of, and be accountable for, at least their contribution to the output.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(14) Contributors will agree on authorship in writing (for example, in an authorship plan/agreement, or an email). A contributor who qualifies as an author will not be included or excluded as an author without their written permission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(15) Researchers, and particularly teams, supervisors, Higher Degree by Research (HDR) candidates and research students, will discuss authorship in the initial stages of planning a research output, and regularly during the course of research to ensure that contributions from members of the research team are appropriately acknowledged. These discussions will be formalised (for example, in an authorship plan/agreement) which may be revisited as the publication progresses.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(16) Researchers will agree to the final authorship list by submission of the manuscript or the step prior to publication of the research output.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(17) Supervisors will ensure that research students or HDR candidates receive appropriate credit for their work and are offered authorship if they meet the authorship criteria. HDR candidates and research students will offer authorship to their supervisor(s) if they meet the authorship criteria. This applies to research outputs not theses.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(18) Where responsible authorship practices vary across research disciplines, such as order of authors, researchers will follow responsible disciplinary practice in the relevant discipline disciplines. Research Integrity Advisors may provide researchers with discipline-specific advice in this regard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(19) Artificial Intelligence (AI) tools and services do not qualify for authorship and will not be listed as authors of research outputs. AI tools and services cannot be accountable for their contribution to a research output (see Clause 13 above).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(20) As detailed in this procedure, authorship requires a significant intellectual or scholarly contribution. The following contributions on their own do not represent a significant contribution and will not be recognised with authorship:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing materials or data from third parties or that have already been made publicly available",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Providing content produced by AI tools and services without revisions or other contributions that would represent significant intellectual or scholarly contributions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "providing routine technical support",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "collecting data where the collection of the data has not required significant scholarly or intellectual contribution or expertise",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "supervising or being part of the wider team conducting the research, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "holding a position of authority such as Dean/Head of School.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(21) In these cases, the authors can invite these persons to make a significant intellectual or scholarly contribution that would warrant their inclusion as an author, and/or acknowledge them in line with the procedures on Acknowledgement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(22) Contributors will ensure their authorship is listed accurately, for example in curricula vitae, funding applications, and websites.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Agreeing Authorship",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) Each author will provide the corresponding author with information of their contribution to the research output. Each author will also keep their own record of this information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Authors will discuss the order in which the authors will be listed at an early stage in the research project. Authors will review authorship agreements periodically as the order of authors and qualification as an author may change as the research output changes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(25) When agreeing authorship, each author will declare any potential or actual conflicts of interest (for example, funding sources, supervisory or personal relationships, memberships, consultancies) in line with RMIT’s Conflict of Interest Policy. If a conflict of interest arises following the agreement of authorship, the author will declare their conflict to the other authors and any other relevant parties such as funding bodies and publishers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(26) The corresponding author will document authorship agreements (for example, in an authorship agreement, email, or other written form), and any updates, and retain this documentation for the minimum retention period of the research output.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(27) All authors must consent to be named as an author. If a contributor does not consent to be an author, they will be acknowledged in accordance with the provisions for Acknowledgement, below.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(28) Authors will respond to communications about the research output in a timely manner. If an author does not respond, is on leave, or has left their role, every reasonable effort will be made to contact them. If they cannot be contacted, the Dean/Head of School or another appropriate person determined by the Dean/Head of School may respond on their behalf.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(29) If an author is deceased or cannot be contacted, the research output may proceed with this person named as an author provided there are no reasonable grounds to believe this person would have objected to being included as an author. In this instance, the Dean/Head of School or another appropriate person determined by the Dean/Head of School may sign the relevant documentation. If an author is deceased, this will be noted in the publication.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(30) All authors will be notified of, and consent to, changes of authorship before the submission of publication of a research output.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(31) Dissemination will not proceed until all authors agree on authorship. Dissemination will not proceed if any of the valid authors dispute the theory, or the data or its interpretation, underpinning the work. Where researchers cannot agree on authorship, they will use the procedures outlined herein for Disputes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(32) Staff leaving RMIT University will submit copies of their authorship agreements to their school (for example, line manager or Associate Dean, Research & Innovation). Schools will maintain a record of these authorship agreements.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Corresponding Authors",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) Collaborating researchers will appoint a corresponding author. The corresponding author does not have to hold a particular place in the order of authorship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(34) Authors will follow the relevant authorship policy of the corresponding author's institution. If the corresponding author is not an RMIT University author and their institution does not have a policy, then follow RMIT Research Policy and this Authorship of Research Outputs Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(35) Corresponding authors may delegate their duties to co-authors. Where a corresponding author will be out of contact for an extended period of time, they will provide another point of contact.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(36) Corresponding authors are responsible for communication to the journal and manuscript preparation, submission, peer review and publication processes, documenting authorship agreement, and reporting research outputs as outlined in the RMIT Dissemination of Research Outputs Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(37) Research outputs with multiple authors can have a group name. If so, the corresponding author will specify the group name, and clearly document the group members who can take credit and responsibility for the work as authors.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Affiliation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(38) RMIT staff and students will name RMIT University as their affiliation, where a part of the research was conducted at RMIT or with RMIT support. This applies to RMIT staff, students, visiting researchers, research collaborators, and honorary and adjunct appointees undertaking research activities at all RMIT University campuses and external research locations. This applies in cases where an author has since left RMIT but some or all of the work was conducted while they were at RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(39) Authors will attribute RMIT affiliation in the author's by-line, in the author's profile, or in a footnote or statement that the research leading to the output was undertaken in the author's capacity as a staff member or student of RMIT University. Correct attribution of affiliation is required so that RMIT University's achievements and investment in research can be appropriately acknowledged and reported.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(40) Multiple affiliations are acceptable in some cases, including but not limited to research collaborations with other institutions, professional practice-based research, and dual badged programs with offshore universities. List RMIT University first when possible.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(41) Authors of research outputs that result from practice-based research will consider whether the professional practice should be declared as an acknowledgement rather than an affiliation, in line with this Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acknowledgment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(42) Contributions that do not meet the criteria for authorship will be acknowledged where appropriate, in line with the Australian Code and responsible disciplinary practice. Examples of contributions that may not meet the criteria of authorship, but which should be acknowledged, include but are not limited to: content generated by AI tools or services, editing and proofreading, facilities, financial and in-kind support, intellectual property, provision of data and materials storage, peer review, technical support, translation and/or transcription, non-significant intellectual or scholarly contributions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(43) Research outputs will appropriately acknowledge all sources of financial and in-kind support for the research, such as access provided to research facilities, and acknowledge funding bodies in line with their requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(44) Authors will acknowledge people and organisations contributing facilities, data or materials to the research. Authors will gain, record and store permission for the use of these facilities, data or materials, and comply with any conditions of use. See RMIT’s Intellectual Property Policy for information about appropriate use of other people’s intellectual property, for example third party copyright materials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(45) People who qualify for authorship of a research output but who do not agree to be authors will be acknowledged for their contribution.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(46) Researchers will acknowledge any ethics approval references; declare interests; state the availability of research data; and describe positionality, as appropriate for research discipline.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Disputes",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(47) If a dispute about the authorship of a research output arises, the parties in dispute will try to resolve the dispute at the local level using direct dialogue and discussion, and by seeking advice from a Research Integrity Advisor, Dean/Head of School, Higher Degrees by Research Coordinator, or other senior researchers, as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(48) Disputes that cannot be resolved by direct dialogue between parties in dispute at a local level will be referred to the Research Integrity Office (RIO). The RIO will initiate a mediation process in which the parties in dispute meet with a Research Integrity Advisor(s) who will act as Mediators for the authorship dispute. The Mediators and the parties in dispute will discuss relative contributions to the research output in accordance with the Australian Code for the Responsible Conduct of Research (2018) (‘the Australian Code’), and accounting for the Australian Code’s supporting guide for Authorship, institutional policies/procedures, and responsible disciplinary practices.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(49) The Mediators may identify opportunities for parties to make additional or new contributions in a timely way such that contributors would qualify for authorship of the draft manuscript prior to its submission for publication. Any additional or new contributions would be required to be completed within a specific and reasonably short timeframe so as to not unreasonably delay submission or dissemination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(50) After discussions with the parties in dispute, the Mediators will make a proposed authorship listing and acknowledgements for the manuscript that in their expert opinion is in accordance with the Australian Code, and accounting for the Australian Code’s supporting guide for Authorship, institutional policies/procedures, and responsible disciplinary practices. As described above, the Mediator’s proposed authorship listing and acknowledgements for the manuscript may include additional or new contributions that are required to be completed within a specific and reasonably short timeframe.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(51) Parties in dispute must indicate their agreement or disagreement with the authorship listing and acknowledgements proposed by the Mediators within 20 working days. The Mediators will then provide the outcomes of their attempt at mediation, including their expert opinion on the proposed authorship listing and acknowledgements, to the RIO.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(52) The mediation process is successful if all researchers in dispute agree to the proposed authorship listing and acknowledgements. Additional or new contributions must be completed as agreed. The Corresponding Author of the manuscript will make revisions if required and proceed to submit the manuscript for publication, as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(53) The mediation process is unsuccessful if agreement to the proposed authorship listing and acknowledgements by all researchers in dispute is not obtained. If this is the outcome, the dispute will be referred to the RIO as a potential breach of research integrity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(54) Where a dispute cannot be resolved by mediation, or where the dispute evidences a breach of research integrity, the matter will be handled in line with the RMIT Research Integrity Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(55) Where an authorship dispute involves contributors from different institutions, researchers at RMIT will follow dispute resolution process outlined in this Procedure. The RIO will liaise with all authors and the corresponding RIO of other institutions to mediate the dispute.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(56) Work that is the subject of an authorship dispute will not be disseminated until the dispute has been resolved. Where a dispute arises following dissemination, this will be managed in accordance with the Managing allegations of a breach of research integrity Procedure.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

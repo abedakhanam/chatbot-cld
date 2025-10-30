@@ -4,3 +4,5 @@ pandas==2.2.2
 PyPDF2==3.0.1
 faiss-cpu
 sentence-transformers
+beautifulsoup4
+requests

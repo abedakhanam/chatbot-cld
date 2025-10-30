@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "title": "Intellectual Property Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=23",
+    "scraped_date": "2025-10-31 01:25:05"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) The Deputy Vice-Chancellor Research and Innovation is responsible for the implementation of this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) The Intellectual Property and Commercialisation Team is responsible for the administration of the Intellectual Property Policy, for education and information relating to IP, for the commercialisation of RMIT’s IP, the management of RMIT’s IP assets, and the disbursement of net revenue.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) This policy and related procedure will be reviewed every five years.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) The procedure and resources associated with this policy may be reviewed at any time at the discretion of the Deputy Vice-Chancellor Research and Innovation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) Intellectual Property Procedure.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

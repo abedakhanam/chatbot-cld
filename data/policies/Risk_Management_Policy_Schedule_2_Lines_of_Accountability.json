@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Risk Management Policy Schedule 2 - Lines of Accountability",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=292",
+    "scraped_date": "2025-10-31 01:22:59"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Table 2 – Key Roles: Executive Management College, Portfolio and Controlled Entities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) Key Activities: This is consistent with the information in the Risk Management Policy and the Risk Management Procedure and where relevant further information provided for clarity. The Council, Boards and committee accountabilities reference the key risk management activities and is not meant to supersede the details in the applicable committee Terms of Reference but to provide clarity and avoid duplication of the risk management oversight activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) The activities associated with managing risk are detailed in the following tables (Table 3 - Risk Appetite, Table 4 - Risk Domains, Table 5 Tier 1 Risks, Table 6 Tier 2 Risks). The RACI has been ordered in terms of RMIT's organisational and procedural hierarchy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Table 3 – Risk Appetite",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) Appendix A – Risk Management Framework is available as a PDF.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) Appendix B – Risk Management Model is available as a PDF.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

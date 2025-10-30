@@ -1,0 +1,621 @@
+{
+  "metadata": {
+    "title": "RMIT Statute No.1 (Amendment No.2)",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=177",
+    "scraped_date": "2025-10-31 01:26:51"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part 1. Preliminary",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "provide for the organisation, management and good governance of the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "make provision in respect of the Academic Board",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "make provision for academic and student matters, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "provide for the making of Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "words and terms used in any Statute or Regulation have the same meaning as they have in the Royal Melbourne Institute of Technology Act 2010, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the Interpretation of Legislation Act 1984 applies to the interpretation of all Statutes and Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "any right, privilege or liability acquired, accrued or incurred under the revoked or amended Statute or Regulation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "any penalty or punishment incurred in respect of any offence committed under the revoked or amended Statute or Regulation, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any investigation, inquiry, legal proceedings or remedy in respect of any such right, privilege, liability, penalty or punishment and any such investigation, inquiry, legal proceedings or remedy may be instituted, continued or enforced and any such penalty or punishment may be imposed as if the revoking or amending Statute or Regulation had not been made.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "words in the singular include the plural, and words in the plural include the singular",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "any reference to any person holding an office is a reference to the person who holds or discharges the duties of that office for the time being, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where any power is conferred or duty imposed on any holder of an office that power may be exercised and the duty performed by the holder for the time being of that office.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a false or misleading statement by a candidate for an award",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "use of false or fabricated data or material by a candidate in submitting work for examination, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "any other dishonest act on the part of the candidate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an employee of the University, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a person employed or engaged by a contractor of the University to provide security services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "any person enrolled at the University, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for the purposes of Part 7 of this Statute and any associated Regulations, any person who was enrolled at the time when the person is alleged to have committed misconduct, for any award of the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "has qualified for the award for which they have been enrolled and the period from the end of the examination period to the commencement of the next semester (excluding summer semester where relevant) has expired",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "has been excluded from the University or had their candidature terminated pursuant to any Statute or Regulation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "has not for any academic year or period of study re-enrolled by the date prescribed, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "has given the Academic Registrar notice in writing of discontinuance by the date prescribed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "attendance at or participation in University lectures, seminars, assessments and classes (including online and distance participation)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "participating in internships, placements, study tours or student exchanges associated with or organised by the University, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "participating in excursions, trips, functions, events, games or competitions associated with or organised by the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "owned by the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "occupied by the University, and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "under the control of the University.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 2. University Governance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "may be reappointed, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is, by virtue of the office, a member of all University bodies except the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "may be reappointed, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "has the powers, duties and functions conferred on the Vice-President by the Vice-Chancellor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "testamurs for University awards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Statutes or Regulations approved by Council",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "other documents which require the affixing of a common seal.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 4. The Academic Board",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "approves the requirements for all higher education and vocational education including Higher Education Degrees by Research awards conferred by the University and reports decisions to Council",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "develops, reviews and approves academic and research policies and procedures and reports decisions to Council",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "provides advice and reports to Council on academic matters",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "has such other functions as may be assigned to it by Council from time to time, or conferred on it by Regulation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "appoints such committees with such membership and for such terms as it considers appropriate, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "may by resolution delegate any of its powers, authorities, duties and functions (expressly reserving this power of delegation and the powers referred to in section 16(1)a) and b) above) to: a committee or board nominated by it a member of the Academic Board, or a prescribed officer of the University,",
+              "subclauses": [
+                "a committee or board nominated by it",
+                "a member of the Academic Board, or",
+                "a prescribed officer of the University,"
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Part 5. Awards",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "the award has been conferred as the result of an administrative error",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "it is satisfied that the relevant award has been obtained by a person as a result of fraud",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "in the case of an honorary degree, the recipient of the honorary degree no longer satisfies the criteria referred to in Part 8 Division 2 of this Statute, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the Student Conduct Board, or other person, after hearing a charge under the Student Conduct Regulations makes a recommendation to Council that an award should be revoked.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 6. Admission, Enrolment, Credit and Assessment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "credit towards students’ awards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "decline applications for credit from students in accordance with University legislation and the relevant policies and procedures.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 7. Student Conduct",
+          "clauses": [
+            {
+              "clause_number": "2",
+              "text": "academic misconduct, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "high risk misconduct.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 8. Titles and Honorary Degrees",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "contains information necessary to enable an eligible voter to cast his or her vote, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is prepared in accordance with the Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "organise, supervise and conduct University elections",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensure that elections are conducted in accordance with law and good practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "declare the results of elections",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "make recommendations in relation to the conduct of elections, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "perform the functions and to discharge the duties conferred or imposed on the returning officer by University legislation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "on a specified date, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "on the appointment or election of a person to fill the casual vacancy in accordance with University legislation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 10. Property",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "the student is involved in a project or specific commission in respect of which the University has provided funds, equipment or facilities, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the University requires the student, before commencing the same, to formally assign to the University their interest in any intellectual property which the student may create as a result of such involvement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part 11. University Premises, Facilities, Services and Activities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "enter University premises",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "use University facilities and services, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "participate in University activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "on University premises",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "using University facilities and services, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "engaged in University activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "comply with conditions imposed on the person’s: presence on University premises use of University facilities and services, or engagement in University activities, and",
+              "subclauses": [
+                "presence on University premises",
+                "use of University facilities and services, or",
+                "engagement in University activities, and"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "if the relevant permission of the University is withdrawn: leave University premises not use University facilities and services, and not engage in University activities.",
+              "subclauses": [
+                "leave University premises",
+                "not use University facilities and services, and",
+                "not engage in University activities."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Part 13. General",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "for or with respect to any subject matter in relation to which, in accordance with sections 28 and 29 of the Act, university regulations may be made, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "in accordance with this Statute or any other Statute.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provision of the same Regulations which comes into operation on a later date, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "resolution of Council.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Statute 1.1 Interpretation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Statute 1.2 Meetings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Statute 1.3 University Holidays",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Statute 1.4 The Seal of the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Statute 1.5 Members of the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Statute 2.1 The Council",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Statute 2.7 Higher Education Division of the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Statute 2.8 The Academic Board",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Statute 2.9 The Academic Portfolios",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Statute 2.10 Technical and Further Education Division of the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Statute 3.1 The Chancellor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "Statute 3.2 The Deputy Chancellor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "Statute 3.3 The Vice-Chancellor and President",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "Statute 3.4 Deputy Vice-Chancellors",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "Statute 3.5 The Director of Technical and Further Education",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "Statute 3.6 Deputy Vice-Chancellors",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "Statute 3.7 The Academic Staff",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "Statute 3.8 Visiting Professors",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "Statute 3.8 Vice-President",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "Statute 3.9 Professors Emeritus",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "Statute 3.10 Adjunct Professors",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "Statute 3.11 The General Staff",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "Statute 4.3 The University Services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "Statute 5.2 Enrolment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "Statute 5.3 Admission to Advanced Standing Statute 5.4 Academic Progress Statute 5.5 Admission to Honorary Degrees Statute 5.6 Awards in Conjunction with Other Institutions Statute 5.7 Revocation of Awards Statute 6.1 Student Discipline Statute 7.1 Intellectual Property Statute 8.1 Academic Dress. Statute 9.1 Elections Statute 11.1 Affiliation Statute 12.1 Administration of Trust and Other Property Statute 13.1 Student Loan Funds",
+              "subclauses": [
+                "Statute 5.4 Academic Progress",
+                "Statute 5.5 Admission to Honorary Degrees",
+                "Statute 5.6 Awards in Conjunction with Other Institutions",
+                "Statute 5.7 Revocation of Awards",
+                "Statute 6.1 Student Discipline",
+                "Statute 7.1 Intellectual Property",
+                "Statute 8.1 Academic Dress.",
+                "Statute 9.1 Elections",
+                "Statute 11.1 Affiliation",
+                "Statute 12.1 Administration of Trust and Other Property",
+                "Statute 13.1 Student Loan Funds"
+              ]
+            },
+            {
+              "clause_number": "1",
+              "text": "Regulation 1.2.1 Notice of Meetings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Regulation 3.1.1 Appointment of the Chancellor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Regulation 3.2.1 Appointment of the Deputy Chancellor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Regulation 4.3.1 The Director University Library",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Regulation 4.3.2 The Executive Director of Information Technology Services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Regulation 5.6.1 Awards in Conjunction with Other Institutions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Regulation 12.1.1 Frances Burke Textile Resource Centre",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Regulation 13.1.1 Student Loan Fund Committee.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

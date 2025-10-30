@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "title": "Enrolment Procedure - Maximum Time to Complete a Coursework Program",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=164",
+    "scraped_date": "2025-10-31 01:22:16"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Overview",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) Students are required to complete all study to fulfil the requirements of their coursework program within certain time limits to ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "currency of knowledge for RMIT graduates, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the University has the capacity to accept new students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(5) Students who cannot complete the program within the maximum time may be classified by the Program Assessment Board as at risk in accordance with RMIT’s academic progress processes.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Maximum Time to Complete A Coursework Program",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) Where students are required to study full-time as a condition of enrolment in the particular program, the maximum time for completion is the normal full-time duration plus 50% of the normal full-time duration (see Table 1).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Students studying on an Australian student visa must adhere to the requirements of their student visa.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) For all other students, the maximum time for completion is defined as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "In an undergraduate coursework program, the maximum time is the normal part-time duration plus 50% of the normal part-time duration up to a maximum of 20 teaching periods or 10 years, unless otherwise specified (see Table 2).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "In a postgraduate coursework program, the maximum time is twice the normal part-time duration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "If a program has a non-standard volume of learning because all students enter on the basis of a qualification for which they would otherwise have to receive a substantial block of credit (e.g. a 192 credit points bachelor degree or a 96 credit points master degree) then the maximum time for completion is calculated as described.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Study Load",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) Tables 1 and 2 set out the normal durations and maximum times for all students in the types of program listed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Applies to students where full-time study is required as a condition of enrolment in the program or a visa condition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(10) Applies to students where full-time study is not a requirement as a condition of enrolment in the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(11) *The maximum time permitted when a program is delivered in two standard semesters a year.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Maximum Time Calculations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(12) To calculate the time a student has been enrolled in a program (the time enrolled), the time starts on the start date of the first class in which the student is enrolled in the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(13) Optional teaching periods such as the Spring and Summer Semesters in Melbourne are not included in the calculation of the time enrolled. Where, however, the program structure requires students to enrol in those semesters, they are counted in the calculation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(14) Work experience in industry or co-op years that are part of the approved program structure are included in both the program’s normal duration and the student’s enrolled time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(15) The following periods of time are excluded from the calculation of a student’s time enrolled:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "approved leave of absence",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "exclusion for sustained unsatisfactory academic performance",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "suspension under the Student Conduct Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(16) Where a continuing student fails to enrol, their enrolment is discontinued, and they go on to apply for readmission to the program or to a replacement program that is considered by the University to be the same program, all of the intervening time is considered to be part of the student’s time enrolled, as the University has not initiated or approved the student’s absence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(17) Where a student is transitioned to a new version of a program or a replacement program, the student’s time enrolled is still considered to have started from the first day of the first teaching period in which they were enrolled in their original program. This will be specified in the letter informing them of the transition arrangements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(18) Where a student is admitted to an unrelated program, the count of time enrolled starts from the first day of the first teaching period in which the student is enrolled in the new program.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

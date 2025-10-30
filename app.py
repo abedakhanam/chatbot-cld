@@ -13,7 +13,7 @@ from typing import List, Dict, Any, Tuple
 from sentence_transformers import SentenceTransformer
 import boto3
 import re
-
+from scraper import scrape_all_policies
 # ---------------------------
 # Configuration
 # ---------------------------
@@ -573,9 +573,31 @@ def freshness_badge(manifest: Dict[str, Any]):
     ts = manifest.get("updated_at")
     num = manifest.get("num_passages", 0)
     policies = manifest.get("policies", [])
-    st.markdown(
-        f"**Data freshness:** {ts}  •  **Passages:** {num}  •  **Policies:** {', '.join(policies) if policies else '—'}"
-    )
+    # Show first 4 policies with see more/less
+    if 'show_all_policies' not in st.session_state:
+        st.session_state.show_all_policies = False
+    
+    if policies:
+        preview = ', '.join(policies[:4])
+        
+        if st.session_state.show_all_policies:
+            policy_text = ', '.join(policies)
+        else:
+            policy_text = preview + ("..." if len(policies) > 4 else "")
+        
+        st.markdown(f"**Data freshness:** {ts}  •  **Passages:** {num}  •  **Policies:** {policy_text}")
+        
+        if len(policies) > 4:
+            if st.session_state.show_all_policies:
+                if st.button("see less", key="see_less_policies"):
+                    st.session_state.show_all_policies = False
+                    st.rerun()
+            else:
+                if st.button("see more", key="see_more_policies"):
+                    st.session_state.show_all_policies = True
+                    st.rerun()
+    else:
+        st.markdown(f"**Data freshness:** {ts}  •  **Passages:** {num}  •  **Policies:** —")
 
 def show_sources(hits: List[Dict[str, Any]]):
     with st.expander("Sources & Retrieved Clauses"):
@@ -624,20 +646,66 @@ def main():
         st.markdown("- Example: *How do I appeal my final grade?*")
 
         st.divider()
+        
+        # Auto-scraper section
+        st.subheader("🌐 Auto-Update Knowledge Base")
+        st.caption("Scrape latest policies from RMIT website")
+        
+        if st.button("Scrape & Auto-Rebuild", use_container_width=True):
+            with st.spinner("Scraping policies..."):
+                try:
+                    results = scrape_all_policies(output_dir=DATA_DIR, max_policies=None)
+                    
+                    st.success(f"✓ Success: {results['success']} | ✗ Failed: {results['failed']}")
+                    
+                    if results['success'] > 0:
+                        # Auto-rebuild with ALL files in DATA_DIR (old + new)
+                        with st.spinner("Rebuilding index with all policies..."):
+                            import glob
+                            json_files = glob.glob(os.path.join(DATA_DIR, "*.json"))
+                            
+                            policies = []
+                            for filepath in json_files:
+                                with open(filepath, 'rb') as f:
+                                    data = load_policy_json_from_bytes(os.path.basename(filepath), f.read())
+                                    if data:
+                                        policies.append(data)
+                            
+                            if policies:
+                                passages = flatten_passages(policies)
+                                embedder = get_embedder()
+                                texts = [p["text"] for p in passages]
+                                index, _ = build_faiss_index(texts, embedder)
+                                save_index(index, passages)
+                                st.session_state.index, st.session_state.passages, st.session_state.manifest = load_saved_index()
+                                st.success(f"✓ Index rebuilt with {len(passages)} passages from {len(policies)} policies!")
+                            else:
+                                st.error("No valid policies found after scraping")
+                    else:
+                        st.warning("No policies scraped successfully")
+                        
+                except Exception as e:
+                    st.error(f"Error: {e}")
+        
+        st.divider()
+        
         st.subheader("Knowledge Base")
-        # 🔹 Ensure index is loaded before showing status
+        
+        # Ensure index is loaded before showing status
         if st.session_state.index is None or st.session_state.passages is None:
             idx, passages, manifest = load_saved_index()
             st.session_state.index = idx
             st.session_state.passages = passages
             st.session_state.manifest = manifest
 
-        # 🔹 Now show correct freshness badge
+        # Show correct freshness badge
         if st.session_state.index:
             freshness_badge(st.session_state.manifest)
         else:
             st.warning("⚠️ Knowledge base not indexed yet.")
+        
         uploaded = st.file_uploader("Upload Academic Policy JSON files", type=["json"], accept_multiple_files=True)
+        
         if st.button("Rebuild Index", use_container_width=True):
             if not uploaded:
                 st.warning("Please upload at least one JSON policy file.")

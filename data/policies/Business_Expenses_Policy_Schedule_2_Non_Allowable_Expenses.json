@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "title": "Business Expenses Policy Schedule 2 - Non-Allowable Expenses",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=326",
+    "scraped_date": "2025-10-31 01:25:36"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Schedule 2 – Non-Allowable Expenses",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) These schedules are not exhaustive lists. Where it is unclear whether an expense is allowable, staff must discuss with their manager prior to incurring the expense.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

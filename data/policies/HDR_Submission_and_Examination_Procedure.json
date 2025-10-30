@@ -1,0 +1,881 @@
+{
+  "metadata": {
+    "title": "HDR Submission and Examination Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=18",
+    "scraped_date": "2025-10-31 01:21:41"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Before Submission",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) Appointment of examiners must be conducted in accordance with RMIT Principles for nominating HDR examiners and the ACGR Good Practice Guidelines for Disclosing and Managing Interests in Graduate Research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) All examiners must be external to the University and must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be of appropriate standing in the relevant field of study,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "hold a qualification equal to the level of the award they are examining or have equivalent experience and expertise,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "have previous experience as a supervisor or examiner at the AQF level at which they will examine, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be from different institutions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(6) Candidates may request the exclusion of specific individuals as their examiners at least three (3) months prior to submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) A completed Recommended Panel of Examiners form with all required attachments must be submitted to the School of Graduate Research (SGR) at least two (2) months prior to the candidate’s intended submission date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(8) It is the supervisors’ responsibility to provide details of any actual, perceived or potential conflicts of interest with proposed examiners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(9) Candidates must not be told the names of their examiners except where their examination includes an oral presentation or performance in the presence of the examiners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(10) The Recommended Panel of Examiners is subject to review and approval by the HDR Delegated Authority (HDR DA) and Associate Deputy Vice-Chancellor Research Training and Development (ADVC RT&D) or nominee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(11) In cases where a confidentiality agreement is required, SGR will prepare and arrange execution of an examiner’s confidentiality agreement prior to commencing the examination. If an examiner is unable or unwilling to sign the deed then a new examiner will have to be nominated.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(12) To be eligible to submit their research for examination, candidates must have:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "been enrolled for at least the minimum duration of candidature as prescribed by the HDR Admissions and Enrolment Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "successfully completed all prescribed coursework components of the program, or received an exemption from the component/s (Refer to the HDR Admissions and Enrolment Procedure)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "successfully completed all compulsory milestone reviews, or received an exemption from the milestone/s",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "a current enrolment and active candidature",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "successfully completed research to the standard and specification of the program in accordance with the Australian Qualifications Framework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "supervisory and school approval to submit for examination (if no approval will be given, see Approval to Submit for Examination clauses).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Submission",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) Research for examination must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be original work which is unified and coherent in content, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "address a single, significant research question/theme in a field or area of professional practice, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "have been completed under supervision during the period of enrolment for the degree, including transferred candidature, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "not include work which has been submitted previously, in whole or in part for any other academic award, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "include a thesis or dissertation which is uploaded and submitted to SGR via the digital repository in PDF format, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "include a digital record of candidates’ published research outputs, artefacts or experiential presentations which embody candidates’ research undertaken during the course of candidature.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(14) Candidates who enrol after 1 January 2023 must include a statement of impact as part of their submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(15) Examination submissions must include a thesis or dissertation which provides the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "scholarly or practical context for the research",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "process and methodology",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "presentation of the results, analysis and conclusions of the research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(16) Examination submissions may also include components such as research outputs and artefacts, for example: published articles, creative works, software and professional reports or policy documents.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(17) For candidates submitting after 1 January 2023, where a paper has been co-authored, it is expected that the candidate is the main contributor and/or lead author. Their contribution must be significant and have been reasonable for the key ideas, the development of the study and writing of the paper.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(18) In cases where the candidate is not the main contributor to the paper, the lead author must sign a declaration on behalf of the co-authors and included in the thesis or dissertation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(19) The candidate must declare any published research outputs by completing the Research Outputs Declaration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(20) Where two or more candidates collaborate on a project which will form the content of their submission for examination:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the contributions of each candidate must have sufficient individual value to the discipline or practice to be worthy of separate examination",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "each collaborator’s contributions to the overall research outcomes must be declared in each of the uniquely titled research submissions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(21) Any use of Artificial Intelligence (AI) in the examination submission must be ethical, responsible and in keeping with principles of academic and research integrity including honesty, transparency, fairness and accountability. Candidates will appropriately declare, attribute and acknowledge use of AI, in keeping with research integrity principles, policy and procedures for responsible authorship and publication of research outputs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(22) Candidates enrolled in a Joint PhD must only be required to produce a single thesis/project for examination at both institutions and may be required to complete an oral defence or viva voce as part of the examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(23) Candidates must maintain their research ethics approval until they have received confirmation of a “Passed” result.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(24) PhD candidates must provide a doctoral citation during submission to be eligible to graduate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(25) Candidates and senior supervisors must confirm that the research complies with the Australian Code for the Responsible Conduct of Research, 2018 and has been prepared in accordance with legislative, copyright and privacy requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(26) Candidates’ submissions must adhere to the prescribed RMIT format as well as the standards and conventions for scholarly work which apply in the relevant discipline of field, such that they may be assessed without prejudice by leading experts of that discipline or field.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(27) Following submission, providing all submission requirements are fulfilled, SGR on behalf of the ADVC RT&D or nominee will approve the thesis or dissertation for examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(28) The submission date is the date that the thesis or dissertation is uploaded to SGR via the digital repository, provided it is approved for examination by the ADVC RT&D or nominee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(29) Candidates who meet the eligibility criteria to submit may choose to submit without school approval, subject to approval by the ADVC RT&D or nominee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(30) If candidature has been terminated due to unsatisfactory progress, application for re-admission for examination may only be achieved after a period of 12 months in accordance with the HDR Unsatisfactory Progress Process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(31) Individuals may be readmitted for the purpose of examination within three years of their cancellation date, if their HDR candidature has been cancelled for any reason.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(32) Individuals must submit a completed, examinable draft of their thesis or dissertation, along with any associated artefact(s) where relevant, to their former senior supervisor or HDR DA if the senior supervisor is no longer available.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(33) The HDR DA must ensure that candidates meet the eligibility criteria for submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(34) Following a candidate’s readmission, the senior supervisor or HDR DA overseeing the submission is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "nominating examiners",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing a statement attesting that the research topic is current and has not been superseded by subsequent research in the field",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "recommending that the work is ready for examination to the Dean/Head of School or HDR DA.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(35) The candidate is required to submit their thesis or dissertation via the digital repository within 10 working days of re-enrolment.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Examination",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(36) Research for examination is disseminated to examiners via a digital repository.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(37) Only the ADVC RT&D or nominee may communicate with examiners on behalf of RMIT while the research is under examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(38) Except for contact during a presentation forming part of the examination process:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "supervisors and candidates must have no contact with examiners during the examination process. If an examiner attempts to make contact, individuals must not engage and immediately notify the examinations team in SGR,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "no contact is permitted between examiners while the research is under examination, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the examiners’ identities must not be disclosed to the candidate until after the final classification has been given, and only with permission of the examiner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(39) The examination period extends from the date examiners are provided with the research submission to the date a final classification has been determined and registered.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(40) Examiners must prepare independent and individual written reports of their assessment and submit these directly to the examinations team in SGR, accompanied by the Examiner’s Report Form indicating a recommended classification in accordance with Table 1 in HDR Submission and Examination Schedule 1 - HDR Examination Recommendations and Classifications.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "R2: Passed subject to minor amendments",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "R3: Passed subject to major amendments",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "R4: Revise and resubmit, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(41) Master by Research candidates commencing on or after 1 January 2016 will receive a numeric grading for a successfully completed Master by Research degree at Schedule 1.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(42) Examiners are requested to provide their reports within six (6) weeks of receipt of the submission. Examinations are monitored and any extensions are managed by the examinations team in SGR.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(43) Where a presentation of the research in a venue is required, examiners will be provided with the digital submission four (4) weeks prior to the presentation event and must provide their final reports within two weeks following the event.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(44) The ADVC RT&D or nominee may replace an examiner and/or annul their report where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the examiner fails to return a completed examination report by the due date",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "there has been unauthorised contact between the examiner and the candidate or their supervisors during the examination",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "an unacceptable conflict of interest is discovered during or after the examination, and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the ADVC RT&D or nominee determines that the examination has otherwise not been properly conducted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(45) Where a replacement examiner has been appointed, any report received from the examiner who has been replaced will not be considered.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(46) In the event of an examiner or any other relevant party raising concerns about the integrity of the research during the examination process, the examinations team in SGR will immediately refer the matter to the ADVC RT&D or nominee, and:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "SGR will suspend the examination and notify the examiners, school and the candidate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a Designated Person will investigate in accordance with the Research Integrity Breach Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "recommendations arising from the investigation may include application of the Student Conduct Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(47) Presentations for examination are managed by the candidate’s enrolling school.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(48) Examinations must be convened by a person appointed as Convenor by the ADVC RT&D or nominee. Persons who have acted in a supervisory or consultative capacity must not be appointed as the Convenor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(49) Presentations of research for examination must not occur without the appointed Convenor being present.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(50) In the case of an oral presentation by the candidate, the time allowed is:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "PhD candidates – one-hour oral presentation plus half- to one-hour discussion with the examiners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Master by Research candidates – half-hour oral presentation plus up to half hour discussion with the examiners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(51) The Convenor is not permitted to comment on the content of the research and is responsible for ensuring that each examiner is uncompromised in their ability to make an independent evaluation of the research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(52) The presentation of the research must be recorded digitally to enable electronic archival.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(53) Following the receipt of all examiners’ reports and recommendations, the ADVC RT&D or nominee will classify the examination in accordance with Table 2 in Schedule 1. Examination classifications are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "C2: Passed with minor amendments",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "C3: Passed with major amendments",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "C4: Revise and resubmit",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(54) In order to pass, an HDR submission must receive two externally provided pass recommendations on the same version of the submitted work.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(55) A third examiner will be appointed if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the examiners’ recommendations diverge, as per Schedule 1, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the ADVC RT&D or nominee concludes that the result is undetermined.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "41",
+              "text": "(56) The third examiner examines the submission independently, is not given the reports of the co-examiners, and has the full set of options available to them in assessing the thesis or dissertation in accordance with Table 1 in Schedule 1.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "42",
+              "text": "(57) In cases where the examination includes an artefact or oral presentation, SGR will provide the third examiner a digital recording of the artefact and/or a recording of the full presentation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "43",
+              "text": "(58) The classification of the examination is determined in accordance with the majority recommendation of the examiners, in accordance with Table 3 and Table 4 of Schedule 1, following receipt of examiners’ recommendations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "44",
+              "text": "(59) After the examination outcome has been classified, SGR must send a notification to the candidate, their supervisors, the HDR DA, and the Dean/Head of School and the examiners, to advise them of the examination classification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "45",
+              "text": "(60) SGR must forward the examiners’ reports to the candidate’s senior supervisor to enable them to provide academic guidance on any necessary amendments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "46",
+              "text": "(61) In the event of one or both examiners recommending an R5 ‘Failed’ after re-examination of a doctoral or Master by Research HDR submission, the ADVC RT&D or nominee will refer the case to the Dean/Head of School to seek a recommendation. The Dean/Head of School may recommend that adjudication be sought or the examiners’ recommendations be referred to the Graduate Research Committee Executive to review and ratify a final classification of the HDR submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "47",
+              "text": "(62) The GRC Executive may refer the work to an external adjudicator where appropriate. A record of the Graduate Research Committee Executive’s decisions in respect of the examination will be transmitted to the candidate and their supervisor(s) following classification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "48",
+              "text": "(63) If the work is referred to an adjudicator, the adjudicator’s decision will be final.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "49",
+              "text": "(64) For research classified as C5 (Failed):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the candidate will not be awarded the degree for which they were enrolled and will not be permitted to revise and resubmit their research for re-examination for the same degree",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "one copy of the examined thesis or dissertation becomes the property of RMIT and shall be filed with the candidate’s official records",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "a record of the fail will be placed on the RMIT student system",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "in the event of one or both examiner(s) recommending an R5 ‘Failed’ for an examination or re-examination of a doctoral submission, the examiner(s) are required to confirm whether they consider the research to be suitable for examination at the level of a Master by Research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "54",
+              "text": "(65) Master by Research examinations follow the rules prescribed in this procedure and Schedule 1.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "55",
+              "text": "(66) All Master by Research grades must be approved by the ADVC RT&D or nominee before they are finalised.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "56",
+              "text": "(67) Candidates are informed of their overall grade when they receive their final examination classification. Individual grades are not disclosed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "57",
+              "text": "(68) Where a candidate is given the interim classification C4 ‘Revise and Resubmit’ for re-examination, they have one opportunity to ensure the thesis or dissertation meets the requirements for the award of the degree on second examination and:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a re-examination is undertaken with the original examiners, if they are willing and available to re-examine the revised submission, or with replacement examiners such that the revised work still receives assessment from two independent, external experts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "all material submitted and recommendations made in the context of a re-examination supersedes all previous material and recommendations, with the exception of the candidate’s response to the examiners’ remarks provided in the initial examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "60",
+              "text": "(69) The revision period is 12 months for PhD candidates and six months for Master by Research candidates. If a candidate does not resubmit within this timeframe, they will be awarded a classification of C5 ‘Failed’.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "61",
+              "text": "(70) International candidates who receive a C4 ‘Revise and Resubmit’ classification should not required to remain in Australia to complete revisions for re-examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "62",
+              "text": "(71) Resubmitting candidates must include a list or requested amendments with the revised thesis. This list must include justification for any amendments not made.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "63",
+              "text": "(72) The original and any replacement examiners of a revised and resubmitted thesis are provided with:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the revised thesis or dissertation,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the candidate’s response to examiners’ reports, listing the amendments made to address the initial examiners’ requirements and justification for any amendments not made at the request of those examiners, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the de-identified co-examiners’ reports to determine if the required amendments and revisions have been made.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "67",
+              "text": "(73) Examiners of a revised and re-submitted thesis must provide a recommendation of ‘passed’ or ‘failed’.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "68",
+              "text": "(74) Where two examiners examine a re-submitted thesis and their recommendations diverge, a third examiner is appointed. The third examiner must examine the submission independently and must not be provided with the reports of their co-examiners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "69",
+              "text": "(75) The final classification of the examination is determined in accordance with the majority recommendation of the examiners, in accordance with Table 5 and Table 6 of Schedule 1.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "70",
+              "text": "(76) The result of the second examination is final.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "71",
+              "text": "(77) The candidate must request an Extension of Time to Submit Amendments before the nominated resubmission or lodgement date passes. Extensions are not guaranteed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "72",
+              "text": "(78) A candidate may apply for approval of an extension to the resubmission or archival date, where the candidate cannot meet the nominated date for the resubmission of their research for re-examination or the lodgement date for the archival of their research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "73",
+              "text": "(79) Failure to re-submit or lodge a thesis or dissertation by the date specified by SGR may lead to the examination being classified as ‘Failed’. Candidates will be notified if this process is being initiated.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "74",
+              "text": "(80) Candidates whose examination has been completed and who have a result of ‘Failed’ may appeal against any perceived procedural irregularities in the conduct of their HDR examination that has had significant impact on the examination result.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "75",
+              "text": "(81) Candidates must ensure their appeal application is received by the Secretary of the University Appeals Committee within 20 working days of the date of the formal notification from SGR of their final examination outcome.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "76",
+              "text": "(82) After a candidate’s research has been classified by the ADVC RT&D or nominee, any amendments requested by the examiner(s) must be completed by the candidate, or a defence presented as to why they do not need to be undertaken.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "77",
+              "text": "(83) Candidates must provide a list of amendments/points of defence for uploading with their final archival submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "78",
+              "text": "(84) Candidates whose research includes artefacts and/or presentation in a venue in addition to their dissertation must provide a digital record of these for archival storage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "79",
+              "text": "(85) Completion and graduation processes require that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the final electronic archival submission of the thesis or dissertation and any related digital records are uploaded to the digital repository within the timeline specified by the University and after completion of any appropriately supervised amendments deemed necessary by the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the candidate is not indebted to the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the candidate has fulfilled the academic and administrative requirements for the award of the degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "83",
+              "text": "(86) When the final archival submission has been approved for lodgement by the senior supervisor and the Dean/Head of School (or HDR DA):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a record of the completion is provided to the ADVC RT&D or nominee, who will approve the research for archival and recommend the candidate for award",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the final archival submission is uploaded into the RMIT Research Repository after which the research will be publicly available",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the result for the research component of the program will be entered on the student record",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "SGR will provide written notification of the satisfactory completion of the degree to the University Secretary and Academic Registrar, candidate, their supervisors, the Dean/Head of School and HDR DA, and any sponsor(s) of international onshore candidates.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Research Embargo",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(87) Candidates who wish to apply for an embargo on the publication of their research in the RMIT Research Repository must meet the requirements for embargo detailed in Table 1.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(88) Candidates can request an embargo on any submitted component of their research whilst allowing other components to be published in the RMIT Research Repository.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(89) Candidates whose research meets the grounds for embargo must ensure their embargo applications are submitted prior to their archival submission; and that any subsequent application for an extension to the embargo is submitted at least two months prior to the embargo’s expiry.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(90) The outcome of an application will be determined in accordance with Table 1: Grounds for Research Embargo, listed above.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(91) In exceptional circumstances and on production of compelling evidence, the GRC Executive may grant:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an embargo that does not meet the prescribed criteria",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "further extension to an embargo.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(92) Notification of the outcome is provided to the candidate, their senior supervisor and the school HDR DA.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(93) Archival research which has been approved for embargo is stored in a restricted repository until the embargo expiration date, when it is published.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(94) In cases where an embargo has been approved but no longer required, the candidate or their supervisor should inform the examinations team in SGR to enable the candidate’s submission to be published in the public domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(95) In cases where an HDR candidate is deceased before submission of their thesis or dissertation, their work may be considered for posthumous examination if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the candidate was enrolled at RMIT in the relevant course of study at the time of their death; or had an active enrolment at RMIT in the 12 months prior to their death; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "they had a successful outcome for their third milestone review; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "an application to undertake this process is made on behalf of the candidate, with the consent of the family; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the work is substantially complete and of an appropriate level to be examined for the degree, as attested to by two independent assessors, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the submission takes place within 12 months of the candidate’s death.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(96) Applications for posthumous examinations are submitted by the senior supervisor with the support of the HDR DA in the school where the candidate was enrolled.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(97) The GRC Executive has final approval for a request to proceed with a posthumous examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(98) If a posthumous examination is approved, submission and examination procedures will be followed in accordance with the HDR Posthumous Submission and Examination Guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(99) This procedure includes the following schedule:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "HDR Submission and Examination Schedule 1 - HDR Examination Recommendations and Classifications",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(100) Refer to the following documents:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Principles for nominating HDR Examiners",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "HDR Posthumous Submission and Examination Guidelines",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "HDR Forms Recommended Panel of Examiners form Extension of time to submit new amendments form Request for embargo form",
+              "subclauses": [
+                "Recommended Panel of Examiners form",
+                "Extension of time to submit new amendments form",
+                "Request for embargo form"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

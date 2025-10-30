@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "title": "Program and Course Weighted Average Mark Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=241",
+    "scraped_date": "2025-10-31 01:21:11"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Composition of WAM courses in honours programs",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) Single-degree embedded honours programs must have at least 96 credit points of designated WAM courses. Core and program option courses count toward this limit.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) Double-degree embedded honours programs, where both degree components are honours degrees, must have at least 96 credit points of designated WAM courses per degree component, except where a course contributes to the honours-level program learning outcomes for each component degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The component degrees’ WAM and other courses must be stated in the program guide in accordance with the Program and Course Guides Instruction.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(19) All courses count towards a student’s WAM in a one-year Bachelor honours program whether they are a designated WAM course or not.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(20) Students must be informed that a course they are enrolling in is a designated WAM course in Enrolment Online if they are enrolled in an embedded Bachelor honours program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(21) WAM is used to calculate the honours level awarded in an honours program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(22) A student in an honours program cannot opt out of receiving the WAM calculation unless they started the program before 2016 and were incorrectly advised about their inclusion in a category affected by the WAM.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(23) Occasional exceptions in some program transfers before and after 2016 may justify a student’s honours level to be determined by the pre-2016 system of GPA.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(24) If a student started in a Bachelor program (pass or honours) before 2016 and the program was converted to a different Bachelor honours program in 2016 or later, only their 2016 and later results in that honours program count toward their WAM.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(25) If a student started in a Bachelor program (pass or honours) after 2016 and the program was converted to a different Bachelor honours program in 2016 or later, and the old and new programs are GPA-linked, results in both GPA-linked programs count toward their WAM.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

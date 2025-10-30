@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "title": "Information Technology and Security Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=75",
+    "scraped_date": "2025-10-31 01:24:01"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Information Technology and Security Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Alignment with RMIT Strategy - RMIT Information Technology Strategy aligns IT investment and initiatives with RMIT’s strategic objectives and priorities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) Optimise allocation of IT investments and resources – RMIT strategically allocates IT investments and resources across the enterprise.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) Maintain adequate and effective information security capability – RMIT ensures it has an adequate and effective information security capability that matches the nature of threats to its IT assets, allowing RMIT to operate smoothly.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(8) Implement security controls and undertake systematic testing – RMIT applies appropriate security controls prescribed in the NIST Framework 800-53 to safeguard its IT assets based on their security classification, and regularly tests these controls to ensure their effectiveness.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(9) Third party security and resilience capability - RMIT evaluates the information security and resilience capabilities of third parties that manage RMIT IT assets, based on the potential impact of a security incident and/or business continuity incident on those assets.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(10) Compliance with the Risk Management Policy – RMIT enforces accountability to manage technology and information security risks in line with the Risk Management Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Information Technology and Security Governance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) RMIT publishes standards and procedures to implement principles in this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(12) Infrastructure and Information Technology Committee (‘IITC’) considers, endorses, and monitors progress against the Information Technology strategy in accordance with RMIT Strategic Plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(13) Business Owners and System Owners are identified for all IT assets including the IT assets managed by third parties.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) All users of RMIT information technology are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring that they understand and adhere to the standards, procedures and principles established by this policy in the context of their role",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reporting and responding to incidents impacting systems, process, data, and cyber bullying or harassment as instructed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reporting all actual or suspected information security breaches immediately",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "engaging ITS for all procurement related to IT assets to ensure alignment with RMIT strategy, policies and standards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(15) Business Owners are responsible for ensuring that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ITS is engaged for all procurement related to IT assets",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "appropriate security classification levels, service classification levels and storage options are defined for IT assets under their ownership",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where IT assets are managed by third parties, third parties have adequate security and resilience capabilities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(16) System Owners are responsible for ensuring that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "compliance with the information technology standards and related resources published and communicated by Information Technology Services (ITS)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Business Owners are consulted to define appropriate security classification, service classification and storage options",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "relevant technology and information security risks are identified, analysed, assessed and actioned",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "relevant risk-based technology and security controls are identified, implemented and are operating effectively",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "third parties managing IT assets of RMIT have implemented adequate security and technology resilience controls relevant to the risks.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(17) The Chief Information Officer (CIO) is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "establishing and overseeing delivery of the Information Technology Strategy and Information Security Strategy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "prioritising IT investments, initiatives, and resource allocation to optimise IT investments and resource allocation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "overseeing delivery of Technology Strategy, Information Security Strategy, IT investments and initiatives",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "establishing and operationalising IT and security governance processes, technology operating model and policy framework to deliver reliable responsive and user-centric IT services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "ensuring adequate and effective technology resilience capability including maintaining information security capability to ensure continued sound operation of RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "ensuring systematic controls testing program is set up to provide assurance on the design and operating effectiveness of the controls",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "ensuring that RMIT has robust mechanisms in place to detect and respond to information security incidents in a timely manner",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "ensuring that educational activities to raise awareness and educate users on how to reduce the risks of cyber security incidents have been delivered.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) ITS monitors compliance with this policy and related obligations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) Breaches of this policy will be managed in accordance with the RMIT Compliance Breach Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) This policy will be reviewed every three years and undertake a major review every five years in line with the Policy Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) This policy is to be read in conjunction with other RMIT policy documents which include but are not limited to the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Information Governance Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(22) Refer to the following documents which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Information Technology - Acceptable Use Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Information Technology - User Device Security Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(23) The Chief Information Officer has delegated authority to create or amend resources enforceable under this policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

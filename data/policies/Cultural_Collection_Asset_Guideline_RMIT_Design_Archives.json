@@ -1,0 +1,878 @@
+{
+  "metadata": {
+    "title": "Cultural Collection Asset Guideline: RMIT Design Archives",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=159",
+    "scraped_date": "2025-10-31 01:21:27"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Collection Scope",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) The RMIT Design Archives collects material related to design in Melbourne and Victoria from World War II to the present, focusing on the following disciplines:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "landscape architecture",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "industrial/product design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "gold and silversmithing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "graphic/communication design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(5) The RMIT Design Archives collection scope covers from World War II to the present day.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(6) The geographic focus of the collection is Melbourne and Victoria.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) The RMIT Design Archives collects physical and digital forms of a range of material types across all stages of the design process, including but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "audio-visual recordings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "documents and correspondence",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "garments and textiles",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "models and prototypes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "promotional materials",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(8) Priorities for collection development will be identified annually by RMIT Design Archives staff in collaboration with the RMIT Design Archives Collection Advisory Panel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(9) Collection priorities will be shared with the RMIT Culture Advisory Panel at their first meeting each year.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acquisitions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) RMIT Design Archives will acquire items by donation, bequest, purchase or transfer of title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) RMIT Design Archives will not accept:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "accept conditional donations, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "permanent loans. Extended loans for established periods of time will be negotiated as required (see Loans).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Items offered to RMIT for RMIT Design Archives under the Cultural Gifts Program will be assessed in accordance with the Cultural Gifts Program guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(13) RMIT Design Archives will conduct acquisition processes in accordance with the ICOM Code of Ethics for Museums.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(14) All acquisition proposals will be reviewed considered by the RMIT Design Archives Collection Advisory Panel, with final approval resting with the Director, Philanthropy and Public Engagement (or their approved delegate).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(15) Proposed acquisitions must meet the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Legal Requirements: The RMIT Design Archives will only accept items where the donor/vendor has clear legal title to the item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Provenance and Documentation: The history of the item must be known and associated documentation and support material can be provided.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Storage: Acceptance of large items (or collections) will be conditional on storage space being available as well as resources required to house them appropriately.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(16) Proposals will be further assessed according to the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Significance: Items that are significant for their historic, aesthetic, scientific/research or social/spiritual value.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Relevance: Items that relate to their collection purpose and collection scope.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Condition, Intactness, Integrity: Items should be in good condition, suitable for research or display and not requiring extensive conservation work or treatment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Interpretive and Teaching Potential: Items that enhance the interpretation of collection themes or align with the University’s teaching and learning objectives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Rarity: Rare examples of a particular kind of item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Representativeness: Excellent representative examples of a particular kind of item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Duplications: Items that duplicate items already within the collection or elsewhere within RMIT will not be accepted unless they are of superior condition and/or historic value.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acquisition Process",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) Any travel costs in excess of $100, associated with assessment or acquiring a potential collection item, must be pre-approved by the Manager, Cultural Collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) No material should be brought onsite without prior approval from the Manager, Cultural Collections. Early receipt of material should only occur in instances of exceptional circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(19) In general, material will be considered unavailable for research, teaching and learning purposes until fully processed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(20) In general, the first point of contact is the RMIT Design Archives Collections Coordinator. Potential Donors should be referred to the Collections Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(21) Any site visits to a donor or potential donor should be attended by a representative of both the curatorial and collections teams.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(22) The potential donor, in liaison with Collections Coordinator, will be requested to complete an Offer of Donation Form to record the context, history, significance and associations of the material, and to provide any supporting documentation demonstrating provenance.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(23) The Collections Coordinator will transcribe the Offer of Donation Form information into the Acquisition Proposal Form before passing on the proposal document to the RMIT Design Archives Curatorial Officer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(24) The Collections Coordinator or the Curatorial Officer will appraise the material against the Collecting Areas and Acquisition Criteria, and if found suitable for the collection, include this in the Acquisition Proposal Form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(25) The Collections Coordinator will ensure the Acquisition Proposal Form is complete and sent to the Manager, Collections and Archives at least two weeks prior to the next Collection Advisory Panel meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(26) The Manager, Collections and Archives will send proposed acquisitions documentation and meeting agenda to the Collection Advisory Panel at least one week prior to meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(27) The Collection Advisory Panel will recommend the offer of donation be approved or declined.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(28) Final approval for acquisitions rests with Director, Philanthropy and Public Engagement, or their approved delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(29) On approval of the proposed donation, the donor will be informed of the outcome and required to sign a Deed of Gift assigning legal ownership for the material to the RMIT Design Archives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(30) The material will be transferred onsite for inventory, registering (or cataloguing), physical numbering, photographing (or digitisation) and rehousing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(31) If any material is brought on site before it has been assessed and rejected by the Collection Advisory Panel, the material will be returned to the donor with an explanatory letter within 30 days.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(32) If the material for whatever reason is not claimed by the donor or it is not able to be returned, RMIT may treat any such material as uncollected goods according to the Australian Consumer Law and Fair Trading Act 2012 (Vic).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(33) Any member of the RMIT Design Archives Collection Advisory Panel may make recommendations for acquisitions by purchase via the Acquisition Proposal Form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(34) The Curatorial Officer will ensure acquisition proposals are appraised against the Collection Scope and Acquisition Criteria.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(35) The Collections Coordinator will ensure the Acquisition Proposal Form is complete and sent to the Manager, Collections and Archives at least two weeks prior to the next Collection Advisory Panel meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(36) The Manager, Collections and Archives will send proposed acquisitions documentation and meeting agenda to the Collection Advisory Panel at least one week prior to meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(37) Items acquired for the RMIT Design Archives permanent collection by purchase, must obtain financial approval from the appropriate delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Should the total price for a purchased collection item exceed the capitalisation threshold of $5000 (including costs incurred in getting the asset to a position of use (e.g. import duties, delivery fees)), the RMIT Design Archives will inform the Financial Services Group in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Collection Storage and Conservation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(38) The RMIT Design Archives aims to achieve high standards of collection care and storage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Collection storage areas will be secure, tidy and sealed against the weather.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Access to storage areas will be controlled and monitored by RMIT Design Archives collections staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Ultra-violet light will be excluded from storage areas.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "When storage areas are not in use lights must be turned off.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Preference will be given to conservation quality storage materials. No material will enter collection stores without first being quarantined.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Storage areas will be regularly cleaned and checked for pests and other problems in accordance with the RMIT Cultural Collections Integrated Pest Management Plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Collection items will be allocated a permanent storage location and, when not in immediate use, will be stored there at all times.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Any change of location (including temporary) will be recorded immediately in the collection management system by trained personnel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Items should not be stored on the floor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Untrained personnel may not handle, clean, treat or restore collection items without supervision of collection staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Researchers will be given guidance on how to appropriately handle specific materials prior to handling collections items and where required PPE will be provided to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "All professional staff and volunteers handling collection materials will be required to participate in annual refresher training, to be led by collections staff.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Deaccessioning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(39) An item may be considered for deaccessioning if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the physical condition of the item is so poor that restoration is not practicable or would compromise its integrity items that are damaged beyond reasonable repair and are of no use for study or teaching purposes may be destroyed",
+              "subclauses": [
+                "items that are damaged beyond reasonable repair and are of no use for study or teaching purposes may be destroyed"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "the item poses threats to health and safety to the staff and the public.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the item breaches Aboriginal, Torres Strait Islander or other community group cultural guidelines",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the RMIT Design Archives is unable to care adequately for the item because of its particular requirements for storage or conservation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the item is a duplicate that has no added value as part of a series.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the item is of poor quality and lacks aesthetic, historical and/or scientific value for exhibition or study purposes and no longer meets the Acquisition Criteria",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "the authenticity or attribution of the item is determined to be false or fraudulent, and the fraudulent item lacks sufficient aesthetic, historical and/or research value to warrant retention. In disposing of a presumed forgery, the RMIT Design Archives shall consider all related legal, curatorial and ethical consequences, and should avoid releasing the item to public auction.",
+              "subclauses": [
+                "In disposing of a presumed forgery, the RMIT Design Archives shall consider all related legal, curatorial and ethical consequences, and should avoid releasing the item to public auction."
+              ]
+            },
+            {
+              "clause_number": "8",
+              "text": "The item is more suited to another collecting organisation and its collecting scope.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "The RMIT Design Archives' possession of the item is inconsistent with applicable law or ethical principles, e.g., the item was, or may have been, stolen or illegally exported or imported, or the item may be subject to other legal claims for return or restitution.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "The item is no longer consistent with the RMIT Design Archives' mission or collecting goals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "A substantiated request for the return of the item to its original owner/donor is received.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(40) Collections staff will identify and propose material to the Collection Advisory Panel for consideration, with close reference to the criteria stated above.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(41) Deaccessioning proposals will be presented via the Acquisition Proposal Form and contain:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a brief description of the item and provenance (if known)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "acquisition details and legal status",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reasons for recommending deaccessioning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(42) Where possible and appropriate donors, or their legal representative, will be contacted and notified of intent to deaccession.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(43) The item identified for deaccession must be held for a twelve-month ‘cooling-off’ period before it is finally disposed, unless it poses an unacceptable hazard to personnel or to other collections, in which case it may be disposed earlier in consultation with RMIT Workplace Health & Safety.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(44) When deaccessioned, the details provided at clause (41) will be recorded on the item’s file and will be available for inspection if required. Accession numbers will not be reallocated to other items.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(45) Staff, volunteers, committee members and their families are prohibited from purchasing, or otherwise obtaining, any de-accessioned item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(46) Any funds realised from the deaccessioning and disposal of an item will be used solely for the benefit of the collection in accordance with the Guidelines on Deaccessioning of the International Council of Museums.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(47) Where the RMIT Design Archives has decided to dispose by exchange, the agreement for exchange may include provision for payment or receipt of money in addition to the deaccessioned object, in recognition of the difference in value between the objects exchanged.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(48) Where possible and relevant, the name of the donor or the fund from which a deaccessioned item was originally acquired is to be credited to a new acquisition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(49) Approved methods of disposal in priority order are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "return to original donor (unless the item was acquired under the Australian Government’s Cultural Gifts Program)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "transfer to a like-minded, relevant, public collecting institution",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "redistribution within RMIT as an educative/interpretive tool",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "sale by public auction (unless the item was acquired under the Australian Government’s Cultural Gifts Program)",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Access",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(50) Access to the RMIT Design Archives is facilitated in the following ways:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "collection holdings will be made accessible via the RMIT website",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "physical collection items are made available for research purposes by appointment under strict staff supervision",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where possible, collections engagement will be enhanced through open storage, displays and public programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the RMIT Design Archives will lend items to other organisations for exhibition. It will not lend to private collectors, students or individuals.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Loans",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(51) The RMIT Design Archives may lend and borrow material to help meet its purpose, including lending items to other collecting organisations. It will not lend to private collectors, students or individuals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(52) The RMIT Design Archives does not accept permanent, long-term, or conditional loans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(53) Loan forms must specify the agreed insurance coverage to be met by the Borrower. Loans documentation will be managed by RMIT Design Archives staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(54) Inward loans shall only be accepted for specific exhibitions or research and for fixed periods of time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A representative of both the RMIT Design Archives and the lender will be required to sign an agreed inward loan form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Each party will hold a copy of this agreement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "This form will record conditions of the loan and the period of the loan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Loans shall remain in the possession of the RMIT Design Archives for the time specified on the form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(55) The RMIT Design Archives agrees to exercise the same care with respect to loans as it does for its own collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(56) The RMIT Design Archives may request to renew loans if required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Documentation recording renewal must be signed by the RMIT Design Archives and the lender.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(57) The RMIT Design Archives will recognise the asset at current market value at insurance value set by the Lender and agreed to by Enterprise Risk Management.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(58) The RMIT Design Archives will inform Financial Control of receipt of any loaned item in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(59) RMIT Design Archives may lend items to other collecting organisations. It will not lend to private collectors, students or individuals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A formal loan agreement will be signed by both parties, outlining any conditions and the period of the loan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The Borrower will be required to provide a Certificate of Currency and insurance, environmental and facility reports as requested.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The maximum loan period is 12 months. Applications for extension of this period must be made prior to the loan expiry date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(60) Loans will remain in the possession of the borrower until returned to RMIT Design Archives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(61) For any item listed on the asset register loaned to an outside institution, RMIT Design Archives will notify Financial Control of the change of location, in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Born Digital and Digital Collections",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(62) RMIT Design Archives acknowledges that digital collections are as important as physical and analogue collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(63) Decisions on born digital material will be subject to the same acquisition criteria and processes as non-digital items.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(64) Digital Preservation Process will include the following steps:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Quarantine: Records are checked for viruses and completeness.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Preservation: Records are preserved (normalised, or converted, into open formats)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Storage: Records are deposited for long-term storage in a digital archive.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Back-up: Digital records are regularly backed-up (daily by ITS; monthly to external hard-drive by collections staff).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(65) Digitisation projects will be guided by the National Library of Australia Image capture standards and the National Film and Sound Archive of Australia Technical Specifications for Preservation Digitisation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Oral Histories",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(66) The RMIT Design Archives will observe their legal, ethical and moral obligations in the recording, transcribing and subsequent use of oral history interviews in accordance with the Oral History Association Guidelines for Ethical Practice as well as the RMIT Research Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(67) An Oral History Agreement must be signed by the person interviewed, which clearly states the purpose and intended uses of the interviews and what copyright provisions apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(68) The RMIT Design Archives aims to have full copyright over any material it collects with regards to oral histories.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(69) Associated material collected as a result of any interview (e.g. diaries, photographs, etc.) will be subject to the same collection acquisition criteria as outlined in Acquisitions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Legal/Ethical Obligations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(70) The RMIT Design Archives endorses Article 31 of the United Nations Declaration on the Rights of Indigenous Peoples which states that Indigenous peoples have the right to maintain, control, protect and develop their cultural heritage, traditional knowledge and traditional cultural expressions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(71) The RMIT Design Archives is committed to providing an accessible and inclusive learning and work environment that promotes diversity, inclusion and equal opportunity, and is free from discrimination, sexual harm, victimisation and vilification in accordance with RMIT’s Inclusion, Diversity and Equity Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(72) These principles will form the basis of an ongoing dialogue between stakeholders and the RMIT Design Archives, and will be periodically reviewed and revised in oder to better facilitate understanding, collaboration and organisational goals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(73) The RMIT Design Archives recognises First Nations Peoples' ownership of their Indigenous Cultural and Intellectual Property that may be held in our collections and works proactively with Aboriginal and Torres Strait Islander staff members and communities to provide access to collections. This includes any cultural heritage and knowledge recorded in published works.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(74) The management and display of collection items and/or documentation pertaining to any Aboriginal and Torres Strait Islander material will comply with the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Australian Museums and Galleries Association (AMAGA) First Peoples: A Roadmap for Enhancing Indigenous Engagement in Museums and Galleries",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Aboriginal and Torres Strait Islander Protocols for Libraries, Archives and Information Services (2012)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Tandanya-Adelaide Declaration (2019)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Dhumbah Goorowa Reconciliation Plan 2019-2020",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(75) In doing so, RMIT Design Archives will promote standards of excellence in practice, in accordance with National and State Libraries Australasia National position statement for Aboriginal and Torres Strait Islander library services and collections, with a focus on the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The right of Aboriginal and Torres Strait Islander peoples to: be informed about collections items that exist relating to them, their culture, language and heritage. determine any use and access provisions for collection items that relate to them, their culture, language, history and perspectives. request the removal of or limiting of access to content that should not be accessed due to cultural restrictions",
+              "subclauses": [
+                "be informed about collections items that exist relating to them, their culture, language and heritage.",
+                "determine any use and access provisions for collection items that relate to them, their culture, language, history and perspectives.",
+                "request the removal of or limiting of access to content that should not be accessed due to cultural restrictions"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "The development of strategies to return usable copies of collection material to cultural owners to support cultural and language maintenance or revitalisation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Aboriginal and Torres Strait Islander people will be: consulted in relation to the catalogue description and classification of collection materials, and opportunities will be made for them to annotate and describe material that relates to themselves and their communities consulted and involved with all aspects of any interpretation of any collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes",
+              "subclauses": [
+                "consulted in relation to the catalogue description and classification of collection materials, and opportunities will be made for them to annotate and describe material that relates to themselves and their communities",
+                "consulted and involved with all aspects of any interpretation of any collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes"
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "Aboriginal and Torres Strait Islander communities will be consulted about and before any digital content that might be made available online, including websites and social media.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Where materials are accessible, whether online or physically, access will be preceded by a notice advising Aboriginal and Torres Strait Islander people of potentially sensitive or distressing content such as images, sounds and names of deceased persons; images of people who have not yet been identified; and historical images containing nudity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(76) RMIT should consult LGBTIQA+ communities in relation to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "catalogue descriptions and classifications of collection materials, or opportunities for them to annotate and describe material that relates to themselves and their communities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "interpretation of collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "annual review of LGBTIQA+ terminology, in accordance with that of RMIT Inclusion, Diversity, Equity and Access, to ensure catalogue entries continue to reflect the expectations of LGBTIQA+ communities",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Copyright",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(77) To the extent permitted by law and to the extent necessary to enable RMIT to exercise its rights, RMIT Design Archives will uphold all:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "intellectual rights (as defined in Article 2 of the Convention Establishing the World Intellectual Property Organisation (WIPO Convention) (1967))",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "principles of RMIT’s Intellectual Property Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "moral rights, rights of integrity and rights of attribution inherent in an acquisition.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Privacy",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(78) The RMIT Design Archives will adhere to the Privacy Policy and affirms RMIT’s commitment to privacy and its approach to the responsible handling of personal and sensitive information in all its forms, consistent with relevant legislation.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

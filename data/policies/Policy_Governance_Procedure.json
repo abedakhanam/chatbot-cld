@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "title": "Policy Governance Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=58",
+    "scraped_date": "2025-10-31 01:22:19"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Document Characteristics",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) Policy documents are organised in a hierarchy where documents lower in the hierarchy are consistent with and subordinate to those higher in the hierarchy. The hierarchy of document types is:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Royal Melbourne Institute of Technology Act 2010, which sets out the general powers and functions of RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "RMIT Statute No.1, which documents RMIT’s governance structure and contains broad provisions for admission, enrolment, assessment, student conduct, elections, conferral, honorary degrees, property and premises",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "RMIT’s regulations, on a range of topics drawn from the Statute",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "policies, for describing the principles, values, and responsibilities that underlie decision-making and operations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "procedures, for the steps required to implement a policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "standards, equal in the hierarchy to procedures, which are for systems that must operate to a specific level to be reliable and consistent (e.g. IT systems)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "instructions, only where needed for detailed operations that have specific and necessary steps",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "guidelines, only where needed to provide supplementary descriptive detail or context to aid decision-making.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(5) Policies and procedures may have an associated schedule containing mandatory requirements subject to frequent change that can be amended by the policy owner as needed. Schedules can also be used like an appendix, to store detailed tables that would otherwise disrupt the flow of the policy document.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(6) Policies and procedures must apply to the entire RMIT Group, and individual clauses or a sub-section are inserted to indicate where there is small variation at a controlled entity. Where enterprise agreements or international laws require significantly different conditions to be met at a controlled entity, or where equivalent roles and departments do not exist across all entities in the RMIT Group, then there may be a procedure or schedule specifically created for a controlled entity, e.g. Child Safe Reporting Procedure – Vietnam and the Delegations of Authority Schedule 4 – Other Activities and Vietnam.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(7) Controlled entities may create instructions or guidelines to effectively operationalise a policy, if needed. These can be listed in the policy as a subordinate document under certain circumstances (refer to Schedule 2 – Controlled Entities)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(8) Documentation containing local protocols for a small group of staff is not published on the Policy Register. For example, a guide for staff using a specific database to perform their work tasks would not be included.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(9) Policy authors, in consultation with Central Policy, determine the document types needed in their policy suite to enable effective implementation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Policy Custodians",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Policy owners are self-nominated when a policy is proposed and are identified in the ‘Status and Details’ information on the Policy Register when the policy is approved and published.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) Policy owners are nominally members of the University Executive and are accountable for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the development, review and implementation of policy suites",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "compliance with the policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Policy ownership may move between senior executives following organisational restructures or changes to a senior executives’ responsibilities. Agreement to the change of ownership is sent to Central Policy by the respective senior executives to action in the Policy Register, and should include the date from which the change is to take effect.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(13) The University Policy Manager notes changes in policy ownership in the biannual report to the relevant approval authority.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(14) Policy owners nominate an executive with relevant subject-matter expertise as the policy author to oversee the development, maintenance and review of a policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(15) Policy authors are senior subject-matter experts nominated by the policy owner who:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "oversee the development and review of the policy suite",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "monitor the accuracy, currency and effectiveness of the policy suite on an ongoing basis",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "establish mechanisms to monitor compliance with the policy suite",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "maintain a log of issues with each policy suite, for consideration when the suite is reviewed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(16) An individual cannot be both the owner and the author of a policy document.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(17) Policy owners may, but are not required, to delegate ownership of a subordinate document in the policy suite to a direct report with subject-matter expertise.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(18) Policy authors nominate a functional area of the RMIT Group to implement the policy and be the point of contact for each policy document for enquiries about the policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(19) Policy authors and nominated contact points from the responsible area are published on the ‘Status and Details’ page for each policy document on the Policy Register.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Policy Lifecycle Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) The lifecycle of a policy includes proposal, development, approval, implementation, assurance, and review. In some cases the lifecycle ends with the formal revocation of a policy document.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Proposals for a new policy, standard or procedure are submitted to the University Policy Manager for endorsement to proceed via the proposal form on the staff Policy Hub. The proposal must include information about the purpose and scope of the policy document, evidence of a need for it, and a list of stakeholders with whom the proposal has been discussed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) The University Policy Manager:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "assesses whether the proposed new policy document duplicates any existing content on the Policy Register",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "determines whether there is evidence of a legitimate need for it",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "seeks endorsement on new academic policy proposals from the Chair, Academic Board",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "responds to a proposal request by either supporting or rejecting the proposal or requesting further information from the proposer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(23) Authors of endorsed policy development proposals must meet with the Central Policy team before commencing the policy development to discuss the structure of the policy suite and the proposed project plan for developing the policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(24) All policy documents must conform to the relevant document templates, which are approved by the University Policy Manager and published on the staff Policy Hub.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(25) Where there are legislative or regulatory obligations or industry standards addressed by a policy document, the document author must list these in Section 1 of the policy template, where practicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(26) Policy owners undertake a major review of a policy suite every five years at a minimum. The policy owner or University Policy Manager may direct a major review to be undertaken outside the regular review cycle for a range of reasons, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "non-compliance with legislative and regulatory requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "changes in the external operating environment, legislation, regulations or strategic directions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "governance, academic or operational initiatives",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "identified gaps in the Policy Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(27) Policy owners must keep track of their policy review dates and ensure appropriate planning and resourcing is in place to support policy reviews.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(28) The detailed steps for developing a new policy document or reviewing an existing policy document are detailed in the Policy Governance Instruction - Developing and Reviewing Policies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(29) Minor amendments are changes to a policy document that do not change the intent of the policy or significantly affect the content or application of the policy. ‘Minor’ is not just a reference to the amount of revised text but to the consequences of a change. Examples include changes that clarify existing details or include processes for new systems. They may be initiated for a range of reasons, including alignment with legislative or regulatory changes, or as an outcome of a post-implementation review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(30) A policy owner can approve minor amendments to any documents in their policy suite, and must notify Central Policy of the change and the rationale so this can be published on the Policy Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(31) The University Policy Manager has authority to review minor amendments to ensure they are minor and do not change the intent of the policy. Amendments that are deemed not to be minor must proceed through the process outlined in the Policy Governance Instruction - Developing and Reviewing Policies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(32) The University Policy Manager may initiate minor amendments where required and notify the policy owner to ensure currency and clarity of the Policy Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(33) The University Policy Manager reports to Academic Board (on academic policies), the Audit and Risk Management Committee and the University Executive Committee (on Governance and Compliance and Operational policies) twice yearly on minor amendments to policy documents that have been approved by policy owners in the previous six months.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(34) Administrative amendments to a policy document on the Policy Register are managed by Central Policy or by the relevant policy site administrator at a controlled entity. These amendments may be to correct or update a title, definitions, formatting, web links, spelling, grammar or for clarity of language and are considered administrative amendments that do not require approval from the policy owner. Anyone finding an error of fact should email the policy author or Central Policy, or use the ‘feedback’ tab for the relevant document on the Policy Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(35) This section of the procedure covers the approval of new or reviewed policies. A table summarising the approval authorities for new or revised policies and minor amendments can be found in Schedule 1 – Policy Proposal and Approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(36) All documents in a policy suite must be submitted together for approval to the relevant approval authority. The University Policy Manager can endorse the submission of a policy suite in tranches when there are extenuating circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(37) Submissions for approval must provide evidence that the new or revised policy suite:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is designed to deliver the policy’s purpose and intent",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "aligns with sector norms and standards, including the level of delegated authority, or explains any deviations from norms",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "is risk-aware and complies with legislative and regulatory requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "was developed through extensive engagement with key stakeholders and was responsive to feedback from consultation with the entire RMIT Group",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "can be effectively implemented.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(38) Guidance on preparing policy submissions is available on the staff Policy Hub.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(39) Policy suites must be endorsed by the policy owner, and in some cases, sub-committees, prior to being submitted for approval to the relevant authority (either Council, Academic Board or the University Executive Committee).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Academic policy suites must be sent to all Academic Board sub-committees for either endorsement or noting, depending on the content prior to seeking Academic Board approval (refer to Policy Hub for guidance).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Governance and Compliance policy suites must be endorsed by the University Executive Committee and the Audit and Risk Management Committee prior to seeking Council approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Operational policy suites are sent directly to the University Executive Committee, unless there is a management body for the relevant subject matter, in which case that body must endorse the policy suite before it is submitted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(40) Staffing policies that have implications for research or education delivery must be endorsed by Academic Board before being submitted to the University Executive Committee for approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(41) Policy documents can only be approved if they meet the principles of the Policy Governance Policy and have complied with the provisions of this procedure and the Instruction for developing or reviewing policies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(42) At the time of approving a policy submission, approval authorities can choose to delegate authority to the policy owner to grant waivers to limited specific clauses in the policy document. This delegation is captured in the document before publication.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "40",
+              "text": "(43) When approval authorities give qualified approval to a policy document, the document is not published until:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the relevant secretariat has advised Central Policy that the conditions for approving the documents have been met, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "have provided the finalised documents for the Policy Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "43",
+              "text": "(44) The approval authorities must provide Central Policy with the relevant extract from the minutes of the meeting where the policy was approved, as soon as practicable after the meeting, to enable the timely publication of the policy documents.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "44",
+              "text": "(45) Policy owners nominate an effective date for a policy suite in their submission which post-dates the approval authority meeting. Where a date is not nominated, a policy document becomes effective from the date of publication.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "45",
+              "text": "(46) The approval authority for individual procedures, standards, instructions or guidelines that are created after a new policy is approved, or where they are revised outside of a major cyclical policy review, are listed in table 2 of Schedule 1 - Policy Proposal and Approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "46",
+              "text": "(47) Policy owners must advise Central Policy when they exercise their delegated authority to approve new documents or approve minor amendments to existing documents. For transparency, approvals by policy owners must be included in the University Policy Manager’s subsequent biannual policy report to either Academic Board or the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "47",
+              "text": "(48) The University Policy Manager can direct a policy owner to submit an individual new procedure to an approval authority for consideration if there are concerns that there may be broad-ranging, unforeseen or controversial consequences from its implementation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "48",
+              "text": "(49) Policy authors must prepare an implementation and communication plan and submit this to Central Policy prior to submitting their new or revised policy suite to an approval authority. The plan should include, where applicable, education or awareness programs, transition arrangements, roll-out schedule, key implementation milestones, measures of effectiveness, system requirements, and key stakeholders from across the RMIT Group who are the target audience of the plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "49",
+              "text": "(50) Central Policy cannot publish approved policy suites until they have received an implementation and communication plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "50",
+              "text": "(51) Central Policy supports policy authors with communications across the RMIT Group about approved policy documents.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "51",
+              "text": "(52) The policy owner monitors the progress of the implementation and communication plans and reports on their effectiveness to the University Policy Manager for the biannual policy reports to Academic Board, the University Executive Committee and the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "52",
+              "text": "(53) The University Policy Manager must provide assurance twice a year to approval authorities that policies are being comprehensively reviewed on a regular basis, working as intended, always accurate and current, and that compliance with the policy is being monitored and reported. Policy owners are required to provide relevant information to the University Policy Manager for reporting purposes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "53",
+              "text": "(54) Policy assurance practices for which policy owners are responsible include, but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "regular quality control checks of their policies on the Policy Register",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "post-implementation reviews",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "maintaining feedback and issue logs, and taking appropriate remedial action",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "compliance monitoring and reporting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "58",
+              "text": "(55) Post-implementation reviews must be completed for all policy suites within 18 months to two years of their approval. Policy owners can request a waiver from the University Policy Manager if they can demonstrate why a review would not be necessary (or provide a valid reason for exemption).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "59",
+              "text": "(56) Through feedback and analysis, post-implementation reviews assess:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the success of the implementation of a new or revised suite",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "whether the target audience of the policy are aware of it, and can access and interpret it",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "whether previously identified problems have been resolved",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "whether new issues have been created by the revised policy, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "gaps in the policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "65",
+              "text": "(57) At the conclusion of a post-implementation review, policy owners must report the outcomes to the University Policy Manager, including minor amendments to a policy suite they have approved. The outcomes are reported in the University Policy Manager’s biannual report to the relevant approval authority.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "66",
+              "text": "(58) If significant or impactful changes are recommended from a post-implementation review, including new directions for the policy, the revised policy suite must be approved by the relevant approval authority.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "67",
+              "text": "(59) Guidance for undertaking a post-implementation review can be found on the staff Policy Hub.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "68",
+              "text": "(60) When a policy owner identifies that a policy document needs to be revoked, they must advise the University Policy Manager, and seek approval from the relevant approval authority to revoke the document.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "69",
+              "text": "(61) Before seeking approval to revoke a document, the policy author must work with Central Policy to identify any other documents in the Policy Register linked to the document, and if so, must discuss the implications with relevant parties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "70",
+              "text": "(62) Revocation of a policy automatically revokes all the subordinate policy documents in that policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "71",
+              "text": "(63) Policy owners may revoke Instructions, and must advise Central Policy of the decision and the date from which it becomes effective.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "72",
+              "text": "(64) When submitting new or revised policy suites to approval authorities, the submission cover note must include a list of all documents being replaced and needing revocation by the approval authority. Central Policy are advised of revocations through the Minute extract from the relevant meeting and remove the documents from the Policy Register as soon as practicable on receipt of the advice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "73",
+              "text": "(65) Policy owners are accountable for communicating the revocation of a policy document to all key stakeholders.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Policy Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(66) Mechanisms for monitoring compliance with a policy or procedure must be outlined in that policy or procedure. Details should include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the position or team responsible for monitoring compliance and addressing breaches",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the consequences of material breaches of the policy (e.g. an investigation of staff or student misconduct)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "which governing body breaches are reported to and the role responsible for reporting",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the frequency of reporting on compliance monitoring mechanisms and breaches (minimum annually)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "a link to RMIT’s organisational breach reporting form which enables staff to report actual or suspected policy breaches to the Central Compliance team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(67) Policy authors are responsible for reporting actual or suspected policy breaches to the Central Compliance team and to others as appropriate, depending on the nature of the breach, e.g. to Central Complaints and Investigations, Policy and Workplace Relations, University Secretary and Academic Registrar or the Chief Information Security Officer, to name a few.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Policy Governance Working Group",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(68) The University Policy Manager may establish an internal working group to consider policy governance matters, good practice and develop awareness initiatives for RMIT Group policies. The working group shall provide advice and general guidance to champion policy practice.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Transition to the Policy Governance Policy and Procedure",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(69) Documents published on the Policy Register when this procedure is approved continue to be effective and binding until they are replaced or revoked.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(70) Policy authors may transition policy documents currently categorised as policy resources to the new document categories of ‘instructions’ or ‘guidelines’ without the need to wait for the next cyclical review. Central Policy can advise and assist with transitioning these documents.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Exceptions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(71) The University Policy Manager decides on the correct process for unusual circumstances of policy governance or management that are not specified in the Policy Governance Policy or this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(72) Policy Governance Procedure Schedule 1 - Policy Proposal and Approval",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(73) Policy Governance Procedure Schedule 2 - Controlled Entities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(74) Policy Governance Instruction - Developing and Reviewing Policies.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

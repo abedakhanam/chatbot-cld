@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "title": "Revenue Contracts and Debtors Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=320",
+    "scraped_date": "2025-10-31 01:21:57"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Recognition and Measurement of Revenue",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) Revenue must be recognised in accordance with applicable Australian Accounting Standards.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Establishment and Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Contracts must only be signed by individuals authorised under the Delegations of Authority Policy and who understand RMIT’s obligations under the Contract Management Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) For contracts with international parties, Central Finance Operations must be consulted prior to finalisation due to potential international tax implications.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) Where there is uncertainty about RMIT’s obligations, guidance must be sought from Legal Services or Finance teams.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Customer Onboarding, Credit Assessment and Trading Terms",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) Credit checks, unless an approved exception applies, must be performed at the earliest stage—typically during negotiation and before contract execution. If not completed, the Accounts Receivable team may request a credit check before creating a customer record in Workday or assigning a credit limit.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Credit check requirements are based on total contract value:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Less than $25,000 – No credit check required",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "$25,001 to $50,000 – Payment history analysis required",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "$50,001 to $250,000 – Payment history and ASIC check required",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Over $250,000 – Full credit report required",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(10) Government agencies and departments are exempt from credit check requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(11) The cost of any credit check conducted through an approved credit reporting agency will be borne by the applicants cost area.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) If credit concerns are identified, the Accounts Receivable team will notify the applicant, who is responsible for assessing the risk of proceeding.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) Where a customer is considered high risk, approval to proceed must be obtained from the Chief Financial Officer. Any resulting risk will rest with the applicant's cost area.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(14) A \"Create New Customer Details\" form must be submitted in Workday by the applicant. Approval must be obtained before goods or services are delivered.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(15) Once approved, the customer account will be created and the customer number issued within two working days.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(16) All sales to customers without approved credit must be conducted on a cash-on-delivery (COD) basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(17) The Accounts Receivable team will periodically review credit limits based on payment history and other relevant indicators.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(18) Standard trading terms are 30 days from the invoice date unless otherwise specified in contractual terms.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(19) Restricted trading terms may be applied by the Accounts Receivable team where a customer fails to meet standard terms.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(20) Customers with accounts more than 60 days overdue may be placed on stop credit by the Accounts Receivable team, unless the debt is under active dispute.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(21) Customers placed on stop credit with any RMIT entity may be restricted across the entire RMIT Group until debts are settled.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(22) Inter-company charges must comply with service level agreements (SLAs), royalty agreements, and applicable international tax laws.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Invoicing and Adjustments",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) To raise a customer invoice, the relevant area must initiate a \"Create Customer Invoice\" task in Workday, quoting the purchase order or relevant contract. Where neither exists, supporting documentation must be submitted and approved in line with Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Invoices must be addressed to the customer’s accounts payable team and include the contact's full name.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(25) Where a credit note is required, a \"Create Customer Invoice\" task must be submitted in Workday. The adjustment must reference the original invoice and clearly state the reason.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(26) If part of an invoice is disputed, the undisputed amount remains payable in accordance with agreed credit terms.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Management of Doubtful and Bad Debts",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(27) The Accounts Receivable team is responsible for ensuring all debtor, doubtful debt, and bad debt transactions are authorised in accordance with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(28) Debts may be recommended for write-off only after all reasonable and economical recovery efforts have been exhausted. Approval must be obtained from the appropriate delegate or the Chief Financial Officer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(29) Any recoveries received after a write-off has been processed must be recognised as revenue.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(30) In accordance with the Limitation of Actions Act 1958, RMIT retains the right to legally enforce debt recovery for up to six years after a write-off.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(31) Debts that have been written off will be reviewed periodically by the Accounts Receivable team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(32) Students with overdue debts may be subject to enrolment cancellation, in line with the Enrolment Procedure - Discontinuation of Student Program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(33) The Team Leader, Accounts Receivable, is responsible for process implementation. Requests for deviations must be submitted in writing and approved by the Director, Central Finance Operations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Recognition and Provisioning for Impairment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(34) Debtors are initially recognised at fair value and subsequently measured at amortised cost using the effective interest method, less any provision for impairment, in line with applicable Accounting Standards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(35) Provisions for doubtful debts are recorded during the financial year based on budget estimates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(36) Each debt is periodically reviewed, with provisions adjusted based on recovery history and Australian Accounting Standards. A 100% provision will apply in cases of liquidation, receivership or insolvency.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

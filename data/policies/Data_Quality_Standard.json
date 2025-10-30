@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Data Quality Standard",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=229",
+    "scraped_date": "2025-10-31 01:25:47"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Overview",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) High-quality data supports University strategy and enables quality insights and decision-making, driven by data that is trusted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) This standard provides the requirements for data quality as well as data quality dimensions and measures to support establishing and maintaining high-quality data at RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) This standard should be used in conjunction with the Data Quality Guideline and supporting tools, which provide staff with further guidance on assessing and improving data quality and implementing this standard in practice.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Data created, managed and used at RMIT must be of high quality. Data will be considered high quality when it is fit for its intended purpose and meets the requirements of all stakeholders.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Data must meet stakeholder requirements for validity, completeness, accuracy, consistency, timeliness and uniqueness, in accordance with the data quality dimensions in this standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) The level of data quality should be defined, assessed and measured so that it can be improved.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(10) Data that does not meet the expected level of quality must be improved at the source, ie., at the point of data entry, creation or collection. Data that cannot be improved at the source must be corrected prior to use, for purposes such as reporting and analytics.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(11) RMIT is required to ensure that the information it collects, uses, and discloses is accurate, complete, and up-to-date in accordance with relevant Victorian and Australian Privacy laws, specifically the Victorian Information Privacy Principles – IPP3 and the Australian Privacy Principle – APP10 regarding data quality.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Data Quality Dimensions and Measures",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(12) The following data quality dimensions are most relevant to the RMIT Group, and should be used when defining, assessing, measuring and reporting on data quality. These may have equal or varying weights depending on the context of use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Data must contain values for all expected attributes and instances identified as mandatory.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Completeness can be measured by comparing the number of records where data is populated to the total number of records.*",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Data must contain values that conform to the defined data type, format and precision as required by domain specific business rules.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Validity can be measured by number of records where the validity rules are met and comparing this to the total number of records.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Data must correctly represent the true value of the real-world concept or event being described.*",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Accuracy can be measured by the number of erroneous records and comparing this to the total number of records.*",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Data must be absent of difference, when comparing two or more representations of a thing against a definition.*",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Consistency can be measured by the number of matched values across records and comparing this to the total number of records.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Data must represent reality from the required point in time.*",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Timeliness can be measured by looking at the time between when data was created and when it is made available for use and by looking at whether the most up-to-date version of the information is available.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "No record exists more than once within a data set or between multiple data sets.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Uniqueness can be measured by the number of unique records identified and comparing that to the total number of records.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

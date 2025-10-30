@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "title": "Student Conduct Board Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=171",
+    "scraped_date": "2025-10-31 01:23:33"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Student Conduct Board",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) In determining a student conduct matter, the University Secretary and Academic Registrar (or delegate) prior to the hearing, and the Chair, Student Conduct Board during proceedings:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "must act in accordance with this procedure, and all applicable policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "must act fairly and reasonably in all the circumstances, which may include contacting the respondent student to inform them of the potential student misconduct report, and to explain the nature of their investigation and enquiries",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensure that all parties, including advocates and support persons are aware of the Student Conduct Policy and corresponding procedure requirements, including those relating to records, privacy, and confidentiality",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "are not bound by the rules of evidence, technicalities, or legal forms, including rules which apply in any court or tribunal in Australia, such as those set out in the Evidence Act 2008 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "may make such inquiries and communicate with the people they determine to be relevant and necessary to enable them to properly determine the matter",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "may ask any student to attend a hearing or interview, or to provide information in relation to the matter; however may not compel or force a student to attend a hearing or interview, or to provide information relating to a student conduct matter, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "must have due regard for the Intellectual Freedom Policy in the exercise of any authority or discretion granted to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(6) The Chair, Student Conduct Board may make determinations about all matters relating to the conduct of a hearing, including but not limited to: attendance, scheduling and re-scheduling, any pausing or adjournment of the hearing, any additional material or information required, and the provision of information about the process and the determination. All such determinations are subject to this procedure, the Student Conduct Policy, and the Student Conduct Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(7) A matter referred to the Student Conduct Board and scheduled for hearing will be heard within 30 working days of receiving the referral or the report, except where there are relevant circumstances which impact this time, or where the matter has been paused or suspended because of external requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(8) The Secretary is responsible for managing the records of the Student Conduct Board including outcomes. No party may make an audio or video recording of the proceedings, including if they are conducted electronically or via video link.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(9) Any notice or written communication to students is to be provided in accordance with the requirements of the Student Conduct Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Referral of Potential Student Misconduct",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Referrals to the Student Conduct Board of matters relating to potential general, academic, or high risk student misconduct must be made in accordance with the Student Conduct Policy, Student Conduct Procedure and Student Conduct - Senior Officer Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) If a potential student misconduct matter or report is referred to the Student Conduct Board, the University Secretary and Academic Registrar (or delegate) may:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "do anything reasonable and proportionate to the circumstances to resolve the matter or report informally without making a determination of misconduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "return the matter or report to the referring Senior Officer with appropriate advice, requesting: further investigation, information, and development prior to resubmission, or that the matter be addressed in accordance with the Student Conduct - Senior Officer Procedure",
+              "subclauses": [
+                "further investigation, information, and development prior to resubmission, or",
+                "that the matter be addressed in accordance with the Student Conduct - Senior Officer Procedure"
+              ]
+            },
+            {
+              "clause_number": "3",
+              "text": "redirect the matter or report to a Senior Officer with specialised subject-matter expertise such as sexual harm, IT security, academic integrity, or discipline specialisation or to avoid any known or potential conflict of interest",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "refer the matter for an internal and/or external investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "accept the matter or report as referred and advise the Secretary to convene a hearing of the Student Conduct Board for the purpose of making findings, and apply penalties and/or consequences, where appropriate in accordance with the Student Conduct Regulations, Student Conduct Policy, and this procedure, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "determine that no further action is required under the Student Conduct Policy and this procedure, providing appropriate notification to the referring Senior Officer, reporting person through their preferred method of contact and the respondent student (where appropriate).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) Where a potential student misconduct report referred to the Student Conduct Board relates to or may affect or impact the safety of any person, present any increased level of risk, or where it involves sexual harm:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the Chair must consult with Safer Community on the appropriate arrangements for conducting any investigation, hearing or other matters involving the consideration of the report, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where relevant and practicable, the Chair and at least one of the other Senior Officer members of the Student Conduct Board, will have undertaken relevant training in relation to sexual harm, and taking a trauma-informed approach.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Investigations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) Investigations may be requested by the University Secretary and Academic Registrar (or delegate) in accordance with clause (11) d, or the Chair, Student Conduct Board during the course of a hearing where the complexities of the matter require additional or specialised investigation. In either case, the University Secretary and Academic Registrar (or delegate), or the Chair, Student Conduct Board (as appropriate) will decide how any such investigation may be carried out, including whether the investigation is appropriately undertaken by an external resource, or by a person or group within RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) The University Secretary and Academic Registrar (or delegate) or Chair, Student Conduct Board may request that an investigation be conducted by",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an officer of RMIT with appropriate subject-matter expertise, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "an external organisation or person.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(15) RMIT may establish a register of external providers with expertise or skills in relation to the investigation of certain subject matter, including misconduct involving sexual harm.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) Where an investigation is requested the investigating officer will be appropriately briefed in relation to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "conducting their investigation in accordance with this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "determining whether each of the assertions within the potential student misconduct report are able to be substantiated",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "preparing an investigation report supported by documentary evidence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(17) Appointment and investigation by an external resource will likely be more appropriate where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the nature of reported conduct is serious",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the availability of any evidence or material relevant to the matter is such that it may require technical expertise to obtain it",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "there is a higher level of risk or threat associated with the reported conduct, as determined in accordance with the assessment undertaken by Safer Community",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the likely investigation is complex",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the subject matter of the reported conduct is sensitive or likely to require a particular skillset to appropriately investigate it",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the persons likely to be involved are vulnerable or have specific needs, and where an external investigation would best facilitate their engagement (including taking into account age, disability, language, social or cultural background or any other relevant characteristics)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "there are not appropriate internal resources available to undertake an investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "the potential outcomes available require it, if a finding of misconduct were to be made (for example if the outcome depended on the need for a specific finding of fact which could only be substantiated through an investigation), or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "there are any other relevant factors which support the use of an external investigation resource.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(18) Where an external investigator is to be appointed, the Academic Registrar (or delegate) will notify the relevant College or Portfolio with whom the respondent student is studying of the appointment and the need to meet investigation costs.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Concluding an Investigation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(19) In the case of matters that have been referred to the Student Conduct Board, the University Secretary and Academic Registrar (or delegate) must form a preliminary view about the potential student misconduct based on the report, relevant evidence, any internal and external final investigation reports (where applicable) and may either:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "determine that the conduct may constitute misconduct under the Student Conduct Policy and advise the Secretary to convene a hearing of the Student Conduct Board, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "determine that no further action is required under the Student Conduct Policy and this procedure where the misconduct is considered not to be substantiated. The Academic Registrar (or delegate) will notify the respondent student, referring officer and reporting person by their preferred method of contact (where appropriate) of this determination as quickly as practicable and confirm it in writing.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Student Conduct Board Hearing",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Where the Student Conduct Board is convened, its membership will accord with quorum requirements set out within the Student Conduct Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Before the start of proceedings, members of the Student Conduct Board must declare any actual, potential or perceived conflicts of interest to the Chair of the Student Conduct Board. The Chair will consider whether there is an actual, potential or perceived conflict of interest. The Chair will decide:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "whether the member should continue to sit on the relevant Student Conduct Board having regard to the nature of the conflict of interest, and if not, the Chair will request a replacement member be appointed, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "whether the member can remain sitting on the relevant Student Conduct Board, and how to manage the actual, potential or perceived conflict of interest.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(22) Membership of the Student Conduct Board will not include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a Senior Officer who was involved in the investigation, hearing, or referral of the reported misconduct, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "to the extent practicable, a Senior Officer who is from a school/industry cluster responsible for the program in which the respondent student is enrolled.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(23) Where the University Secretary and Academic Registrar (or delegate) forms a view that the potential student misconduct may constitute general, academic, or high risk misconduct, the secretary will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "convene the Student Conduct Board in accordance with the Student Conduct Regulations, Student Conduct Policy, and this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "notify the respondent student: of the opportunity to respond to the report with notifications, documentation and timelines provided in accordance with clause (33) that they may be accompanied by a support person and/or advocate in accordance with this procedure (where applicable) details of student support services.",
+              "subclauses": [
+                "of the opportunity to respond to the report with notifications, documentation and timelines provided in accordance with clause (33)",
+                "that they may be accompanied by a support person and/or advocate in accordance with this procedure (where applicable)",
+                "details of student support services."
+              ]
+            },
+            {
+              "clause_number": "11",
+              "text": "(24) Where a matter involves a report from another person, that person will be informed by their preferred method of contact about when and where the hearing of the Student Conduct Board is to take place.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(25) For matters involving sexual harm or other behaviour that is concerning, threatening or inappropriate, the University Secretary and Academic Registrar (or delegate) may invite any person impacted or affected by the respondent student's conduct to make a written submission to the Student Conduct Board regarding the impact or effect of the respondent student's conduct on them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(26) Where the Student Conduct Board makes a finding of misconduct, it will consider reports from persons impacted by the misconduct when determining to apply one or more consequences, or administrative, disciplinary, or academic penalties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(27) At the Student Conduct Board hearing, where invited to participate in person, the respondent student may be accompanied by a support person and/or advocate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(28) An advocate, and not a support person, is permitted to make submissions on the respondent student’s behalf.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(29) Any person who is under the age of 18 must be accompanied to any meeting or hearing by a parent, guardian or caregiver who is responsible for their interaction with RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(30) A student must seek permission from the Chair, Student Conduct Board if they want to be represented by a legal practitioner or to otherwise have a legal practitioner make submissions on their behalf.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(31) The Chair has discretion not to allow a student to be represented by a legal practitioner or to have a legal practitioner make submissions on their behalf.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(32) The Student Conduct Board as constituted in a particular matter may be assisted by Counsel, being an external legal practitioner (Counsel Assisting). The role of the Counsel Assisting is to provide legal advice to the Student Conduct Board on how to effectively discharge its obligations under, and comply with, the Student Conduct Regulations, Student Conduct Policy and this and other applicable procedures. Counsel Assisting will not:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "undertake advocacy for the Student Conduct Board,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "make written or verbal submissions to or for the Student Conduct Board, or the respondent student, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "undertake examinations of any persons on behalf of the respondent student or the Student Conduct Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(33) A student may respond to a potential student misconduct report, the investigation materials and related documentation to be considered by the Student Conduct Board by way of participation in a hearing in person (which may include by telephone or online video conference):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "with date, time, and location details (and connection information where applicable) scheduled no earlier than 10 working days from the date of the written notification and provision of the report and related documentation, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if the respondent student does not wish to participate in the hearing, they may provide a written submission no later than two working days before the date of the scheduled hearing of the Student Conduct Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(34) Where a respondent student makes a written submission to the Student Conduct Board electing not to participate in a hearing, the Student Conduct Board will consider the matter on the basis of the potential student misconduct report and the response provided by the student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(35) A respondent student must confirm their attendance and the name of their support person/s and any advocate at least two working days before the hearing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(36) The Chair may re-schedule a hearing where the respondent student:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "provides reasonable evidence that they are unable to attend at the scheduled time, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provides written consent to waive the requirement of 10 working days notice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(37) The Chair may request written documentation to support the respondent student’s reasonable cause for not attending, including but not limited to a health practitioner’s report and/or a statutory declaration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(38) If the respondent student does not make a written submission or does not attend a hearing within 10 minutes of the scheduled commencement time, and has not provided information about a reasonable cause for their non-submission or non-attendance as the case may be, the Student Conduct Board may proceed with consideration of the conduct matter and any determination of the Student Conduct Board will be binding.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(39) The Chair will ensure that the Student Conduct Board hearing:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is held confidentially, and in a comfortable venue (if not conducted via telephone or online video conference), and that the safety and wellbeing of the respondent student, their support person/s, members of the Student Conduct Board, and any other persons in attendance including RMIT staff, other students or witnesses is supported",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "as far as possible provides the respondent student and their support person/s and/or advocate/s access to a separate private space for consultation before and after the hearing (if applicable when telephone/online video conference is used)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "starts at the scheduled time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "proceeds without interruption, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "is managed to ensure that all parties are treated with respect.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(40) The Student Conduct Board:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "must conduct the hearing in accordance with this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "must act fairly in all the circumstances",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "may make such inquiries and communicate with the people they determine to be relevant and necessary to enable them to properly determine the matter",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "may require any officer to attend the hearing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "may ask any student to attend a hearing or interview, or to provide information in relation to the matter; however the Student Conduct Board may not compel or force a student to attend a hearing or interview, or to provide information relating to a student conduct matter.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "45",
+              "text": "(41) The Student Conduct Board may make inquiries with any reporting person or persons who were affected or impacted by the potential student misconduct, considering guidance from Safer Community in relation to how this may be done in a trauma-informed and appropriately sensitive manner.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Student Conduct Board Determinations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(42) Once the Student Conduct Board has considered all relevant materials, and the respondent student's response (where applicable), the Student Conduct Board must determine:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "what occurred, as a finding of fact, on the balance of probabilities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "whether what was found to have occurred constitutes misconduct, and then",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "to: take no further action, or apply consequences or penalties or any other steps available to them in accordance with the Student Conduct Regulations and Student Conduct Policy.",
+              "subclauses": [
+                "take no further action, or",
+                "apply consequences or penalties or any other steps available to them in accordance with the Student Conduct Regulations and Student Conduct Policy."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Student Conduct Board Outcome Notification",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(43) The Secretary must provide written notification of the Student Conduct Board outcome within 10 working days of the scheduled hearing or deadline for written response advising, where relevant:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the specific provisions of the Student Conduct Policy or other policy document that has been reported to be breached or not complied with",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the reasons for the determination",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any consequences, penalties and/or conditions imposed, and why any are appropriate in view of the nature of the established misconduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "that consequences can arise from a failure to comply with outcome determinations in accordance with the Student Conduct Policy and that this may lead to further conduct action",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "any other consequences for, or impacts on, the respondent student and their relationship with RMIT, including any implications there may be in relation to a respondent student’s visa",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "information about available support services for the respondent student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "that a determination to suspend or expel a completing respondent student (where appropriate) will preclude RMIT from issuing them with any award of the University (in the case of a suspension, until the suspension has concluded), unless this requirement is specifically waived by the Student Conduct Board, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "the opportunity to lodge an appeal against determination and any consequences or penalties in accordance with the Student Conduct - Appeals Procedure within 20 working days of the date of the written outcome notification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(44) Where a matter relates to a report from another person, the University Secretary and Academic Registrar (or nominee) will advise that person, by their preferred method of contact, the outcome determination of the Student Conduct Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(45) Where a finding of misconduct has resulted in the imposition of consequences or penalties, the specific nature of the consequences or penalties imposed should only be communicated to the reporting person to the extent relevant and appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "In some cases, for privacy reasons, the details of an outcome and the corresponding consequences or penalties cannot be communicated to anyone other than the respondent student and their representatives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If a Student Conduct Board has applied a consequence or penalty, this would not be communicated to the reporting person, unless it was directly relevant to the reporting person because of an impact or repercussion for them as a result of that consequence or penalty. For example, if a respondent student has been suspended from RMIT premises, and if this is relevant to a reporting person for the purposes of their attendance at RMIT premises, this would be communicated to the reporting person.",
+              "subclauses": [
+                "For example, if a respondent student has been suspended from RMIT premises, and if this is relevant to a reporting person for the purposes of their attendance at RMIT premises, this would be communicated to the reporting person."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

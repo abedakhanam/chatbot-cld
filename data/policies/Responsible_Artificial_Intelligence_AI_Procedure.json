@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "title": "Responsible Artificial Intelligence (AI) Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=305",
+    "scraped_date": "2025-10-31 01:25:19"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) Human, societal, and environmental wellbeing: AI assets should benefit students, staff, researchers, alumni, industry, the environment, and the broader communities in which RMIT operates according to our mission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Human-centred values: An AI asset must operate in accordance with human rights and respect and preserve the dignity of individuals and groups.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(10) Fairness: The benefits of AI should be accessible to all students, staff, researchers and broader communities in which RMIT operates. AI assets should promote fairness, non-discrimination, and diversity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(11) Transparency: RMIT, including all staff and students, are responsible for providing transparency and reasonable disclosure in the use of AI. It should be clear when and how AI is used in learning, teaching, research, business and operational activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Accountability: RMIT staff responsible for the different phases of the AI asset lifecycle should be identifiable and accountable for the outcomes of the AI assets, and human oversight and control of AI assets should be maintained.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(13) Contestability: RMIT will ensure timely and just processes exist to challenge the use, consequences and outcomes of an AI asset when it significantly impacts a person, community, group or the environment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(14) Privacy and Security: RMIT must ensure that any AI asset used by the institution upholds the privacy rights and data protection of AI Consumers and ensure the security of data in keeping with policy, legislation of the region and requirements of a public institution.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(15) Reliability: AI assets endorsed by RMIT that are built or under licence agreements should be tested to operate reliably in accordance with their intended purpose.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(16) Education and Literacy: AI assets endorsed by RMIT should be accompanied by relevant education on their intended purpose, operations, outcomes and risks to facilitate discussion between educators, researchers, students, and professional staff.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Existing Governance Controls",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) The AI Governance Framework will be operationalized through existing governance controls, and where needed, further assessment may be undertaken for the context of AI.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) Existing risks assessments, indicated below, must be completed before the AI Governance Framework is initiated. These assessments will also determine if the initiative is introducing an AI component(s):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Privacy Impact Assessment(PIA)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Security Risk Assessment (SRA)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Third-Party Risk Assessment (TPRA).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "AI Governance Framework",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(19) Once the above governance assessments are completed and the initiative has been determined to introduce AI will be assessed for entry into the RMIT Information Domain Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(20) The RMIT Information Domain Register is used to catalogue AI assets, for visibility, oversight and accountability across the lifecycle of AI assets.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(21) An initiative which introduces AI will qualify for entry into the RMIT Information Domain Register if RMIT can modify its AI parameters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(22) The modification of parameters includes activities that RMIT may perform to influence the behaviour and outputs of the AI/Machine Learning (ML) model, including model training, hyperparameter tuning, Large Language Model (LLM) fine tuning, modifying LLM system prompts and LLM selection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(23) Initiatives which introduce AI which RMIT is unable to modify the parameters of will be assessed and managed according to the existing Risk Management Policy and related procedures to determine if the risk is within one or more Domain Risk Appetite Statements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(24) Initiatives which introduce AI which are assessed as being able to have their parameters modified by RMIT, will be determined to be AI Assets and added into the RMIT Information Domain Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(25) The Risk Exposure Tool will be used to assess the level of risk AI assets within the enterprise catalogue present to RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(26) If an AI asset poses a risk, it is categorised as a tier 2 risk within the risk profile of the relevant college, portfolio, or controlled entity as per Risk Management Policy. Some AI assets may be subject to transparency reporting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(27) The purpose of a transparency report is to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "help the AI Consumers and stakeholders understand how an AI asset behaves, what it does, its intended application, and precautionary actions required as part of its adoption",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "enable compliance with RMIT policies, including the Privacy Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(28) Risks associated with AI assets will be reported to governance committees (i.e. Council, Audit and Risk Management Committee, Academic Board etc.) in accordance with the Risk Management Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(29) An individual or group assumes the role of AI Sponsor when they initiate, fund, and/or oversee the implementation and adoption of AI assets. AI Sponsors are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the realisation of value and benefits of AI assets, in alignment to RMIT strategy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ownership and management of risks of AI assets and ensuring that, if necessary, the AI asset is catalogued.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "independently overseeing and ensuring compliance to RMIT policies, including the Risk Management Policy, Information Technology and Security Policy, and Information Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(30) An individual, group or third party assumes the role of AI Developer when they create, design, build, test, and/or deploy an AI asset. AI Developers are responsible:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for selecting the appropriate architecture, data, algorithms and ensuring the quality, performance, and robustness of the AI asset.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "creating entries in the catalogue at the direction of the AI Sponsor and AI Assurer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(31) An individual, group or third party assumes the role of AI Operator when they monitor and evaluate or verify an AI asset and its outcomes. AI Operators are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "monitoring, maintenance, and ongoing compliance of AI assets",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "creating entries in the catalogue at the direction of the AI Sponsor and AI Assurer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(32) An individual assumes the role of an AI Consumer when they interact, use or benefit from the AI assets or AI generated outputs. AI Consumers are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "using the AI asset in a responsible and ethical manner",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing feedback and reporting any issues or concerns.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(33) An individual member of the Data and AI Risk Management Stewards Working Group (AISG) is assigned to act in the role of AI Assurer and must be independent from that of any AI Sponsors, AI Developers and AI Operators. They are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "independently reviewing AI assets and AI risks to enable risk management processes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reviews the level of risk and informs the AI Sponsor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "independently ensuring the roles and responsibilities defined in this procedure are followed.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

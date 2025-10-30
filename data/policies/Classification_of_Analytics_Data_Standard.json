@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "title": "Classification of Analytics Data Standard",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=181",
+    "scraped_date": "2025-10-31 01:26:28"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "General",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Access to RMIT information and information systems can be logical or physical and is regardless of the information being held on RMIT’s premises or at other locations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) All individuals who use, author, or administer data for analytics are accountable for compliance to this Standard as identified in the relevant responsibility.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) The following requirements assist RMIT to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "identify the appropriate classification of data",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensure users are aware of their responsibility when using, producing, or sharing data.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

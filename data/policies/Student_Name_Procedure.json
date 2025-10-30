@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "title": "Student Name Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=263",
+    "scraped_date": "2025-10-31 01:26:16"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Conditions applicable to the use of primary and legal name",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT records and maintains a record of a student’s legal name as their primary name at RMIT. The legal name will continue to appear within university records and systems where required by law.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) Students provide their legal name at the point of admission. This must be either verified against official identity documents or updated to verify their identity. While an individual may have documentation that reflects different versions of their legal names, RMIT can only maintain one primary name within RMIT records and systems at any given time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) The components of the primary name include title, first name, middle name and last name. Due to system limitations, it is not possible to include special characters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) Where students change their legal name, they must immediately notify RMIT and provide official documentation to confirm this change on RMIT’s records.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) Following a change to their legal name, students should ensure their legal name is also updated with other government or external agencies who may verify data from RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(9) The legal name will be used by RMIT as relates to current or former award students for the following activities:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "To verify student identity and citizenship or residency status.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "To report student data for any state and federal reporting and collection requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "To issue official university communication which includes, but is not limited to: Student Invoices Statements of Enrolment Academic transcripts Commonwealth Assistance Notices (CAN) Electronic Commonwealth Assistance Form (eCAF) Australian Higher Education Graduation Statements Testamurs Statements of Attainment Statements of Academic Completion Vocational Education qualification statements Enrolment verification letters and third-party documents Communication regarding scholarships and prizes.",
+              "subclauses": [
+                "Statements of Enrolment",
+                "Academic transcripts",
+                "Commonwealth Assistance Notices (CAN)",
+                "Electronic Commonwealth Assistance Form (eCAF)",
+                "Australian Higher Education Graduation Statements",
+                "Statements of Attainment",
+                "Statements of Academic Completion",
+                "Vocational Education qualification statements",
+                "Enrolment verification letters and third-party documents",
+                "Communication regarding scholarships and prizes."
+              ]
+            },
+            {
+              "clause_number": "10",
+              "text": "(10) A student who legally changes their name must submit the necessary paperwork and supporting identity documentation as outlined in the “Update your personal details” webpage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(11) Students who have legally changed their name to affirm their gender may apply for a replacement testamur as per the Conferral and Graduation Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Conditions applicable to the use of a preferred name",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(12) RMIT recognises that students may wish to use a preferred name (also known as a nickname or chosen name) rather than their legal name to identify themselves for a range of university-related activities where the legal name is not required. RMIT supports this choice and as such students may designate a preferred name regardless of whether they have legally changed their name.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT will provide an alternative option student card upon request. The Preferred Name Student Card will be issued to students to support gender affirmation, and to Aboriginal and/or Torres Strait Islander students for the purpose of cultural practice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(13) A student may choose to provide a preferred name in addition to their legal name. A student may add or change a preferred name without the need to provide supporting documentation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(14) In the absence of a student providing a preferred name RMIT records and systems will default to their legal name as their preferred name.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(15) A preferred name may be used in RMIT application systems, for student communications, and informational materials, including hard copy communication, except where the legal name is required for legal, compliance and reporting purposes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) Not all RMIT application systems use or display preferred name. Where a preferred name is used, these systems may do so in different ways, such as display first name only, or display first name and last name only. When preferred name is displayed, it does not include middle name.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(17) Where a student has provided a preferred name, staff should use this name respectfully in all interactions directly with the student, including in person and written communications, as well as when representing them with others.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(18) The components of the preferred name include title, first name, middle name and last name. The same system limitations that apply to the legal name also apply to the preferred name, i.e., it is not possible to include special characters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(19) RMIT will monitor preferred names and reserves the right to remove the preferred name if it contains language considered inappropriate or offensive and is not in accordance with RMIT’s core values. Any removal of inappropriate preferred names will default to the student’s legal name.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(20) Preferred names may be used provided it is not intended to avoid legal obligations or being used for the purpose of misrepresentation or fraud.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(21) Preferred names may not be used for commercial or promotional purposes, therefore may not be a company name, group name, or message.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(22) A preferred name will remain in effect until a student changes the name.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Use of a student identification number",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) A student identification number is generated and issued to every new student. The student identification number uniquely identifies them in RMIT systems indefinitely.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) The student identification number is used as the primary value to identify and verify students and is how RMIT staff processes student information for teaching and educational support in RMIT systems.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Gender identity and title",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(25) RMIT maintains a record of a student’s gender and title which appears within some RMIT records and systems where required by law.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(26) A student may update their gender and/or title within their student record without the need to provide supporting documentation.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

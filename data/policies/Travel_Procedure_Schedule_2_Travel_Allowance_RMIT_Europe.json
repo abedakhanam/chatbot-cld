@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "title": "Travel Procedure Schedule 2 - Travel Allowance RMIT Europe",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=271",
+    "scraped_date": "2025-10-31 01:22:23"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "For domestic travel within Europe",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) Reasonable amounts are provided in the tables below for meals (breakfast, lunch and dinner).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Any expenditure on accommodation overseas must be fully substantiated.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

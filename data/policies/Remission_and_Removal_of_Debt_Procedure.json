@@ -1,0 +1,552 @@
+{
+  "metadata": {
+    "title": "Remission and Removal of Debt Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=117",
+    "scraped_date": "2025-10-31 01:25:27"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Eligibility",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) A student is eligible to apply for a remission or removal of debt if they:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "withdrew from a course after the relevant class enrolment census date; and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "were prevented from completing a course; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "demonstrate the special circumstances prescribed in clauses (11) to (16) of this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(6) Students who meet the eligibility criteria defined in clause (5) may apply for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "remission of their HECS-HELP, FEE-HELP or VET Student Loan debt for that course; and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a re-credit or refund of their upfront student contribution payment for that course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) There is no refund of any up-front paid Student services and amenities fee (SSAF) or remission of SA-HELP debt after the census date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(8) Conditions for applying for remission of debt are prescribed in accordance with applicable legislation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(9) RMIT will consider applications where a student can demonstrate that their special circumstances:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "were beyond their control",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "did not make their full impact on the student until on, or after, the census date, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "made it impracticable for the student to complete the requirements for the course during the period in which they undertook (or were to undertake) the course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(10) No remission will be considered where a course has been successfully completed.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Criteria for Special Circumstances",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Special circumstances are considered beyond a student’s control if each of the following conditions is met:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a reasonable person would consider the situation is not due to the student’s direct or indirect action or inaction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the situation is unusual, uncommon, or abnormal",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the student is not responsible for the situation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Special circumstances are considered not to have made their full impact on the student until on or after the relevant census date if those circumstances presented:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "before the census date but worsened after that date",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "before the census date, but the full effect or magnitude did not become apparent until after that date",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "on or after the census date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(13) Special circumstances that may have made it impracticable for a student to complete course requirements include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "medical circumstances (e.g. where the student’s medical condition has changed to such an extent that they are unfit and unable to continue studying)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "family/personal circumstances (e.g. death or severe medical problems within a family, or unforeseen family financial difficulties, so that it is unreasonable to expect a student to continue studies)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "employment-related circumstances (e.g. where a student’s employment status or arrangements have changed to the extent that they are unable to continue study and this change is beyond their control); these circumstances do not apply to international students with visas that specify restriction(s) on employment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "program-related circumstances (e.g. where RMIT has changed the course it had offered and the student is disadvantaged by either not being able to complete the course or not being given credit upon successful completion towards other courses or programs).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(14) A student’s inability to complete course requirements may include being unable to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "undertake the necessary private study required, or attend sufficient lectures or tutorials or meet other compulsory attendance requirements in order to meet the compulsory course requirements complete the required assessable work",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "sit the required examinations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "complete any other course requirements as a result of the special circumstances detailed in clause (13).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(15) Special circumstances do not include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lack of knowledge or understanding of requirements under this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an applicant’s incapacity to repay a HELP debt.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(16) A student does not need to demonstrate they were prevented from withdrawing from the unit prior to the census date.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Assessment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) RMIT will consider whether it was already apparent the student would not meet course requirements at the time the special circumstances emerged.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) If a student has not met the ongoing compulsory requirements of the course, their failure to sit the final examination (and/or deferred examination) does not of itself make it impracticable for them to complete the course. In this case RMIT may decide not to remit/re-credit/refund.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(19) The requirements for continuous assessment and attendance must be explicitly stated in the University’s rules prior to course commencement and substantiated as required.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Application Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Eligible students seeking remission of debt or fee liability must submit an Application for remission of debt in special circumstances with all required supporting documentation:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "within 12 months of the relevant course end date; or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if the student withdrew from the course, within 12 months from the date of that withdrawal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(21) RMIT may waive this requirement at its discretion where an applicant demonstrates the application could not be made within relevant time limits.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(22) Applications must be supported with documentation from an independent source or authority which clearly addresses:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the circumstances upon which the application is based",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the affected dates/duration of the circumstances",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the level of impact the circumstances had upon the student’s ability to complete the course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(23) Supporting documentation must be in English. If supporting documentation is in a language other than English, an authorised translation into English completed by a NAATI-accredited translator must also be submitted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(24) A personal statement alone is not sufficient to support an application for remission of debt.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(25) Statutory declarations are not accepted as supporting documentation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Application Receipt and Outcome",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(26) RMIT will acknowledge receipt of an application by email within three working days of submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(27) The outcome notification, reasons for the determination and advice on review opportunities will be provided by email within 60 calendar days from the date of receipt.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(28) If an application for remission of debt is approved, RMIT will notify the relevant regulatory authorities as required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(29) Eligible students will be advised of their eligibility to apply for a refund (via the Refund of Fees Procedure).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(30) RMIT reserves the right to credit any excess fees against current and future semester enrolment liabilities, except where otherwise defined by legislation, or where the student specifically requests a refund of credit via the Refund of Fees Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(31) Students who receive a successful outcome will receive an academic grade of RSC (Remission (removal) of debt under Special Circumstances).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(32) The RSC grade does not count towards completion of a program and is not included in the calculation of Grade Point Average (GPA) or Weighted Average Mark (WAM).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Request for Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) RMIT provides one opportunity for students to seek a review of the original decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(34) A request for a review must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be lodged no later than 28 calendar days from receiving the outcome advice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if it lodged outside 28 calendar days, specify the impact that the student’s circumstances have had on their capacity to meet the 28-calendar day deadline for the purpose of assessment under cl (41) – (44), including any supporting documentation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "quote the file/reference number provided at the top of the outcome notification",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be in writing and state the reason(s) for requesting a review",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(35) Students are not required to provide further evidence with a request for review of the original decision but should carefully consider whether such evidence would support the submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(36) RMIT will acknowledge receipt of a review request by email within three working days of submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(37) The review will be undertaken by a staff member who was not involved in the original outcome decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(38) RMIT will notify the student of the review outcome to either:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "confirm the original outcome",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "vary the original outcome",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "set the original outcome aside and make a new decision/s.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(39) The review outcome notification will be provided by email within 28 calendar days from the date of receipt. If the review outcome is unsuccessful, this notification will include the reasons for the determination and advice on external review opportunities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(40) Resubmission of an application for the same course/s is not permitted where a denied outcome has already been provided",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "these applications will not be processed; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "students must instead use the review process available to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(41) RMIT may exercise discretion in considering requests for a review received later than 28 calendar days from receiving outcome advice on the original application in accordance with RMIT’s aspirations for inclusion, diversity, equity and access.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(42) In considering whether to exercise discretion to accept a late review request, RMIT must consider any impact the student’s circumstances as specified in their request for review under cl (34) have had on their capacity to meet the 28 calendar day deadline.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(43) Applications to accept a late review request may be considered when exceptional circumstances outside the student’s control preventing timely submission are established with supporting documentation. These circumstances may include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "where a student was or became incapacitated, or experienced an exacerbation of an existing condition that prevented timely submission, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where they made a genuine effort to submit the review request during the timely review period, but the application did not reach RMIT for reasons outside of their control.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(44) A staff member who was not involved in the original decision will consider a late application for review based on:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the time elapsed since the 28 calendar day timeframe",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "whether the reason/s provided for the late review request are considered valid and exceptional circumstances",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the supporting evidence provided in relation to the late review request submission.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(45) If a late submission for a review is accepted, the review will be conducted in accordance with cl. (36) – (39). If a late submission for review is not accepted, the original outcome will be confirmed in accordance with cl (38).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(46) Students may request a further and final review of a decision not to accept a late review submission by the senior officer of the operational unit where the original application was submitted:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for Enrolment and Student Records: Associate Director",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for Integrity and Assessment Support: Associate Director",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "for Integrity and Assessment Support (Vietnam): Associate Registrar.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(47) A further and final review request must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be made no later than 10 calendar days from receiving the outcome advice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "quote the file/reference number provided at the top of the outcome notification",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be in writing and state the reason(s) for requesting a further and final review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "36",
+              "text": "(48) A further and final review will be assessed in accordance with cl (42) - (45), with consideration given to any reasons specified in the request for further and final review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(49) There is no further opportunity for review of late review request submissions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(50) Students who are dissatisfied with the original outcome or outcome of a timely review determination may seek external review. There is no opportunity for further internal review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(51) Students are advised of available external review opportunities with original outcomes and review determinations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Provision of False or Misleading Information or Documentation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(52) Where it is determined that a student has provided false or misleading information or documentation in their application for remission of debt, RMIT will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "notify the student immediately",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "cease any further action with regards to the application",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "refer the matter in accordance with the Student Conduct Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(53) RMIT will notify government departments of any suspected offences as appropriate and will provide a copy of the student’s application and any other relevant information or material as requested.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

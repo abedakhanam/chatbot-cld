@@ -1,0 +1,1452 @@
+{
+  "metadata": {
+    "title": "Program and Course Design Procedure - Higher Education Coursework",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=298",
+    "scraped_date": "2025-10-31 01:24:55"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Higher Education Coursework Program Design Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) Award programs are structured:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "incrementally to scaffold learning and provide depth and breadth to students' application of knowledge and skills as they progress through the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "to ensure a positive student learning experience and to maximise student agency through providing flexibility and options in breadth and depth where available",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "to leverage pathways, exit and entry points and nesting where possible",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "with constructive alignment to enable achievement of program learning outcomes contextualised to discipline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "to embed distinctive RMIT Capabilities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "with industry relevance, using Industry Partnered Learning (IPL) for opportunities to connect theory with practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "to ensure the program experience fosters both local and global perspectives and capabilities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(5) In addition to the above, undergraduate award programs two years or longer (full-time equivalent) are structured:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "to build from a first-year foundation block",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "with the use of majors and minors where possible",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "to include inter/trans/cross discipline opportunities for all students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(6) Program design must be compliant with the AQF award level specified for the program award title to be conferred.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(7) The proportion of courses in a program that are required to meet the AQF level of the award may vary but must be sufficient for students to develop their knowledge, skills, and application of knowledge and skills to enable them to achieve the program learning outcomes mapped to the appropriate award level at the point of graduation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(8) Courses in a program can be scaffolded through the use of foundation, intermediate or advanced categorisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(9) The scaffolding of courses in a program must consider any articulation agreements so that students who have completed a lower-level award are able to seamlessly transition to a further qualification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(10) Award programs adhere to the guidance provided by the AQF qualification descriptors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(11) The specified learning outcomes for each program encompass:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "specific knowledge and skills and their application that characterise the field(s) of education or disciplines involved",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "RMIT Capabilities and their application in the context of the fields of education or disciplines involved",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "knowledge and skills required for employment and further study related to the program, including those required to be eligible to seek registration to practice where applicable, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "skills in independent and critical thinking suitable for life-long learners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(12) Programs may have a reduced volume of learning where the entry requirement is a qualification for which students receive a standard amount of credit, or when Recognition of Prior Learning (RPL) or Masters Advanced Standing is granted. Refer to the Credit Procedure for further information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(13) The maximum time periods for completion of programs by students is specified in the Enrolment Procedure - Maximum Time to Complete a Coursework Program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(14) Program design must include the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "program learning outcomes mapped to the AQF Level and qualification type for the award level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "benchmarking of the program learning outcomes against national and international comparators",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "course learning outcomes that are scaffolded to meet program learning outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the relationship of each course learning outcome with the assessment method",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "how the approved set of RMIT Capabilities will be explicitly embedded across the program structure according to award level and program learning outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "equivalence of learning outcomes and RMIT Capabilities across all offerings and course combinations (for example, majors and minors) a student may select from to complete their award program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Industry Partnered Learning (IPL) experiences, through Career Development Learning (CDL), Industry Embedded Activities (IEA) and Work Integrated Learning (WIL)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "how the program structure and course combinations optimally support student learning and progression in the discipline field of the award",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "professional accreditation standards and capabilities, where applicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(15) Refer to Program and Course Approval Procedure - Higher Education Coursework, Short Courses and Micro-Credentials and the Academic Case Form for detailed requirements on evidencing the elements listed above in the academic case.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "36",
+              "text": "(16) Award programs are designed to ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT’s suite of programs remain sustainable",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "efficiency of delivery and administration by reducing duplication and sharing courses where possible, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "students are able to enrol online independently.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Education Coursework Program Design and Program Structural Components",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) The structural design of higher education programs and courses is enabled through a combination of:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a unit of learning measured in credit points, which must be a minimum of 1 credit point",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a curriculum structure block that is a consistently sized unit of learning with a distinct credit point value to form a program structural component, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "aggregation of curriculum structure blocks to create a coursework program with the required program structural components.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) The program design requirements set out in Table 1 shows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "how the AQF applies to RMIT coursework award programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the AQF volume of learning, illustrated as typical years of full-time study (for example, at two semesters a year for Australian campuses)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the AQF volume of learning, in hours, based on the generally accepted length of a full-time year used for student workload as 1200 hours",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "RMIT credit points normally required to qualify for the respective awards, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "program structural components required for each award type.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(19) The Deputy Vice-Chancellor Education may approve an exemption from a program structural component in Table 1 where they are satisfied that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "professional accreditation requirements prevent electives, disciplinarity courses and/or disciplinarity minors being offered within the normal program duration",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "in a double degree program, requirements for meeting prescribed learning outcomes within a reduced volume of learning prevent electives, disciplinarity courses and/or disciplinarity minors being offered, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where there is a compelling case to create an exit-only award for students who are unable to complete a program with professional accreditation status, where the design of the nested exit-only award prevents all program structural components from being met.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(20) Programs are made up of consistently sized curriculum structure blocks that may comprise the following components:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "University elective courses or disciplinarity courses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "program capstone courses.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(21) First year blocks are comprised of courses that provide the foundational knowledge, skills, and their application as required in the primary discipline or industry field of study.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(22) Majors and minors are scaffolded from the first year block.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(23) Courses that form part of a first year block are designed where possible to facilitate breadth by delivering foundational knowledge that enable the maximum number of shared majors and minors for students to select from in the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(24) First-year blocks are designed with flexibility to allow the use of alternative courses to accommodate different educational backgrounds, for example, offering the choice of maths courses to accommodate differing VCE mathematics pre-requisites or to optimise VET pathways credit, without compromising learning outcomes or student progression.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(25) First-year blocks must be 48 credit points.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(26) First-year blocks may be offered as a disciplinarity minor in programs of a different primary discipline area.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(27) Core courses are mandatory courses that contain curriculum required to achieve the program learning outcomes at the AQF award level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(28) Core courses form program requirements as part of a first-year block, IPL, capstone and/or major/minor sequence. When major and/or minor curriculum structure blocks are present in program design, the identification of courses as core must be determined in relation to those majors and minors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(29) Where there are choices for students to complete different majors and/or minors, the major and/or minors are designed so that any combination of core courses allocated within those major and/or minor curriculum structure blocks satisfy the program learning outcomes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(30) A core course that is part of a first year block cannot also be part of a major/minor sequence in the same program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(31) Option courses are courses that a student can choose from and are suitably curated for equivalent contribution to the program learning outcomes at the AQF award level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(32) Option courses may form part of a major and/or minor sequence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(33) Option courses are listed in the program structure, major and/or minor sequence, and require the student to complete a specified number (for example, ‘complete any two from the following list of five courses’).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(34) The availability of option courses in a major and/or minor is informed by:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "suitability in satisfying the curriculum needs of the major and/or minor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the opportunity for enhancing the integration of the major and/or minor into different programs (for example, increased shareability or relevance)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "addressing the breadth of learning available within the sequence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(35) Equivalent option courses may facilitate contextualisation within a major and/or minor sequence to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "adapt the curriculum to support the needs of different student cohorts",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "leverage entry pathways and articulation agreements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "empower student agency to tailor their learning journey.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(36) A University elective is a course that a student may choose from those offered across RMIT but is not specifically listed in the program structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "40",
+              "text": "(37) University electives are only to be used when a student is required to contribute to the credit point total required for completion of a program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "41",
+              "text": "(38) A disciplinarity course is identified as a course that is sharable for inclusion outside of its primary discipline:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for use as a core or curated option course in any suitable major or minor sequence, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for use in creation of disciplinarity minors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "44",
+              "text": "(39) University electives and disciplinarity courses provide students with the opportunity to obtain breadth of knowledge and skills outside the primary discipline area that is determined through their first-year block.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "45",
+              "text": "(40) University electives and disciplinarity courses provide inter/trans/cross-disciplinary opportunities for students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "46",
+              "text": "(41) University electives and disciplinarity courses enable inter/trans/cross-disciplinarity minors that leverage RMIT’s areas of teaching and/or research strength.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "47",
+              "text": "(42) Majors are an integrated set of courses that provide specialisation and/or a discipline/disciplinarity theme to the value of 96 credit points, or more if required by professional accreditation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "48",
+              "text": "(43) Majors may provide the focus, breadth, depth, and/or specialised knowledge, skills, and their application as required in a discipline or industry field of study.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "49",
+              "text": "(44) When more than one major is offered in a program, the selection offers a complementary discipline, disciplinarity or industry field of study enabling both breadth and depth that considers:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the use of the first year block to ensure a strong disciplinary starting point that supports expansion into cross/inter/trans-disciplinary learning for all students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "novel cross-disciplinarity combinations offered as a viable and unique alternative to traditional competitor double degrees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "52",
+              "text": "(45) Majors may contain both core courses and option courses to enable:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "assurance of program and award level learning outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "enhanced student experience and choice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "55",
+              "text": "(46) Majors may culminate in a capstone experience.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "56",
+              "text": "(47) Majors can be designed in tandem with other majors or curriculum structure blocks to incrementally address professional accreditation outcomes or to provide student choice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "57",
+              "text": "(48) Minors are a related set of two or more curated courses that provide specialisation or generic skills and knowledge on a single discipline, or disciplinarity theme to the value of 48 credit points.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "58",
+              "text": "(49) Minors may provide the focus, breadth, depth, or specialised knowledge, skills and their application as required in a discipline or industry field of study.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "59",
+              "text": "(50) When included alongside a major in a program, the minor offers complementary discipline, disciplinarity or industry field of study to enable breadth.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "60",
+              "text": "(51) The availability of disciplinarity minors (inter/trans/cross-disciplinary) offered across RMIT will be curated and maintained as a defined suite by the colleges.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "61",
+              "text": "(52) Minor pre-requisites are limited to allow for a broad suite of programs to offer the minor to students across disciplines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "62",
+              "text": "(53) Minors may contain both core courses and option courses to enable:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "contribution to program and award level outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "enhanced student experience and choice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "65",
+              "text": "(54) Minors can be stacked together or with other curriculum structure blocks to support professional accreditation outcomes or to maximise student choice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "For further guidance on types of minors, refer to the Educator Resource Hub.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Refer to the Program and Course Configuration Instruction for detailed structural requirements for majors and minors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "68",
+              "text": "(55) RMIT’s approach to embedding industry and connecting with professional communities in the curriculum structure is referred to as Industry Partnered Learning (IPL).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "69",
+              "text": "(56) IPL experiences are designed in partnership with industry to be authentic and are a critical link between technical knowledge and real-world application. There are three types of IPL experiences:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Work Integrated Learning (WIL)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Career Development Learning (CDL)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Industry Embedded Activities (IEA).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "73",
+              "text": "(57) WIL is an educational approach that uses relevant work-based experiences to allow students to integrate theory with the meaningful practice of work as an intentional and assessed component of curriculum. Defining elements of this educational approach require that students engage in authentic and meaningful work-related tasks and must involve three stakeholders: the student, the University, and the workplace/community.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "74",
+              "text": "(58) CDL provides students with the knowledge, skills, and capabilities to manage their career development throughout their life. Scaffolded in programs via linkages with other IPL/WIL and/or RMIT Capabilities it contextualises and supports student reflection of their learning and application to career development.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "CDL is a developmental process and must be scaffolded across early, mid and the late stages of a program according to the CDL Framework.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Evidence of scaffolded CDL must be provided in relevant Course Guides and through course learning outcomes and assessment activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "77",
+              "text": "(59) IEA incorporate perspectives from industry and community partners in the curriculum through activities that fall outside the scope of WIL, such as guest industry lectures and panels, industry nights and networking events, industry co-designed or guided assessments, mentorships and joint research projects. In their capacity to inform aspects of career planning and management, these activities gain strength when incorporated into CDL-focused assessments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "78",
+              "text": "(60) In addition to the WIL minimum credit point requirements, award types shown in Table 1 to require IPL experiences may embed CDL, IEA or additional WIL through inclusion of:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "one IPL experience in the first year block or first year of a program (equivalent to 3 credit points)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "one IPL experience in a minor or second year of a program (equivalent to 3 credit points)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "two IPL experiences in a major or final year of program (equivalent to 6 credit points).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "82",
+              "text": "(61) The IPL minimum credit point requirements can be met as part of an existing or new course of greater credit point value, such as an assessment worth 25% and a course learning outcome in a 12 credit point course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The IPL minimum credit point requirements can be embedded across multiple courses of greater credit point value.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "84",
+              "text": "(62) Programs at AQF level 6 and above, other than undergraduate certificates, advanced diplomas, one-year honours, graduate diplomas and graduate certificates, have courses that include a capstone experience.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "85",
+              "text": "(63) Capstones are a culminating course, or several related courses, that integrate all learning outcomes of a program into a coherent assessable experience. Including IPL forms an educational approach that provides the culmination of knowledge, skills and applied work practice into an integrated experience that prepares students for their transition into real world professional practice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "86",
+              "text": "(64) Capstone experiences can be embedded as a core requirement in the major sequence/s and/or another core curriculum structure block in the program and must be a minimum of 12 credit points.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Courses with capstone experiences include summative assessment tasks that evidence all program level learning outcomes and RMIT Capabilities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Capstone experiences may or may not include WIL.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "More than one course may contribute to the capstone summative assessment experience requirement of 12 credit points. If this occurs the summative assessment tasks that contribute to the capstone experience must be clearly identified in each course guide.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "90",
+              "text": "(65) Programs with a capstone experience should be sequenced so that the capstone is properly supported by formative learning experiences. This may occur through:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "use of a touchstone to provide an introduction and preparatory knowledge, skill, and practice context for the capstone",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "completion of foundational or preparatory courses as part of the major/s or other core curriculum structure block in the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "93",
+              "text": "(66) Coursework may involve travel away from students’ primary location of study of the course offering, to complete assessment tasks. This travel may be a requirement of the course or course offering, or it may be an option available to some students in the course or course offering.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Education Coursework Program Design for Undergraduate Awards",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(67) Undergraduate Certificates support community and industry need by providing a short award program that may be used as a standalone qualification, professional upskilling, enablement of lifelong learning and/or as an articulation pathway into a higher-level award program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(68) Undergraduate Certificates are normally designed as a nested award comprising courses from:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the first semester of the parent Bachelor Award program, and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a 48 credit point set of courses such as from the first-year block, minor or major sequence that is advantageous for supporting a student articulation pathway into a higher award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(69) Courses selected as part of the Undergraduate Certificate must not have pre-requisites or assumed knowledge requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(70) The Undergraduate Certificate will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to outcomes with demonstrated industry demand as a standalone qualification",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "facilitate articulation or credit transfer between vocational and higher education qualifications as flexible entry/exit points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be designed to provide 48 credit points into undergraduate programs with an articulation agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "demonstrate program learning outcomes that may meet AQF level 5, 6 or 7 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "equate to 0.5 years full-time study, 48 credit points or approximately 600 hours of student workload.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(71) Higher Education Diplomas demonstrate understanding and applied knowledge in integrated technical and theoretical concepts in a broad range of contexts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(72) Higher Education Diplomas are normally designed using courses from:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the first year of the parent Bachelor and/or Associate Degree Award program, and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a 96 credit point set of courses such as from the first-year block, minor or major sequence/s that are advantageous for supporting a student articulation pathway into a higher award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(73) A Higher Education Diploma will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to outcomes with demonstrated industry demand as a standalone qualification",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "facilitate articulation or credit transfer between vocational and higher education qualifications as flexible entry/exit points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be designed to provide up to 96 credit points into undergraduate programs with an articulation agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "demonstrate program learning outcomes to meet AQF level 5 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "include at least 6 credit points of WIL and 3 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "equate to 1 year full-time study, 96 credit points or approximately 1200 hours of student workload.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(74) Associate Degrees demonstrate underpinning technical and theoretical knowledge in a range of contexts for paraprofessional work or as a pathway to further learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(75) Associate Degrees can be designed using courses from the first two years of a related Bachelor Award program, or can be designed to articulate into one or more related Bachelor degrees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(76) An Associate Degree will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to outcomes with demonstrated industry demand as a standalone qualification",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "offer depth of study that is specifically aligned with industry, that may be vocationally focussed, as a first design principle",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "facilitate articulation or credit transfer between vocational and higher education qualifications as flexible entry/exit points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be designed to provide up to 192 credit points into undergraduate programs with an articulation agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "map to nationally recognised AQF level 4, 5 and 6 vocational qualifications for pathway, articulation and/or credit transfer and exit/entry points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "demonstrate program learning outcomes to meet AQF 6 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "include a capstone experience and at least 12 credit points of WIL and 6 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "provide students breadth in learning through offering at least 12 credit points of University elective and/or disciplinarity option courses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "equate to 2 years full-time study, 192 credit points or approximately 2400 hours of student workload",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "where possible, provide students the opportunity of a global mobility experience.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "36",
+              "text": "(77) To meet their intended purpose, Associate Degrees:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "closely align with industry needs through industry participation in design and delivery",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "use relevant national industry and professional standards as reference points for the specification of program learning outcomes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(78) Bachelor Degrees demonstrate application of a broad and coherent body of knowledge in a range of contexts, or integrate practice in a specialist field, to undertake professional work and as a pathway for lifelong learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "40",
+              "text": "(79) Bachelor Degrees are normally designed with consideration of optimal combinations or specialisations with majors and minors that support professional opportunities or further learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "41",
+              "text": "(80) Bachelor Degrees are designed to enable articulation and pathways from nested awards and/or from lower level awards in the same or related discipline area/s.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "42",
+              "text": "(81) The Bachelor Degree will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to career outcomes demonstrated through industry demand and co-design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "facilitate pathways to further learning by research, industry placement and/or postgraduate study",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "facilitate articulation opportunities with the maximum available credit transfer from lower level cognate qualifications, and offer flexible exit points for nested awards that meet relevant design requirements to the award level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be designed to provide up to 192 credit points of credit transfer from lower-level undergraduate programs with an articulation agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "demonstrate program learning outcomes to meet AQF 7 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "include a capstone experience and at least 24 credit points of WIL and 12 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "provide students breadth in learning through offering at least 24 credit points of University electives and/or a cross-discipline major/minor",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "equate to 3 years full-time study, 288 credit points or approximately 3600 hours of student workload",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "provide students the opportunity of a global mobility experience except where professional accreditation requirements mean that this cannot be accommodated in the program structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "52",
+              "text": "(82) Bachelor Honours Degrees demonstrate the application of knowledge and skills in a specific context. This can include planning and executing a significant research project and/or project work with some independence to undertake professional or highly skilled work and/or as a pathway to research and lifelong learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "53",
+              "text": "(83) A Bachelor Honours Degree may be designed:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "as a 1-year, 96 credit point Bachelor Honours Degree to be taken after successful completion of the 3-year Bachelor Degree, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "as an embedded 4-year Bachelor Honours Degree where it fulfills requirements as an AQF 7 Bachelor award and an AQF 8 Bachelor Honours award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "56",
+              "text": "(84) The Bachelor Honours Degree will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to highly skilled outcomes demonstrated through industry demand and co-design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "facilitate pathways to further learning by entry to higher degrees by research, industry placement and/or postgraduate coursework study",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "demonstrate program learning outcomes to meet AQF 8 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "include a research component of at least 36 credit points, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "equate to 1-year full-time study, 96 credit points or approximately 1200 hours of student workload as a 1-year Bachelor Honours, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "equate to 4-years full-time study, 384 credit points or approximately 4800 hours of student workload as a 4-year Bachelor Honours.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Education Coursework Program Design for Pathways, Nested and Exit Awards",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(85) The maximum number of entry and exit points are documented for all programs in the program guide information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(86) Where possible, programs are designed to consider the ability to provide non-award study pathways.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(87) Cognate qualifications at different AQF levels are nested where possible and designed in tandem to ensure that students acquire the skills to succeed in the higher award program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(88) Pathways into cognate qualifications within a nested program suite are guaranteed for RMIT graduates, except where professional accreditation restricts entry requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(89) Where possible, when a lower-level award fulfils a subset of the requirements for a higher award, the lower award is nested within the higher award, and students may opt to exit the program with the lower award. See the Conferral and Graduation Procedure for more details.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(90) The program learning outcomes for any nested or exit awards must be suitably differentiated to map to the AQF Learning Outcome Descriptors conferred by each respective award level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(91) For articulation agreements, refer to the Articulation Agreements Guideline.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(92) In program design, consideration is given to opportunities for dual VET/HE integrated awards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(93) Where it has been identified as advantageous to students, VET qualifications are incorporated into HE program design and marketed transparently.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(94) Program design should consider how recognition of prior learning and credit transfer processes can be provided in a rigorous and generous manner, using the following equivalences for RMIT cognate disciplines as a basis:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Diploma (96 credit points block credit)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Advanced Diploma (192 credit points block credit)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Associate Degree (192 credit points block credit).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Education Coursework Program Design for Double Degrees and Joint Awards",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(95) A double degree combines the curriculum of two existing Bachelor programs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(96) Credit points and volume of learning for double degrees are determined when the program learning outcomes of the two programs are delivered in a single structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The volume of learning for an AQF 7 Bachelor double degree program is a minimum of 384 credit points and typically a duration of 4-5 years full-time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The credit points and volume of learning may be higher where one or both single degrees are an AQF 8 Bachelor honours award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(97) The curriculum design of a double degree states the program learning outcomes of both component single degrees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where appropriate, a single set of integrated program learning outcomes equivalent to the individual program learning outcomes for the two component single degrees may be used.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The program structure includes all core program requirements of both component single degrees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The program structure in a Bachelor double degree offers a minimum of 192 credit points from each component single degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "The Deputy Vice-Chancellor Education may approve exemptions where all core program requirements of both component single degrees are fulfilled, with a higher number of credit points required to meet professional accreditation requirements and/or a higher AQF level for a component single degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(98) Cross credit in a double degree can be granted for courses where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the course is a University elective or cross-disciplinary minor option",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a core course in one of the component single degrees is assessed as equivalent curriculum content to a core course in the other component single degree that has been included in the double degree structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(99) The program structure of a double degree should not require full-time students to overload by more than one course in any teaching period. It is recommended not to overload students in consecutive teaching periods.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(100) A double degree structure may include the first-year block from each component single degree, or a single first-year block where cross credit is available for courses in the first-year blocks of each constituent single degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(101) A double degree must have at least one capstone experience to meet each set of program learning outcomes, or at least one capstone experience to meet one set of integrated program learning outcomes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(102) WIL courses in a double degree provide the course learning outcomes of the designated WIL courses of each component single degree. The designated WIL courses in a double degree must meet the minimum 24 credit point requirement for the single Bachelor degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(103) The IPL experiences in a double degree must meet the minimum 12 credit points requirement for the single Bachelor degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(104) Where one or both of the component single degrees are an AQF 8 award level, the double degree includes a minimum 36 credit point research component.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(105) The double degree program meets requirements for professional accreditation of the component single degrees where relevant.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(106) On successful completion of double degree requirements, students have attained the program learning outcomes of each of the two single Bachelor awards and are eligible to receive two testamurs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(107) RMIT may enter into an agreement with an approved partner institution to deliver an award jointly or as a dual award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(108) RMIT remains accountable for the program of study and must verify continuing compliance of the program of study with RMIT policies, procedures and relevant national standards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(109) The agreement with the partner defines operational and management responsibilities such as delivery and issuance of the award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(110) The academic standards of joint and dual awards must be evidenced as equivalent to those of awards conferred solely by RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(111) A joint award program is designed so that at least half of the required credit points are designed and delivered by RMIT University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(112) Upon successful completion of a joint award, students receive a single testamur with the name of both providers that are awarding the single qualification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(113) A dual award Bachelor or Bachelor honours program must meet the design requirements of a double degree program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(114) Upon successful completion of a dual award, students receive a separate testamur and separate qualification from each provider.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Education Coursework Program Design for Postgraduate Awards",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(115) The Credit Policy provides details for reductions in the volume of learning based on prior completion of AQF awards at level 7 or above. Refer to the Credit Procedure for further information on Masters Advanced Standing and cognate entry.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(116) Graduate Certificates and Graduate Diplomas demonstrate focused development of knowledge and skills to advance an area of expertise, or to build foundational knowledge at an advanced skill level in a new discipline. They are designed for graduates to undertake highly skilled work and as a pathway to further postgraduate study and lifelong learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(117) Graduate Certificates and Graduate Diplomas are normally designed as a nested award using courses from the first year of the parent Masters program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(118) A Graduate Certificate must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to professional and/or highly skilled career outcomes demonstrated through industry demand and co-design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "be designed to provide 48 credit points as advanced standing into the parent Masters program/s",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "demonstrate program learning outcomes to meet AQF 8 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "include at least 3 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "equate to 0.5 year full-time study, 48 credit points or approximately 600 hours of student workload.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(119) A Graduate Diploma must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to professional and/or highly skilled career outcomes demonstrated through industry demand and co-design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "be designed to provide 96 credit points as advanced standing into the parent Masters program/s",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "demonstrate program learning outcomes to meet AQF 8 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "include at least 12 credit points of WIL and 3 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "equate to 1-year full-time study, 96 credit points or approximately 1200 hours of student workload.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(120) A Masters by coursework demonstrates advanced and integrated understanding of a complex body of knowledge in one or more disciplines and skills for research and/or highly skilled professional practice, and offers a pathway to lifelong learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(121) A Masters by coursework equates to 2-years full-time study, 192 credit points or approximately 2400 hours of student workload.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A Masters by coursework program may be designed to allow different entry points based on the Credit Procedure – Masters Advanced Standing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The volume of learning may be reduced to suit the program entry requirements, based on the Masters Advanced Standing Credit Point Values defined in the Credit Procedure – Masters Advanced Standing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(122) A Masters by coursework must be designed to include, irrespective of entry point:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "progression to advanced professional and/or career outcomes demonstrated through industry demand and co-design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "program learning outcomes with at least 96 credit points that meet AQF 9 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "a capstone experience and at least 12 credit points of WIL and 6 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "at least 12 credit points of research principles and research methods",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "at least 12 credit points of independent research, project work, practice-related learning, or an equivalent piece of scholarship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(123) To constitute a research pathway, a masters by coursework must provide students with the option of completing a research component comprising at least 24 credit points of courses that meet AQF level 9 requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(124) Masters by coursework (extended) demonstrates advanced and integrated understanding of a complex body of knowledge in one or more disciplines, skills for research, a significant proportion of practice-related learning, and offers a pathway to lifelong learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(125) The Masters by coursework (extended) must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead to advanced professional outcomes demonstrated through industry demand and co-design",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "demonstrate program learning outcomes with at least 96 credit points deemed to meet AQF 9 requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "include a capstone experience and at least 24 credit points of WIL and 6 credit points of IPL",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "include at least 12 credit points of research principles and research methods",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "include at least 12 credit points of independent research, project work, practice-related learning, or an equivalent piece of scholarship",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "equate to 3-years full-time study, 288 credit points or approximately 3600 hours of student workload.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(126) To constitute a research pathway, a masters by coursework (extended) must provide students with the option of completing a research component comprising at least 24 credit points of courses that meet AQF level 9 requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "36",
+              "text": "(127) Each discipline that offers programs at Bachelor level or higher will offer an appropriate program with the option of undertaking a research component of at least 24 credit points, as a pathway to higher degree by research study in the discipline.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Education Coursework Program Design Award Titles and Configuration Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(128) Award titles are consistent with the requirements of the AQF Qualifications Issuance Policy and RMIT Awards Regulations. Refer also to the Schedule of award title abbreviations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(129) Refer to the Program and Course Guide Instruction for information that must be accurately provided in program and course guides as part of curriculum design requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(130) Programs are named based on the first-year block with majors in brackets where appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Consideration is given to naming the specialisation, such as a discipline or sub-discipline, in the program title stem in exceptional cases that are justified by evidence of industry/market demand or operational requirements (for example, professional accreditation requirements).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(131) Majors are cited on testamurs and transcripts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "From 1 January 2026, minors will be cited on transcripts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(132) Detailed requirements for configuration of programs, program plans, program titles, awards, majors and minors, courses, course offerings, course requisites and classes are determined by the Academic Registrar's Group and documented in the Program and Course Configuration Instruction.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(133) Courses required to complete a defined program structure and any major sequence offered in the program structure must be scheduled so that students can complete the courses in the appropriate sequence and within the defined standard program duration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(134) The same or equivalent core or compulsory curriculum structure blocks are required for a program in any location where the program is offered, except where additional core courses are necessary to satisfy a national registration requirement or local external professional or discipline accreditation requirement.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

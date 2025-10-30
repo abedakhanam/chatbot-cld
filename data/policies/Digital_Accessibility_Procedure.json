@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "title": "Digital Accessibility Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=95",
+    "scraped_date": "2025-10-31 01:22:48"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Guiding Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Accessibility is a fundamental consideration in the design, development and implementation of digital information, technologies and services at RMIT. Accessibility improves everyone’s experience of RMIT, including people with a disability, and eliminates costly and inefficient remediation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) RMIT is committed to continuous systemic improvement. Any accessibility widget, overlay or tool that promises to automatically fix accessibility issues on RMIT digital assets is banned, as these solutions have been found to not be fit for purpose. This ban does not apply to accessibility monitoring tools that may run in the background and scan the RMIT website to identify accessibility issues.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Digital accessibility is progressively implemented to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "raise awareness of accessibility and build commitment within Colleges, Schools and Portfolios",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "achieve widespread integration of accessible design practices",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "implement needed changes to policy, standards and processes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "update training and support tools and resources, and roll these out to all areas where they are needed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "evaluate existing digital resources for compliance, prioritise and make any needed changes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "adopt the procedure in all Colleges, Schools and Portfolios.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(10) To ensure progressive implementation of accessibility, RMIT will adopt mechanisms to evaluate its progress and will provide resources to enable digital specialists to deepen their understanding of accessibility. Refer to Section 5 below for the definition of a digital specialist.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(11) RMIT develops priorities for compliance with accessibility standards, particularly for key strategic platforms, such as AEM, Canvas, Salesforce, Workday and Microsoft 365.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(12) Colleges, Schools and Portfolios must implement the procedure where possible within existing resources, with ongoing support provided by a pool of subject-matter experts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(13) When procuring new digital systems, resources and tools, Digital Accessibility must be one of the dimensions evaluated during the tender process and as a non-functional requirement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(14) Vendors are expected to provide a Voluntary Product Accessibility Template (VPAT), Accessibility Conformance Report (ACR), third party accessibility evaluations or any other form of evidence of commitment to digital accessibility during the procurement stage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(15) Accessibility must be considered during the entire relationship lifecycle with vendors. If accessibility information was not provided during the procurement stage, or if a product was adopted without following the tender process, accessibility must be assessed during contract renewal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(16) RMIT does not accept non-compliant resources on an ongoing basis and advises vendors that improvements need to be demonstrated clearly in a product roadmap or RMIT will seek alternative solutions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(17) This procedure is continuously amended in response to developments in new technology and to address any existing online resources that may inadvertently have been excluded.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(18) The RMIT Accessibility Working Group makes recommendations to the associated Policy Owner on any amendments to this procedure as external digital accessibility standards and technologies evolve.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(19) RMIT acknowledges that compliance with digital accessibility standards must be complemented with a human-centered approach that includes the perspectives of people with disability and how they use digital systems.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(20) The RMIT Accessibility Working Group must consult with people with disabilities and subject matter experts to ensure its recommendations align with the needs of people with disabilities. This consultation may be mediated through existing accessibility communities of practice, staff networks, or dedicated subject matter experts.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Standards for Digital Content Accessibility",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) These standards are based on the Web Content Accessibility Guidelines (WCAG) version 2.2, the latest version of WCAG at the time of publication of this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(22) This procedure must be updated so that it continues to reflect the latest version of WCAG.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Standards for Digital Content Authoring Tools",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) The minimum standards for digital content authoring tools, i.e. software applications used for creating and publishing digital resources, are detailed in the table below. These tools include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "desktop publishing tools that enable conversion to digital format (e.g. Word, InDesign)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "multimedia authoring tools (e.g. Captivate)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "content and learning management systems (e.g. AEM and Canvas)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "online web authoring tools (e.g. social media platforms).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(24) These standards are based on the Authoring Tools Accessibility Guidelines (ATAG) version 2.0, the latest version of ATAG at the time of publication of this procedure, and will be updated whenever needed to reflect updates to ATAG.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Supporting Digital Accessibility",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(25) Accessibility must be:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "inherent within the RMIT Project Framework and the software development lifecycle design, development and testing processes and corresponding documentation and templates",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "considered when purchasing or licensing digital software",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "clearly articulated when commissioning or inviting tenders for the procurement or design of digital software",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "addressed where resources are commissioned from students or where student work is subsequently used as an official RMIT digital resource.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(26) When recruiting digital specialist staff, including contractors, knowledge of digital accessibility must be part of the selection criteria included in the position description, and selection panels must review the candidates’ knowledge of accessibility and accessible design techniques.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(27) RMIT must provide professional development and other opportunities for digital specialist staff to supplement any gaps in knowledge they may have regarding digital accessibility. Refer to section 5 below for a definition of digital specialist.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(28) Staff, students and visitors of RMIT use a range of assistive technologies. The following assistive technologies are supported at RMIT and should be referenced by vendors, developers and RMIT staff to ensure accessibility of digital products:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Dragon Naturally Speaking",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Read and Write Gold.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) The standards in the procedure apply to all new resources and authoring tools developed, commissioned or purchased after the date of operation of this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(30) All reasonable attempts must be made to create, implement, customise, or source resources and authoring tools that comply with the standards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(31) Where compliance cannot be achieved for digital resources, RMIT provides accessible alternatives as needed. Where accessible alternatives are needed for students or prospective students, the requirements of the Disability Standards for Education must be met.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(32) Where compliance cannot be achieved for authoring tools, RMIT warns creators of digital resources about the limitations of the tools they may be using, and:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "provides information about workarounds for various resource elements (e.g. data table mark-up) where these exist",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provides access to alternative solutions, such as seeking assistance from a digital specialist.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(33) Where workarounds or other solutions cannot be used to create a digital resource that meets the specified guidelines, RMIT provides accessible alternatives as needed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(34) Compliance with this procedure and the RMIT Digital Accessibility Standards contained in it is the responsibility of the Head of School or service group that owns or has operational control of the digital resource.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(35) Compliance with this procedure is monitored by the RMIT Accessibility Working Group through the Digital Accessibility Practice Lead.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Feedback and Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(36) This procedure is reviewed every five years in accordance with the Policy Governance Policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

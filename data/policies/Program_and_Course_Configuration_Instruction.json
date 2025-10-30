@@ -1,0 +1,1681 @@
+{
+  "metadata": {
+    "title": "Program and Course Configuration Instruction",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=41",
+    "scraped_date": "2025-10-31 01:24:02"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Overview",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Programs and program plans are the primary elements of configuration in RMIT’s student administration management system.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) Programs and plans are offered in accordance with the approved academic calendar for the delivery location unless the University Secretary and Academic Registrar approves an exception.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) Colleges are responsible for early consultation with Academic Governance in the Academic Registrar's Group (ARG) (cpa@rmit.edu.au) when planning changes to program structures or new program developments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where relevant, RMIT Online and RMIT University Pathways (RMIT UP) program development staff will initiate consultation with Course and Program Administration when planning changes to program structure or new program developments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) Program codes are used for the following purposes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "to distinguish programs managed by college and schools/industry clusters",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "to define: the program level, type and duration total credit points for higher education or hours for vocational education and training any other qualities required by a government body or legislation",
+              "subclauses": [
+                "the program level, type and duration",
+                "total credit points for higher education or hours for vocational education and training",
+                "any other qualities required by a government body or legislation"
+              ]
+            },
+            {
+              "clause_number": "3",
+              "text": "to identify replacements of nationally recognised vocational education training package qualifications and accredited courses when the replacement program requires a national ID and program structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(9) Program plans are used to represent the curriculum a student takes to complete the program, and:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "accommodate a major amendment or change to a program title",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "in rare cases, accommodate the creation of a specialisation within a program when the specialisation title is to appear on academic transcripts but not on a testamur",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "contain the structural requirements (core and optional courses) a student must fulfil to achieve an award",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "indicate an RMIT program offering at another campus or with a third party. For example, a global or domestic educational partner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(10) The offering location or campus published for a plan in the program guide system must be the primary location/campus where the core courses for the plan are taught. When a plan has Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS) registration, the registration includes all locations where students are required to attend classes in person in Australia.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(11) Program majors or minors offered to students in published plans remain available for the standard duration of that program.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Academic Coding Conventions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(12) Program codes consist of five alphanumeric characters and are usually a sequential number following a one-letter or two-letter prefix convention (see Appendix 1).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(13) New program codes are assigned numbers sequentially based on the order the completed forms are received by Academic Governance.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(14) Administrative programs (codes commencing with EX, SA and XI) are exempt from the requirement to include numbers in their program code. Master by Research and PhD programs may be numbered based on their relationship to one another. For example, MR234 and DR234 are the Master by Research and PhD in Laboratory Clinical Science programs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "defines plans in the curriculum data system or student administration management system",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is an alphanumeric code with a field length limit of ten characters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) With the exception of Open Universities Australia programs, when a plan is a sub-part of a program, the first five characters of a plan code refer to its parent program. For example, MC177NI and MC177NM are plans of program MC177.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(17) A plan code may be the same five characters as its parent program code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(18) Academic Governance has the discretion to choose how to code all the characters of the plan code. Common plan codes may include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "adding the year to the plan. For example, 'P24' means the 2024 edition of that plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "‘DD’ for the last two letters of the plan code for a double degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(19) If a plan is created for a vocational education and training offering with an industry partner or enterprise client, the additional characters of the plan code may refer to the partner/client abbreviation name.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(20) Existing plans offered with a partner institution outside of Australia may retain a partner designation. For example: BP999SIM for Singapore Institute of Management.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Award Titles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) Award titles are stated in full on testamurs and listed in the table of award title abbreviations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(22) A graduate receives an award under the approved title and in the form approved by RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(23) All approved award titles for use on testamurs are recorded in the curriculum data system or student administration management system.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(24) Any case for new award titles specific to programs must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "meet professional accreditation or national registration requirements for the program, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "meet at least one of the following criteria to be considered: be globally recognised in specific relevant markets be clearly distinguished from titles of other RMIT qualifications at the same level in the same market demonstrate a clear relationship with other RMIT qualifications when linked to a pathway be at the level of a discipline rather than a sub-discipline specialisation and remain meaningful over the long term.",
+              "subclauses": [
+                "be globally recognised in specific relevant markets",
+                "be clearly distinguished from titles of other RMIT qualifications at the same level in the same market",
+                "demonstrate a clear relationship with other RMIT qualifications when linked to a pathway",
+                "be at the level of a discipline rather than a sub-discipline specialisation and remain meaningful over the long term."
+              ]
+            },
+            {
+              "clause_number": "7",
+              "text": "(25) The Academic Registrar approves abbreviations of award titles.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(26) An accredited title must be used as the award title for any program that has been externally accredited.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Nationally recognised vocational education training package qualifications and nationally accredited courses must have the title as stated in the training package and accredited course documentation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(27) Coursework award titles may include a program tag or an additional phrase in parentheses to denote the specialisation and/or award level, for example: Bachelor of Engineering (Mechanical Engineering) (Honours).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(28) Honours degree titles include the word '(Honours)' at the end of the title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(29) Titles for graduate certificates and graduate diplomas that are exit awards of a master degree or part of a sequence leading to a master degree are consistent with, but not necessarily exactly the same as, the discipline described in its master degree. For example: a Graduate Diploma in Emergency Nursing may be an exit award title from the Master of Nursing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(30) The title Doctor of Philosophy or Doctor of [discipline] may only be used for doctoral degrees by research in accordance with the Higher Degrees by Research Policy and the Higher Doctorate Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Program Title Conventions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) Formal program, plan or degree titles that are more than 100 characters long (including spaces) must be abbreviated to a maximum of 100 characters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(32) Single degree program titles have the format [award level] + [program stem]. For example, Bachelor of Science.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(33) All program plans currently active under a single degree program must have the same testamur program stem title, for example, the program stem is the phrase ‘Applied Science’ in a Bachelor of Applied Science (Physical Education). Only discontinued plans in a program with an older program title may have a different testamur title from the current program's title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(34) All program plans currently in effect under a double degree program code must have one of the two current titles of the component single degrees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(35) The transcript description of each plan under a program code must start with the parent program title but may add a program tag (see clause 27).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(36) In double degree program titles:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the two single degree titles are separated by a forward slash, for example, Bachelor of Engineering (Mechanical Engineering) (Honours)/Bachelor of Business (Management)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the first degree noted in the program title is typically the program plan managed by the school that manages a double degree program as a whole. The order will not be changed if the other school takes over the management of the double degree program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(37) The RMIT award title follows the same titling convention as single degree titles in dual award programs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(38) In joint award programs the title follows the same titling convention as single degree titles.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(39) Minor changes to the convention of a program, plan code or title may be approved by the University Secretary and Academic Registrar in exceptional circumstances. The Academic Registrar's Group will consult with relevant stakeholders if system changes are required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(40) Academic Governance must be consulted when a program title has changed, and the college needs to update the program guide for a plan associated with a previous program title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(41) Vocational education and training program titles are determined by the relevant qualification title in the training package or accredited course documentation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Program Creation and Change Rules",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(42) A new program code must be created for an existing program where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a current vocational education and training qualification is assigned a new national code by the government",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a program's AQF level changes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the type of program changes (even if the program remains at the same AQF level)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "there are changes to full-time program duration or credit points (in higher education programs) or nominal hours (in vocational education and training programs) required to complete the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the program learning outcomes change significantly.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Plan Creation and Change Rules",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(43) Changes to and creation of program plans are normally undertaken for curriculum reasons rather than administrative reasons. Exceptions may be made when curriculum management systems do not provide an alternative mechanism for tracking student cohorts or facilitating student administration processes. Consult Academic Governance for more information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(44) Colleges are responsible for confirming if a plan change will trigger provider default under ESOS regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(45) A new plan must be created where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the program title of the parent program changes (this typically also requires a change to the degree title of the plan)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the transcript title of a program or plan changes. For example, Bachelor of Applied Science (Food Science) changes to Bachelor of Applied Science (Food and Nutrition Science)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "changes to the plan have been classified as a major amendment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(46) If any of the core courses in a CRICOS-registered program that were originally offered as on campus are changed to online-only delivery, it is necessary to consult with Education Regulation Compliance and Assurance.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(47) A new plan must not be created:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for the purposes of administering student cohorts if other systems or methods are available to distinguish the student cohorts",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "to distinguish cohorts of students admitted to a program with credit or exemptions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(48) A separate plan may be established to distinguish offerings of specific vocational education and training programs if the curriculum varies significantly from the parent version of the program.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Timeframes for Changes to Program Structures",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(49) ARG Academic Governance publishes the RMIT accredited program submission deadlines calendar for the following year after the Programs Committee and Academic Board meeting dates have been officially published.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(50) For vocational education and training and relevant coursework programs promoted on Open Days, appropriate time should be allowed for the program structure approval process and program guides must be published for Open Day annually.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Program Structure Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(51) Programs should be structured as simply as possible to enable students to enrol online independently, minimise timetable clashes and avoid the need for specialised program advice to students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(52) Each plan will have a single program structure and will not provide different versions of the structure for students with different characteristics, for example, there must not be different structures for full-time and part-time students, students entering via different pathways or with Recognition of Prior Learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(53) Core courses and first-year blocks must be the same across all program plans of the same program and its double degrees. The Deputy Vice-Chancellor Education may approve exceptions:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "to satisfy a requirement imposed by a foreign government or a professional accreditation body",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if there is an overlap of course content resulting from two programs being combined into a double degree, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where an equivalent core course may be more suitable to a specific cohort.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(54) An option choice is a choice of one or more courses from a list.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(55) Students should not be required to choose between options for specific prerequisite study.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(56) An option list that is repeated several times within the structure, or a major/minor explicitly defined as part of a program plan, should be listed at the end of the program structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(57) Higher education coursework program structures include the program design elements for the award type, as defined in the Program and Course Design Procedure - Higher Education Coursework.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(58) Typical coursework program structures are consistent with one of the following program structure models:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for programs approved before 2023: Model A: A list of core courses and University elective requirements (where applicable) in each year of the program. Model B: A list of core courses, option choices and University elective requirements (where applicable) in each year of the program. Model C: A list of core courses, University elective requirements (where applicable) and major/minor requirements in each year of the program.",
+              "subclauses": [
+                "Model A: A list of core courses and University elective requirements (where applicable) in each year of the program.",
+                "Model B: A list of core courses, option choices and University elective requirements (where applicable) in each year of the program.",
+                "Model C: A list of core courses, University elective requirements (where applicable) and major/minor requirements in each year of the program."
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "for programs approved from 2023: First-year block courses, majors, minors and University elective and/or cross-disciplinary requirements (where applicable) in each year of the program.",
+              "subclauses": [
+                "First-year block courses, majors, minors and University elective and/or cross-disciplinary requirements (where applicable) in each year of the program."
+              ]
+            },
+            {
+              "clause_number": "14",
+              "text": "(59) Only elective courses delivered by RMIT are included in the program structure for vocational education and training programs. If the training package includes an elective course that will not be delivered by RMIT, it is not sufficient reason to configure it as part of the program structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Elective courses that are part of the training package, but not part of the program structure, may still be used as credit transfer for incoming students into the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(60) Elective units in a nationally recognised training package qualification or an accredited course may be core courses in the RMIT offering of the qualification or accredited course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(61) When the requested program structure cannot be configured in the student administration management system, Academic Governance may be required to alter the configuration to a logically equivalent structure. In some cases, this may require splitting up overly complicated and/or option course combinations or merging core/option course lists that do not need to be split.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "This decision will be made by Academic Governance in consultation with the school/industry cluster or college.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Majors and Minors",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(62) Majors or minors are used to denote specialisations within a program where required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(63) A major or minor:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "must contain the same courses and the same structure across the RMIT Group. Changes to the major or minor’s course list must be timed so that multi-campus major or minor changes are synchronised across the RMIT Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "may be offered in different programs, subject to the agreement of the relevant stakeholder college(s) program approval authority",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "from 2023, core courses may form part of a major or minor in a program. For example, if Program A has minor X, some of the core courses in Program A may be used as part of minor X. The program designer needs to ensure students in Program A doing any combination of major or minor in the program will complete enough credit points and meet the program rules to be eligible to graduate from the program courses cannot be double counted for credit, such as counting the same course for credit towards both a first-year block and a program minor",
+              "subclauses": [
+                "courses cannot be double counted for credit, such as counting the same course for credit towards both a first-year block and a program minor"
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "may be used in a single degree but may not be suitable in a double degree program. For example, a Law and Technology minor in the single degree Bachelor of Business may not be suitable to offer in the double degree Bachelor of Business/Bachelor of Law if the Law and Technology minor contains one or more courses with overlapping learning outcomes to courses in the Bachelor of Law. In this case, the Law and Technology Business minor can be offered in double degree programs except when one of the double degrees is a Bachelor of Law, unless the minor offers sufficient course options to enable students to choose courses that do not overlap with core courses in the double degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(64) Major and minor titles:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "should denote a specialisation, discipline or sub-discipline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "when new, majors and minors should not have the same title as another existing active major or minor in the same academic discipline. For example, do not create a minor called Cybersecurity for a new Bachelor program if an existing Cybersecurity minor already exists in another Bachelor or Associate Degree program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "may have a similar name if one is offered in an undergraduate and the other is in a postgraduate program, provided there is an additional modifier in the title to denote the higher status of the postgraduate major/minor. For example, adding the word ‘Advanced’ to make an ‘Advanced Social Science’ minor for a postgraduate program is acceptable if a ‘Social Science’ minor already exists for an undergraduate program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "must be considered in the context of its program and whether it is designed for a specific program or to be used by the entire RMIT Group. For example, the designer should consider whether there should only be one Cybersecurity major/minor for the whole of RMIT, or not. If that major or minor is meant only for a specific set of programs, the title should be distinguished further, for example, Cybersecurity in Corporations or Cybersecurity in International Relations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(65) In addition to rule (a) above, major and minor names should be meaningfully differentiated from other major or minors. For example, there should not be two different majors called Global Business and International Business.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(66) A major and minor may share the same title if the minor is an abridged version of that major. For example, a Physics major can exist at the same time as a Physics minor if the Physics minor comprises four courses from the Physics major.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(67) If the proposed title of a major or minor relates to a different academic field to the parent program, consultation is required with schools or colleges already teaching in the academic field. For example, if the College of Design and Social Context intends to create a Cybersecurity major or minor for an International Studies program, they consult with STEM College first. This consultation must be evidenced in the academic case.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(68) A major or minor should be structured either as a single list of courses, or the major or minor structures clearly note if there are core courses or option courses within that major or minor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(69) A course can be part of one or more majors or minors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(70) At most, there must be no more than one level of choice of options in each major or minor. An example of one level of options is: ‘To complete this minor, choose this single course, and choose three out of five courses in the list below.’",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(71) If a student uses a completed course as credit toward the completion of a major or minor, that student may not count that same completed course as credit toward completion of another major or minor or as credit towards other program requirements such as a first-year block.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(72) Changes to a major or minor that require the creation of a new major or minor must consider:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "whether students who have partly completed the major or minor will be disadvantaged if required to complete new requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "when changes to the learning outcomes of the major/minor require creation of a new major/minor.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Degree Code Creation, Change Rules and Coding Conventions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(73) Degree codes are the codes that designate the award linked to a plan. They are coded as six alphanumeric characters, using one of the prefixes listed in Appendix 1. The degree code field holds up to eight characters. New degree codes are numbered sequentially.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(74) A new degree code must be created:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "when the testamur title changes for the program or plan",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "when the AQF level of the program changes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "for every national ID of a vocational education and training qualification even when these programs share the same program title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(75) A new degree code may be created where a replacement version of the program has a different program duration and/or credit points total. For example, a new degree code will be created when an 18-month master’s program replaces a two-year master’s program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(76) Some program plans may be attached to a 'No Award' administrative degree code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A degree record must be created in the student administration management system to enable a student to be recorded as having completed a program, including non-award programs. Configuring degree codes to enable program completion does not confer an RMIT degree to the students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The Academic Registrar may approve degree code and academic plan code exceptions for administrative or other purposes, such as the facilitation of VE-HE or HE-HE packaged offers.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Principles for Establishing Effective Dates of Programs and Plans",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(77) The effective date of a program or plan must enable admission for the first teaching period in which the program or plan will be taught and must display the correct teaching period of enrolment in all relevant systems.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(78) The maximum effective date of a plan attached to a program must not be later than the maximum effective date of its parent program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(79) When assigning effective dates to approved new programs or plans, Course and Program Administration considers the following factors:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the semester of the first intake",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "when admission applications open for the first semester intake",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Open Day (for Australia-based programs and plans)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "where appropriate, effective dates for Global and RMIT Vietnam offerings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the Enrolment Online opening day for the relevant semester (for programs and plans that use Enrolment Online)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "any legislated deadlines for reporting and publishing of new program or plan information",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "any fundamental changes to relevant terms and sessions in student administration management systems.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(80) The effective date of an approved new program or plan is a student administration management system field and may be different to the planned implementation date, which is not a student administration management system field.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(81) Program title changes require new plan codes, and their effective dates comply with the rules for establishing effective dates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(82) When assigning effective dates to approved changes to programs or plans, Academic Governance considers:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the semester that the change applies to",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the first effective date of any new courses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the effective date of any course changes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "rules on when government-reportable fields can be changed for existing programs or courses, for example CRICOS or ASCED/HECS Band ID. These fields may be changed for existing courses only if required by government",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "legislated deadlines for reporting and publishing of program or plan information",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "any fundamental changes to relevant terms and sessions in student management systems",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "approved changes for program plans with a different effective date depending on the offering.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(83) When assigning effective dates to approved discontinuations and inactivation of programs or plans, Course and Program Administration considers:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the last intake semester",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the last intakes for articulating/pathways students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "CRICOS de-registration dates",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the program expiry date for vocational education and training",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "whether there are higher-level programs that may still exit into this program (for the inactivation of an exit point program)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "any fundamental changes to relevant terms and sessions in student administration management systems.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(84) When other RMIT systems request changes to the student administration management system effective date practice, Academic Governance will consider the request based on the needs of all affected systems.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Inactivation and Reactivation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(85) Discontinued programs or plans are inactivated when no current enrolment or related current student record exists in that program or plan. Enrolments in discontinued programs are monitored once a year by Academic Governance for the purpose of inactivation or by ad hoc requests from schools/industry clusters and colleges.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Schools/industry clusters/colleges may request ad hoc reactivation of higher education plans for the purpose of completing students who have been confirmed to have already achieved award requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Vocational education and training qualifications must not be issued after the training product has expired.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Schools/industry clusters/colleges may request Academic Governance to archive related program guides when a program or plan is inactivated.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(86) Proposals to re-establish an inactivated program or plan must go through the same approval process as a new program or plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where appropriate, Academic Governance may temporarily reactivate a plan to exit or complete a student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(87) Proposals to re-open general admission intake to a discontinued program or plan must go through the same approval process as a new program or plan.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Government Reporting Attributes (ASCED and CRICOS Codes)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(88) The Australian Standard Classification of Education (ASCED) is a statistical classification used by the Australian Bureau of Statistics (ABS) for the collection and analysis of data on educational activity and attainment by Level of Education and Field of Education.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(89) All RMIT programs and courses have an ASCED code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ASCED codes for higher education programs, plans and courses are nominated by the college when a program or course is created.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ASCED codes for vocational education and training programs, plans and courses are determined by ASQA.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(90) Changes to the ASCED code of a program or course may only be made as a correction during program or course creation and before any student enrolment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(91) ASCED code changes may require a new CRICOS registration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(92) The ASCED code of a course must be based on course learning outcomes at the point of creation. Marketing, HECS Band or government funding are not valid reasons to choose the ASCED code of a new course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(93) If a course is interdisciplinary, it can potentially be coded with two different ASCED codes. The college or school/industry cluster must decide the ASCED code based on the discipline which has more content in the course. If future iterations of the course require an ASCED re-classification, a new course must be created to replace the old one.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(94) All programs intended to be delivered to students studying in Australia on a student visa must be added to the RMIT CRICOS register and be issued a CRICOS code, in accordance with the Education Services for Overseas Students Act 2000 (ESOS Act).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(95) CRICOS codes are issued by the Department of Education. RMIT applications to add a program to RMIT’s CRICOS register are managed by the Education Regulation Compliance and Assurance team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(96) The owning college is responsible for contacting Education Regulation Compliance and Assurance to arrange the addition of a program to RMIT’s CRICOS register and advising Course and Program Administration of the program’s CRICOS code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(97) Where a program plan has CRICOS registration, the registration must include all locations where students are required to attend classes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(98) CRICOS registration may be impacted by major changes to a program such as the program structure and volume of learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Education Regulation Compliance and Assurance must be consulted to ensure that the required notifications are sent to the relevant ESOS agency.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Contact cricos@rmit.edu.au for advice or to provide notification of program changes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(99) College academic development or academic services must inform Education Regulation Compliance and Assurance:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "if a course moves from a CRICOS registered program to an unregistered program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if a new course is added to a CRICOS registered program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(100) Notification and change of CRICOS registration must be completed before any program change is implemented. Education Regulation Compliance and Assurance is required to notify TEQSA or ASQA 30 days prior to the implementation of any change.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Vocational Education and Training: Change of Hours and Change of Program Duration",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(101) Changes to the minimum, maximum, standard, or PUSH hours and program duration of a vocational education and training non-VET Student loan program must be effective on 1 January of the calendar year.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(102) Changes to a vocational education and training program duration affects CRICOS registration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(103) ARG Government Reporting must be consulted for changes outside this timeframe.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(104) Changes to the maximum, standard, or PUSH hours of VET Student Loan programs must be effective on 1 January of the calendar year. Change to the minimum hours for a VET Student Loan program is not permitted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(105) Changes to program duration for vocational education VET Student Loan programs are not permitted.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Exceptions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(106) Exceptions to program configuration rules may be made at the discretion of the Academic Registrar.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Academic Governance must be provided with evidence of a directive from: a government body to which RMIT is answerable a professional or government accreditation body which accredits the program in question the Deputy Vice-Chancellor Education.",
+              "subclauses": [
+                "a government body to which RMIT is answerable",
+                "a professional or government accreditation body which accredits the program in question",
+                "the Deputy Vice-Chancellor Education."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Course Configuration",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(107) Courses are defined on the curriculum data system by a six-digit student administration management system-assigned course ID number and the formal course title. The ID number may have a leading zero.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(108) Course codes for individual course offerings consist of a subject code (three to four alphabet characters) and a catalogue number (four to five alphanumeric characters). The student administration management system fields permit up to eight subject code characters and up to ten catalogue number characters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(109) A course code must be unique to one course offering at all times. It may never be repeated as another offering within the same course, or within any other course, regardless of the effective date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(110) Academic Governance chooses the subject code for a new course offering, taking into consideration the ASCED code for the course offering.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(111) The catalogue number of a new course offering is assigned with the next number available for the same subject code. Numbering starts at 1000 for each subject code and may have up to five digits. A vocational education and training course can have an alpha character after the digits.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(112) New subject codes may be created at the discretion of the University Secretary and Academic Registrar.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(113) Ad hoc situations not covered by the course coding conventions in this section that require a minor change may be approved by the University Secretary and Academic Registrar. If the convention needs to be changed systematically, the Academic Registrar's Group will consult with relevant stakeholders.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Course Titling Rules",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(114) Courses that are considered standard-titled courses (see examples in Appendix 2) are exempt from these course titling rules.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(115) A course title for higher education and accredited vocational education and training courses must be unique within its subject code and within the same career type. For example:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A college/school/industry cluster may offer two different courses called 'Clinical Microbiology' under the same subject code ONPS if one of those courses is an undergraduate course and the other is a postgraduate course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "A college/school is not permitted to create two different courses called 'Finance Models' in the same postgraduate career. If the courses are different courses to be taken in different programs, they need to be differentiated further in the course titles.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(116) Titles of courses in nationally recognised training package qualifications and accredited courses or VET Skill Sets, must be identical to the title of a unit of competency. In vocational education and training courses, the short description of the course begins with the national ID of the module.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(117) More than one vocational education and training course may share the same course title where these refer to the same vocational education unit but need to be offered in different schools/industry clusters or have different scheduled contact hours. These courses must have the same National Course Code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(118) Mobility courses, such as courses involving travel, should be titled after the discipline or area of learning. For example, ‘Management Accounting Study Tour’.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(119) School/industry cluster codes or names and college codes or names are not included in course titles, except where the course is an exchange course, as defined in Appendix 2.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(120) Where students can take the same research component course repeatedly across multiple semesters, there is no need to differentiate the titles of the offerings. Students can enrol in the course and receive different grades each time it is taken.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(121) If the same course is to be taught by a different school/industry cluster (for example, the same vocational education and training module in the TAFE career) then a new course ID may be created for it.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(122) A request to re-use the title of an inactive course for a proposed or existing course may be approved where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the contents, learning outcomes and assessment of the new course are significantly different from those of the old course, so that the new course cannot be considered the equivalent of the old course, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "there is no alternative similar title that would be appropriate in describing the contents of the new course.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "New Course Creation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(123) A college may provide a rationale for the creation of a new type of administrative course, which will be considered by Course and Program Administration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(124) A new course ID should be created where a higher education course changes its credit point value or a vocational education and training course changes its nominal hours.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A new course ID must be created where a course is offered for different academic career types; or in the rare case where a version of a higher education course is owned by the College of Vocational Education. For example, the creation of a postgraduate version of an undergraduate course warrants a new course to be created, or if the College of Vocational Education offers the same higher education course from a Bachelor program in an Associate Degree program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The requirement to split courses offered for different career types into new course IDs is not retroactively applied to courses created before 2015, unless the college or school/industry cluster requests new course IDs to be created.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(125) Changing a course title does not automatically warrant the creation of a new course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(126) Where a new course title and old course title will be taught concurrently and with updated course content, it is recommended that a new course ID is created for the new course title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(127) The contents and learning outcomes of a course may change slightly from year to year.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(128) The following test is applied to decide whether the contents and learning outcomes have changed enough to warrant the creation of a new course:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "If a student completed a course in a previous year in the program and is now being re-admitted to the program, would the student be required to retake the course? If yes, that means the course is now different enough to warrant creation as a new course. If the answer is no, then it is still the same course and retains the same course ID.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(129) Mobility courses do not need to be configured as a new course offering because of a change in destination. Multiple classes may be set up for a mobility course to enable different cohorts of students to travel to different locations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(130) Where a vocational education and training module or competency is configured as one course, the course will not be split into two different course IDs for administrative reasons.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "New Course Offering Creation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(131) New standalone courses and course offerings should be approved by the relevant College Deputy Vice-Chancellor or delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(132) A new course offering must be created when:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an existing course will be offered at an additional campus or via an RMIT Online partner, for example, Keypath",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a course offering is moving to a different campus.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(133) Where the course is a core course for a program plan that is CRICOS registered, moving the course in the CRICOS registered program plan to another campus may require a change to the CRICOS registration and Education Regulation Compliance and Assurance must be consulted.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Course Characteristics and Attributes",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(134) A course characteristic is one of the student administration management system fields that defines an element of a course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(135) The following academic course characteristics must be uniform across all offerings of the same course:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "academic career type (except for courses involving OUA or courses that existed pre-2015)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "managing school/industry cluster and college",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ASCED code and band ID",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(136) A course attribute is a specific flag at the course level in the student administration management system and applies to all offerings in the course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(137) Course attributes may be used to flag:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a work integrated learning course",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a course counted toward the weighted average mark calculation to establish the honours level of Bachelor honours programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "an essential administrative or classification attribute that applies to all course offerings under that course.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Course Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(138) A course and all its course offerings can only be managed by one school/industry cluster.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(139) A college may choose to manage a course rather than assigning it to one of its schools/industry clusters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(140) Certain administrative courses (for example, credit transfer courses and certain student mobility courses) are considered to have no true owner and are assigned to the school code 'RMITU'.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(141) If a school/industry cluster wishes to take over a course offering within another school/industry cluster's course (rather than take over the course as a whole), a new course must be created.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Cost Centre Coding Rules for Courses",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(142) Cost centre codes designate financial departments to which the costs and revenue of a course are to be allocated. Not every course needs to have a cost centre code designated, for example, a transfer-credit-only course never used for enrolment does not need a cost centre designation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(143) A course should have the same cost centres for all its course offerings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(144) New courses or course offerings cannot be created to accommodate differentiation in cost centres within the same course. For example, a course runs at the Melbourne City campus and some of the students are a special corporate-sponsored cohort. The college finance manager requests the creation of a new course offering so they could have a different cost centre for the corporate-sponsored students. However, a different cost centre is not an academic reason and therefore will not drive considerations in creating new course offerings or new courses.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(145) Cost centre code changes are done by correction mode without inserting a new effective date row in the student administration management system. This does not impact course revenue already distributed.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Changes to Courses",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(146) Changes of course titles that affect a program’s structure are considered a change to a program structure and must therefore meet the deadline for program structure changes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(147) Changes to the credit point value of a higher education course, or the nominal hours of a vocational education and training course, require the creation of a new course and may require the inactivation of the existing course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(148) Changes to a course title apply to all offerings of that course simultaneously.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(149) If a course with a title change is taught (whether as a core or elective option) in a program managed by another school/industry cluster, the proposing school/industry cluster is responsible for informing the other school/industry cluster in time for the relevant program guides to be refreshed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(150) Changes that affect certain government reporting fields of a course (whether directly or indirectly) must be made in time for the relevant governmental reporting deadline as interpreted by ARG Government Reporting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(151) Choosing a different ASCED code during the new course creation approval process may in some cases affect the HECS band ID of the course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(152) Changes to a course characteristic should be made before class scheduling for the year in question is opened, as scheduled classes derive many of their characteristics from the course and course offering configuration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(153) Changes to different course characteristics are subject to different deadlines. Whether changes can be made after the deadline depends on multiple factors, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "whether there is a significant disadvantage to students or staff if the change is not made",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the number of students and staff affected",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "whether the class scheduling for the relevant semester has commenced",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "whether students have enrolled in classes for the course in future semesters",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the impact on other business processes managed by the Academic Registrar’s Group",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "whether a practical workaround is available or not.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(154) The authority and deadline to change a course attribute depends on the course attribute in question and will be determined by Course and Program Administration.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Standard Course Weighting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(155) All courses in undergraduate and postgraduate programs must be 12 credit points or a multiple of 12 credit points.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(156) Courses of a value of less than 12 credit points may be created as short (non-award) courses or micro-credentials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Stacking arrangements of short courses and micro-credentials for credit transfer and/or RPL must comply with the Credit Procedure and Program and Course Approval Procedure – Higher Education Coursework, Short Courses and Micro-Credentials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(157) Zero credit point courses are not permitted with the exception of courses:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "required to have zero EFTSL consumption for higher degree by research students in higher doctorates such as internships",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "configured for preparatory English courses offered by RMIT Vietnam",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "that mark a student's enrolment in approved external study",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "that mark a visitor's enrolment in an internship at RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "that are administrative to be used as a prerequisite course and does not involve teaching activity (for example, the LANTITE test as a prerequisite course).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Course Requisites",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(158) Course requisites are defined at course level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(159) Course requisites may be approved where a student's success in a course is dependent on prior knowledge that must be demonstrated by successful prior completion of a specified RMIT course (prerequisite) or concurrent enrolment in a specified RMIT course (corequisite).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(160) All course requisites are stated in the Part A Course Guide.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(161) Where a specific previous course is required, the Part A Course Guide must include the specific course ID.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(162) To provide consistent language and eliminate confusion to students, only a system enforced requisite can use the term ‘requisite’ in the course guide. A non-system enforced requisite must use the term ‘recommended prior study’, ‘assumed knowledge’ or equivalent.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(163) A course guide course requisite statement must clearly state the type of course requisite:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "enforced requisites: students are not permitted (by Enrolment Online) to enrol in these courses until the prerequisite is satisfied by a pass grade in a specified RMIT course, credit is granted for the prerequisite course, or the specified co-requisite is concurrently enrolled",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "recommended prior study: students are expected to have completed or demonstrate concurrent enrolment in the specified study and may be directed to amend their enrolment if requirements are not met",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "assumed knowledge: the course assumes that students have specific skills or knowledge.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(164) Enforced requisites:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "apply to all students enrolling in any course offering of the course in the same academic career type – the requisite cannot be enforced for one offering or class and not for another",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "are system-enforced at enrolment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "must be approved by the relevant Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent) for coursework courses, or by the relevant Deputy Vice-Chancellor Research and Innovation for courses related to research programs before the enforced requisites are configured for enrolment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(165) Approval will only be granted where an enforced requisite is necessary:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for reasons of safety",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "because it is required as a condition of external or professional accreditation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "because it is required by a legislation or regulation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "for another pressing educational reason accepted by the College Deputy Vice-Chancellor or Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(166) A student who does not meet an enforced requisite may seek a waiver from the Dean, Head of School or Cluster Director (or delegate) by demonstrating that they have met the requirements other than through completion of the specified RMIT course. The student is responsible for gaining such a waiver in time to meet enrolment closing dates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(167) Where waivers of an enforced requisite are approved for a significant proportion of students enrolling in a course, the Academic Registrar may remove the system enforcement of the requisite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(168) Where an assumed knowledge requisite is stated, students are responsible for deciding whether they meet the requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(169) Course requisites for existing courses may be reviewed annually in time for any changes to be made before enrolment for the next academic year.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(170) Some older courses may have one course ID with multiple career offerings. In this case, the requisite statement applies only to all offerings in that same course ID in the same career type. For example, if an older course ID has course offerings for both the undergraduate and postgraduate career types, the undergraduate offering may have a requisite of another undergraduate course, and that postgraduate offering of that same course may have a requisite of another postgraduate course. If the undergraduate and postgraduate offerings have differing courses as requisites, this difference must be stated clearly in the Course Guide Part A.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(171) Course requisites are not used as a course sequencing tool - a program structure exists for that purpose. For example, if a program structure already states 'in year one, take Course A; in year two, take Course B', it is unnecessary to create a prerequisite for Course B that states 'must have completed Course A'.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "System-Enforced Requisites",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(172) System-enforced requisite statements must follow the following rules and formats:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "They must clearly state whether all the clauses in the requisite statement are pre-requisites (‘you must take Course A in a semester before you take Course B’); or a co-requisite (‘you must take Course A in a semester before or the same semester as Course B’).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "They must be stated in terms of another RMIT course, identified by its course title and ID number.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Vocational education and training course requisite statements must also state the national ID of the course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "In the course guide’s course requisite statement, the author should create a hyperlink from the requisite course ID to the course guide of that requisite course. Academic staff can find the course ID by searching for the course code in the course guide system.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Requisite statements must be simple in logic, involving at most a single level or logic statement. For example: One-level (acceptable): (Course B or Course C) and (Course D or Course E). Two-levels (too complex): ([Course G or Course H] and Course I) or (Course J and [Course K or Course L]).",
+              "subclauses": [
+                "One-level (acceptable): (Course B or Course C) and (Course D or Course E).",
+                "Two-levels (too complex): ([Course G or Course H] and Course I) or (Course J and [Course K or Course L])."
+              ]
+            },
+            {
+              "clause_number": "6",
+              "text": "The logic is enforceable by the student administration management system. Course and Program Administration will advise the proposer if the requisite statement is not system-enforceable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Anti-requisite statements cannot be used. For example, ‘Student must not have completed Course X if they wish to enter Course Y’.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Do not include a requirement that students are enrolled in a particular program (the student administration management system class Reserve Cap functionality should be used instead).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Do not state that a course lecturer or Dean, Head of School, or Cluster Director has the right to override course requisites (because they can do so by default, this statement does not add value).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Do not specify a grade or mark level in the requisite course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Do not state two courses as co-requisites of each other.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(173) If it refers to another course, for example, ‘Course B requires completion of Course A’, then consider that Course A must also be in the same programs that offers Course B, to ensure a student could possibly enrol in Course B in that program. Courses that RMIT does not teach that are running only at an external institution or RMIT partner cannot be used in a system-enforced requisite statement. For example, if RMIT runs a program at a Singaporean partner, and that Singaporean partner has a ‘Singaporean Commercial History’ course that is only meant for non-RMIT students, that course cannot be used as part of a system-enforced requisite statement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Class Dates and Intensive Classes",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(174) Regular terms and academic sessions are those published annually by the University Secretary and Academic Registrar.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(175) Classes based on a regular term or session have the same start dates, end dates and key administrative dates as the term or session. For these dates, see the relevant RMIT academic calendar.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(176) Classes may be dynamically dated for specific purposes such as intensive delivery or to enable rolling enrolments. Dynamic dating of classes must comply with the following rules:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The class start-date is the first day of learning activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "In coursework courses, the class end date is not the last date of a teaching activity. It is the date on which the last assessment task occurs (for example, a final exam) or the due date of the very last assessment item - whichever is later.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

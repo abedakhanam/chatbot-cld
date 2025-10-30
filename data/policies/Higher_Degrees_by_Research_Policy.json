@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "title": "Higher Degrees by Research Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=12",
+    "scraped_date": "2025-10-31 01:26:02"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) RMIT will offer research training that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is developed, delivered, examined and awarded in accordance with the Australian Qualifications Framework, Higher Education Standards Framework, and the Australian Code for the Responsible Conduct of Research, 2018",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is impact-driven and promotes a research culture of excellence, integrity, respect, cultural safety and professionalism",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "provides high-quality supervision, support and resources to all candidates",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "provides candidates with opportunities to undertake professional and researcher development activity to support successful and timely completion",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "contributes to the University’s research strategy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(8) RMIT is committed to supporting diversity. RMIT recognises, respects, and values the unique contributions of Aboriginal and Torres Strait Islander HDR candidates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(9) HDR candidates may be provided with a global experience through joint supervision and mobility with international partners and via Collaborative Research Training Agreements. In those cases, additional conditions and requirements may apply.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Candidature",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Procedures and processes related to admission, enrolment, progression and examination will be consistent, fair, and transparent.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) Admission to an HDR program is conducted in accordance with the Admission Policy, the Enrolment Policy and the HDR Admissions and Enrolment Procedure, which document the minimum criteria for admission and selection of students into programs, and the minimum and maximum candidature duration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(12) Higher Degrees by Research will be conducted in an environment of research activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(13) The University will provide each candidate with high-quality and dedicated supervision for the duration of their candidature.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(14) Supervision of candidates will be conducted in accordance with the HDR Supervision Arrangements Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Complaints and Appeals",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) The University will provide fair complaints and appeals processes to address concerns or grievances that may arise during candidature.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Complaints and grievances relating to HDR are managed in accordance with the Student and Student-Related Complaints Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Complaints about the integrity of research undertaken as part of HDR will be considered according to the RMIT Research Integrity Breach Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Candidates are entitled to appeal a decision to terminate their candidature or the outcome of an examination in accordance with the Assessment, Academic Progress and Appeals Regulations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) Academic Board is responsible for monitoring and overseeing the quality enhancement and review of research training.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) Research Committee is responsible for monitoring and overseeing the HDR quality and performance against University key performance indicators.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(18) Graduate Research Committee is responsible for providing academic leadership pursuant to quality enhancement, and the avoidance of conflict of interest and institutional and academic risk in the delivery of research training. The Graduate Research Committee Executive group is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "reviewing and approving variations to candidature as the nominee of the Associate Deputy Vice-Chancellor Research Training and Development (ADVC RT&D),",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reviewing and ratifying final examination classifications in the case of one or two Fail recommendations being made by examiners on re-examination of an HDR submission,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reviewing exceptional applications for thesis/dissertation embargo",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "approving requests for posthumous submission and examination, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "any other matters at the discretion of the ADVC RT&D.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(19) The ADVC RT&D or nominee, with the support of the School of Graduate Research, is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring compliance with relevant legislative and regulatory obligations, including quality assurance and identifying any areas of concern",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "managing the HDR policy framework and developing and approving all associated procedures and supporting documents to this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "approving variations to candidature, milestone outcomes, and panels of examiners, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "determining examination classifications, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "monitoring the award of Higher Doctorates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(20) College Associate Deputy Vice-Chancellor, Research and Innovation (ADVC R&I), or equivalent, are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing strategic leadership to ensure that HDR profile and areas of research in which supervision and scholarship are supported are aligned to University strategy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "approving sanction assessments and other legislative and regulatory obligations (this responsibility can be delegated)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "managing and resolving any quality issues",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "convening Research Candidate Progress Committees, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "ensuring resourcing and support for quality assurance is available.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(21) Deans/Heads of School are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "delivering research training in line with the Higher Education Standards Framework, the Research Policy, the Inclusion, Diversity and Equity Policy, the Health, Safety and Wellbeing Policy, and any other relevant policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring supervision and resources required to complete a Higher Degree by Research are available to and accessible by HDR candidates as per the project’s needs and the Property Management Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "providing school-specific orientation and induction to newly enrolled candidates",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "monitoring the general progress and welfare of HDR candidates, and approving variations to candidature where appropriate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "declaring and managing any potential, perceived, or real conflicts of interest with candidates, other members of the supervisory team, or examiners, as per the Conflict of Interest Management Procedure, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "monitoring compliance with this policy and the quality assurance of programs and supervision, and managing or escalating any issues to the College ADVC R&I or the ADVC RT&D.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(22) Supervisors are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "designing projects that are achievable within the relevant expected program duration",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "discharging their responsibilities in accordance with the Supervision Code of Practice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "declaring and managing any potential, perceived, or real conflicts of interest with candidates, other members of the supervisory team, or examiners, as per the Conflict of Interest Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "in collaboration with their candidates, setting expectations and establishing ways of working",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "monitoring and supporting the progress and welfare of candidates",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "ensuring that the academic and professional development activity undertaken within candidature duration supports candidates’ successful and timely completion, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "guiding candidate conduct in accordance with the Australian Code for the Responsible Conduct of Research, 2018 and supporting opportunities for: the production of high-quality research outputs based on their research professional development, and end-user engagement.",
+              "subclauses": [
+                "the production of high-quality research outputs based on their research",
+                "professional development, and",
+                "end-user engagement."
+              ]
+            },
+            {
+              "clause_number": "36",
+              "text": "(23) Candidates are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintaining good academic progress",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "completing training in responsible research conduct, health and safety, and other relevant areas, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "complying with University policies, procedures, including the Code of Conduct, the Australian Code for the Responsible Conduct of Research, 2018, and the Research Scholarship Terms and Conditions and any other regulatory requirements.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) The ADVC RT&D is responsible for review of this policy and supporting documents.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(25) Refer to the following documents which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "HDR Admissions and Enrolment Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "HDR Progress Management and Support Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "HDR Supervision Arrangements Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "HDR Submission and Examination Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "HDR Unsatisfactory Progress Process",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Higher Doctorate Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Research Scholarship Terms and Conditions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "HDR and RTP Scholarships Policy",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

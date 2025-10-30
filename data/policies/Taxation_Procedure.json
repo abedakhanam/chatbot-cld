@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "Taxation Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=139",
+    "scraped_date": "2025-10-31 01:26:14"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Goods and Services Tax (GST)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT must be provided with a valid tax invoice for every purchase over Australian Taxation Office (ATO) approved limits to claim a GST refund from the ATO.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) A valid tax invoice must be always be requested before payment is made to a supplier, and a receipt obtained.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) Invoices in electronic form can be tax invoices if they provide all the information required and are legible and accessible for audit purposes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) A pro-forma invoice is not a tax invoice and payment should not be made until a tax invoice is received.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) For credit card expenditure or expense reimbursements where the payment has already been made and the supplier has refused to provide a tax invoice:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "tax invoice requirements may be met if that information is contained in other documentation related to the purchase and combined as a whole; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "all documentation must be attached in RMIT’s expense management system (Workday).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(9) The requirement to produce a tax invoice can be waived where the vendor is using an electronic purchasing system. The information must be provided in electronic format and be available for audit by the ATO as required, to satisfy legislative requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(10) For further guidance on GST matters, consult the Australian Taxation Office website. If your query is not addressed there, submit a General Finance Enquiry via Service Connect.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Fringe Benefit Tax (FBT)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) All transactions entered into by RMIT must be analysed to determine the correct FBT treatment and will comply with all FBT laws, rulings, guidelines and reporting obligations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(12) When the taxable value of all benefits received by an employee reaches $2,000.00 or more, the grossed-up amount of this benefit will appear on the employee's payment summary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(13) An employee must keep a travel diary as required by the Travel Policy to ensure RMIT's FBT liability is reduced to the maximum extent possible. Rules related to private travel are also included in the Travel Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(14) In the event of an ATO audit discovering non-compliance with the rules in any of the previous five FBT years, any FBT and subsequent penalty (up to 200% of the tax payable) will be charged directly to the department concerned and reported on the employee payment summary where required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(15) For further guidance on FBT matters, consult the Australian Taxation Office website. If your query is not addressed there, submit a General Finance Enquiry via Service Connect.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Taxes in Other Jurisdictions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) RMIT’s Australian income tax exemption should not be assumed to apply in other jurisdictions. Exemption conditions and other tax obligations (such as regular filings and local imposts) vary and may impose additional compliance requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) Due to the complexity of international tax, Central Finance Operations must be consulted before entering into overseas commercial contracts, establishing subsidiaries, or commencing operations in a new jurisdiction. External advice may also be required, with both set-up and ongoing compliance costs potentially significant.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(18) Business cases involving international activities must include an assessment of all relevant tax obligations and compliance costs (e.g. VAT, GST, sales tax, and employment-related taxes).",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

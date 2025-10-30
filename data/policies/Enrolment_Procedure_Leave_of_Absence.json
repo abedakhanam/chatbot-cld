@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "title": "Enrolment Procedure - Leave of Absence",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=115",
+    "scraped_date": "2025-10-31 01:27:21"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Eligibility",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Students may apply for LOA from RMIT for a defined period, in accordance with the processes prescribed by the University Secretary and Academic Registrar.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) In considering an application for LOA, it is the student’s responsibility to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "seek appropriate advice before suspending their studies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "be aware of the potential impact of the absence on their ability to successfully complete the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be aware of the consequences that suspending their studies may have on their status as a student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(7) LOA for international students studying in Australia on a student visa can only be granted on compassionate or compelling grounds. Examples of such grounds are published on the RMIT website.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Students studying in Australia on a student visa are advised to always seek advice including from the Department of Home Affairs prior to applying for LOA.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(8) LOA is not normally available to students in the first semester (or study period) of their program unless they can demonstrate exceptional circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(9) LOA is not available for prospective students who have been offered a place at RMIT and have not yet enrolled but wish to defer their studies for one or more semesters or study periods. In these instances, applicants may defer their enrolment in the offered place in accordance with admissions processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(10) LOA may not be available to students in programs delivered with industry partners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(11) A student may be denied LOA at the discretion of the teaching school/industry cluster/college or RMIT Online where the program is in teach-out and the requested period of leave would mean the student is unable to complete the program requirements on time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(12) LOA processes for higher degree by research (HDR) students are managed in accordance with the HDR Admissions and Enrolment Procedure, and the Research Scholarship Terms and Condition as necessary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(13) A student may be denied LOA if they exceeded the maximum total of periods of leave in their program, as defined below.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Duration of Leave",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) LOA must have a definitive start date and must be for a specified amount of time, not exceeding one year.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) LOA can apply to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a standard study period for higher education coursework students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the relevant study period for Vocational Education and Foundation Studies students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any approved period for HDR students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) The total maximum period of leave for a student in a coursework program is 50% of total duration of the program, unless exceptional circumstances apply, and relevant approval is obtained.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(17) Program structure and course availability may affect the period of LOA granted.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Approving Authority and Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) The teaching school/industry cluster/college or RMIT Online may grant LOA to a student; in exceptional circumstances the University Secretary and Academic Registrar may do this.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) For coursework students the Dean/Head of School/Cluster Director or nominee is authorised to approve applications for LOA of up to 50% of total duration of the program, or LOA that will bring the student’s total leave in the program to two years.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(20) In all instances, the University Secretary and Academic Registrar must be satisfied that LOA applications for international students studying in Australia on a student visa, including those exceeding the maximum period, demonstrate compassionate or compelling grounds prior to be granted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(21) LOA for a cumulative total of more than two years or more than 50% of the duration of the program may be approved in exceptional circumstances, by either the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "relevant College Deputy Vice-Chancellor, for coursework students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Associate Deputy Vice-Chancellor Research Training and Development, for HDR students in accordance with the provisions of the HDR Admissions and Enrolment Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(22) If an application for LOA is rejected or varied, the school/Industry Cluster or Academic Registrar's Group (for students studying in Australia on a student visa) must inform the student of the reasons for the decision and details of available review processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(23) For international students studying in Australia on a student visa, the University will report the LOA to the Department of Home Affairs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Reporting the LOA may affect the student’s visa and the student may be required by the Department of Home Affairs to leave Australia while they are not enrolled.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "In all instances, students studying in Australia on a student visa are advised to seek advice, including from the Department of Home Affairs, on their visa status and conditions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Fee Implications",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) Where LOA is applied to standard semester, students must withdraw from courses in the flexible term during their period of leave to avoid remaining liable for those tuition fees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(25) Students who take an approved LOA before the relevant census date will have the relevant paid fees re-credited to their student account, excluding any applicable penalties. This credit will be applied to future fee liabilities or the student may apply for a refund.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(26) Students will remain liable for fees and may incur an academic penalty if they submit a request for LOA after the relevant census date. In special circumstances, students may apply for a remission of debt.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(27) Where the school/industry cluster/college or RMIT Online recommends LOA for a student whose enrolment has been discontinued as part of the late enrolment process, a late enrolment fee may be applied.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(28) A student granted LOA remains an RMIT student and is:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "eligible to appeal a University decision to suspend, expel or exclude them, or a student conduct decision",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "entitled to retain but not use their RMIT student card",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "entitled to have and use a student email account",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "entitled to apply for credit",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "entitled to use academic and student support services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "responsible for checking their RMIT student email account",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "responsible for maintaining up-to-date contact details on their student record",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "responsible for re-enrolling by the relevant dates.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Authority of the University Secretary and Academic Registrar",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) The University Secretary and Academic Registrar may grant an LOA on administrative grounds in exceptional circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(30) The University Secretary and Academic Registrar or Registrar of the institution may, in exceptional circumstances, authorise an LOA to be backdated to before the relevant course census date, which will determine fee entitlements. Such decisions are final.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review of Determinations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) The student may seek a review of a decision to deny their application for LOA or approval of LOA for a different period than requested.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(32) The student must request such a review within 20 working days of the date of the email notifying them of the decision, by email to (as relevant):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "(for international students studying on a student visa in Australia who have had their LOA rejected, including HDR students) the Associate Director, Enrolment and Student Records. The Enrolment and Student Records team may consult with Education Regulation Compliance Assurance on ESOS matters as required",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(for other students, excluding HDR students, who have had their LOA rejected by their Dean/Head of School/Cluster Director) the College Associate Deputy Vice-Chancellor Learning and Teaching",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(for HDR students seeking review of an LOA decision by a Dean/Head of School/Industry Cluster) the Associate Deputy Vice-Chancellor Research, Training and Development",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(for HDR students seeking review of a decision by the Associate Deputy Vice-Chancellor Research, Training and Development on a request for LOA longer than one year, or LOA while the student is on an extension beyond the maximum period of candidature) the Deputy Vice-Chancellor Research and Innovation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(33) Students studying on a student visa who are not satisfied with the outcome of a review of the decision to deny their application for LOA or approval of LOA for a different period, may apply for an external review of the decision as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for higher education students: National Student Ombudsman",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for vocational education students: Victorian Ombudsman.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

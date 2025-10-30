@@ -1,0 +1,552 @@
+{
+  "metadata": {
+    "title": "Travel Instruction - Leading Student Travel",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=302",
+    "scraped_date": "2025-10-31 01:20:58"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Student Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Student travel may be an RMIT approved activity as a requirement of a course offering or an optional or additional activity available to some students. Such travel may be:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an overseas study tour or staff-led activity, where the travel is to another country",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a domestic study tour or staff-led activity, where the travel is to a location within the same country but away from the city or town in which the course is mainly located",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "domestic travel activities involving an overnight stay such as: field trips co-curricular activities, or representing RMIT at registered events (e.g. inter-university competitions, conferences, industry events).",
+              "subclauses": [
+                "co-curricular activities, or",
+                "representing RMIT at registered events (e.g. inter-university competitions, conferences, industry events)."
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) A study tour or staff-led activity may be a whole course, a component of a course, or an assessment component of more than one course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(9) The obligation and likely costs must be stated in the course guide where travel is a course requirement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(10) All costs associated with student travel must be appropriate and justified for the purpose and objectives of the travel program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(11) Study tour and activity fees must clearly state inclusions and exclusions, be transparent and communicated in writing (e.g. in program and course guides and on the tour’s individual Student Mobility Management System (Mobi) page) and compliant with Higher Education Support Act 2003 guidance on charging of fees that are incidental to studies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) Students must be briefed before departure on how to perform any required assessment task in relation to the activities during the travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) The school, industry cluster, college or portfolio which supports the travel activity, must hold:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an itinerary of the travel",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a list of the students who are travelling",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "mobile phone contact details for the travel leader",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "contact details for any accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(14) RMIT does not provide visa advice to students or apply for a visa on behalf of a student, in accordance with the Travel Procedure – Student. RMIT Global Learning can provide supporting documentation required to apply for a visa (e.g. a mobility confirmation letter).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(15) All RMIT students undertaking enrolment-related travel receive complimentary travel insurance in accordance with the Travel Procedure – Student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(16) Schools or industry clusters may work with Global Learning Service Providers to deliver overseas student global experiences.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Global Learning team manages a central list of approved Global Learning Service Providers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "All approved providers sign a Global Learning Service Provider Agreement with RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "New Global Learning Service Providers must be approved by Global Learning team.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Preparing to Lead Student Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) Travel leaders must ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the New Program Setup form is completed in Mobi for overseas Global Learning",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "risk assessments required by RMIT and colleges are completed during the course development stage (where relevant, for example: RMIT Student Trip Planning Risk Mitigation Guide)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "a risk assessment and mitigation plan is submitted no later than one month before the travel departure date, please see: Student Trip Planning Risk Mitigation Guide HSW Risk Management.",
+              "subclauses": [
+                "Student Trip Planning Risk Mitigation Guide",
+                "HSW Risk Management."
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) RMIT provides all travellers with access to destination specific health and security risk information prior to travel via the International SOS website and app:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ISOS membership page",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ISOS Assistance App.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(19) Details and guidance on study tour development and administration is provided through the Student Mobility Management Systems (Mobi). Contact global.shortprogram@rmit.edu.au for full guidance on using Mobi.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(20) Proposals for study tours must be submitted by the nominated travel leader or administrative staff through Mobi. Proposals must include proof of approval for the study tour in the specific period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(21) Study tour proposals are submitted in line with timelines provided in Mobi. Global Learning sets up the study tour or travel activity in Mobi. A unique link is generated for each study tour or travel activity and is searchable on Mobi.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(22) Student applications and registrations to participate in a study tour or travel activity are captured in Mobi.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Risk and Safety",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) RMIT may disallow a trip where the risk assessment is high or where unforeseen circumstances arise during the travel that increase the level of risk, in accordance with the Travel Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Travel leaders must take a risk-based approach and implement mitigations according to risk levels in accordance with HSW Risk Management. Additional hazards and risks to consider include but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "location of activity – urban, rural, remote",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "logistical services – transportation, accommodation, food and water, classroom facilities, internet and mobile phone access",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "host country (for international travel) – geopolitical issues, current International SOS and Department of Foreign Affairs and Trade advice, environmental factors, access to medical facilities, cultural attitudes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "recommended staff-to-student ratio for overseas travel of 1:15. The staff-to-student ratio for international travel must not exceed 1:20.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(25) Travel leaders are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "managing a communication and emergency management plan",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "strongly recommending all students preparing for international travel complete Preparing for Learning Abroad micro-credential in accordance with the Travel Procedure - Students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "confirming students have completed the relevant Sex and Consent module",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "confirming all students preparing for international travel have registered their travel through: Mobi, and International SOS in accordance with the Travel Procedure – Student",
+              "subclauses": [
+                "International SOS in accordance with the Travel Procedure – Student"
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "monitoring Mobi student declarations for special circumstances (e.g. medical conditions, equitable learning supports) and contacting student to discuss as required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(26) Any international travel to a Level 3 risk destination, as determined by the Australian Department of Foreign Affairs and Trade must be approved via the Student Travel Risk - Escalated Approval form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(27) At least one staff member accompanying students on the travel must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "have First Aid Officer Training HLTAID011, and where required, Remote Area First Aid Training (HLTAID013), and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "have completed the Responding to disclosures of sexual harm learning module for staff.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Pre-Departure Briefings",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(28) Travel leaders must hold a comprehensive pre-departure briefing (in collaboration with Global Learning for international travel, RMIT Vietnam International Office or relevant global campus mobility team) with students that addresses:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the conditions of participation in travel",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "local destination information",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "health and safety information (refer to travel safety guideline)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "communication protocols and meeting points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "emergency management",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "RMIT’s rules for traveller safety",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "RMIT and government registration requirements where relevant",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "the recommendation to complete the Preparing for Learning Abroad micro-credential module",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "RMIT’s zero-tolerance approach to the sexual abuse, exploitation and harassment of individuals.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "During Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) Staff and students conduct themselves in a professional manner and in accordance with the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Student Conduct Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(30) Travel leaders are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "being contactable by students and RMIT at all times during the travel program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "confirming the arrival of all participants on the first day of the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "undertaking travel with the student group or, when not travelling with the group, appointing an onsite group travel leader",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "being able to fulfil all duty of care responsibilities including critical incident and emergency management throughout travel",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "having contact details saved and accessible for International SOS resources in case of emergencies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "being the study tour or activity’s principal contact with RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "discharging responsibilities for the health, safety and wellbeing of student travellers in accordance with: DFAT Risk Guidance Note on Preventing Sexual Exploitation, Abuse or Harassment Health, Safety and Wellbeing Policy and Safe travel guidelines (for staff) Gender-Based Violence Prevention and Response Policy Travel Policy.",
+              "subclauses": [
+                "DFAT Risk Guidance Note on Preventing Sexual Exploitation, Abuse or Harassment",
+                "Health, Safety and Wellbeing Policy and Safe travel guidelines (for staff)",
+                "Gender-Based Violence Prevention and Response Policy"
+              ]
+            },
+            {
+              "clause_number": "11",
+              "text": "(31) If a student discloses any condition that may require additional support whilst travelling, the travel leader must discuss the relevant support to be provided with the student, and if necessary and with the student’s permission, consult with RMIT support services, such as Disability Support Services, Counselling Services and Safer Community.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(32) The provision and consumption of alcohol consumption by staff and students during travel must only be made in accordance with the Alcohol Management Procedure, with particular reference to clauses (32) – (40).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(33) Alcohol consumption must only be sanctioned where the risk assessment includes sufficient mitigations to prioritise safety, and for participants that meet the minimum legal drinking age and use in the host location.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(34) If a student withdraws from the study tour during travel, the student becomes responsible for their own safety, transport and accommodation. Students who withdraw from a travel activity may be liable to repay travel grant loans and/or scholarship funding.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Discharging a Student During Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(35) Discharging a student removes the student from the remainder of the travel activity and must only be undertaken where it is deemed essential in the circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(36) Travel leaders may be required to discharge a student during travel if a student engages in conduct that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is in breach of any host location laws",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is in breach of RMIT policies and stated behavioural expectations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "poses an immediate danger to themselves or others",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "disrupts the learning, safety or wellbeing of others in the group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(37) The travel leader must keep documentation and evidence supporting the decision to discharge a student to support any report of potential misconduct in accordance with the Student Conduct Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(38) In discharging a student, the travel leader may support the student to find alternative transport or accommodation, however once the student has been discharged the student is responsible for their own safety, transport and accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(39) Students who are discharged from a travel activity may be liable to repay travel grant loans and/or scholarship funding.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Critical Incident and Emergency Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(40) Health, Safety and Wellbeing (HSW) incidents, and near misses, are reported in accordance with the RMIT HSW Incident Management and Investigation Process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(41) Any disclosures of sexual harm must be responded to in accordance with the Gender-Based Violence Response Procedure - Australia.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(42) In the event of a critical incident or emergency, the travel leader must take reasonable steps to ensure the immediate safety of the group in accordance with local emergency advice and (if travelling overseas) contact International SOS for support including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "calling +61 2 9372 2468, reverse charge from anywhere in the world (this number is stored in the International SOS app). The RMIT Membership number is 12ACPA000012.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "contacting Global Learning for any non-emergency assistance or advice: global.shortprogram@rmit.edu.au or call +61 3 9925 9178.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(43) Travel leaders must be aware of reporting and escalation mechanisms for health, safety and wellbeing concerns, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT’s Safer Community: +61 3 9925 2396",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Stopline (RMIT’s Whistleblower hotline): +61 3 9811 3275 – Overseas (reverse charges for overseas locations) 1300 30 45 50 – Australia.",
+              "subclauses": [
+                "+61 3 9811 3275 – Overseas (reverse charges for overseas locations)",
+                "1300 30 45 50 – Australia."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Monitoring and Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(44) RMIT International and Engagement is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "advising on strategic and institutional priorities in the development of a student travel program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring a consistent approach to international student travel programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "facilitating relationships with RMIT’s Global Learning service providers, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "overseeing the management and governance of international travel programs, including the escalation of any relevant matters to the Deputy Vice-Chancellor and Vice-President - International and Engagement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(45) Breaches of this policy are managed via the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Student Conduct Policy",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

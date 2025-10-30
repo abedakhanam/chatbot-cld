@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "title": "Compliance Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=49",
+    "scraped_date": "2025-10-31 01:27:10"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) RMIT is committed to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "complying with relevant legislation to operate safely and pragmatically, uphold its reputation, and avoid legal consequences",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring effective oversight and accountability of legislative obligations through clearly defined ownership, roles and responsibilities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "adopting a risk-informed approach to compliance management",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "conducting regular assessments to identify controls and gaps to ensure that RMIT fulfills its compliance obligations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "monitoring activities to ensure adherence to policies and compliance with regulatory and legislative requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "proactively responding to changes in legislation and ensuring timely compliance with new compliance obligations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "reporting regularly to the University Executive Committee (UEC) and the Audit and Risk Management Committee (ARMC), and providing key information on compliance breaches, identified gaps, rectification strategies and compliance attestations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "proactively preventing, identifying, reporting, escalating and responding to compliance breaches",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "providing staff with relevant compliance education training programs, ensuring ready access to breach reporting systems, and fostering a safe environment for raising compliance issues",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "maintaining the Compliance Policy through continuous improvement and awareness of compliance obligations across all operating areas and locations to ensure alignment with best practices.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(9) RMIT’s Compliance Policy is informed by governance structures and instruments, including but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Royal Melbourne Institute of Technology Act 2010",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "University statutes and regulations, such as RMIT Statute No.1",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Audit and general governance functions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Risk Management Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Corporate Social Responsibility Framework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Fraud and Corruption Control Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) The Audit and Risk Management Committee assists the RMIT University Council in discharging its responsibilities to the RMIT Group by monitoring compliance with laws, regulations and the Code of Conduct.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) Members of the University Executive:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "are designated as Accountable Officers, responsible for implementing the Compliance Policy within their areas of responsibility",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "assign appropriate resources to manage compliance obligations, including appointing Legislative Owners with subject matter expertise, who have significant operational control and delegated authority",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "provide information, advice and assurance about compliance management in their areas of accountability.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(12) The University Secretary and Academic Registrar is responsible for the Compliance Policy and its associated procedures and resources.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(13) The Central Compliance Team:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "develops and maintains the Compliance Policy, associated procedures and resources",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "advises and supports Legislative Owners and Legislative Specialists to effectively implement controls for the management of compliance obligations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "provides oversight of compliance requirements with a centralised Legislative Obligations Register and provides access to tools and resources to help stakeholders understand and respond to changes in compliance requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "retains a record of identified or suspected compliance breaches and their outcomes in the RMIT Compliance Breach Register",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "monitors and facilitates regular reporting to governance bodies and management committees, and external agencies where required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(14) Legislative Owners and Legislative Specialists:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "promote a culture of compliance within their business area or function and manage implementation activities in accordance with the Compliance Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "actively monitor compliance risks and respond to identified and suspected compliance breaches in line with the Compliance Breach Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "collaborate with the Central Compliance Team to maintain an effective and current Compliance Policy and cooperate with requests for information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(15) All staff and researchers remain individually accountable for their actions as members of the RMIT Group community, bound by the Code of Conduct and relevant enterprise agreements. They have a responsibility to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensure that they are aware of the compliance obligations applicable to their role and that their actions are consistent with RMIT policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "undertake mandatory compliance training",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "report and escalate compliance concerns and suspected breaches to their manager or supervisor in line with the Compliance Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(16) Contractors and volunteers have a responsibility to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensure that they are aware of the compliance obligations applicable to their role at RMIT and that their actions are consistent with RMIT policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "undertake compliance training as requested and conduct themselves in accordance with the specific terms of engagement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Assurance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) Regular reporting on material breaches, trends, systemic issues, and the level of compliance across the RMIT Group is provided to the RMIT University Council and Audit and Risk Management Committee. This provides reasonable assurance that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Ownership of compliance obligations is clearly defined and understood to enable effective oversight and management.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Operations are grounded in an effective compliance management approach integrated with the Risk Management Framework, enabling RMIT to identify, assess, manage, monitor and report on compliance obligations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Compliance breaches are proactively identified and prompt corrective action is taken in line with the Compliance Breach Management Procedure, and potentially disciplinary action for members of the RMIT Group who breach compliance obligations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) To ensure appropriate visibility, oversight and governance of compliance management, the Central Compliance Team coordinates biannual reporting to VCEM and ARMC, with input from Legislative Owners and Legislative Specialists. When in-depth discussions on specific legislation are required, Legislative Owners will lead these discussions at relevant governance meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(19) The Education Regulation, Compliance and Assurance (ERCA) team:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "provides enterprise-wide advice on all education regulatory activities related to RMIT’s registration as an Australian University and Registered Training Organisation, acting as the principal contact with TEQSA, the Australian Higher Education Regulator and ASQA, the national regulator for vocational education.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(20) The Internal Audit team:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "undertakes internal audits with due consideration of compliance obligations that are relevant to the scope of the audits",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reports periodically to ARMC and at times to VCEM and other governance bodies (e.g. Academic Board), where required, on the results of internal audits performed.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) The Central Compliance Team monitors compliance with this policy and reports on breaches to internal governance bodies, as required, in accordance with the Compliance Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(22) Breaches of this policy by a staff member are managed in accordance with the Code of Conduct and the Compliance Breach Management Procedure as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(23) Staff who knowingly or recklessly breach a compliance obligation may be subject to applicable legislative penalties or disciplinary action.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) This policy is maintained by the Central Compliance Team and is reviewed every five years in accordance with the Policy Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(25) Periodic reviews will align with ISO 37301:2021 Intentional Standard for Compliance Management.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(26) Compliance Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(27) Compliance Breach Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(28) Compliance Escalation Guide.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

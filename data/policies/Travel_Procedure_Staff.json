@@ -1,0 +1,582 @@
+{
+  "metadata": {
+    "title": "Travel Procedure - Staff",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=81",
+    "scraped_date": "2025-10-31 01:23:01"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - Travel Requests and Bookings",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Travel requests must be made through the RMIT contracted travel management company via the RMIT Travel pre-booking tool.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Travel cost estimates, domestic and international bookings must be completed through the RMIT contracted travel management company.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) If travel is funded by an external body, or where a necessary contractual obligation to use an alternate supplier is evidenced in writing, the traveller must ensure that travel details relating to flights, ground transport and accommodation are approved by the traveller’s line manager and the travel details recorded with RMIT’s contracted travel emergency management provider for international travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(10) A new booking must be created for approval in the RMIT Travel pre-booking tool if changes are made to an approved travel booking where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the cost of the trip increases by more than 20% of the approved amount",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "destination/s have changed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "changes extend the travel itinerary beyond what was originally approved.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(11) Contact details must be provided at the time of booking for deploying critical incident or emergency communications if needed. This must include the traveller’s RMIT email address and the mobile number that will be used during travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) If a trip has been ticketed and then cancelled, it is the responsibility of the traveller (or travel arranger) to advise their line manager and the travel management company of the cancellation prior to the departure date. This will ensure that tickets can be refunded or credited if there is any value, or documented and used toward future travel if the ticket is non-refundable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) Travellers who are receiving funding for their travel from an external body must ensure that their travel complies with the conditions of the relevant external body and RMIT’s Fraud and Corruption Control Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part B - Approval for Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) All RMIT-funded travel must be approved in accordance with the Travel Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Domestic Travel (for Australian-based staff)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) Travel that complies with conditions set out under section 4, clause (6) of the Travel Policy requires pre-trip approval and can be self-booked by the traveller or travel arranger via the Online Booking Tool (OBT) launched from the RMIT Travel pre-booking tool. Travellers must ensure their line manager is aware and supportive of the need for travel before raising a travel request using the RMIT Travel pre-booking tool.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(16) For self-bookings made via the online booking tool:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an instant notification is sent to the traveller’s line manager upon booking confirmation; unauthorised bookings will be cancelled at the line manager’s discretion",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "costs incurred from unauthorised bookings will be recovered from the traveller.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Domestic Travel (for RMIT Vietnam and RMIT Europe staff)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) Travel that complies with conditions set out under section 4, clause 6 of the Travel Policy requires pre-trip approval and can be booked by the traveller or travel arranger through the travel management company.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "International Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) All international travel requires pre-trip approval in accordance with the Travel Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) All travel to RMIT Vietnam campuses must be endorsed via the Vietnam Travel Endorsement process prior to raising a request using the RMIT Travel pre-booking tool.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part C - Travel Expenses",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) RMIT staff embarking on travel for RMIT-related activities may be eligible to obtain a corporate credit card for meals and incidentals, including taxi charges, subject to approval conditions in the Corporate Card Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Payment for business-related travel expenses must be incurred and managed in accordance with the Business Expenses Policy Schedule 1 – Allowable Expenses Guidance. Individuals will not be reimbursed for expenses that do not comply with this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) Per diems are not provided to staff from RMIT Australia as part of their travel. In certain circumstances, for offshore teaching or related administrative purposes, staff travelling internationally may be eligible for a daily allowance of up to $150 (Consumer Price Index considerations will be reviewed annually) to cover their meals and incidentals subject to line manager approval. Staff from RMIT Vietnam are eligible for a per diem as outlined in clauses 29-32 below and in the Travel Procedure Schedule 3 – RMIT Vietnam Per Diem Guide.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) Travellers must refer to the Business Expenses Policy Schedule 1 – Allowable Expenses Guidance for work-related incidentals that can be claimed as reimbursement or charged to the corporate credit card.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(24) The traveller’s relevant Executive may approve, subject to budgetary considerations, reimbursement to staff with carer responsibilities for reasonable child or dependent care costs incurred over and above the cost of usual dependent care arrangement when the employee is required to travel for RMIT-related activities. The traveller will need to provide receipts and evidence that no other arrangements could be made for the child or dependent during the travel period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(25) For staff undertaking travel extending 30 or more nights, alternative allowances may be arranged to cover reasonable expenses, such as living-away-from-home allowance (LAFHA). The applicability of LAFHA is assessed on a case by case basis. Requests for LAFHA will be reviewed by the People Global Mobility team and must be raised via Service Connect.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(26) The daily maximum travel expense that can be incurred by an RMIT Europe employee, without incurring any additional tax, is contained in Travel Schedule 2 - Travel Allowance for RMIT Europe.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(27) Staff issued with a corporate credit card must use their corporate credit card to pay for travel costs in accordance with the Business Expenses Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(28) Travellers not issued with a corporate credit card can seek reimbursement of RMIT-related expenses in accordance with the Business Expenses Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "RMIT Vietnam",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) Most RMIT Vietnam travellers may apply for a per diem where travel is:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for RMIT-related activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "greater than one night and up to a maximum of 30 nights",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(30) The following RMIT Vietnam staff undertaking travel are not eligible for per diems:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "honorary appointees or visitors to RMIT Vietnam",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "travellers attending a conference as the main purpose of travel (unless the travel is between provinces for greater than one night, in which case they are eligible for a per diem)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "travel extending 30 or more nights.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(31) The per diem payable for RMIT Vietnam staff is detailed in Travel Schedule 3 - RMIT Vietnam Per Diem Guide.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(32) RMIT Vietnam staff undertaking regular international travel are encouraged to obtain a corporate credit card or seek reimbursement in accordance with the Business Expenses Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Private Travel and Accompanying Spouse",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) RMIT will not pay for private travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(34) Where the private portion of travel exceeds 50%, the travel will be treated as private travel and:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "airfares will not be covered by RMIT, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "approval by a University Executive team member will be required for additional travel costs such as accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(35) Where private travel is taken as part of conducting RMIT business, the RMIT traveller must demonstrate that the RMIT business component is the dominant purpose of travel to utilise the RMIT travel processes and systems, by:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "using a logical flight path to travel to and from the business-related destination",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring any private reason for travel is a secondary consideration to the business reason for travel which does not result in any additional cost to RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "confirming the private travel would not have occurred but for the business-related component of the travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(36) RMIT is not liable for any fringe benefits tax (FBT) resulting from private travel. In instances where private portion is unavoidable, the individual will be liable for Fringe Benefits Tax. Recovery of fringe benefits tax will be automatically deducted from the traveller’s salary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(37) Days in transit and unavoidable delays between business activities due to weekends, public holidays and scheduling issues are not considered to be the personal component and documentation is required to support the classification of these days in transit/unavoidable delays (e.g. itinerary, explanation of scheduling limitations, etc.).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(38) An accompanying spouse, partner or dependant can travel with the RMIT traveller where it does not result in an additional unrecovered cost to RMIT. The traveller must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensure that the business of RMIT is not compromised, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "declare any accompanying travellers prior to travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(39) The travel management company may be used for booking the personal or accompanying spouse, partner or dependent’s travel. This must be paid separately using personal (non-RMIT) funds.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(40) RMIT travel insurance for all approved travel is processed via the contracted travel management company, irrespective of the method of booking or payment. It is the approval via the RMIT Travel pre-booking tool that activates the insurance cover. The travel emergency management service provider receives information about all travel bookings directly from the travel management company. For any bookings made outside this process, travellers are responsible for providing their itinerary information to the travel emergency management service provider. Instructions for this are found on the Travel Safety intranet page and in the Travel Guide.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Travel Diaries",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(41) The purpose of a travel diary is to show work-related and private elements of a trip. RMIT Australia staff must keep a travel diary in the RMIT Travel pre-booking tool to show the dates, places, time and duration of activities and travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(42) RMIT Europe staff are required to maintain a travel diary for all travel, no matter what length, in accordance with EU requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(43) RMIT Vietnam staff are required to keep a travel diary for all international travel.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part D - Air Travel",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(44) RMIT has agreements with travel vendors including air carriers. The contracted travel management company will offer preferred airlines unless the lowest practical fare is available on a reputable carrier.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(45) Flights should be booked well in advance (at least three weeks prior to departure) to obtain favourable pricing on flights.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(46) Flights cannot be booked for travellers on airlines on the EU Air Safety List.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(47) Reasonable excess luggage charges incurred during business travel can be reimbursed with the approval of the traveller’s People Manager. Every effort must be made to keep costs to a minimum.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(48) RMIT does not fund airline frequent flyer program memberships or memberships to airline clubs except in the case of individual contractual agreements to the contrary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(49) Travel upgrades to a higher class by use of frequent flyer points and/or personal funds are acceptable where the upgrade does not compromise the lowest practical fare requirement of RMIT. The traveller is required to pay for the additional emissions offset cost associated with the higher emissions intensity of the higher class of travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(50) Unless the traveller’s employment contract authorises a different class of travel, travel funded by RMIT will be booked in accordance with clause (44) and the class indicated in Travel Procedure Schedule 1 - Class of Travel. Unauthorised upgrades on alternative class categories must be paid from the traveller’s personal funds.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(51) Subject to budgetary considerations, an authorising officer, as described in Travel Procedure Schedule 1 – Class of Travel, may approve fare classes other than economy where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the proposed journey is longer than seven hours from the initial flight departure time, and there are circumstances requiring a fare class other than economy, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the employee’s health circumstances warrant a seating class other than economy, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "there is evidence that the travel expenditure is permitted by the relevant external funding body.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(52) It is undesirable for more than two RMIT travellers who are University Executive team members or Executives to travel together on the same aircraft. Where practical, different flights should be used where more than two members travel to the same destination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(53) All chartered aircraft requests must be submitted in writing and approved by the Director, Risk Management and Health, Safety and Wellbeing team when no other mode of transportation is available or practicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(54) As a minimum, the following restrictions apply for all chartered aircraft requests:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The aircraft must be operated by an air charter company that is duly licensed for the regular transportation of fare-paying passengers",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Travellers are not allowed to pilot a charter aircraft.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part E - Ground Transportation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(55) The most cost-effective and low-emission means of transportation must be used while on RMIT-related activities. The use of alternative transportation (e.g. airport shuttle, taxi, etc.) and the Business Expenses Policy should be considered before deciding to rent a car.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(56) Car reservations must be made through the contracted travel management company or online booking tool.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(57) The preferred car rental company must be utilised where rental of a vehicle is required. Should the preferred vendor be unavailable, the most economical alternative must be booked.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(58) Insurance must be taken when renting a vehicle to cover the following minimum aspects:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "liability for passengers, those in other vehicles and pedestrians",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "liability for third party property damage (including other vehicles)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "damage to the hired vehicle.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(59) Insurance is not included for any personal/leisure rentals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(60) Travellers are expected to rent intermediate size cars or smaller. A full-size car may be reserved if two or more RMIT travellers are sharing a car.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(61) Fines incurred due to parking, speeding and other violations of the law are not reimbursable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(62) When renting a vehicle, the driver must select the ‘full to full’ option of hiring a vehicle with a full tank of fuel and then returning it with a full tank. If circumstances prevent the refueling of the vehicle, a detailed explanation must be included on the expense report as they will have incurred additional costs for RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(63) When personal vehicles are used for RMIT business-related activities, mileage, tolls and parking are reimbursed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "In Australia, mileage is reimbursed via the process and the rate set by the Australian Tax Office.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "In all other countries outside Australia, the general country rates will apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The traveller has the sole responsibility for properly insuring their vehicle against damage incurred while on RMIT-related activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Parking at approved airport or other parking stations will be reimbursed where this is a lower cost option than taxis and when it is related to RMIT business. Evidence may be required to substantiate the lower cost.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(64) The approved bus company for chartered road services in Victoria must be used for domestic off-site activities, including but not limited to excursions, training days and conferences. Alternative chartered bus services can be booked via the contracted travel management company should the approved bus company be unavailable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(65) Daily expense for utilising a taxi must not exceed the cost of a car rental, except where the traveller is uncomfortable or unable to drive.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(66) Travellers may use rideshare companies (such as Uber in Australia and Grab in Vietnam) in cities where they operate legally.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(67) Rail travel must be booked in the most economical class fare, and costs should be benchmarked against the economy airfare applicable to the given destination. Refer to Travel Procedure 1 - Class of Travel for eligibility for different classes of travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(68) If overnight rail travel is necessary, sleeper class may be used.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part F - Accommodation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(69) Accommodation must be booked via the online booking tool or travel management company, unless it is funded by an external party. Where accommodation is funded by an external party, the accommodation details must be recorded in the RMIT Travel pre-booking tool.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(70) Where available and located within reasonable commuting distance from the destination, RMIT-preferred hotels (whether stand-alone or chain) must be booked except in instances where clause (71) applies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(71) When a conference organiser provides pre-negotiated rates for accommodation close to or at the venue, the traveller may book that accommodation. The traveller must advise the travel management company and record the accommodation details in the RMIT Travel pre-booking tool and with the travel emergency management service provider.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Pre-departure",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(72) Travellers must refer to the RMIT Travel Pre-departure guideline and travel alerts issued by RMIT’s travel emergency management service provider.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(73) The following documents are Schedules to this procedure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Travel Procedure Schedule 1 - Class of Travel",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Travel Procedure Schedule 2 - RMIT Europe Travel Allowances",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Travel Procedure Schedule 3 - RMIT Vietnam Per Diem Guide",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(74) Approval for the maintenance of resources on the Travel Expenses Intranet site is delegated to the Chief Officer Procurement.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

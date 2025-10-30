@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "title": "Asset Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=128",
+    "scraped_date": "2025-10-31 01:20:59"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "RMIT Assets",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) All assets purchased, constructed or loaned must be recorded in RMIT’s accounting systems to enable RMIT to comply with relevant accounting standards. This includes all:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "tangible assets costing over $5,000 (excluding GST)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "intangible assets costing over $500,000 (excluding GST)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "assets leased by RMIT with a purchase price over $5,000 (excluding GST) and a lease duration of 12 months or more",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "library assets and works of art, regardless of value.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Recognition of Assets",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) The cost of an item of property, plant and equipment (PPE) will only be recognised as an asset if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "it is probable that future economic benefits associated with the item will flow to the entity, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the cost of the item can be measured reliably.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(6) The initial cost of an asset should include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the purchase price, including import duties",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "any directly attributed costs associated with bringing the asset to a position of use (e.g. installation or delivery fees)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "an initial estimate of costs of decommissioning the item, where RMIT is obligated to do so.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) Central Finance Operations is responsible for identifying assets requiring capitalisation. Organisational units may flag items, such as capital projects, for review.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Stocktake",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) A progressive three-year cyclical stocktake of PPE is undertaken to ensure operational areas maintain effective asset control.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Central Finance Operations initiates the stocktake and provides fixed assets listings to operational areas.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(10) Operational areas are responsible for day-to-day stewardship of assets, including verifying their existence and condition during the stocktake and advising Central Finance Operations of any discrepancies.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Depreciation and Amortisation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Each PPE and leased asset must be depreciated, with the exception of land and artwork asset classes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "PPE depreciation is calculated on a straight-line basis over the estimated useful life of the asset.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Leased assets are depreciated based on the lease’s term on a straight-line basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(12) An intangible asset is amortised on a straight-line basis over its estimated useful life from the date it is available for use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The useful life of an asset must be reviewed and confirmed for year-end reporting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The intangible assets must be assessed for indicators of impairment for each year-end.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Revaluation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) An independent valuation to ensure that fair value is determined from market-based evidence must be undertaken at least:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "every three years, for all land and buildings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "every five years, for artwork.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Change of Location, Transfer and Loan",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) Operational areas must notify Central Finance Operations about any asset change of location, transfer to another area, loan to an outside institution or loan to an RMIT staff member.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) Loans to outside institutions and/or RMIT staff must have the prior approval of the relevant operational areas of RMIT. It is the borrower’s responsibility to cover costs associated with removal and return, and to insure against losses.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Asset Maintenance and Disposal",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) All assets must be kept with due regard for safety and security and maintained in good working order.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Maintenance, control and safety of assets remain the responsibility of the individual departments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "All surpluses, unserviceable or obsolete assets should be notified to Central Finance Operations and disposed of without undue delay.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Responsible areas of the leased assets must ensure that all leased assets meet the relevant occupational, health and safety requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(17) RMIT must ensure the disposal of assets is correctly accounted for with an appropriate audit trail in place.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(18) In the event of early termination of lease or disposal of a leased asset, Central Finance Operations must be notified in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(19) Assets with a nil book value (fully depreciated) are reviewed annually. Any asset carried at nil book value for five years or more is written off unless the relevant operational area requests its retention and advises Central Finance Operations accordingly. This provision generally applies to the Equipment, Furniture and Fittings asset class and the Library Collection asset class.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Organisational units are responsible for obtaining appropriate approval for capital expenditure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Property Services Group is responsible for reviewing property-related work in progress (WIP) projects.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) Information Technology Services is responsible for reviewing IT-related WIP projects, whether it be a tangible or intangible asset.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) Areas of RMIT that receive donated assets must advise Central Finance Operations about each donation and the fair value of the donation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(24) Staff purchasing assets are responsible for ensuring that all purchases comply with purchasing processes and meet the relevant occupational, health and safety requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(25) Refer to the following documents which are established in accordance with this procedure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Asset Management Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Asset Capitalisation Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Asset Disposal Instruction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Asset Stocktake Instruction.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

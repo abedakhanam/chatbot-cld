@@ -1,0 +1,498 @@
+{
+  "metadata": {
+    "title": "Elections Regulations",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=194",
+    "scraped_date": "2025-10-31 01:23:12"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - Preliminary",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) The purpose of these Regulations is to make provision for elections conducted by or on behalf of the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(2) These Regulations are made under the RMIT Statute No. 1 and sections 28, 29 and 30 of the Royal Melbourne Institute of Technology Act 2010.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(3) In these Regulations:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ballot period means the period during which persons may vote at an election.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "election documents means completed nomination forms, ballot documents, entries or data, electoral rolls and other records relating to an election, in hard copy or electronic format.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "remaining candidate means a candidate not already elected or excluded from the count.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "retention period means the period expiring on the last of the three dates referred to in clause (11).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "statutory election means an election which the Vice-Chancellor or University Secretary has determined is an election to which these Regulations and Part 9 of the RMIT Statute No. 1 applies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(4) These Regulations apply to a statutory election.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(5) A determination by the Vice-Chancellor or University Secretary may apply to specified elections or elections for membership of a specified body.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 1 – Electoral Roll",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) The returning officer compiles electoral rolls for the purposes of elections conducted under these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) Electoral rolls may categorise voters according to voter eligibility requirements of elections to be conducted under these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) An electoral roll contains, in respect of each person entitled to be on that roll:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the person’s name, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "any further information about the person which the returning officer considers to be appropriate to identify the person or to determine the person’s eligibility to vote or nominate in an election.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(9) A person may apply to the returning officer to be included on an electoral roll if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "his or her name is not on the electoral roll, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the person believes that he or she is entitled to be included on the electoral roll.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(10) If the returning officer is satisfied that the person is entitled to be included on the electoral roll, the returning officer must enter the person’s name on the electoral roll.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 2 – Retention of Documents",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) The returning officer retains election documents until the later of:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "three (3) months after the date of the election",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if a dispute relating to the conduct or result of the election has arisen, three (3) months after the resolution of the dispute or the date on which the duly elected candidate commences his or her term, whichever is the later, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the expiry of any applicable retention period applying to public records under the Public Records Act 1973.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) The returning officer ensures that at the end of the retention period, election documents are dealt with in accordance with the relevant policies and procedures.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part C - Entitlement to Participate in Elections",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) A person is entitled to vote at an election if, at the time of voting, the person’s name is on the relevant electoral roll.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) A person is entitled to vote in all categories in which they are eligible for any election.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 1 – Nomination of Candidates",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) The returning officer calls for nominations of candidates from the relevant electorate not less than two (2) weeks before the first day of a ballot period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(16) A call for nominations:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is in a form determined by the returning officer, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "specifies a date, being not less than one (1) week before the first day of the ballot period, by which nominations are to be received by the returning officer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(17) In determining the method of calling for nominations the returning officer takes into consideration the objective of ensuring that the call comes to the attention of the relevant electorate.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 2 – Procedure Where There Is No Contest",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) If the number of eligible candidates nominated for election to a body in a particular category does not exceed the number of vacancies in that category, the returning officer declares those candidates duly elected.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) This regulation 13 applies:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "to all of the vacancies if: no candidates are nominated for election to a body in a particular category, or all candidates nominated for election to a vacancy withdraw before being elected, or",
+              "subclauses": [
+                "no candidates are nominated for election to a body in a particular category, or",
+                "all candidates nominated for election to a vacancy withdraw before being elected, or"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "to the number of vacancies which are not filled if: the number of candidates nominated for election to a body in a particular category is less than the number of vacancies, or a candidate nominated for election to a vacancy withdraws before being elected, resulting in the number of remaining candidates being less than the number of vacancies.",
+              "subclauses": [
+                "the number of candidates nominated for election to a body in a particular category is less than the number of vacancies, or",
+                "a candidate nominated for election to a vacancy withdraws before being elected, resulting in the number of remaining candidates being less than the number of vacancies."
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "(20) Where clause (19) or clause (43)b. or c. applies, the returning officer notifies the relevant member of the University staff of the vacancy and of the requirements of this regulation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(21) A member of University staff who has received a notification under clause (20) advises the chair of the body who must appoint suitable persons to fill the vacancies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(22) A person appointed under clause (21) must have the like qualifications (if any) that would have made the person eligible to nominate in the election.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(23) Notwithstanding clause (21), it is not obligatory to appoint a person to fill a vacancy if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "there is no suitable person willing or available to be appointed to fill the vacancy, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for the purpose of clause (43)b. or c. the casual vacancy occurs within six (6) months before the expiry of the term of office.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 3 – Procedure Where There Is a Contest",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) If the number of candidates nominated for election to a body in a particular category exceeds the number of vacancies, the returning officer conducts a ballot in accordance with these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(25) The returning officer publishes a notice of ballot not less than one (1) week before the final day of the ballot period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(26) In determining the method of notification the returning officer takes into consideration the objective of ensuring that the notice comes to the attention of the relevant electorate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(27) A notice of ballot must specify the ballot closing time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(28) Votes may be cast and recorded in a manner determined by the returning officer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(29) The manner for conducting elections under these Regulations is included in the notice of ballot under regulation 15.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(30) Elections are determined by the optional preferential and proportional representation systems of voting as the election requires under Part E of these Regulations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 4 – Counting Ballots",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) After the ballot closing time, the returning officer:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a) examines all votes cast",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "b) determines whether any votes are invalid, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "c) counts the valid votes in accordance with these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(32) Except as provided in these Regulations, votes received after the ballot closing time are not counted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(33) If the Vice-Chancellor and the returning officer are of the opinion that voting has been affected by an Act of God or industrial action, they may direct that votes received after a time specified by them, being not later than 5.00pm one (1) week after the last day of the ballot period, be examined and counted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(34) Subject to confidentiality restrictions as determined by the returning officer, a person nominated by a candidate in an election may review the result of the election.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(35) A scrutineer must not be a contesting candidate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(36) A vote is invalid if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the vote has been cast in a manner other than as specified in these Regulations or the instructions given by the returning officer",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the person who voted is not eligible to vote at the election, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "a person voted more than once in a category.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(37) Notwithstanding regulation 20 the returning officer may determine a vote is valid if in the opinion of the returning officer it is fair and reasonable to do so.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(38) The returning officer’s decision that a vote is invalid is final.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part E - Determining the Results of an Election",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(39) If only one (1) candidate is to be elected, the voting system is optional preferential:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a voter records their vote on the ballot paper by placing the figure 1 against the name of the candidate for whom they vote as their first preference, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a voter may place the figures 2, 3, 4 and so on, as the election requires, against the respective names of such other candidates as they may wish, indicating by such numerical sequence the order of preference for all or any of the candidates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(40) If two (2) or more candidates are to be elected, the voting system is proportional representation, that is, a voter records their vote on the ballot paper by placing the figure 1 against the name of the candidate for whom they vote as their first preference and the figures 2, 3, 4 and so on for all the candidates listed.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part F - Disseminating Results",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(41) After determining the results of an election, the returning officer, by electronic communication, declares the successful candidate or candidates duly elected.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(42) Upon declaring the successful candidate or candidates, the returning officer will make the distribution of votes for each election available on the RMIT website.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part G - Casual Vacancies",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(43) Positions filled by a statutory election that becomes vacant before the end of a term of office are filled as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "if the position was contested and a ballot was conducted under Part D, Division 3 of these Regulations and the position becomes vacant after the person has been declared elected but before the term of office begins, the candidate with the next highest number of votes is declared elected",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "if the position was contested and a ballot was conducted under Part D, Division 3 of these Regulations and the position becomes available after the term of office begins, regulations 13(20)-(23) apply, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "if the position was uncontested and the candidate was elected unopposed under Part D, Division 2 of these Regulations, clauses (20) to (23) apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(44) A person elected or appointed under clause (43) is entitled to hold office during the remainder of the term.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 1 – Misconduct",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(45) A person must not, in connection with a University election, record a vote which he or she is not entitled to record.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(46) It is general misconduct for the purposes of the Student Conduct Regulations and the relevant enterprise agreement if a person records a vote which he or she is not entitled to record.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 2 – Validity of elections",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(47) An election, including the conduct and outcome of an election is valid notwithstanding a procedural irregularity which, in the opinion of the returning officer or the Vice-Chancellor, would not have affected the result.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(48) In the event of a technical failure, the returning officer, at their discretion may apply an equitable remedy, including, but not limited to, extending the ballot closing time. The application of an equitable remedy does not affect the validity of an election.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 3 – Campaigning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(49) Candidates must ensure their conduct throughout the elections process accords with the law, the University legislation, the RMIT Code of Conduct and the relevant policies and procedures.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 4 – Revocation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(50) On the commencement of these Regulations the following Regulations are revoked:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Regulation 9.1.1 Elections.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

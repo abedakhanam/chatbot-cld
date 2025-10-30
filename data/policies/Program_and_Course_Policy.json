@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "title": "Program and Course Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=27",
+    "scraped_date": "2025-10-31 01:22:45"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) RMIT’s programs, courses and micro-credentials are designed, reviewed and approved to align with its curriculum architecture profile of a streamlined, adaptive, and high-quality suite of offerings to our communities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Refer to the Curriculum Architecture Principles and Design Standards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) All program and course offerings submitted for endorsement, approval and/or reaccreditation to the defined internal governance or accrediting agency are expected to comply with the Program and Course Policy provisions that are relevant to the type of offering.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) RMIT programs and courses adhere to principles of best practice curriculum design, including the provision of equitable learning opportunities, appropriate learning support and access to reasonable adjustments where applicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(10) Award programs and courses at RMIT:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "are designed to comply with AQF specifications and ensure students graduate having achieved the specified program learning outcomes appropriate to the award level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "include the skills, theoretical and technical knowledge and competency in application of knowledge and skills within the discipline area of the award program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "have a specified structure that enables the achievement of the program’s stated learning outcomes and RMIT Capabilities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "may be contextualised, in a manner that ensures equivalency, to accommodate global perspectives and requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "include opportunities, where relevant, to undertake micro-credentials that augment skills and/or learning outcomes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(11) New and amended RMIT programs and their structural components including courses, micro-credentials and units of learning are designed, delivered and reviewed in accordance with:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT policies and their underpinning principles and frameworks",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "RMIT's Education and Research Plans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(12) Programs and their structural components including courses, micro-credentials and units of learning are designed and delivered in accordance with relevant national qualifications frameworks, standards and requirements set by the Federal Register of Legislation:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Higher education award programs: Tertiary Education Quality and Standards Agency (TEQSA) Higher Education Standards Framework (Threshold Standards) 2021 (HESF)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Vocational education and training programs: training package or accredited course design rules as required by the Australian Skills Quality Authority (ASQA) 2025 Standards for Registered Training Organisations and the National Register of Vocational Education and Training",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Foundation Studies programs and courses: Education Services for Overseas Students (Foundation Program Standards) Instrument 2021",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "English Language Intensive Courses for Overseas Students (ELICOS) courses: the ELICOS Standards 2018",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Programs intended to be CRICOS registered: the Education Services for Overseas Students Act 2000 (ESOS Act) and the National Code of Practice for Providers of Education and Training to Overseas Students 2018 (National Code 2018) CRICOS legislation is currently not applicable to offshore delivery.",
+              "subclauses": [
+                "CRICOS legislation is currently not applicable to offshore delivery."
+              ]
+            },
+            {
+              "clause_number": "6",
+              "text": "In addition to the above, the design, delivery, and review of offshore offerings may need to observe legislative instruments relevant to the delivery location.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(13) Where a program is accredited by a professional body, colleges assure that it meets the professional accreditation standards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(14) Programs and their structural components, including courses, units of learning and micro-credentials are subject to continuing academic oversight, including regular monitoring, review and improvement by Academic Board and its sub-committees. Continuous improvement processes are informed by academic moderation, peer review, and benchmarking in accordance with RMIT defined frameworks, standards and requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(15) Staff involved in the design of programs, training products, courses, micro-credentials and units of learning are expected to maintain a high level of disciplinary and teaching and learning expertise, and exercise professional judgement in keeping with:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the expectations of their discipline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "current and emerging industry practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "standards relating to the scholarly practice of teaching and learning",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "professional accrediting bodies.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) Academic Board is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "overseeing and monitoring the compliance and quality of programs and courses with RMIT’s policy and quality standards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "approving and reaccrediting higher education and higher degree by research awards conferred by RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reviewing and monitoring of RMIT’s academic quality assurance framework.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(17) Education Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing recommendations to Academic Board for the quality assurance monitoring, standards and outcomes for all vocational education and training (VET) programs, training packages, skill sets, units of competency and embedded micro-credentials",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing oversight and monitoring of the ASQA Delegations Panel subject to the ASQA delegated functions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(18) Education Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing recommendations to Academic Board for the quality assurance monitoring, standards and outcomes for higher education coursework programs and courses and embedded micro-credentials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(19) Programs Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "academic review of higher education programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing recommendations to Academic Board for the approval, re-accreditation or discontinuation of higher education coursework awards pursuant to the delegations defined by the Program and Course Schedule - Approval and Discontinuation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "professional accreditation governance.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(20) The Associate Deputy Vice-Chancellor Research Training and Development is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintaining internal governance and quality processes to assure standards and outcomes for all higher degree by research programs, courses, and micro-credentials",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "maintaining all higher degree by research resources that support this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(21) Research Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "academic review and making recommendations to Academic Board for the approval, re-accreditation or discontinuation of higher degree by research awards pursuant to the delegations defined by the Program and Course Schedule – Approval and Discontinuation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing recommendations to Academic Board for the quality assurance monitoring, standards and outcomes for higher degree by research programs and courses, and embedded micro-credentials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(22) RMIT UP Academic Quality Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintaining internal governance and quality processes to assure standards and outcomes for all ELICOS and Foundation Studies programs and courses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "maintaining all resources for ELICOS and Foundation Studies that support this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(23) The Deputy Vice-Chancellor Education is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring compliance with relevant legislative and regulatory obligations, including quality assurance, and identifying any areas of concern for all higher education coursework programs and courses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "managing the program and course policy framework, as defined by the scope of this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "developing and maintaining RMIT design, delivery, approval and quality review principles and frameworks with the support of College Learning and Teaching Leadership.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(24) College Deputy Vice-Chancellors are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintaining internal governance and quality processes to assure standards and outcomes for all college owned programs, courses, micro-credentials and non-award products",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing strategic leadership to ensure that all higher education programs and courses offered by the college are aligned to RMIT’s strategy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(25) The Deputy Vice-Chancellor College of Vocational Education is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintaining internal governance and quality processes to assure standards and outcomes for all vocational educational and training products, skill sets, units of competency and college owned programs, courses and micro-credentials",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing strategic leadership to ensure that all vocational education and training products, skill sets, units of competency and college owned programs, courses and micro-credentials are aligned to RMIT’s strategy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "approval of amendments to RMIT’s scope of registration authorised by the Delegation Agreement, and to act as the Delegate’s Representative",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "maintaining all supporting documents to this policy for vocational education.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(26) The University Secretary and Academic Registrar is responsible for maintaining the program and course procedures, processes and guidance materials for coursework programs and courses, including research components in coursework programs.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(27) Staff who are responsible for the design, delivery, review, monitoring and administering of program and course offerings must follow this policy, procedures, schedules and supporting materials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(28) Breaches of this policy are managed via the Compliance Policy and the Compliance Breach Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) This policy will be reviewed at least once every five years in accordance with the Policy Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(30) Refer to the following documents which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Program and Course Work Integrated Learning Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Program and Course Review Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Program and Course Design Procedure - Higher Education Coursework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Program and Course Academic Management Procedure - Higher Education Coursework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Program and Course Approval Procedure - Higher Education, Short Courses and Micro-Credentials",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Program and Course Approval Procedure - Vocational Education and Training",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Program and Course Approval Procedure - Higher Degree by Research",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Program and Course Qualifying for an Award and Grade Point Average Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Program and Course Weighted Average Mark Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Program and Course Schedule - Approval and Discontinuation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Program and Course Configuration Instruction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "Program and Course Guide Instruction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "Program and Course External Referencing and Benchmarking Procedure.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

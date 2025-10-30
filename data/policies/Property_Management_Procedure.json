@@ -1,0 +1,492 @@
+{
+  "metadata": {
+    "title": "Property Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=78",
+    "scraped_date": "2025-10-31 01:22:00"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "General Rules for Allocation and Occupancy of University Space",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) All persons must comply with all applicable legislation, RMIT’s policies, procedures and rules and any RMIT direction, sign or notice while on RMIT’s campus and locations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) Space allocated for use by organisational units is periodically reviewed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) New or refurbished general teaching classrooms follow the requirements set out in the Tertiary Education Facilities Management Association (TEFMA) Space Planning Guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) Property Services, in conjunction with stakeholders, determines common teaching spaces that are centrally managed, and those that are College/Portfolio or School/Group/Entity supported specialist spaces.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) RMIT may implement procedures to support the regulation of parking including by defining criteria for the allocation of on-campus parking. (Refer to Parking on Campus webpage for further information).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(9) Space is shared across organisational units to optimise its effective use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(10) Space that is identified as being ineffectively utilised after an audit by Property Services may be reassigned or repurposed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(11) Space is allocated within research laboratories to researchers and research teams for set periods of time, which normally equates to the expected life of the research project or grant. At the end of this time, approval for use of the allocated space automatically expires, unless the project or grant has a formally approved extension.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) Research space that becomes vacant due to discontinuation of a project, expiry of a project or departure of the researcher or team, is re-purposed by Property Services in consultation with the occupying College/School or Portfolio.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) Laboratory space:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is reallocated as demonstrated needs change;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "must not be used to store inactive equipment or past experiments; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "must be reviewed annually by the responsible organisational unit.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(14) Research data (non-digital) storage space:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is allocated to Colleges, Schools and Portfolios according to their data storage needs; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is managed in accordance with the Information Governance Policy, Research Policy and Research Data Management Policy Process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(15) Care must be exercised to ensure that the purchase of suitable laboratory equipment does not duplicate existing equipment. Research directors must explore opportunities to share equipment across research/discipline groups.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "HDR Student Spaces",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) Higher degree by research (HDR) students are provided with access to laboratory or studio research spaces as necessary for the completion of their program. In addition, appropriate, bookable and shared workspaces are provided to HDR students for purposes related to their HDR.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) HDR workspaces are regularly audited by Property Services Group and occupancy results reported to Colleges and Centres, the School of Graduate Research and controlled entities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(18) If HDR students require more significant storage space than that provided within the workspace, then this must be accommodated within the School’s existing space allocation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(19) Additional responsibilities of Deans/Heads of Schools and HDR students in relation to space needs are referenced in the Higher Degrees by Research Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Staff Workspace and Staff Rooms",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Staff are given access to appropriate workspace based on work function.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Organisational units occupying space must be consulted on proposals to change access to or the purpose of those spaces as outlined in the consultation process in the relevant enterprise agreement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) Staff (0.6 FTE or greater) required to work from more than one campus or site are only allocated a workspace at one location. At other locations, staff have access to shared space that operates on either a bookable or ‘hot desk’ basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) There is an overall space allocation target of 10m2 to 12m2 Net Lettable Area (NLA) per work point density including common spaces. This takes into account all areas classified as being non-teaching (office space, reception, staff rooms, meeting rooms, resource and administrative support/storage areas) including common areas, access and circulation space, but excludes lifts, common stairs, toilets, voids, plant. Refer to the Property Council of Australia for NLA definition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(24) Provision of staff rooms in the immediate vicinity of staff office and administrative areas is considered during the planning of workspaces. The size of these areas is subject to space availability and the number of workspaces that need to be serviced.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Facility Use and Bookings",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(25) Staff and students must notify Property Services Group prior to booking a bookable space within RMIT (Facility) for the following purposes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "protest events or related activities;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "events or activities where there are likely to be additional security requirements or security-related risks; or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any other events or activities as required by the Executive Director, Property Services Group, including those covered by the Alcohol Management Procedure. This notice must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be made in writing via the Security Event Risk Assessment template;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "be submitted not less than 72 hours prior to the booking time; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "contain sufficient information to enable Property Services Group to undertake an effective event risk assessment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(26) Executive Director, Property Services Group may refuse or withdraw approval to book a Facility where the Executive Director, Property Services Group considers the proposed event or activity is, or is likely to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "cause RMIT to breach its obligations at law;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "prejudice RMIT’s ability to fulfil its obligations to foster the wellbeing of students and staff; or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "expose RMIT to an unacceptable Tier 1 risk in accordance with RMIT’s Risk Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(27) The Executive Director, Property Services Group will only refuse or withdraw a booking under section (26) having considered RMIT’s commitment to freedom of speech and academic freedom as per the Intellectual Freedom Policy;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the recommendation of Deputy Vice-Chancellor Education or their delegate; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the recommendation of any relevant RMIT experts or advisors, including but not limited to, where relevant, Legal Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(28) RMIT staff and students may book a Facility through the standard booking system for internal RMIT activities only, subject to availability. Bookings must not be made where approval has been refused or withdrawn by Executive Director, Property Services Group under section (26).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "External Organisations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) Where a School or organisational unit wishes to provide space to accommodate an External Organisation, they must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "seek advice from Property Services Group;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "obtain approval from Property Services Group and the executive sponsor before any agreement is negotiated; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensure the agreement considers current commercial rates and, at a minimum, require a return equivalent to the operational cost incurred by RMIT in providing the space.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "External Organisation; or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an RMIT School, organisational unit or staff/student on behalf of an External Organisation, wishes to book a Facility, they must first c. complete the external venue enquiry form (refer to the Venue Hire website for further information); and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "obtain approval from Property Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(31) Property Services may accept, withdraw or refuse a booking made under section (30) in its absolute discretion.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(32) External Organisation means any entity, organisation or individual that is not:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an entity within the RMIT Group;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "current staff or enrolled students of the RMIT Group; or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "RUSU or RUSU-affiliated clubs.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Records",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) Property Services must retain accurate and complete records of any decision to withdraw or refuse a booking under sections (31) or (26), including reasons for the decision.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Other Activities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(34) Drones or any Remotely Piloted Aircraft (RPA) operated on or from RMIT campuses or locations must be operated safely and responsibly in accordance with RMIT’s relevant Health, Safety and Wellbeing process HSW-PR26 Aviation - Drones Process, and in compliance with all local legal and regulatory requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(35) All RMIT building and space names and any name changes must be approved by the Vice-Chancellor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(36) RMIT’s asset security management program must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "provide training and awareness programs specific to asset security management;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "apply appropriate asset security risk management methodologies to protect our people and assets from harm (criteria per SA HB 188:2021 Base Building Physical Security Handbook);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "identify the people and assets to be safeguarded from security-related threats and vulnerabilities that RMIT may be presented with;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "recommend appropriate control measures including utilising contemporary technologies available to mitigate security-related risks to people and assets;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "assess and monitor the risk profile based on the current threat environment and adequacy of existing controls in place to delay, deter, detect, respond and recover from potential threats to assets; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "investigate, monitor and analyse security-related trends and recommend additional investment as appropriate to implement further supplementary measures to reduce security-related risk to a tolerable level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(37) All privately owned vehicles enter RMIT campuses at their own risk. RMIT does not accept responsibility for any accidents, losses or damage that occurs while privately owned vehicles are on RMIT property.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(38) Parking is managed in accordance with RMIT’s legislative obligations regarding parking enforcement and infringement appeals. This includes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Infringement Act 2006 (Vic);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Infringements Regulation 2016 (Vic);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Road Safety Road Rules 2017 (Vic); and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Fines Reform Act 2014 (Vic).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(39) Students, staff and visitors must observe parking terms and conditions on campus. When a breach of parking terms and conditions has been identified a Parking Infringement Notice, fine or equivalent is issued.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(40) A Parking Infringement Notice or fine must be paid in full by the due date. Any unpaid Parking Infringement Notice or fine not paid in full by the due date is sent to Fines Victoria for debt collection. (Applicable to Australia only).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(41) RMIT is an authorised Enforcement Agency and authorised officers can issue Parking Infringement Notices per agreement with VicRoads or similar (applicable to Australia only).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Specified Activities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(42) To support RMIT’s commitment to ensuring the health, safety and wellbeing of persons on RMIT’s campus, a person must not:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "camp, reside or sleep rough;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "access restricted areas, except to the extent authorised by RMIT;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "light or maintain a fire or naked flame, burn any materials or create any fire hazard (use of barbeques approved for use by RMIT are excepted);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "erect, construct, set up or maintain a structure that is not connected with an approved RMIT activity;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "bring or use any illegal, dangerous or flammable substance or article, including but not limited to weapons, drugs, flares, fireworks, accelerants, gases; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "graffiti, deface, vandalise, dump rubbish or otherwise damage RMIT’s property; within RMIT’s campus and locations, (Specified Activities), Unless:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "the person has obtained prior written authorisation from the Executive Director, Property Services Group and undertakes the Specified Activity in compliance with any specified conditions or requirements;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "RMIT has authorised that person undertaking the Specified Activity in a contract signed in accordance with the Delegations of Authority Policy; or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "the person undertakes the Specified Activity under the direction and supervision of an authorised RMIT staff member as part of an RMIT course or program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(43) The Executive Director, Property Services Group must consider any recommendation of the Deputy Vice-Chancellor Education (or their delegate) to authorise any Specified Activity under section 42(g) on the basis that the Specified Activity is an expression of academic freedom or freedom of speech under the Intellectual Freedom Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(44) Executive Director, Property Services Group may direct employees or contractors of RMIT to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "dismantle, remove, store or discard a structure erected, constructed or set up in contravention of section (42(d)); and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "remove any graffiti, markings, posters, flyers, signs or rubbish.).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(45) Executive Director, Property Services Group may put into place reasonable processes for the handling, storage, collection, return and disposal of lost property, abandoned goods or structures dismantled and removed under section (44).",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

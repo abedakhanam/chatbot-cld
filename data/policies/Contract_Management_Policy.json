@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "title": "Contract Management Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=69",
+    "scraped_date": "2025-10-31 01:23:27"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Application",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(2) This policy applies across the RMIT Group, including its controlled entities unless otherwise stated. All international RMIT Group entities must also comply with any applicable country-specific requirements.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Terminology",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(3) For the purpose of this policy and related procedure, the term “Contract Manager” is a generic term to describe a role which has a set of functions and responsibilities, and not a specific departmental position or job title.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT manages contracts in a way that enables trusted and valuable relationships with external parties, and to deliver value for our stakeholders.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) Contracting activities must be consistent with the objects of RMIT under the Royal Melbourne Institute of Technology Act 2010 (Vic) and should support our strategy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) All contracts must be in writing, and in a form that enables all parties to have an appropriate understanding of their obligations and responsibilities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) Contracts can take many forms including signed letters or documents, online order forms, or terms and conditions for services or software.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) RMIT staff must not enter informal contracts on behalf of RMIT, such as agreeing to a commitment verbally or making contractual promises by email which are legally binding.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(9) Establishing a contract may involve multiple teams across RMIT to ensure governance requirements are met, risks are managed, and RMIT realises the contracted benefits or deliverables. These teams include, but are not limited to, the Research and Innovation Portfolio, the Procurement team, the Enterprise Risk Management team and Legal Services. Teams with relevant subject matter expertise and authority must be engaged or consulted with as part of the contracting process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(10) Contract Owners and Contract Signatories must ensure appropriate measures are in place to manage risk, achieve delivery and realise the relevant contracted benefits.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(11) RMIT staff must appropriately escalate material risks to the performance of a contract or breaches by RMIT or the other party.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) All contracting activities must also comply with all other applicable RMIT policies, including the Delegations of Authority Policy, Conflict of Interest Policy and Gifts, Benefits and Hospitality Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Contract Owner",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) The Contract Owner:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is the role accountable for the success or failure of the contract, its overall management, including the delivery and the relationships with the other parties to the contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "is authorised by the relevant signatory under the Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "may appoint a Contract Manager to support the management and administration of the contract.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Contract Signatory",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) The Contract Signatory:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is the role which approves and signs the contract in accordance with the Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "authorises the Contract Owner to undertake the activities contained in the signed contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "may also carry out the role of Contract Owner if they are accountable for the overall management of the contract and can sign the contract under the Delegations of Authority Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "The Contract Manager:",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) The role of Contract Manager:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is responsible for supporting the Contract Owner in managing the contract, including but not limited to the day-to-day management, administration, performance, and compliance with the contract, by both RMIT and the other party",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "assists in setting up the contract, including ensuring the accuracy of the contract details in relevant RMIT systems",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "may be fulfilled by individuals or teams in a College or Portfolio.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Procurement Team",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) The Procurement team facilitates expenditure and purchasing activities in accordance with the Procurement and Expenditure Policy. They assist Contract Owners and Contract Managers who are involved in these activities in understanding what is required of them, and support them in vendor or contract management where agreed between the Contract Owner and the Procurement team.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Legal Services",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) RMIT’s internal lawyers support and advise on contracting and compliance activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "For Australian entities and all other wholly owned subsidiaries, the Legal Services Group: establishes and maintains RMIT’s templates and precedents for different contracting activities and drafts new terms when required reviews and advises on third party terms and conditions and negotiates higher value or higher risk contracts.",
+              "subclauses": [
+                "establishes and maintains RMIT’s templates and precedents for different contracting activities and drafts new terms when required",
+                "reviews and advises on third party terms and conditions and negotiates higher value or higher risk contracts."
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "For Vietnam, legal support is provided by the Legal and Compliance team in RMIT Vietnam.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "For Europe, legal support is provided by local lawyers in conjunction with appropriate RMIT-specific guidance from the Legal Services Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) The Contract Management Procedure sets out which contracts must be reviewed by the Legal Services Group.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Central Contracts",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(19) The Central Contracts team:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "monitors compliance with this Contract Management Policy and the Contract Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "facilitates the execution of contracts requiring Legal Services Group review, including uploading and recording of signed contract details into RMIT’s systems.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Research and Innovation Portfolio",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) The Research and Innovation Portfolio (R&I) manages and supports contracting activities which involve research (as defined under the applicable Higher Education Research Data Collection Specifications), in accordance with the Research Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) The R&I Portfolio manages agreements including the receipt of research funding and grants, the activities of Higher Degree by Research students, and the commercialisation of intellectual property, in accordance with the Intellectual Property Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) The following documents are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Contract Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(23) The following policies may also apply to the contracting activities in this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Procurement and Expenditure policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Information Technology and Security Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Risk Management Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Intellectual Property Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Intellectual Freedom Policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

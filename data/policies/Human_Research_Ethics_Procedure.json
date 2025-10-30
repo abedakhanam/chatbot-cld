@@ -1,0 +1,863 @@
+{
+  "metadata": {
+    "title": "Human Research Ethics Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=29",
+    "scraped_date": "2025-10-31 01:23:38"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Human Research Ethics at RMIT",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Research that involves people, their data and/or bio-specimens will only be undertaken at RMIT where it is ethical and conducted responsibly. All risks involved in human research will be assessed, minimised and managed to ensure that the welfare and interests of the participants, researchers and institutions are adequately protected throughout the research process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) All human research at RMIT (undertaken by researchers at RMIT University, RMIT Europe and RMIT Vietnam) requires prior and appropriate ethics review and approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) The RMIT Human Research Ethics Committee (HREC) has responsibility for reviewing, and where ethical, approving higher risk (as defined by the National Statement) and other human research at RMIT requiring HREC review, in keeping with the National Statement and institutional policy and process. See Risk Assessment provisions for more information on risk levels.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(8) The RMIT College Human Ethics Advisory Network (CHEAN) has responsibility for reviewing, and where ethical, approving lower risk human research at RMIT in keeping with the National Statement and institutional policy and process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(9) RMIT will provide professional development, resources, processes and infrastructure to support researchers’ understanding of human research ethics and the gaining and maintaining of human research ethics approval, as well as the responsible conduct of research that complies with relevant legislation, regulations, guidelines and RMIT policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(10) In Australia, RMIT researchers will remain compliant with the National Statement and institutional policy at all times, including when at other institutions. While outside Australia, RMIT staff members will remain compliant with the National Statement where possible. For advice on the ethical and responsible conduct of research outside Australia, contact the Research Ethics, Integrity and Governance team (REIG) and/or HREC or CHEAN.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(11) All human research ethics applications, including new applications, amendments, registrations, and progress reports will be submitted and processed via the RMIT Research Ethics Platform (REP), in accordance with any instructions, guidance and or/schedule of dates provided on the Researcher Portal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(12) Researchers will not collect data, commence recruitment activities, or effect amendments without first receiving formal notification of ethics approval. Some scoping and other pre-research planning activities may proceed prior to approval. If clarification is needed, contact the Research Ethics, Integrity and Governance team (REIG) and/or HREC or CHEAN.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Gaining Human Research Ethics Approval at RMIT",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) Researchers will complete a risk assessment before applying for ethics approval and before starting any research activities involving human participants. The risk assessment will assist researchers in determining the level of risk (lower risk or higher risk) and inform the ethics review process (CHEAN or HREC). The risk level will be confirmed by the HREC or CHEAN.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) In line with the National Statement, and recognising that risk in research exists on a continuum, the following categories and sub-categories of risk will be applied to human research activities and projects at RMIT:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Lower Risk Minimal: research in which there is no foreseeable risk of harm or discomfort Low: research in which there is no risk of harm and the only foreseeable risk is one of discomfort",
+              "subclauses": [
+                "Minimal: research in which there is no foreseeable risk of harm or discomfort",
+                "Low: research in which there is no risk of harm and the only foreseeable risk is one of discomfort"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "Higher risk Greater than low risk: research in which there is a risk of harm, including physical harms, psychological harms, devaluation of personal worth, social harms, cultural harms, economic harms or legal harms High: research that presents a significant risk of harm, including physical harms, psychological harms, devaluation of personal worth, social harms, cultural harms, economic harms or legal harms.",
+              "subclauses": [
+                "Greater than low risk: research in which there is a risk of harm, including physical harms, psychological harms, devaluation of personal worth, social harms, cultural harms, economic harms or legal harms",
+                "High: research that presents a significant risk of harm, including physical harms, psychological harms, devaluation of personal worth, social harms, cultural harms, economic harms or legal harms."
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "(15) Research that does not present any foreseeable risk of harm or discomfort may be considered exempt from review. Such research involves analysis of non-identifiable data about humans that meets the requirements of the National Statement, is ethically acceptable, and complies with any legal or privacy requirements. Some quality assurance and/or evaluation activities may also be exempt from review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) Projects that are exempt from review will not require ethics review and/or approval by a CHEAN or HREC but do require completion of an Exemption Assessment. The Principal Investigator will submit an assessment of their research activity or project against exemption criteria via REP. The assessment will be checked by REIG, with the following outcomes possible:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where the activity or project aligns to the exemption criteria, confirmed as exempt from ethics review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Where the activity or project does not align to the exemption criteria, confirmed as not exempt and referred to the appropriate ethics review process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Where it is unclear whether the activity or project aligns to the exemption criteria, further information and/or clarification will be sought from the researchers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(17) A record of the Exemption Assessment will be retained by the institution and should also be retained by the researchers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(18) Research projects that are lower risk will be reviewed by:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the CHEAN most closely aligned to the college or portfolio of the Principal Investigator",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for researchers based at RMIT Vietnam and RMIT Europe: the CHEAN most closely aligned to the relevant School or Centre.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(19) Ethics applications for research activities that are higher risk will be reviewed by the HREC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(20) The HREC may also review applications assessed as lower risk where the National Statement requires their review by an HREC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(21) A CHEAN or HREC, or CHEAN or HREC Chair or Deputy Chair, and/or Research Ethics, Integrity and Governance team (REIG) may recommend a new risk assessment where they determine that the original assessment was inappropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(22) The applicant must complete the appropriate ethics application form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(23) For honours, postgraduate or higher degree by research (HDR) projects, the Supervisor will be named as Principal Investigator on the application form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(24) Relevant accompanying and supporting documentation will be submitted with the ethics application form (uploaded to the e-form as supporting documentation) including, as applicable:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "recruitment materials (advertisements, posters, flyers, brochures etc.)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "participant information and consent form/s",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "research instruments (questionnaire/s, survey/s and/or proposed interview/focus group outline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "other material required as part of the application process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(25) Submission dates for applications and meeting dates (where applicable) for the HREC and networks are published on the Researcher Portal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "College of Design and Social Context (DSC) CHEAN, STEM College (STEM) CHEAN and HREC generally review in-session",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "College of Business and Law (CoBL) CHEAN generally reviews out–of-session on a rolling basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(26) Applications that do not meet relevant submission dates or other governance requirements will be held over to a following meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(27) All applications will be vetted by REIG for completeness and compliance with governance requirements. Incomplete, insufficient and/or unauthorised applications will not be accepted for review. Proof of completion may be requested.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(28) Relevant ethics training will be completed before applicants apply for ethics approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(29) RMIT staff can apply for coursework or lab work human research ethics approval for common and clearly defined human research activities being undertaken:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for coursework approvals - by multiple students in a coursework context (either undergraduate, postgraduate or vocational), or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "by multiple members (staff or students) in a lab work context.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(30) Coursework and lab work research ethics approvals will generally only apply to lower risk human research activities. Where coursework or lab work related research activities are assessed as higher risk, the applicant will consult the HREC regarding the provision of human research ethics approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "34",
+              "text": "(31) Coursework applications will be prepared and submitted by the relevant Course Coordinator, convenor or person responsible for the conduct of the course or program. This person will be named as the Principal Investigator on the related Coursework and Lab work Human Research Ethics Application Form (application form).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(32) Lab work applications will be prepared and submitted by the relevant Lab Group Leader responsible for the conduct of the related human research ethics activities. This person will be named as the Principal Investigator on the application form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "36",
+              "text": "(33) The completed application form will be reviewed by the relevant CHEAN, most closely aligned with the course or lab group, for review and approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(34) For coursework, this human research ethics approval covers all students enrolled in the relevant course or program, to carry out the common and defined research activities, for the designated approval period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(35) For lab work, this human research ethics approval covers all students or staff named in the lab group, to carry out the common and defined research activities, for the designated approval period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(36) Changes to Course Coordinators or Lab Group Leaders require an amendment to the ethics approval in accordance with this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "40",
+              "text": "(37) Data collected under a coursework or lab work approval may be used as part of research but will require a separate standard application (see ‘Standard Application’). If it is intended to use data in research, then the Course Coordinators/Lab Group Leaders must advise the student participants of this likelihood at the start of the course in writing.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Registering or Transferring an External Human Research Ethics Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(38) Where an RMIT staff member or student has ethics approval for a research project or activity from a non-RMIT ethics committee, the relevant HREC or CHEAN must be notified.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(39) RMIT University seeks to avoid duplication of ethics review, in line with the National Statement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(40) RMIT University accepts human research ethics approvals from non-RMIT HRECs registered with the NHMRC and accepts multi-centre research proposals where RMIT University researchers are involved but the Principal Investigator is from another institution. All such projects will be registered with the respective HREC or CHEAN.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(41) Transfer of a previously approved application occurs when a staff (or student) researcher transfers their employment or enrolment to RMIT. The transfer arrangements are to move the administrative responsibility to the appropriate RMIT University ethics review body.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(42) Researchers will use REP to apply to register or transfer an externally approved project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(43) Applications to register an externally approved project will include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "copies of the application and associated documentation approved by the external committee",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "verification of the approval, including the terms and conditions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(44) Applications to transfer an externally approved project will include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "copies of the application and associated documentation approved by the external committee",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "verification of the approval, including the terms and conditions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "revised copies of relevant documentation (e.g. Participant Information and Consent Forms) using RMIT templates or formats",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "copies of any progress or adverse event reports and/or requested and approved amendments",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "copies of any related correspondence, reports and amendments submitted via REP application",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "information on the status of any data that was collected under the external approval included current storage arrangements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(45) Applications to register or transfer an approval will undergo a governance review before being considered by the HREC or CHEAN.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(46) As part of the governance review, the status of the external committee will be considered.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Confirmation will be sought to establish the external committee’s registration and compliance with the NHMRC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Where external review has been conducted by a non-Australian human research ethics committee or process, information will be sought on the committee and process of review and whether an appropriate level of review has been undertaken.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(47) Following governance review, the HREC or CHEAN will consider a recommendation to accept or not accept the review and approval of the external review body.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(48) In the case of transfers, a new review will be undertaken by the appropriate RMIT ethics review body where it is recommended not to accept the external review and approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(49) Where an RMIT staff member is transferring their employment from RMIT to another institution, any existing human research ethics approvals for which they are principal investigator, along with RMIT’s administrative responsibilities, will cease as of their departure date. In this circumstance, there are two options for project continuation:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "where the staff member is transferring to another institution, the project will continue, and they will remain Principal Investigator, they will make advance arrangements for ethics approval at their new institution which avoids any gap between approvals, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where the staff member is transferring to another institution, the project will continue, and they will not remain Principal Investigator, the project may be transferred to another RMIT staff member. This transfer will be made by way of a Request for Amendment to change the Principal Investigator and nominate another RMIT staff member in this role.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(50) Research involving Aboriginal and Torres Strait Islander peoples will be reviewed and approved by the HREC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(51) In determining whether research involves Aboriginal and Torres Strait Islander peoples, researchers should consider:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the scope of the project",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the demographics of participants",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the research topic, social phenomena and/or the illness or health burden being studied",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "their historical, social and cultural context and connections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(52) Researchers and ethics review bodies will consider and apply the values and ethics guidelines contained in the National Statement and other relevant guidance documents, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research 2020 (the AIATSIS Code) and A Guide to Applying the AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research 2020 (the AIATSIS Guide)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Ethical conduct in research with Aboriginal and Torres Strait Islander peoples and communities: Guidelines for researchers and stakeholders, including the six core values of: Spirit and integrity, Cultural continuity, Equity, Reciprocity, Respect and Responsibility.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Keeping research on track.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(53) HREC review of research involving Aboriginal and Torres Strait Islander peoples will include assessment by and/or advice from:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "people who have networks with Aboriginal and Torres Strait Islander peoples and/or knowledge of research Aboriginal and Torres Strait Islander peoples, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "people familiar with the culture and practices of the Aboriginal and Torres Strait Islander peoples with whom participation in the research will be discussed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(54) Researchers will not collect data or commence recruitment activities without first receiving formal notification of ethics approval. Scoping and other pre-research planning activities may proceed prior to approval.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Ethics Review and Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(55) The HREC or CHEAN will review all applications for human research ethics at RMIT on behalf of the institution and in line with relevant codes, guidelines, legislation and RMIT policy and procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(56) Potential outcomes of this ethics review are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Approved: the application is approved and data collection may commence subject to any conditions described in the outcome letter.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Revisions required: the application must be resubmitted for review after being revised in accordance with the concerns in the outcome letter.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Not approved: the application will not be approved, including in revised form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(57) The HREC or CHEAN will inform the Principal Investigator of the outcome of the review in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(58) Applications will be approved for a maximum of three years, although extensions can be requested beyond the initial three-year approval period up to a maximum of five (5) years.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(59) Where an application has been deemed not to comply with the requirements of the National Statement and therefore requires significant revisions after review, resubmission will be required. The applicant will resubmit their revised application, addressing the specific concerns outlined in their outcome letter. The revised application will be subject to the normal application pathway, closing dates, and governance review by the Ethics Coordinator of the HREC or CHEAN.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where the HREC or CHEAN recommends that an application that requires further revision, or that resubmission is required, the applicants are requested to submit a response and/or submit the application within six weeks of the date of their initial correspondence advising the outcome.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If a response is not received within six weeks, the applicant will be advised that the application will be withdrawn from consideration. The applicant will have the opportunity to provide an explanation and/or request an extension of time within five (5) working days.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Explanations and/or requests for extensions of time will be considered by the Chair, who may approve or not approve such requests. The maximum period available for any submission of a response to conditions or resubmission of an application is six months from the committee meeting at which the application was last reviewed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(60) On rare occasions the HREC or CHEAN may determine that compliance with the requirements of the National Statement cannot be achieved through revisions to an application. Where this is the case, the applicant will be notified that the application will not be approved.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(61) The HREC or CHEAN will be advised of any applications which have undergone ethics review but are later withdrawn from consideration.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Amending a Human Research Ethics Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(62) Amendments are required where researchers plan to vary any aspect of their approved project. It is the responsibility of the Principal Investigator named on the project to request the amendment and receive approval prior to taking any action within the research activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(63) Amendments include changes such as:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "changes to any of the investigators, including the Principal Investigator, Primary Supervisor, or HDR candidate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an HDR candidate or student taking a leave of absence from their program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "request for extension",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "changes to participant population, recruitment methods, or consent process",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "changes to research methodology, sites/location, or data storage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(64) Researchers will gain approval for an amendment prior to implementing the change.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(65) Researchers will seek approval for an amendment to extend ethics approval before the approval period has expired. Research activities that require ethics approval will not continue when such approval has expired.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(66) For amendments to projects approved by an RMIT ethics review body:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Principal Investigator must submit an application for an amendment. Applications which fail to meet applicable submission dates will be held over to a future meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Requested amendments to an approved project will not be implemented by the Principal Investigator until the request is approved by the relevant CHEAN or HREC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The CHEAN or HREC Executive may review and approve amendments out–of-session. During the review they may seek additional advice from the Principal Investigator. Any amendments approved out–of-session will be ratified at the next regular CHEAN or HREC meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(67) For amendments to projects approved externally the Principal Investigator will submit an application for an amendment, in line with the requirements of the external ethics review body that approved the project.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(68) In accordance with the National Statement, the Principal Investigator will submit an Annual Report outlining: the progress to date, maintenance and security of records, compliance with the approved protocol, and compliance with any conditions of the ethics approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(69) The annual report will be submitted on the anniversary date of approval for the life of the project or program (regardless of the duration of human research ethics approval). The Principal Investigator is responsible for providing timely progress reports.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(70) The annual reports will detail the project progress over the past 12 months, including any progress made towards the objectives of the study and any adverse events or incidents over the reporting period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(71) Ongoing approval of a project is conditional upon the submission of annual reports, in accordance with the National Statement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(72) In the final year, the Principal Investigator will submit a final report within six months of the end of the approval period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(73) The final report will provide a conclusion statement on the outcomes of the project or activities and should also outline any publications (either submitted or in progress) and any further avenues of research resulting from the project or activities. Final reports must be submitted within six months of the end of the approval of the project or as soon as possible after a research project has concluded.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(74) Reports are required even where an approved project has not commenced or has been abandoned.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(75) The HREC/CHEAN may decide not to review new applications from a Principal Investigator whilst annual and final reports for previous projects remain outstanding.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Adverse Events",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(76) Any adverse event must be reported promptly by the Principal Investigator to the approving ethics review body at RMIT (HREC/CHEAN) within 24 hours of it being identified or coming to the attention of the researcher/s.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(77) Adverse events will be reviewed by the relevant HREC/CHEAN with support from REIG.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(78) The Principal Investigator, line manager and any other appropriate persons/bodies will be notified of the outcome of this review, including any related findings and/or recommendations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Monitoring and Withdrawal of Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(79) Monitoring of ethically approved research is a requirement under the National Statement. The responsibility for ensuring the reliability of research monitoring rests with the institution. However, it is a shared responsibility between the researcher and the institution across the lifecycle of an individual research project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(80) Monitoring requirements for individual projects are commensurate with the risk, size, and complexity of the research being conducted. At a minimum, all RMIT projects will be monitored via governance review, annual progress reporting, and final reporting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(81) In accordance with the National Statement, researchers are responsible for providing annual reports, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "reports from researchers",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reports from independent agencies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "review of adverse events",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "audits or inspections of research sites, data, or documentation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "interviews with research participants or other forms of feedback.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(82) The HREC/CHEAN may request an audit of research projects that have human research ethics approval. Results of any audits will be reported back to the relevant HREC or CHEAN.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(83) The HREC/CHEAN may withdraw approval for any project, before or after an audit, when they have reason to believe that the research project continuing would compromise the welfare of participants, researchers or others.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(84) Where a HREC/CHEAN withdraws approval for a project, the HREC/CHEAN will notify the researcher/s, as well as the relevant line manager and/or Head of school/college/centre, and may also notify other parties, including participants, as possible and appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(85) Where the HREC/CHEAN considers that urgent suspension of approval for a research project/s is necessary before the complaints process described in this procedure is undertaken, they may stop the research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(86) In reviewing cases of non-compliance or situations in which participant welfare has been compromised, the HREC/CHEAN may refer the matter to the institution (the Designated Person at RMIT), for consideration under the Research Integrity Breach Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Withdrawal/Suspension of Ethics Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(87) In accordance with National Statement, the HREC or CHEAN may withdraw approval for any project (before or after an audit) when they have reason to believe that the research project continuing would compromise the welfare of participants, researchers, or others.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(88) Where a HREC/CHEAN withdraws approval for a project, they will notify the researcher/s, as well as the relevant line manager and/or Head of school/college/centre, and may also notify other parties, including participants, as possible and appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(89) Where the HREC/CHEAN considers that urgent suspension of approval for a research project/s is necessary before the complaints process is undertaken, they may stop the research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(90) In reviewing cases of non-compliance or situations in which participant welfare has been compromised, the HREC/CHEAN may refer the matter to the institution (the Designated Person at RMIT), for consideration under the Research Integrity Breach Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Complaints",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(91) Staff, students, members of the public, or any other concerned persons may make a complaint concerning human research projects or activities at RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(92) The complaint will be forwarded to REIG via humanethics@rmit.edu.au, who will acknowledge receipt of the complaint and inform the Chair of the HREC or CHEAN, the Senior Manager, Ethics Integrity & Governance and others as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(93) Where there is an apparent ongoing impact to a participant’s welfare that extends beyond those described in the approved ethics application, the institution may require that researchers cease activities, and the HREC or CHEAN may suspend or withdraw approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where the complaint relates to activities that would normally require HREC or CHEAN ethics approval, the complaint will be considered by the Senior Manager, Ethics Integrity & Governance, and the Chair of the HREC, who will determine the level of investigation required in accordance with the National Statement. Where further investigation is called for, REIG will undertake investigation via additional monitoring mechanisms as outlined in this procedure, and prepare a report for the HREC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The report will detail the investigation and any findings and recommendations for further action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The HREC decides on any required actions and informs the relevant parties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Where investigation finds that the complaint involves a breach of the National Statement, the working party will work with the relevant CHEAN and/or school/college/centre to avoid a recurrence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Where the review or investigation finds that the breach of the National Statement may also represent a breach of the Australian Code or research misconduct, the working party will refer it to the Designated Officer who will handle it in line with the Research Integrity Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Where the review or investigation determines the complaint to be unfounded or unsupported, the HREC Chair will dismiss the complaint and the reason/s for dismissal will be provided to the complainant and to the HREC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Where the review or investigation finds that the complaint should be managed under other institutional pathways, as established in the RMIT Complaints Framework, the HREC Chair will refer it on as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(94) The complainant and the HREC or CHEAN shall engage in dialogue to resolve the complaint.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(95) Where the complaint cannot be readily resolved by communication between the complainant and the HREC or CHEAN, the complaint may be submitted to the Director, Research Services in writing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(96) Following receipt of a complaint, the Director, Research Services or nominee shall seek further information from the relevant HREC/CHEAN Chair, REIG, and relevant staff as necessary to establish the veracity of the complaint, and whether any RMIT policies or processes have been compromised.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(97) The Director, Research Services or nominee will provide a report to the relevant committee and the complainant on the outcome of the investigation of the complaint and include a recommendation for any further actions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(98) The Director, Research Services or nominee may choose to refer the complaint to an independent assessor if deemed appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(99) As per the National Statement, researchers cannot appeal an ethics review body’s decision to reject an application.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(100) A summary of complaints will be included in the HREC quarterly report to the Research Committee.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

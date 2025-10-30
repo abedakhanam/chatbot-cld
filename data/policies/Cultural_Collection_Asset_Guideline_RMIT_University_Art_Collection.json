@@ -1,0 +1,1038 @@
+{
+  "metadata": {
+    "title": "Cultural Collection Asset Guideline: RMIT University Art Collection",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=175",
+    "scraped_date": "2025-10-31 01:26:36"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Collection Scope",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) The Collection reflects historical and theoretical trends in modern and contemporary Australian and international art by collecting works that reflect excellence and innovation including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "works by current RMIT University staff, past staff, or alumni with a significant existing artistic practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "works by significant and emerging Australian artists with a demonstrable connection to the existing collection or history of the University",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "exceptional works by international artists with a demonstrable connection to the existing collection or history of the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(6) The Collection collects modern and contemporary art from the 19th century to the present day.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(7) The geographic focus of the collection is Australia, extending to international art and objects that may provide artistic, historical or geographic context to the existing collection",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(8) The Collection collects modern and contemporary art, including but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "traditional visual artistic media, such as painting, drawing, photography, ceramics, sculpture and works on paper",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "contemporary sound, new media, multi-media and other works in digital and/or reproductive technologies that are innovative",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "public art, including sculpture, architectonic, interior design, and landscape works for external or internal exhibition on campus, as well as maquettes, models and design drawings for artworks",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "modern and contemporary decorative arts, craft and works of design with an aesthetic focus, including gold and silversmithing, ceramics, glass, fashion and textiles, hollowware and furniture",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "historical and biographical archives related to artists in the Collection, or their works.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(9) Priorities for collection development will be identified annually by the Technical Collections Coordinator in collaboration with the Art Collection Advisory Panel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(10) Collection priorities will be shared with the RMIT Culture Advisory Panel at their first meeting each year.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acquisitions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) The Collection will acquire items by donation, bequest, purchase or transfer of title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(12) The Collection will not accept:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "conditional donations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "permanent loans. Extended loans for established periods of time will be negotiated as required (see Loans).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(13) Items offered to RMIT for the Collection under the Cultural Gifts Program will be assessed in accordance with the Cultural Gifts Program guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(14) The Collection will conduct acquisition processes in accordance with the ICOM Code of Ethics for Museums.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(15) All acquisition proposals will be considered by the Collection Advisory Panel, with final approval resting with the Director, Philanthropy and Public Engagement (or their approved delegate).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(16) Proposed acquisitions must meet the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Legal Requirements: The Collection will only accept items where the donor/vendor has clear legal title to the item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Provenance and Documentation: The history of the item must be known and associated documentation and support material can be provided.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Storage: Acceptance of large items (or collections) will be conditional on storage space being available as well as resources required to house them appropriately.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(17) Proposals will be further assessed according to the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Significance: Items that are significant for their historic, aesthetic, scientific/research or social/spiritual value.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Relevance: Items that relate to their collection purpose and collection scope.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Condition, Intactness, Integrity: Items should be in good condition, suitable for research or display and not requiring extensive conservation work or treatment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Interpretive and Teaching Potential: Items that enhance the interpretation of collection themes or align with the University’s teaching and learning objectives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Rarity: Rare examples of a particular kind of item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Representativeness: Excellent representative examples of a particular kind of item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Duplications: Items that duplicate items already within the collection or elsewhere within RMIT will not be accepted unless they are of superior condition and/or historic value.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acquisition Process",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) Any travel costs in excess of $100, associated with assessment or acquiring of a potential collection item, must be approved beforehand by the Manager, Cultural Collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) No material should be brought onsite without prior approval from the Manager, Cultural Collections. Early receipt of material should only occur in instances of exceptional circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(20) In general, material will be considered unavailable for research, teaching and learning purposes until fully processed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(21) In general, the first point of contact is the Technical Collections Coordinator. Potential Donors should be referred to the Technical Collections Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(22) Potential donors, in liaison with the Technical Collections Coordinator, may be required to complete an Offer of Donation Form to record the context, history, significance and associations of the material, and will provide any supporting documentation demonstrating provenance. Relevant information will be compiled by the Technical Collections Coordinator in the Acquisition Proposal Form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(23) The Technical Collections Coordinator will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "appraise offers of donation against the Collection Scope and Acquisition Criteria, and include this in the Acquisition Proposal Form",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensure the Acquisition Proposal Form is complete and sent to the Manager, Cultural Collections at least two weeks prior to the next Collection Advisory Panel meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(24) The Manager, Cultural Collections will send proposed acquisitions documentation and meeting agenda to the Acquisitions Committee at least one week prior to meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(25) The Collection Advisory Panel will recommend the offer of donation be approved or declined.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(26) Final approval for acquisitions rests with the Director, Philanthropy and Public Engagement, or their approved delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(27) On approval of the proposed donation, the donor will be informed of the outcome and required to sign a Deed of Gift assigning legal ownership for the material to the Collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(28) The material will be transferred onsite for inventory, registering (or cataloguing), physical numbering, photographing (or digitisation) and rehousing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Should any material be brought on site prior to offer assessment and rejected by the Acquisitions Committee, the material will be returned to the donor with an explanatory letter within 30 days.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(29) If the material for whatever reason is not claimed by the donor or it is not able to be returned, RMIT may treat any such material as uncollected goods according to the Australian Consumer Law and Fair Trading Act 2012.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(30) The Technical Collections Coordinator will be responsible for all vendor negotiations and, in general, be the first point of contact with them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(31) Any member of the Art Collection Advisory Panel may make recommendations for acquisitions by purchase via the Acquisition Proposal Form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(32) The Technical Collections Coordinator will ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "acquisition proposals are appraised against the Collection Scope and Acquisition Criteria, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the Acquisition Proposal Form is complete and sent to the Manager, Cultural Collections at least two weeks prior to the next Collection Advisory Panel meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(33) The Manager, Cultural Collections will send proposed acquisitions documentation and meeting agenda to the Collection Advisory Panel at least one week prior to meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(34) Items acquired for the Collection by purchase must obtain financial approval from the appropriate delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Should the total price for a purchased collection item exceed the capitalisation threshold of $5000 (including costs incurred in getting the asset to a position of use (e.g. import duties, delivery fees), the Technical Collections Coordinator will inform Finance in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Commissions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(35) Commission projects may be proposed by a School or Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(36) Proposals must meet the collection scope with regards to collection themes (see clause 5).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(37) Projects must meet National Association for the Visual Arts (NAVA) Guidelines with regards to selection process and artist payment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(38) Public mural commissions will have an accepted lifespan of 5-10 years.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(39) The commissioning School or Group, in consultation with the Technical Collections Coordinator, is responsible for the appointment of a project working group who will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "seek initial in-principle project support from the Collection Advisory Panel",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "compile and complete the Acquisition Proposal: Project Brief, Part A",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be responsible for all aspects of project management",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "ensure the project is appropriately documented, including contracts, good quality images for cataloguing and engagement, if required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(40) Commissions may be awarded by either open competition or invitation. Open competition is preferred for externally funded projects.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(41) For open competition:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The project is advertised, and expressions of interest sought from suitably qualified artists. Applications should respond to the project brief, provide images of previous commissions, any related work and a resume. No concept drawing is to be provided at this stage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The selection process will include clear timelines for acceptance or rejection of submissions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "A minimum of five applications is required for open competition and shortlisting. Where less than five applications are received, strong consideration should be given to not awarding, and re-advertising.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "The shortlist will be compiled by the working group in consultation with the Technical Collections Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Shortlisted artists will be paid for any visual concepts requested as part of the selection process. Any material provided to the University prior to formal acceptance remains the intellectual property of the artist.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "The Collection Advisory Panel will select the final commission at an acquisition meeting. A representative of the project working group may be invited to the meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Final approval for commissions rests with the Director, Philanthropy and Public Engagement, or their delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(42) For direct commission or invitation:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Following approval by the Collection Advisory Panel, an artist or artists may be invited to submit visual concepts to a brief for a fee.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Collection Storage & Conservation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(43) The Collection aims to achieve high standards of collection care and storage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Collection storage areas will be secure, tidy and sealed against the weather.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Access to storage areas will be controlled and monitored by the Technical Collections Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Ultra-violet light will be excluded from storage areas.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "When storage areas are not in use lights must be turned off.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Preference will be given to conservation quality storage materials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "No material will enter collection stores without first being quarantined.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Storage areas will be regularly cleaned and checked for pests and other problems in accordance with the RMIT Cultural Collections Integrated Pest Management Plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Collection items will be allocated a permanent storage location and, when not in immediate use, will be stored there at all times.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Any change of location (including temporary) will be recorded immediately in the collection management system by trained personnel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Items should not be stored on the floor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Untrained personnel may not handle, clean, treat or restore collection items without supervision of collection staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "Researchers will be given guidance on how to appropriately handle specific materials prior to handling collections items and where required PPE will be provided to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "All professional staff and volunteers handling collection materials will be required to participate in annual refresher training, to be led by collections staff.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Deaccessioning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(44) An item may be considered for deaccessioning if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the item does not meet the collection purpose or scope",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the item poses threats to health and safety to the staff and the public",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the physical condition of the item is so poor that restoration is not practicable or would compromise its integrity items that are damaged beyond reasonable repair and are of no use for study or teaching purposes may be destroyed",
+              "subclauses": [
+                "items that are damaged beyond reasonable repair and are of no use for study or teaching purposes may be destroyed"
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "the item breaches Aboriginal, Torres Strait Islander or other community group cultural guidelines",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the Collection is unable to care adequately for the item because of its particular requirements for storage or conservation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the item is a duplicate that has no added value as part of a series.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "the item is of poor quality and lacks aesthetic, historical and/or scientific value for exhibition or study purposes and no longer meets the Acquisition Criteria",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "the authenticity or attribution of the item is determined to be false or fraudulent, and the fraudulent item lacks sufficient aesthetic, historical and/or research value to warrant retention in disposing of a presumed forgery, the Collection shall consider all related legal, curatorial and ethical consequences, and should avoid releasing the item to public auction.",
+              "subclauses": [
+                "in disposing of a presumed forgery, the Collection shall consider all related legal, curatorial and ethical consequences, and should avoid releasing the item to public auction."
+              ]
+            },
+            {
+              "clause_number": "9",
+              "text": "the Collection’s possession of the item is inconsistent with applicable law or ethical principles, e.g., the item was, or may have been, stolen or illegally exported or imported, or the item may be subject to other legal claims for return or restitution",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "the item is no longer consistent with the Collection’s mission or collecting goals",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "a substantiated request for the return of the item to its original owner/donor is received",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "the work of art lowers the overall quality of representation of an artist or collection area.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(45) Collections staff will identify and propose material to the Collection Advisory Panel for consideration, with close reference to the criteria stated above.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(46) Deaccessioning proposals will be presented via the Acquisition Proposal Form and contain:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a brief description of the item and provenance (if known)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "acquisition details and legal status",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reasons for recommending deaccessioning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(47) Where possible and appropriate:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "donors, or their legal representative, will be contacted and notified of intent to deaccession",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the artist will be contacted and notified of intent to deaccession.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(48) The item identified for de-accession must be held for a twelve-month ‘cooling off’ period before it is finally disposed, unless it poses an unacceptable hazard to personnel or to other collections, in which case it may be disposed earlier in consultation with RMIT Workplace Health & Safety.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(49) When deaccessioned, the above details will be recorded on the item’s file and will be available for inspection if required. Accession numbers will not be reallocated to other items.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(50) Staff, volunteers, committee members and their families are prohibited from purchasing, or otherwise obtaining, any de-accessioned item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(51) Any funds realised from the deaccessioning and disposal of an item will be used solely for the benefit of the collection in accordance with the Guidelines on Deaccessioning of the International Council of Museums.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(52) Where the Collection has decided to dispose by exchange, the agreement for exchange may include provision for payment or receipt of money in addition to the deaccessioned object, in recognition of the difference in value between the objects exchanged.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(53) Where possible and relevant, the name of the donor or the fund from which a deaccessioned work of art was originally acquired is to be credited to a new acquisition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(54) Approved methods of disposal in priority order are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "return to original donor (unless the item was acquired under the Australian Government’s Cultural Gifts Program)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "transfer to a like-minded, relevant, public collecting institution",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "redistribution within RMIT as an educative/interpretive tool",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "sale by public auction (unless the item was acquired under the Australian Government’s Cultural Gifts Program)",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Access",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(55) Access to the Collection is facilitated in the following ways:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "collection holdings will be made accessible via the RMIT website",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "physical collection items are made available for research purposes by appointment under strict staff supervision",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where possible, collections engagement will be enhanced through open storage, exhibition and public programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the Collection will lend items to other organisations for exhibition. It will not lend to private collectors, students or individuals excepting sub-collections acquired for that express purpose.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Loans",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(56) The Collection may:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lend and borrow material to help meet its purpose",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "end items to other collecting organisations. It will not lend to private collectors, students or individuals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(57) The Collection does not accept permanent, long-term or conditional loans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(58) Loan forms must specify the agreed insurance coverage to be met by the Borrower. Loans documentation will be managed by the Technical Collections Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(59) Inward loans shall only be accepted for specific exhibitions or research and for fixed periods of time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Inward loans are recorded in the Loans Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "A representative of both the Collection and the lender will be required to sign an agreed inward loan form. Each party will hold a copy of this agreement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "This form will record conditions of the loan and the period of the loan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(60) The Collection agrees to exercise the same care with respect to loans as it does for its own collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(61) Loans shall remain in the possession of the Collection for the time specified on the form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(62) The Collection may request to renew loans if required. Documentation recording renewal must be signed by the Collection and the lender.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(63) The Collection will recognise the asset at current market value at insurance value set by the Lender and agreed to by Enterprise Risk Management.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(64) The Collection will inform Central Finance Operations of receipt of any loaned item in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(65) A formal loan agreement will be signed and retained by both parties, outlining any conditions and the period of the loan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(66) A full condition report, handling and display instructions will be prepared by the Technical Collections Coordinator and will accompany the loaned item, to be signed by appropriate representative of the Borrower at indicated intervals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(67) The maximum loan period is 12 months. Applications for extension of this period must be made prior to the loan expiry date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(68) The Borrower will be required to provide a Certificate of Currency and insurance, environmental and facility reports as requested.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(69) Loans will remain in the possession of the borrower until returned to the Collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(70) For any item listed on the asset register loaned to an outside institution, the Technical Collections Coordinator will notify Central Finance Operations of the change of location, in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Born Digital and Digital Collections",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(71) The Collection acknowledges that digital collections are as important as physical and analogue collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(72) Decisions on born digital material will be subject to the same acquisition criteria and processes as non-digital items.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(73) Digital Preservation Process will include the following steps:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Quarantine: Items are checked for viruses and completeness.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Preservation: Items are preserved (normalised, or converted, into open formats)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Storage: Items are deposited for long-term storage in a digital archive.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Back-up: Digital items are regularly backed-up (daily by ITS; monthly to external hard-drive by collections staff).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(74) Digitisation projects will be guided by the National Library of Australia’s Image capture standards and the National Film and Sound Archive of Australia Technical Specifications for Preservation Digitisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(75) All digital art data will be checked for viruses and completeness against lists provided by government agencies before being introduced to RMIT servers, clouds or digital archives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(76) Digital artworks will be preserved and stored in the condition they were acquired.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(77) Efforts will be made at the point of acquisition to clarify and record the University’s right to make back-up copies, emulate, refresh and migrate data in the future, as well as the artist’s intent with regards to obsolescence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(78) Where back-up copies exist, they will be deposited for long-term storage in an external hard drive.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(79) Where appropriate, in order to combat obsolescence, the following measures will be undertaken:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Refreshing: data will be moved to a new storage system without changing file format; this will be undertaken periodically as new technology stabilises.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Emulation: writing or otherwise obtaining programs that allow older software to run on new operating systems.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Migration: altering the format in which data is stored to allow it to be read by new technology without emulation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(80) Under no condition will these measures be undertaken without consultation with the artist of their representatives, where possible, or without adherence to the intellectual and moral rights as outlined in section 11.2",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(81) Digital data to which no moral rights or conditions otherwise adhere will be normalised, or converted, into open formats and regularly backed up to cloud and internal servers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(82) The Collection will observe the legal, ethical and moral obligations in the recording, transcribing and subsequent use of oral history interviews in accordance with the Oral History Australia Guidelines of Ethical Practice as well as the Research Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(83) An Oral History Agreement must be signed by the person interviewed, which clearly states the purpose and intended uses of the interviews and what copyright provisions apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(84) The Collection aims to have full copyright over any material it collects with regards to oral histories.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(85) Associated material collected as a result of any interview (e.g. diaries, photographs, etc.) will be subject to the same collection Acquisition Criteria as outlined in this document.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Legal/Ethical Obligations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(86) The Collection endorses Article 31 of the United Nations Declaration on the Rights of Indigenous Peoples which states that Indigenous peoples have the right to maintain, control, protect and develop their cultural heritage, traditional knowledge and traditional cultural expressions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(87) The Collection is committed to providing an accessible and inclusive learning and work environment that promotes diversity, inclusion and equal opportunity, and is free from discrimination, sexual harm, victimisation and vilification in accordance with RMIT’s Inclusion, Diversity and Equity Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(88) These principles will form the basis of an ongoing dialogue between stakeholders and the Collection, and will be periodically reviewed and revised in order to better facilitate understanding, collaboration and organisational goals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(89) The Collection recognises First Nations Peoples' ownership of their Indigenous Cultural and Intellectual Property that may be held in our collections and works proactively with Aboriginal and Torres Strait Islander staff members and communities to provide access to collections. This includes any cultural heritage and knowledge recorded in published works.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(90) The management and display of collection items and/or documentation pertaining to any Aboriginal and Torres Strait Islander material will comply with the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Australian Museums and Galleries Association (AMAGA) First Peoples: A Roadmap for Enhancing Indigenous Engagement in Museums and Galleries",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Aboriginal and Torres Strait Islander Protocols for Libraries, Archives and Information Services (2012)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Tandanya-Adelaide Declaration (2019)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Dhumbah Goorowa Reconciliation Plan 2019-2020",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(91) In doing so, the Collection will promote standards of excellence in practice, in accordance with National and State Libraries Australasia National position statement for Aboriginal and Torres Strait Islander library services and collections, with a focus on the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The right of Aboriginal and Torres Strait Islander peoples to: be informed about collections items that exist relating to them, their culture, language and heritage determine any use and access provisions for collection items that relate to them, their culture, language, history and perspectives. request the removal of or limiting of access to content that should not be accessed due to cultural restrictions.",
+              "subclauses": [
+                "be informed about collections items that exist relating to them, their culture, language and heritage",
+                "determine any use and access provisions for collection items that relate to them, their culture, language, history and perspectives.",
+                "request the removal of or limiting of access to content that should not be accessed due to cultural restrictions."
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "The development of strategies to return usable copies of collection material to cultural owners to support cultural and language maintenance or revitalisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Aboriginal and Torres Strait Islander people will be: consulted in relation to the catalogue description and classification of collection materials, and opportunities will be made for them to annotate and describe material that relates to themselves and their communities consulted and involved with all aspects of any interpretation of any collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes.",
+              "subclauses": [
+                "consulted in relation to the catalogue description and classification of collection materials, and opportunities will be made for them to annotate and describe material that relates to themselves and their communities",
+                "consulted and involved with all aspects of any interpretation of any collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes."
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "Aboriginal and Torres Strait Islander communities consulted about and before any digital content that might be made available online, including websites and social media.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Where materials are accessible, whether online or physically, access will be preceded by a notice advising Aboriginal and Torres Strait Islander people of potentially sensitive or distressing content such as images, sounds and names of deceased persons; images of people who have not yet been identified; and historical images containing nudity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(92) The Collection should consult LGBTIQA+ communities in relation to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "catalogue descriptions and classifications of collection materials, or opportunities for them to annotate and describe material that relates to themselves and their communities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "interpretation of collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "annual review of LGBTIQA+ terminology, in accordance with that of RMIT Inclusion, Diversity, Equity and Access, to ensure catalogue entries continue to reflect the expectations of LGBTIQA+ communities",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Copyright",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(93) To the extent permitted by law and to the extent necessary to enable RMIT to exercise its rights, the Collection will uphold all intellectual rights (as defined in Article 2 of the Convention Establishing the World Intellectual Property Organisation (WIPO Convention) (1967)), and all moral rights, rights of integrity and rights of attribution inherent in an acquisition.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Privacy",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(94) The Collection will adhere to the Privacy Policy and affirms RMIT’s commitment to privacy and its approach to the responsible handling of personal and sensitive information in all its forms, consistent with relevant legislation.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

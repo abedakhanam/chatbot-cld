@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "title": "Data Quality Guideline",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=230",
+    "scraped_date": "2025-10-31 01:24:14"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Overview",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT must continuously and proactively define, assess, improve and monitor the quality of its data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) High quality data supports University strategy and enables quality insights and decision-making, driven by data that is trusted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) The data quality resources i.e. the Data Quality Guideline, the Data Quality Standard and tools and templates are part of RMIT’s Data Quality Framework, and support the establishment of Data Quality Management as a key capability at RMIT.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Assessing and Improving Data Quality",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Improving enterprise data quality is a collaborative effort involving Information Trustees and Information Stewards as well as data producers and consumers across the University, working together to raise the standard of enterprise data quality at RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Data that is of high-value or high risk to RMIT (e.g. master data) must be identified and prioritised for data quality improvement. The Master Data Management Standard provides additional guidance on the management of master data. Risks associated with poor quality data must be escalated via risk and governance processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Data quality assessment and improvement activities must be undertaken for all high priority data. These activities will be guided by the Information Stewards, Information Trustees, the Information Governance Board and the Data and Analytics team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(10) Improving enterprise data quality is not a one-time process, but a continuous and iterative process that is described below.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(11) Define and agree upon the data quality goals, expectations, rules and requirements based on business criticality, in collaboration with all stakeholders.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Identify data assets, their supporting attributes and their priority based on business impact.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Clearly define and document what acceptable or good enough data quality looks like using RMIT’s Data Quality Dimensions - completeness, validity, accuracy, consistency, timeliness and uniqueness, as per the Data Quality Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Engage with all stakeholders impacted by the quality of the data across the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(12) Data quality must be systematically assessed against data quality rules and expectations from Step 1 so that it can be improved.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) Enterprise data quality metrics must be developed and implemented for all high priority data at RMIT via the RMIT Data Quality Dashboard. This dashboard is a resource available to all staff that enables RMIT to assess, measure and monitor enterprise data quality.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(14) A Data Quality Improvement Plan for RMIT’s high priority data must be developed in collaboration with the Information Stewards responsible for managing their data quality and endorsed by the Information Trustee accountable for the domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(15) The plan will provide details on the assessment of current data quality, the desired state of data quality, take into consideration data quality issues and identify improvement actions (e.g. changes to roles and responsibilities, improved processes, new tools or technology, training, introduction of standards or naming conventions, data cleansing activities, etc).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(16) The Data Quality Improvement plan must be developed in consultation with the Information Custodians and impacted stakeholders and endorsed by the Information Trustee accountable for that domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(17) If the improvement actions require an enterprise-funded project, a project should be initiated via Enterprise Projects and Business Performance processes, and a Project brief created.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(18) The endorsed Data Quality Improvement Plan must be executed and the status and progress of the plan monitored and reported.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(19) The following controls will ensure that the desired data quality improvement is achieved and maintained over time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Data quality will be monitored by the Information Stewards, Information Trustees and the Data and Analytics team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Data quality will be tracked using the RMIT Data Quality Dashboard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The status and progress of Data Quality Improvement Plans will be communicated regularly to stakeholders via Governance forums ie., the Data Quality Stewards Group and the Information Governance Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "The Information Stewards will periodically review and reassess data to ensure it is consistent with the data quality expectations that were identified in Step 1, and will periodically review Data Quality Improvement Plans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(20) Data quality issues impacting high priority data must be registered in the RMIT Data Quality Issues Register. This ensures that these issues can be effectively triaged, analysed and addressed by the Information Stewards.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(21) The Data and Analytics team will work with the Information Stewards to provide guidance on the Data Quality Issues Management Process including undertaking root cause and impact analyses.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(22) Data quality issues must be remediated at their source i.e., the point of entry, creation, collection or corruption, and data must be corrected prior to use for purposes such as reporting and analytics in accordance with the Data Quality Standard.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Data Quality Improvement Practices",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) Errors may occur at the source of data collection, particularly during manual data entry. Human error and data quality issues must be expected and mitigated by putting in place pre-emptive checks and validation throughout systems and processes to reduce the occurrence of data quality issues.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Validation and data quality checks must be implemented at the point where data is manually created or collected and throughout the data lifecycle, particularly when data is moved, transferred or changes state.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(25) Systems should be designed and implemented to incorporate validation and automation to reduce errors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(26) Data quality that does not meet expectations must be identified and corrected at the source so that incorrect data is not propagated further. Data must be corrected prior to its use for purposes such as analytics and reporting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(27) Staff should be trained to follow the correct processes and made aware of the importance of the quality of the data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(28) Clearly defined and agreed definitions of data, its use and its quality, enables data to be meaningful, clear and not left open for misinterpretation by different groups across RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(29) Staff must collaborate across groups to achieve a common understanding of data. The Information Stewards Group is a forum that can be leveraged to collaborate, define and agree on the meaning and use of data which can then be documented in the Information Domain Register to enable it to be discoverable and understood.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(30) Key terms, metrics, data quality rules, reports and high priority data assets should be catalogued in RMIT’s Information Domain Register, which is available to all RMIT staff to promote their discoverability, consistency and reuse.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(31) Data quality rules must be clearly defined and implemented addressing all applicable data quality dimensions. These rules may cover:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Mandatory or required fields to ensure completeness of data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Key attributes where conformance is required (for data types, format, precision or specific business rules or domain) to ensure the validity of data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Acceptable levels of latency (how often data should be refreshed) to ensure data is timely and up-to-date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Uniqueness so that duplication is minimised.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Identifying where verification with the authentic reference or the actual entity is required to ensure the accuracy of the data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(32) Data must be validated against these rules and validation automated and embedded into systems and processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(33) Corrective actions, such as data cleansing should be undertaken where the data does not align with defined rules prior to using the data, where appropriate. Rules may also be used to identify, ignore or correct records where appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(34) Rules should be centrally documented and stored, accessible by staff and where possible managed in a system. These should be reviewed regularly and updated.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(35) It is important for all staff to understand the importance of data quality and the significant impacts that poor data quality can have, as well as how to improve it.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(36) All staff should have access to clearly defined, visible and discoverable data quality expectations and should ensure that they understand the expected level of data quality.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(37) All staff should be enabled to ensure data quality through effective training and operational documentation, with data quality practices embedded in those resources.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(38) Processes should be embedded with data quality practices at all stages of the data lifecycle, from creation to destruction.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(39) Systems should be enabled to automate processes and data quality checks against the data quality rules where practicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(40) Processes should be in place to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Validate and correct manually created data against data quality rules.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Ensure that data created or manipulated is complete, valid, accurate and timely to an agreed level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Correct identified data quality issues and improve data quality.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Provide feedback between staff producing and staff consuming data as well as impacted stakeholders to enable reporting of issues and corrective actions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(41) Data quality practices should be embedded into operational processes, documentation and training material. Processes should be documented using enterprise tools so that they are discoverable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(42) Continuous feedback and review processes should be implemented to ensure that any gaps or coverage issues are discovered, resolved and monitored.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Examples of Data Quality Issues and Ways to Mitigate them",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(43) This section provides common examples of data quality issues, recommended practices that can be implemented to address them and ensure the quality of data for each dimension",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(44) All Staff are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring the data they create, manage and use is of high quality, in accordance with the Data Quality Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "taking reasonable steps to resolve or request the resolution of data quality issues; and ensuring that data quality issues are registered in the RMIT Data Quality Issues Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(45) Information Trustees are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "accountable for decisions impacting data quality and ensuring data quality is improved in their Information Domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "accountable for ensuring data quality improvement initiatives are adequately prioritised and resourced, and targets achieved for their Information Domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "responsible for the endorsement of Data Quality Improvement Plans for data in their Information Domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(46) Information Stewards are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "leading data quality assessment and improvement activities including the development of Data Quality Improvement Plans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "making recommendations to the Information Trustees for data quality improvement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "championing data quality and supporting staff in best practices for data quality in their teams.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(47) Information Custodians are responsible for providing access to systems where data quality improvements need to be made.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

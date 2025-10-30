@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "title": "Key Term Definition Standard",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=54",
+    "scraped_date": "2025-10-31 01:26:22"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Introduction",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Terminology is the core of our language at RMIT and our general understanding and use of this terminology affects our ability to effectively define and communicate information. As such, our key terms are an effective way to describe the scope of information that we need to govern within any given information governance function. This allows the implementation of specific governance policies, standards, procedures, accountability and decision rights as they apply to specific sets of information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) With accountability assigned to key terms, accountability for other information and data can be applied more easily.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Therefore, governance of key terms is essential for effective information governance.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Key Term Guidelines",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Our key terms and their definitions are information assets and must be managed accordingly.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) A key term will have an Information Trustee who is accountable for approving the definition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(12) A key term will have an Information Steward who is responsible for defining the business term in accordance with stakeholder agreement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(13) A key term will have one definition, aligned across the organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(14) If a different definition is required for a different context (purpose) or within a different business function, it is a different term with its own name and definition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(15) Key terms and definitions will be accessible to all members of the organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(16) A key term must be defined if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "it is used in a report or other published communication, such as strategy documents, standard operating procedures (SOPs), policies, etc.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "it may be easily confused",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "it means something different between functional areas",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "it is used in legislation or government regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "All key terms in the glossary will be managed by the Information Stewards and delegates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "A key term that is no longer a part of the vocabulary will be marked as “retired”; it will not be deleted (removed) from the glossary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Key terms and their definitions will be reviewed periodically as defined by the Information Trustee.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Standard for Defining Key Term Definitions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) This section documents the standard required of definitions established and managed for key terms and metrics.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) The definition standard requires the definition to be structured such that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the definition is presented as a set of individual statements (business rules) that can be easily and independently validated",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the first business rule will define the class of the key term",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the subsequent business rules will define the term’s differentiating characteristics (how the key term differs from others in its class)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "differentiating characteristics will include at a minimum: any functional business rules, i.e. the purpose of the term and/or any consequential business rules, i.e. the result or effect of the term",
+              "subclauses": [
+                "any functional business rules, i.e. the purpose of the term and/or",
+                "any consequential business rules, i.e. the result or effect of the term"
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "business rules will be separated by the appropriate conjunction and, where appropriate, preceded with a modal verb to denote level of necessity, permission or ability (“must”, “will”, “should”, “can”, “may”)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "a business rule will not use additional conjunctions, and will not contain more than one prepositional phrase, with the following exceptions: a cardinal or ordinal phrase may introduce a conjunction, e.g. “one or more”, or a preposition, e.g. “at least three” the object of the business rule may be a term that includes a conjunction or preposition, e.g. “terms and conditions”, “mode of study”",
+              "subclauses": [
+                "a cardinal or ordinal phrase may introduce a conjunction, e.g. “one or more”, or a preposition, e.g. “at least three”",
+                "the object of the business rule may be a term that includes a conjunction or preposition, e.g. “terms and conditions”, “mode of study”"
+              ]
+            },
+            {
+              "clause_number": "7",
+              "text": "terms that represent metrics will include the formula for calculating that metric",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "where a term represents a distinct set of valid values, those values may be included in the definition or the list of values must be referenced in the definition",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "the definition will be free of acronyms, abbreviations and jargon",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "the definition will be easily understood without requiring prerequisite university knowledge.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

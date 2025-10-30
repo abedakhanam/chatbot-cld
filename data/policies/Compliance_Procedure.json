@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "title": "Compliance Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=307",
+    "scraped_date": "2025-10-31 01:25:30"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Compliance Obligations Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(12) Compliance with relevant legislation is essential for RMIT to operate ethically, safely and pragmatically. It enables RMIT to maintain its commitment to the provision of high-quality teaching, learning and research, while ensuring legal integrity, and safeguarding the rights and welfare of its stakeholders. Additionally, it supports the responsible management of resources and finances. Relevant legislative topics include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Education and quality standards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Standards for onshore overseas students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Copyright and intellectual property",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Health, safety and wellbeing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Anti-discrimination and equal opportunity",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Privacy and data protection",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Research ethics and integrity, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Financial governance regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) RMIT has established a centralised Legislative Obligations Register that comprises applicable legislation, along with its corresponding obligations and requirements. The legislation in this Register has been categorised based on its underlying nature and is as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Education and Training",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Operations and Corporate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "People, Employment and OHS",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Technology, Data and Privacy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(14) Ownership of compliance obligations must be defined, understood and aligned with the Delegations of Authority Policy to ensure effective oversight and management of compliance activities (refer to clauses 27–35).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(15) Stakeholder teams essential to meeting legislative requirements are identified by the Central Compliance Team during the initial review of the legislation. These stakeholder teams are designated as ‘Legislative Owners’ and ‘Legislative Specialists’ and are contact points for matters related to this legislation. It is important to note that compliance remains a shared responsibility across multiple teams.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(16) The Central Compliance Team engages with relevant teams as new legislation is implemented. The initiation of contact with teams is prioritised on a case-by-case basis, depending on the nature of the legislation and its potential impact on RMIT. If any work involving legislation with a high impact on RMIT is not listed in the Legislative Obligations Register, the responsible parties must notify the Central Compliance Team at compliance@rmit.edu.au.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(17) Where a compliance management responsibility for an Act or specific obligations under that Act cannot be determined based on portfolio responsibilities, the Vice-Chancellor, in consultation with relevant members of the University Executive, determines who will be the Legislative Owner for that Act or obligation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(18) Compliance obligations may change as legislation changes. It is crucial for Legislative Owners and relevant RMIT stakeholders to be aware of these changes to maintain compliance and minimise risk to RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(19) The Legislative Change Communication Process is the system used to notify RMIT staff of changes to regulatory obligations. It provides a structured approach to inform relevant staff of changes to regulatory obligations through an Alerts system. This process ensures that relevant staff are aware of and address compliance risks arising from legislative changes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(20) The Legislative Alerts List contains Bills and regulations that may change compliance obligations and is accessible through the RMIT staff Legislative Communication Change SharePoint site. Staff can check the summary fields in the list to determine if changes are relevant to their responsibilities before accessing the full Alerts list.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(21) Stakeholders responsible for or materially impacted by legislative obligations should subscribe to specific legislative newsletters and alerts from government departments or reputable legal advisory websites. Staff responsible must be appropriately registered as primary contacts with key agencies to ensure they receive regular correspondence. The contact details must be current and inboxes monitored.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(22) The Legislative Owner is responsible for communicating a compliance action plan to the Central Compliance Team, outlining the impact of legislative changes, the proposed action plan and the timeframes for implementation. This may include adjusting policies, procedures or practices to comply with new obligations. Managers should request staff to consider how legislative changes impact their areas of responsibility.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(23) While the Legislative Change Communication process presents updates to regulatory obligations, it is the responsibility of RMIT staff to adapt or implement subsequent actions and processes to ensure compliance. Regulatory compliance changes identified locally should be brought to the attention of the Central Compliance Team as soon as practicable.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Risk Assessment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) RMIT takes a risk-informed approach to managing compliance obligations by categorising applicable legislation into tiers based on the potential financial, regulatory, reputational and safety impacts associated with non-compliance. This tiered classification system, guided by the RMIT Risk Management Framework, helps prioritise and focus the assurance efforts provided by the Compliance Policy and its associated procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(25) Using RMIT’s Risk Management Framework, Legislative Owners, with assistance from Legislative Specialists and key staff, assess the level of risk that non-compliance with a particular compliance obligation poses to RMIT in achieving its strategic objectives. This assessment helps determine where to focus resources and the level of action required for non-compliance issues.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(26) All non-compliance issues are risk-assessed within the context of the compliance obligation itself. This risk assessment is reviewed whenever there are changes to the compliance obligations, changes to internal policy, or every two years, whichever occurs first.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Control Identification and Assessment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(27) Compliance control assessments are undertaken to determine if RMIT has processes in place to meet obligations under applicable legislation. These assessments are conducted using Self-Assessment Questionnaires (SAQs) to identify current controls and any gaps that need to be addressed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(28) Biannual reviews of compliance obligations are conducted to align with the biannual ARMC reporting cycle. These reviews utilise Self-Assessment Questionnaires (SAQs) to evaluate the current state of compliance and identify any areas of improvement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(29) Legislative Owners and their teams, with assistance from the Central Compliance Team, complete the SAQs as part of the compliance obligations review process. These teams will evaluate whether processes are in place to meet legislative obligations, record current controls, identify gaps and any actions needed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(30) Specific requirements under each SAQ can be viewed at the Legislative Obligations Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(31) After the SAQs are completed, the Central Compliance Team assess the responses to determine the overall compliance against the requirements, and may provide feedback and suggestions to the Legislative Owners and their teams for implementing compliance controls to address gaps or areas of non-compliance.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(32) The SAQs are essential for assessing RMIT’s strengths and areas requiring improvement. They provide valuable insights for specific business areas and the broader RMIT community.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Monitoring",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) Following the initial compliance obligations review using the SAQs, the Central Compliance Team conducts monitoring and check-ins every six months. These check-ins capture any changes in compliance status, controls and actions taken to address gaps. They also record any changes in the compliance environment that may have an impact on RMIT’s compliance obligations. These biannual check-ins provide an opportunity for the stakeholder teams to raise any compliance-related matters with the Central Compliance Team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(34) The monitoring program is designed to be flexible, allowing it to adapt to the changing environments and address specific areas of compliance risk in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(35) Legislative Owners are responsible for monitoring compliance within their business area to assess how effectively compliance risks are being managed. The Central Compliance Team can provide advice on best practices for monitoring compliance risks.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance Management Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(36) To ensure appropriate visibility, oversight and governance of compliance management, the Central Compliance Team coordinates biannual reporting to UEC and ARMC, with input from Legislative Owners and Legislative Specialists. When in-depth discussions on specific legislation are required, Legislative Owners will lead these discussions at relevant governance meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(37) Compliance reports include key information and insights, which may cover:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Areas of elevated regulatory risk",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Reported compliance breaches",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Key legislative compliance gaps",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Significant actions to address gaps",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Results of compliance attestations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Status updates on the implementation of the Compliance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(38) Identified or suspected compliance breaches must be reported and managed in accordance with the Compliance Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(39) Managers at all levels are responsible for ensuring that they and their staff are aware of their compliance obligations and have or are in the process of acquiring the necessary competence to meet these obligations. This includes ensuring that their staff complete all mandatory compliance training.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(40) The RMIT Compliance Education program is available on Workday. Mandatory courses are automatically assigned to staff members based on their roles and cover a range of areas, including workplace integrity, health, safety and wellbeing, information governance, privacy and cybersecurity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(41) All staff and researchers have a responsibility to complete mandatory compliance training courses on employment, every two-years thereafter, or where a new training course is developed and assigned to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(42) The ongoing review of the compliance management approach, objectives and assessment criteria is conducted as part of continuous improvement by the Central Compliance Team.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(43) The Compliance Procedure is maintained by the Central Compliance Team and is reviewed every five years in accordance with the Policy Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(44) Periodic reviews will align with ISO 37301:2021 Compliance Management Systems.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

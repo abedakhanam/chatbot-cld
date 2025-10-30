@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "title": "Fraud and Corruption Control Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=47",
+    "scraped_date": "2025-10-31 01:22:34"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) RMIT expects, encourages and supports employee ethical behaviour, and does not tolerate fraud or corruption.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) RMIT maintains trust with the public by exhibiting the highest standards of integrity in its operations and decision making. It recognises that fraud and corruption can create reputational and financial damage to RMIT which undermines public confidence, employee and student productivity and morale.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(12) RMIT takes a risk-based approach to managing fraud and corruption through the Risk Management Framework which requires all risks relating to fraud and corruption to be identified, assessed, responded to and monitored on an ongoing basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(13) The effectiveness of the mechanisms used to control fraud and corruption risks are evaluated and reported to the Audit and Risk Management Committee on a biennial basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(14) ‘Fraud and corruption’ is a risk domain in RMIT’s risk management framework.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(15) Senior managers in high-risk areas apply RMIT’s risk management tools and activities to identify potential opportunities for fraud and corruption in their area of responsibility. Examples of high-risk areas and activities are included in Schedule 1 – Examples of Corrupt Conduct, Fraud, Public Interest Disclosures and High-Risk Activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(16) Identified fraud and corruption risks are recorded in the enterprise risk management system. Identified risks inform the development of prevention, detection and response strategies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(17) RMIT prevents fraud and corruption through:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "transparent, accountable and responsible decision making",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "strong governance practices and policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "training and awareness raising for employees and business areas, particularly around high-risk activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "effective risk management and reporting",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "security of physical assets and facilities to protect from theft",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "an effective information security management system.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(18) RMIT undertakes activities that recognise whether fraud or corruption has occurred or is occurring. These include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "monitoring and regularly reviewing systems and accounting reports for suspicious or unusual activity",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "post-transactional reviews",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "monitoring and reviewing approval processes to ensure alignment with the Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "appropriately resourced internal and external audit capabilities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "mechanisms to enable confidential reporting of suspected fraud or corruption.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(19) Staff investigating other types of complaints, such as employee or student misconduct, are trained in recognising complaints about fraud and corruption. They are also advised to notify Central Complaints and Investigations if there is a financial element to the misconduct they are investigating. Any matters relating to student fraud are managed under the Student Conduct Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(20) RMIT ensures procedural fairness when dealing with fraudulent or corrupt conduct allegations as set out in the Fraud and Corruption Investigation Instruction.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(21) Investigations of potential fraud and corruption are handled by specific and suitably qualified and trained employees or contractors, and in accordance with the relevant legislation, enterprise agreement and RMIT policies and procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(22) The preliminary assessment of an allegation may determine that the matter needs immediate referral to the police or IBAC for them to conduct the investigation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(23) The outcome for employees found to have engaged in fraud or corruption is determined:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "in accordance with the relevant enterprise agreement, the Managing Conduct Procedure, and any other relevant policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "by the relevant senior officer as defined in the Delegation of Authority Schedule 3 – People Delegations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(24) RMIT may take legal or administrative action to reclaim any resources misappropriated through fraud or corruption, where appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(25) RMIT complies with the laws of the countries in which it operates. Where a conflict arises between legislative requirements that apply to RMIT operations relating to fraud and corruption control and public interest disclosure, RMIT adopts the more onerous requirement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Where to report suspected fraud or corruption",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(26) RMIT’s Complaints Portal enables Australian-based employees, students and third parties to report suspected fraud or corruption to the Central Complaints and Investigations Unit. For RMIT Vietnam, go to Complaints on the RMIT Vietnam website.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(27) Disclosures of suspected fraud or corruption can also be made to an independent third party, such as Stopline or integrity agencies such as IBAC, depending on the scale and significance of the allegation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(28) Persons disclosing suspected fraud and corruption can request whistleblower protections in accordance with the Public Interest Disclosures Act. Refer to the Whistleblower Procedure for details about what can be disclosed as a ‘public interest disclosure’, to whom, and the protections provided by the Public Interest Disclosures Act 2012.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) RMIT University Council has overall accountability for monitoring RMIT’s fraud and corruption risks and receives an annual report on fraud and corruption matters through the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(30) The Audit and Risk Management Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "overseeing the fraud and corruption prevention framework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "assisting internal and external auditors in understanding the fraud and corruption control framework and the importance RMIT places on fraud detection as part of an external audit",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "monitoring the response to detected fraud and corruption cases via the report from Central Complaints and Investigations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(31) Members of the University Executive are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "understanding RMIT’s fraud and corruption risks",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "demonstrating a high-level commitment to the prevention of fraud and corruption",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "fostering a workplace culture where it is safe to disclose suspected fraud or corruption",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "reviewing reports prior to submission to the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(32) The Vice President, People and Culture is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring pre-employment screening",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "escalating all matters of potential fraudulent or corrupt conduct to Central Complaints and Investigations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(33) The Chief Information Security Officer is the delegated information security management and system officer responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring RMIT has an effective information security management system to mitigate the risks of cyber fraud",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "training and awareness raising on preventing cybercrime across the RMIT Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(34) The General Counsel is the delegated Whistleblower Protection Coordinator, and is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintaining, implementing, monitoring compliance with and reviewing this policy suite in accordance with the Policy Governance Policy to ensure currency and effectiveness",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "determining how suspected fraud or corruption is handled, including directing people to IBAC if they wish to make a public interest disclosure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "receiving confidential communications that are not public interest disclosures under the Public Interest Disclosures Act",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "internal and external mandatory reporting, as required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(35) The Associate Director, Central Complaints and Investigations is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the proper conduct of investigations, including ensuring procedural fairness",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the appropriate handling of information relating to suspected fraud or corruption, regarding the requirements for reporting to law enforcement agencies, privacy, and confidentiality",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reporting the incidences of fraud and corruption",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "ensuring training and awareness-raising is regularly conducted across the RMIT Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(36) The Director, Risk Management is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "managing the risk profiles related to fraud and corruption",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "recording the controls and, where necessary, treatment plans for identified fraud and corruption risks",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "improvement opportunities related to fraud and corruption prevention.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(37) The Internal Audit team are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "biennial review of RMIT’s fraud and corruption risks and controls, and providing assurance to the Audit and Risk Management Committee as to the effectiveness of those controls in preventing, detecting and reporting fraud",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "identifying significant fraud risks while conducting audit planning and projects.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "34",
+              "text": "(38) All employees are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "conducting their duties with the utmost regard for the expected standards of behaviour and integrity in accordance with this policy and policies relating to people, financial management, travel, ITS, procurement and expenditure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reporting any fraud or corruption concerns to their manager, or the Associate Director, Central Complaints and Investigations, or lodging a complaint via the RMIT Complaints Portal or IBAC for public interest disclosures (refer to the Whistleblower Procedure)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "cooperating with any investigation into possible fraud or corruption.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(39) The University Secretary and Academic Registrar (or delegate) is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "management and investigation of student misconduct as stipulated in the Student Conduct Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(40) Members of RMIT’s senior executive are responsible for ensuring compliance with this policy within their area of responsibility.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(41) Fraud and corrupt conduct may result in disciplinary action, including summary termination of employment, enrolment or engagement, and referral to law enforcement agencies. Penalties are determined in accordance with the Code of Conduct, Workplace Behaviour Policy and the Student Conduct Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(42) Refer to the following documents which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Fraud and Corruption Control Policy Schedule 1 – Examples of Fraud, Corruption, Public Interest Disclosures and High-Risk Activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Fraud and Corruption Control Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Whistleblower Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Whistleblower Procedure Schedule 1 – Types of Disclosures",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Fraud and Corruption Investigation Instruction.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

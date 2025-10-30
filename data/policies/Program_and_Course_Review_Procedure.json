@@ -1,0 +1,967 @@
+{
+  "metadata": {
+    "title": "Program and Course Review Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=39",
+    "scraped_date": "2025-10-31 01:26:45"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Ongoing Course Monitoring – HE (coursework)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(9) Each course or unit of learning is reviewed through a cyclical monitoring process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "CEIQ monitors courses or units of learning using student feedback data and profiles, courses and units of learning in accordance with agreed internal standards and metrics.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The College Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent) use the course profiles to prioritise courses for the development of a Course Action Plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "College Quality Units report on ongoing course enhancements to gauge the efficacy of impact.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "CEIQ evaluates Higher Education outcomes and reports to the Education Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(10) Some courses or units of learning may be reviewed more frequently than others depending on, but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the agreed internal standards, metrics and triggers for monitoring",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "RMIT or college strategies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "feedback from within the sector or related industry.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Annual Program Review – HE (coursework)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Each program within scope participates in Annual Program Review which ensure continuous program monitoring.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "CEIQ maintains the Annual Program Review schedule in consultation with colleges and schools.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Program Managers (or equivalent) direct their Program Review Team in responding to the Terms of Reference.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "College Quality Units must obtain college-level endorsement from the Dean/Head of School (or delegate), College Associate Deputy Vice-Chancellor Learning and Teaching (or delegate) before submission to CEIQ.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "CEIQ monitors and evaluates submissions and follows up with College Quality Units regarding the completion of actions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "College Quality Units report on ongoing progress of actions through subsequent Annual Program Review submissions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "CEIQ evaluates key themes and reports them (where appropriate) to the Higher Education Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(12) The Deputy Vice-Chancellor Education (or delegate) may require an out-of-cycle Annual Program Review based on:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "changes in data (e.g. student feedback, program dashboard 2.0).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Annual Program Review of Training and Assessment Strategy – VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) Program Managers are responsible for undertaking a review of the Training and Assessment Strategy (TAS) that includes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "alignment to training package or accredited course requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "sufficient trainers and assessors",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "evaluation and monitoring strategies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(14) The CoVE Quality and Compliance team ensures a current version of the TAS is stored centrally.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(15) Each TAS for a vocational education training product will be updated annually as a minimum or as required prior to delivery to ensure the training and assessment continues to meet the training package, accredited course or unit requirements and the needs of the anticipated cohort.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(16) Each TAS for a vocational education training product will be updated annually as a minimum or as required to include sufficient trainers and assessors with the relevant vocational competencies and current industry skills and knowledge for the teaching period.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(17) Annual evaluation of VE programs is managed by the Program Managers and Cluster Directors with specific input based on data, consultation and feedback mechanisms.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(18) Each TAS for a vocational education training product will be updated annually as a minimum or as required to include evidence of continuous improvement from the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "trainer and assessor feedback",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "program and cohort data",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(19) Program Managers are responsible for examining program and cohort data, and where relevant, using this data to inform the TAS. The data can include but is not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "student demographic data",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Language Literacy and Numeracy level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "retention data including Early Warning Signs (EWS).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(20) Cluster Directors are responsible for assuring that complaints and appeals are managed using the Student and Student-Related Complaints Policy suite and Assessment, Academic Progress and Appeals Regulations as appropriate.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Vocational Education Cyclical Review of Assessments",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) The Associate Deputy Vice-Chancellor Learning and Teaching VE (or delegate) is responsible for ensuring that the validations schedule is managed in accordance with the 2025 Standards for Registered Training Organisations (the 2025 Standards).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(22) Cluster Directors are responsible for ensuring assessment validations are conducted in line with the requirements of the 2025 Standards and that the identified outcomes from validations are completed in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(23) Program Managers are responsible for planning and conducting validation of assessment practices and judgments which includes selection of units to be validated, arranging a panel and scheduling of meetings.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence thresholds for Annual Program Reviews – HE (coursework)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(24) The Annual Program Review Terms of Reference are designed to meet a minimum threshold of evidence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(25) Evidence and reflection must be included in the program review submissions where required by the Annual Program Review Terms of Reference.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(26) Program Managers are responsible for showing evidence of having actioned their program enhancement plans, if applicable, by reporting a status update of each goal and commentary. Status updates include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "no longer applicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(27) CEIQ monitors the status updates and reports them to the Programs Committee and Academic Board. Program Managers (or equivalent), in collaboration with their College Quality Unit, identify and submit to CEIQ notification endorsed by the College Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent) when a program will not complete an Annual Program Review due to the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "program is approved for discontinuation, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "has less than ten (10) students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(28) Program Managers (or equivalent) are responsible for showing evidence of and reflecting on year-on-year data sets from the Program Review Dashboard as required by the Terms of Reference.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(29) Data inputs include, but are not limited to, student success, student outcomes, enrolments trends, program experience, student demand and strategic alignment, and external benchmarking where available.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(30) Program Managers (or equivalent), if required by the Terms of Reference, must provide a written submission that uses data and reflection to consider program strengths and potential actions for improvement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Comprehensive Program Review HE (coursework)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) Each program within scope participates in the Comprehensive Program Review at least once within a seven-year cycle to meet HESF requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "CEIQ maintains the Comprehensive Program Review schedule in consultation with the program owner/college.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Program Managers (or equivalent) lead their Program Review Team in responding to the Terms of Reference which includes providing data, evidence, a reflection on pedagogy and curriculum and program dashboard data. The response will include the development of a program enhancement plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Program Managers submit formatted responses guided by the Comprehensive Program Review Terms of Reference and Coversheet (e.g., evidence, equivalency and comparability, forum guidance).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "College Quality Units ensure that college-level endorsement of each review is obtained from the college Dean/Head of School and Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent) and submitted to CEIQ.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "CEIQ monitors and evaluates submissions and reports outcomes and recommendations for re-accreditation to the Programs Committee and Academic Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Where critical issues have been identified the college will be given up to 12 months to resolve and resubmit a complete CPR before re-accreditation is sought.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(32) Outcomes include recommended re-accreditation status of a program, as indicated per the categories below to be recommended by the Deputy Vice-Chancellor Education for the Programs Committee to endorse:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "re-accreditation of all programs with completed CPRs for a period of seven years. Assurance documentation will include the CPR review for the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "commencement of the discontinuation process of a program when a CPR has not been completed in the required timeframe of seven years. Assurance documentation will include all CPR review documents for the program, accompanied by the reasons for the proposed discontinuation. Any required teach-out plans must be submitted to the Programs Committee by the relevant College Associate Deputy Vice-Chancellor Learning and Teaching/Dean/College Deputy Vice-Chancellor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(33) The Programs Committee endorses the programs to be re-accredited.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(34) The Academic Board approves the programs to be re-accredited.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(35) The Deputy Vice-Chancellor Education (or delegate) may require an out-of-cycle Comprehensive Program Review based on:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "changes in data (e.g. student feedback, program dashboard).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(36) CEIQ advises any changes to the program review schedule to the Programs Committee and Academic Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(37) The overview of the Program Review process is located on the CEIQ Resource Hub.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence Thresholds for Comprehensive Program Reviews HE (coursework)",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(38) CEIQ maintains the Comprehensive Program Terms of Reference to meet a minimum threshold of evidence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(39) The design of the Terms of References holistically requires Program Managers to provide evidence and academic reflection of, but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "curriculum and pedagogy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reflective data check",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "external referencing and benchmarking, inclusive of peer review (refer to the Program and Course External Review and Benchmarking Procedure)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Equivalence and Comparability of Academic Standards in Multiple Locations and Modes: see the CEIQ Resource Hub",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "staff qualifications and scholarship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(40) Evidence and reflection must be included in the program review submissions where required by the Comprehensive Program Review Terms of Reference.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(41) Evidence for Comprehensive Program Reviews is collected on an ongoing basis throughout the life-cycle of the program.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence for Reviewing Curriculum and Pedagogy",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(42) Program Managers (or equivalent) are responsible for showing evidence that the program’s curriculum and pedagogy are in line with the appropriate AQF level.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(43) Program Managers (or equivalent) must submit evidence and reflection on the mapping of:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Program Learning Outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Course Learning Outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(44) Program Managers (or equivalent) must submit evidence and reflection of having operationalised:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "current RMIT program and course design principles or frameworks (refer to the Program and Course Design Procedure – Higher Education Coursework)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "current RMIT teaching and learning principles or frameworks, refer to the Centre for Education Innovation and Quality (CEIQ).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence for Reviewing Student Feedback – HE and VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(45) Program Managers (or equivalent) are responsible for showing evidence of using student feedback.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(46) Student feedback is any judgments and opinions formed by students regarding their experience of RMIT and expressed through formal mechanisms such as program and course level surveys, student-staff consultative committees, or informal mechanisms such as focus groups, other methods of local data collection and monitoring social media.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(47) The systematic collection, use and reporting of student feedback is performed to monitor and improve the quality of the student experience. Student feedback will be used to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "improve the quality of programs and courses through the development of program enhancement plans",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "enhance program and course design and the connection between courses in a program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "support the scholarship of learning and teaching, including professional development programs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "improve the provision of learning resources, facilities, equipment and services through the development of improvement plans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(48) Vocational Education Program Managers are responsible for incorporating student feedback into the Training and Assessment Strategy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Surveys – HE and VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(49) The Dean/Head of School/Cluster Director and relevant service area directors/managers are responsible for ensuring that relevant student feedback is systematically shared and actioned in their area to ensure Course Coordinators and Program Managers can take timely informed actions for improvement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(50) The following surveys are the standard instruments for capturing student feedback about courses, programs and the broader RMIT experience:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Course Experience Survey (CES) is designed to capture feedback about students’ learning experiences within a particular course.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The Student Experience Survey (SES)(HE) and the Learner Questionnaire (LQ)(VE) are designed to capture feedback from undergraduate and postgraduate by coursework and vocational education students regarding their program experience and broader RMIT experience, including services and facilities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The Graduate Outcomes Surveys (GOS)(HE) and the Student Outcome Survey (SOS)(VE) captures information about graduate outcomes to track employability and further study pathways. A longitudinal Graduate Outcomes Survey is administered three years after graduation. The SOS is administered three months after the end of the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(51) Staff will seek student feedback in all locations to ensure an accurate representation of the RMIT cohort. The feedback must be in a form that can be captured, analysed and reported every time a course is delivered, where appropriate. The RMIT Student Surveys Team may facilitate with Data and Analytics and relevant college/school representatives, of courses or units for survey purposes. The standard RMIT survey instruments will be used.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(52) Where a non-standard survey instrument is used to collect feedback for a cohort (e.g., for more than one course), approval must be sought from the Student Surveys Unit before it can be used.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(53) Where the standard survey instrument is inappropriate for specific delivery modes (e.g., non-classroom based) or the needs of specific student cohorts, alternative student feedback mechanisms may be deployed. Where a non-standard survey instrument is used to collect feedback, approval must be sought from the Student Surveys Unit before it can be used.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(54) Where appropriate, the Student Feedback Team can be consulted for the ethical, compliance and privacy issues that may arise through the use of non-standard or bespoke survey instruments. Stakeholders for consultation may include the Research Integrity Office and Education Regulation, Compliance Assurance (ERCA).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Student Staff Consultative Committees – HE and VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(55) Deans/Heads of School/Cluster Directors (or equivalent) are responsible for ensuring that all coursework programs or training products that are at least one semester in length have representation on Student Staff Consultative Committees (SSCCs).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(56) The Program Manager (or equivalent) is responsible for organising and operationalising the SSCC and for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "keeping a record of SSCC feedback from each teaching period of program delivery",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "showing evidence of using feedback from the SSCC for program/course review and enhancement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(57) The Program Manager/Course Coordinator (or equivalent) invites students in coursework programs to volunteer to be student representatives at the start of the teaching year and at the start of each teaching period where mid-year/flexible intake applies. This invitation is given in the first session of a core course in each year level of the program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Program Manager and Course Coordinator (or equivalent) explains the purpose, benefits and attendance requirements of SSCCs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The Program Manager (or equivalent), ensures, if possible, that volunteers comprise a representative sample: for example, a mix of genders, domestic and international students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Enough students should be encouraged to volunteer to ensure that student numbers at least match those of staff at the student feedback meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "The Program Manager (or equivalent) is responsible for overseeing the setting of meeting agendas, recording minutes of the meeting, using the SSCCs minutes template and/or the issues/actions log, and making this information available to all students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "SSCC meetings concentrate on suggesting improvements to the student experience of learning and teaching in programs, including feedback on facilities, information technology and administration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(58) Where invitations to students in a program to join the SSCC have been met with insufficient response, a digital channel, such as through Canvas and/or email must be provided to all students to provide feedback that aligns with the SSCC timelines and feedback requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(59) Deans/Heads of School/Cluster Directors (or equivalent) are responsible for ensuring that the coursework program has sufficient student feedback where student attendance at SSCCs could not be met.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(60) The feedback obtained via a digital channel must be:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a representative sample from the student cohort",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "collated and summarised into relevant themes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "addressed by the Program Manager (or equivalent)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "circulated back to students with the actions taken",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "provided as evidence of using student feedback as part of the program/course review and enhancement.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence for Reviewing Industry Partnered Engagement – HE and VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(61) Each HE coursework program, or discipline, has an Industry Advisory Committee. A single Industry Advisory Committee may be convened to support all programs in the same discipline. Where an Industry Advisory Committee is not fit for purpose, evidence of Industry Engagement should be provided inclusive of clauses (62) and (63) below.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(62) Program Managers(or equivalent) are responsible for showing evidence of industry partnered engagement. Industry partnered engagement can include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "partnering with sector employers, RTO’s relevant industry bodies or businesses,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "exchanging staff, resources and knowledge with industry bodies or networks,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "employer surveys and feedback.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(63) The Dean/Head of School/Cluster Director (or equivalent) responsible for the program oversees the operationalising of the Industry Advisory Committee. This includes setting meetings and agendas and recording meeting minutes, including issues and actions. Formal reports are forwarded to the Programs Committee or other relevant committees of the college or of RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(64) Higher Education Industry Advisory Committees advise on matters associated with program design, delivery and review, in particular:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "recommendations on proposed program developments",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "student demand and the community need for the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "prospective employment opportunities for graduates of the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the extent to which the program offered meets its stated aims and objectives",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "advises on key relationships among RMIT, employers and the profession",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "considers the resources required for program delivery",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "supports the accreditation and re-accreditation of RMIT programs by external bodies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "advises on research and development activities and relevant consultation with external bodies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "advises on matters associated with development, delivery and assessment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(65) Industry engagement in VE ensures the alignment of industry trends to inform the development and ongoing review of VE qualifications, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "helping design training and assessment strategies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "selecting suitable resources",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "seeking feedback about how training and assessment will be provided, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "confirming trainers and assessors have current industry skills.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(66) For VE programs, a range of industry engagement strategies must be adopted to demonstrate evidence that a number of stakeholders have been consulted over a period of time.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence for Reviewing External Validation and Benchmarking – HE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(67) Program Managers (or equivalent) are responsible for showing evidence in response to the RMIT External Validation and Benchmarking Framework.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(68) CEIQ interprets, designs and maintains the RMIT External Validation and Benchmarking Framework, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "working with the Data and Analytics team and other relevant units to ensure robust benchmarking across the sector",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "supporting external peer review with College Quality Teams and Program Managers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(69) Program Managers (or equivalent) must show evidence of the degree to which they look outside of their courses and programs. By responding to the RMIT External Validation and Benchmarking Framework in the Comprehensive Program Review Terms of Reference the following will be addressed:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "internal and external benchmarking in accordance with the External Referencing and Benchmarking Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Evidence for Equivalence and Comparability of Academic Standards in Multiple Locations and Modes – HE and VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(70) Program Managers (or equivalent) are responsible for showing evidence of equivalence and comparability of academic standards and quality. Evidence and reflection on this must be included in the HE program review submissions where required by the Comprehensive Program Review Terms of Reference or Annual Program Review Terms of Reference.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(71) The equivalence and comparability framework comprises factors that define equivalence, comparability and customisation of different offerings of programs. For resources and instructions on how to respond to the RMIT Equivalence and Comparability Framework, see CEIQ Resource Hub.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Equivalence factors are those that ensure academic standards are evidenced through compliance with relevant RMIT strategic directions, policies, procedures and guidelines and external quality assurance frameworks, including the Higher Education Standards Framework (Threshold Standards) 2021 and the 2025 Standards for Registered Training Organisations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Comparability allows for contextualisation and customisation to take account of local factors and to meet the needs of specific student cohorts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Customisation aligns the learning design of a course offering and the media used for the presentation of materials with the students’ profile to promote effective learning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(72) Program Managers (or equivalent) are responsible for including program data of all locations in their program review submissions including, but not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "grades/pass rate/competency",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Student Feedback for Programs Delivered in Conjunction with Partners – HE and VE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(73) Appropriate feedback processes and calendars are endorsed by the college Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent) and appropriate personnel from partner organisations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(74) Partner contract negotiations will include standard survey instruments offered by RMIT with results to course, school/industry cluster and college leaders to ensure that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "contractual obligations in relation to student feedback are considered and met",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "student feedback procedures already in place by partner institutions are considered",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the type and conduct of student feedback is appropriate given the cultural context of delivery",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the use of student feedback results is aligned with RMIT’s and partner institutions’ student feedback policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "outcomes from student feedback are communicated to students and partners",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "regular monitoring of improvements occurs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(75) International and Engagement Portfolio and the school/industry cluster partner manager, in conjunction with the Associate Dean Learning and Teaching, Associate Deputy Vice-Chancellor Learning and Teaching (or equivalent) and CEIQ, are responsible for consultation, development and implementation of partner feedback processes. See the Third-Party Educational Delivery Policy and the Third-Party Educational Delivery Compliance and Risk Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Higher Degrees by Research",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(76) The School of Graduate Research coordinates the annual and comprehensive reviews for Higher Degree by Research programs under the governance of the Graduate Research Committee and the Research Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(77) The Higher Degree by Research Program Review Cycle determines the cadence and focus areas for annual and comprehensive reviews in alignment with the Higher Education Standards Framework (Threshold Standards) 2021.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(78) Comprehensive reviews for Higher Degree by Research programs are held every five years with a review panel comprising of internal and external members.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(79) Higher Degree by Research programs are reviewed in clusters relating to relevant schools and/or colleges.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(80) Data sources for program reviews may include, but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "student performance data",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "external referencing and benchmarking",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "student feedback and stakeholder consultation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "program and course guides",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "professional accreditation standards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "government and industry reports.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(81) Higher Degree by Research Delegated Authorities are responsible for showing evidence of using student feedback in program review documentation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(82) Student feedback is any judgement and opinion formed by students regarding their experience of RMIT and expressed through formal mechanisms such as program and course level surveys, student-staff consultative committees, or informal mechanisms such as focus groups and social media.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(83) Higher degree by research candidate feedback collated through formal RMIT surveys will comply with clauses listed in this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(84) The Associate Deputy Vice-Chancellor Research Training and Development (or nominee) may require an out-of-cycle program review based on:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(85) School of Graduate Research monitors and evaluates program review submissions and report outcomes, including recommendations to re-accredit higher degree by research programs to the Graduate Research Committee, Research Committee and Academic Board.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

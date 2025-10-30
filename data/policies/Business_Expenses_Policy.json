@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "title": "Business Expenses Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=66",
+    "scraped_date": "2025-10-31 01:26:55"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) As a starting point, RMIT will reimburse expenses which are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "necessary to perform a valid business purpose fulfilling the operations of RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reasonable in that the expense is not extreme or excessive, and reflects a prudent decision to incur the expense",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "appropriate in that the expense is suitable and fitting in the context of the valid business purpose",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "allowable according to the terms of any law, regulation, standard, sponsored contract, or RMIT policy, including the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(5) RMIT will not reimburse for expenses that do not comply with this policy. Any expenses incurred on RMIT’s credit cards that do not comply with this policy will require reimbursement by the cardholder of the non-complying expense.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Documentation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) Expense claims or corporate card acquittal must be supported with original documentation necessary to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "meet taxation requirements (corporate and personal)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "meet requirements for research grant reporting (where applicable) and audit reviews.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Where original documentation (e.g. a receipt or tax invoice) is not available, and all reasonable efforts to obtain it have been exhausted; Corporate Card Management Procedure - for amounts exceeding $82.50 (GST inclusive), a statutory declaration is required. Corporate Card Management Procedure - for amounts less than $82.50 (GST inclusive), a clear description of the expense must be provided and acknowledged by the Authorising Officer. Reimbursement claims require a clear description of the expense, proof of payment or a statutory declaration.",
+              "subclauses": [
+                "Corporate Card Management Procedure - for amounts exceeding $82.50 (GST inclusive), a statutory declaration is required.",
+                "Corporate Card Management Procedure - for amounts less than $82.50 (GST inclusive), a clear description of the expense must be provided and acknowledged by the Authorising Officer.",
+                "Reimbursement claims require a clear description of the expense, proof of payment or a statutory declaration."
+              ]
+            },
+            {
+              "clause_number": "5",
+              "text": "(7) Images of documentation including receipts and tax invoices can be uploaded into the expense management system (Workday). Credit card receipts alone are not acceptable as tax invoices and won’t be accepted without a supporting tax invoice (with the exception of taxi charges where an invoice may not be issued).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(8) For RMIT employees, after all approvals and payments have been finalised in the expense management system, RMIT does not require the retention of the original documentation (excluding RMIT Vietnam employees given supporting documents are required for local tax compliance).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(9) For consultants and contractors, a detailed list of expenses with supporting documentation is required prior to claiming.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) The Central Finance Operations team is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the development and maintenance of this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring the policy is available to all employees, contractors and others incurring expenses on behalf of RMIT, expense approvers and accounts payable staff",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reporting non-compliance with this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(11) People managers are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring that their employees understand the requirements of this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "exercising discretion and judgement in determining whether to approve an expense or not",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring any deviations from the policy have the appropriate authority noted",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "monitoring employee adherence to this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "reporting non-compliance with this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(12) Employees, contractors and others incurring expenses on behalf of RMIT are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring that all business expenses are incurred in accordance with this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "acquitting expenses in compliance with this policy. This includes acquitting all expenses incurred in relation to travel costs incurred (see also the RMIT’s Travel Policy and associated documentation)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "maintaining relevant documentation in relation to RMIT business expenses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "ensuring expenses are appropriately approved.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) This policy will be reviewed at least every three years or more frequently if necessary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) This policy includes the following schedules:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Business Expenses Policy Schedule 1 – Allowable Expenses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Business Expenses Policy Schedule 2 – Non-Allowable Expenses",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

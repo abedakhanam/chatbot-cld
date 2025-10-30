@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "title": "Compliance Breach Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=50",
+    "scraped_date": "2025-10-31 01:24:33"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Policy Governance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) RMIT policies and procedures governing a specific type of breach or critical incident response may take precedence over this procedure. However, the requirements for reporting and recording (clauses 14-19) apply to all types of breaches.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Identifying and Responding to Compliance Breaches",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) All RMIT staff who identify or suspect a breach must report it to their manager or supervisor as soon as practicable. All evidence relating to the breach must be retained and secured for the Legislative Owner to consider in the assessment of the breach.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Managers must report the identified or suspected breach to the relevant Legislative Owner or Legislative Specialist, as listed in the Legislative Obligations Register, and the Head of Compliance, Privacy and Contract Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) If staff are unable to discuss a breach with their manager or supervisor, they must report the breach directly to the relevant Legislative Owner or Legislative Specialist, and/or the Head of Compliance, Privacy and Contract Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(10) Staff who wish to make a confidential or anonymous disclosure about an identified or suspected compliance breach should make the disclosure directly to Central Compliance (compliance@rmit.edu.au), unless there is a corruption or fraud concern (see clause 27).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(11) Staff who are aware of a breach and fail to report it may be subject to disciplinary action in accordance with the Code of Conduct and relevant RMIT policies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(12) Where reasonable and practicable, immediate action must be taken to contain the breach. This may include stopping unauthorised practices, recovering any records, implementing safety measures, etc. In certain cases, action may be required before the matter can be reported.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(13) Where incidents or breaches relate to high risk regulatory activities, the Compliance Escalation Guide must be followed.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Assessing and Remediating Compliance Breaches",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) Legislative Owners are responsible for assessment of compliance breaches. The Legislative Owner assesses the nature, scale and impact of breaches with reference to risk management protocols and determines the appropriate course of action. Where there is a concern about a conflict of interest, the Legislative Owner may seek advice from the Head of Compliance, Privacy and Contract Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) The assessment identifies root causes and determines whether the breach is an isolated or systemic issue. It identifies corrective or preventative actions to mitigate or eliminate the impact of the breach and likelihood of recurrence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(16) Breaches that may give rise to a risk of harm to individuals must be evaluated to determine likelihood and severity. This informs corrective action and determines if an external agency needs to be notified.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(17) Corrective or preventative action plans for breaches of privacy and personal data security must be endorsed by the Privacy Office and Office of the Chief Information Security Officer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) The implementation of corrective or preventative actions is approved and monitored by the Legislative Owner. Regular updates on implementation of the action plan must also be provided to the Central Compliance Team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(19) Staff who may have access to confidential or personal information during breach management must comply with the Privacy Policy and the Information Governance Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Recording and Reporting Compliance Breaches",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Suspected or actual breaches must be reported to the Central Compliance Team by Legislative Owners as soon as practicable, with timelines for assessment of the breach to ensure that any independent investigation, as necessary or required, commences in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Breaches relating to high risk regulatory activities must also be reported to the compliance management contact identified in the Compliance Escalation Guide.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) Material breaches relating to high-risk regulatory activities must be reported to the relevant governance body – Academic Board, Audit and Risk Management Committee or Council.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) The Legislative Owner must report compliance obligation breaches to the relevant government department or external regulatory agency within the legislated timeframe, when mandatory. Before any disclosure is made, approval must be obtained from the University Secretary and Academic Registrar and advice sought from them on the reporting process.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(24) The University Secretary and Academic Registrar reports on identified compliance breaches to the Audit and Risk Management Committee no less than twice per year in accordance with the approved schedule.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(25) The Central Compliance Team retains a record of breaches and outcomes in the RMIT Compliance Breach Register.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Public Interest Disclosure",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(26) Breaches caused by suspected or confirmed corruption must follow the Fraud and Corruption Control Policy and Whistleblower Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(27) Refer to the following documents which are established in accordance with this procedure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Compliance Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Compliance Escalation Guide.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

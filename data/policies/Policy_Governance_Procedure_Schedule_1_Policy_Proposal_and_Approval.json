@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Policy Governance Procedure Schedule 1 - Policy Proposal and Approval",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=250",
+    "scraped_date": "2025-10-31 01:24:37"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Policy categories",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) Policy documents are categorised as either Governance and Compliance, Operational or Academic, depending on their content. Where there is ambiguity about the category for a particular policy, the University Policy Manager determines the appropriate category.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(2) In exceptional circumstances, a policy may need to change its category in response to a significant change in scope and content. The policy owner must seek approval for the change from the approval authority of the new category, after obtaining endorsement from the existing approval authority.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Approval authorities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(3) The following tables outline the appropriate approval authority for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "commencing the development of new policies or procedures (table 1)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "checking on the direction of new and revised policy suites midway through the process (table 1)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "approving new or fully revised policy documents(table 2)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "approving minor or administrative amendments to policy documents (table 3).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(4) There is only one approval authority for each policy category. However:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Operational policies that have an impact on academic staff or on the delivery of research and education, need to be endorsed by Academic Board prior to being submitted to the University Executive Committee for approval",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Academic policies that have an operational impact must be endorsed by the University Executive Committee prior to being submitted to Academic Board for approval",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Academic policies must be sent to all Academic Board sub-committees for either endorsement or noting, depending on the content (refer to the Policy Hub for guidance).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(5) Policy owners must notify the University Policy Manager when they exercise their delegated authority to approve new procedures, standards, instructions or guidelines. The University Policy Manager reports such approvals in the biannual policy reports to Academic Board and the Audit and Risk Management Committee .",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

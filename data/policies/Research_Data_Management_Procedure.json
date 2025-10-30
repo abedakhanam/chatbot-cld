@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "title": "Research Data Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=86",
+    "scraped_date": "2025-10-31 01:23:47"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Responsible Data Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Responsible research data and primary materials management must uphold RMIT Values and principles of the Code including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Principle 2, ‘Rigour in the development, undertaking and reporting of research’, which requires that research be characterised by attention to detail and robust methodology and that researchers avoid or acknowledge biases.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Principle 3, ‘Transparency in declaring interests and reporting research methodology, data and findings’, which requires researchers where possible and appropriate, to share and communicate research methodology, data and findings openly, responsibly and accurately.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Principle 6, ‘Recognition of the right of Aboriginal and Torres Strait Islander peoples to be engaged in research that affects or is of particular interest to them’, which specifies that researchers report to Aboriginal and Torres Strait Islander peoples the outcomes of research in which they have engaged.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Principle 7, ‘Accountability for the development, undertaking and reporting of research’ so as to comply with relevant legislation, policies and guidelines and ensure good stewardship of public resources used to conduct research.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Integrity and Reproducibility",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) Researchers will retain clear, accurate and complete records of all research including research data and primary materials. Researchers will make records at a sufficient standard to allow verification and/or reproduction of research by others.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) Researchers will complete, maintain and adhere to a data management plan that is suitable for their research and/or research project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) Researchers will report any potential breach of the Code or of security or confidentiality to the relevant person/s at RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) Supervisors and supervisory teams are jointly responsible with their students and HDR candidates for the responsible collection, storage, sharing, security and use of research data and primary materials.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Research Data and Primary Materials",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Researchers will collect research data and primary materials in accordance with principles and responsibilities of the Code, legal, statutory, and ethical requirements, discipline best practice and institutional Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) The University will provide facilities for the safe and secure storage of research data, primary materials and records.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(12) Researchers will record, through a data management plan, where research data, primary materials and records for their research are stored.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(13) Researchers will store research data, primary materials and records in the safe and secure facilities provided by the University and/or other trusted storage facilities, platforms and services in accordance with the Code and any contractual agreements that may apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(14) Research data, primary materials and records collected off-campus will, as soon as practicable, be transferred to safe and secure storage facilities provided by the University unless contractual agreements state otherwise.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(15) By default, the University is considered to be the owner of research data and primary materials, but the ownership of research data, primary materials and records may be influenced by funding and other research agreements, commercial potential, contractual obligations, collaboration, academic norms and other factors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(16) The ownership of research data and primary materials will be recorded in the Data Management Plan before the commencement of a research project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(17) Ownership of intellectual property is governed by RMIT’s Intellectual Property Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(18) Where possible and appropriate, researchers and/or the University will allow access and reference to research data and primary materials by others, while safeguarding the privacy of participants, protecting confidential data and intellectual property, protecting sensitive data, and honouring any contractual arrangements including funding body and publisher requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(19) The University may access research data and primary materials in accordance with the Code, confidentiality requirements, legislation, privacy rules and other guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(20) The University may give third parties access to research data and primary materials as required by law or regulatory authorities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(21) Researchers are encouraged to share research data and findings in a manner as open as possible and appropriate. This can include sharing research data using trusted open access platforms, services and journals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(22) Researchers will recognise and respect Indigenous Data Sovereignty while addressing and adhering to the requirements of this procedure. Indigenous Data Sovereignty is defined as the right of Indigenous peoples to govern the collection, ownership and application of data about Indigenous communities, peoples, lands, and resources.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(23) Research with Aboriginal and Torres Strait Islander Peoples or involving Aboriginal and Torres Strait Islander Peoples’ collections will comply with the AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(24) Confidential information will only be used in ways agreed with the persons providing it and managed in accordance with RMIT policy, contractual and other legal obligations, as well as any related ethical approvals for the research project or activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(25) Research data will be retained for at least the minimum period specified in RMIT policy unless contractual agreements or an exemption state otherwise. The retention period may be longer to allow reference by other researchers, and to accommodate regulatory and sponsor requirements and archival and historical value.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(26) Where practical, primary materials will be retained for a minimum of seven years after completion of the project or publication (whichever is later) unless contractual agreements state otherwise.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(27) Where it is not practical to retain primary materials, durable records derived from them (such as assays, test results, transcripts, and laboratory and field notes) must be retained and accessible for the period outlined in the RMIT Retention and Disposal Authority.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(28) Secure and safe disposal of research data and primary materials may only occur after the minimum specified retention period has expired and the relevant person/s at RMIT have been consulted.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(29) Disposal of research data and primary materials will be in accordance with RMIT policy, see the Retention and Disposal Standard and related Destruction of Information Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(30) If the results from research are challenged, all relevant data and materials will be retained until the matter is resolved. Research data and primary materials that may be relevant to allegations of a breach of research integrity will not be destroyed.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "Currency of Learning Guideline",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=130",
+    "scraped_date": "2025-10-31 01:21:44"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Currency of Learning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) To ensure currency of learning in external learning is used as the basis of an application for credit towards an RMIT course, any previous learning must have been successfully completed within the last 10 years before the student’s commencement of the RMIT program (unless clause (8) applies).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) Where an applicant is seeking credit based on an entire qualification, the qualification must have been completed within the past 10 years before the student’s commencement of the RMIT program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) The conferral date of a qualification is not used to identify currency of learning: rather, credit assessors refer to the student’s transcript of results showing the years in which courses were completed. This does not apply to masters advanced standing: see Credit Procedure: Masters Advanced Standing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) Where the original learning was completed earlier than the recency limit for credit, and there is evidence of ongoing professional work and/or professional development in the discipline of the award, the student may still receive credit.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Internal Credit Older Than 10 Years",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) The requirement for previous study to have been completed within the past 10 years does not apply to previous study in:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the same or a closely related RMIT program, such as a graduate diploma that is an exit award from a masters program, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a previous version of the same program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) Currency of learning also applies to study undertaken in unrelated RMIT programs. It does not apply to previous study that is considered to be study in the same program, where credit is used as an administrative means of transferring the student’s previous enrolment to a closely-related program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(10) Programs may set limits on the amount of credit for previous study completed long ago in the same or a closely related program, to ensure that the student will have met the current learning outcomes of the current award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where a school/industry cluster/college wishes to apply internal credit that is older than 10 years they may do so with the approval of the Deputy Dean (or equivalent).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(11) Where a student applies for entry to a closely related program or for re-entry to a past or linked program and the school/industry cluster/college wishes to deny credit for previous RMIT study completed more than 10 years before, this must be stated in writing to the student either:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "at the point of admission, if the student declares their previous RMIT study at admission, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "at the point when the student applies for credit, if they did not declare their previous study at RMIT at admission but reveal it when they apply for credit later.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(12) Where selection is performed by a central unit on behalf of the school/industry cluster/college, the admissions team must consult the program about what to do if an applicant has previous study in a similar RMIT program completed more than 10 years before.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Academic Colleges Regulations",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=188",
+    "scraped_date": "2025-10-31 01:26:56"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - PRELIMINARY",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) The purpose of these Regulations is to make provision for the establishment of Colleges.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(2) These Regulations are made under the RMIT Statute No. 1 and sections 28, 29 and 30 of the Royal Melbourne Institute of Technology Act 2010.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part B - ACADEMIC COLLEGES",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(3) Subject to University legislation, each college:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "carries out such teaching, research, training, examinations and other higher education and vocational educational and training activities as the Academic Board approves, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "regulates its own administrative and academic affairs in accordance with the relevant policies and procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(4) Each college has the following members:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "all staff of the college howsoever employed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "all students enrolled in the college, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "such other persons as may be prescribed by the Regulations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part C - REVOCATION OF REGULATIONS",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) On the commencement of these Regulations the following Regulations are revoked:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Regulation 2.9.1 The Portfolio Boards.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

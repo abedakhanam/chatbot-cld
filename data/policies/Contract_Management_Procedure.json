@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "title": "Contract Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=107",
+    "scraped_date": "2025-10-31 01:25:32"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Application",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) This procedure applies across the RMIT Group, including controlled entities, unless otherwise stated. All international RMIT Group entities must also comply with any applicable country-specific requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) This procedure applies to all agreements or contracts RMIT makes with an external party or person, except for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Employment contracts, agreements or deeds within the scope of the People team",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Work Integrated Learning (WIL) Agreements, which are covered by the Program and Course Work Integrated Learning Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "terms and conditions between RMIT Group entities and individual students, including where RMIT enrols a student in either accredited or non-accredited courses, which are covered by academic, enrolment and student related policies (e.g. refund policies). This procedure does apply to contracts which relate to the provision of education, such as partner agreements, or third-party delivery agreements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(6) Contracts and contracting activities which are covered by this procedure include all other contracts that create legally binding obligations, including financial, non-financial, lease agreements, dispute settlements and agreements between RMIT Group entities.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Terminology",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) For the purpose of this procedure, the term “Contract Manager” is a generic term to describe a role which has a set of functions and responsibilities, and not a specific departmental position or job title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Contracting activities must comply with all applicable laws and regulations and other RMIT policies and procedures to be consistent with the objects of RMIT under the Royal Melbourne Institute of Technology Act 2010 (Vic).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) The following phases of the contracting process must be followed and support RMIT strategy:",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 1: Identification and Planning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) The identification and planning process commences when an RMIT team identifies that there is:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a need to engage someone external to RMIT to supply services or products to RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an opportunity to supply services or products to an entity outside of RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "a need to document or commit to an arrangement formally",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "a third-party proposal for a contractual relationship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(11) A Contract Owner who is accountable for the contract must be appointed for each contract. A Contract Owner may appoint a Contract Manager to support in the management or administration of the contract. Even if a Contract Owner delegates certain tasks to the Contract Manager, the Contract Owner remains accountable for the outcomes of the contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(12) The Contract Owner must comply with the Procurement and Expenditure Policy including the engagement of Procurement for all third-party expenditure contracts within the scope of that policy that meet or exceed Strategic Sourcing thresholds per Procurement Schedule 1 – Purchasing Threshold (Australia and Vietnam).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(13) The Contract Owner must undertake due diligence to ensure other parties to the contract are appropriate for RMIT to engage with. Due diligence helps inform planning for proposed contracts by assessing the background and suitability of other contracting parties including their organisational capabilities, financial strength, and reputational standing. The extent to which due diligence is undertaken will depend on the nature and value of the proposed contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(14) Input and advice should be sought from the relevant specialist teams during the planning phase, including for due diligence. The specialist teams may be Procurement, Central Finance, Enterprise Risk Management, Information Technology Services,Legal Services Group, Research Strategy and Services, Health, Safety and Wellbeing, Sustainability and Central Compliance.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 2: Review and drafting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) Contract documents can either be:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "provided by the other party, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provided by the RMIT Legal Services Group (RMIT Terms) to the Contract Owner or relevant appointed teams. RMIT’s standard terms include our Purchase Order Terms and Conditions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(16) All contracts that RMIT enters into must either be on RMIT Terms or reviewed by RMIT Legal Services Group, unless otherwise advised by Legal Services Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(17) Contracts must be reviewed by Legal Services if they meet any of the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Strategic Sourcing contracts as defined in the Procurement Schedule 1 – Purchasing Threshold (Australia and Vietnam)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "contracts which are on third party terms",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "contracts which are on RMIT Terms, but where the other side seeks amendments to the terms, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "where approval or signature is required by a person with delegation level 1 or higher in accordance with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(18) Contracts that do not require review by Legal Services include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Non-Disclosure Agreements which are on RMIT Terms, with no amendments to the legal terms",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Memorandum of Understanding which are expressly stated to not contain legal obligations, which are non-binding, and are on RMIT Terms",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "contracts where Legal Services has advised in writing that legal review is not required either for a specific contract, or a defined category of contracts, within specific parameters. For example, the Research Contracts Team must follow the RCT Legal Referral Checklist when assessing whether review by the Legal Services Group is required for a research contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(19) In Vietnam, the RMIT Vietnam Legal and Compliance team set the criteria for non-research related contracting activities that require advice and legal support. For research contracts, the Research Contracts Team must be engaged.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "for research contracts, RMIT EU must contact the Research Contracts Team, who will brief the Legal Services Group if needed",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "for all other contracts (including non-research contracts), RMIT Europe should seek local legal advice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(21) For contracts involving the Strategic Sourcing team in Procurement, generally the Procurement team negotiates the commercial aspects of the proposal or tender, and the Legal Services Group at RMIT Australia or Legal and Compliance team at RMIT Vietnam negotiates the contractual documents in consultation with Procurement and other internal stakeholders, including the Contract Owner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(22) Where RMIT is required to comply with Key Performance Indicators (KPIs) or Service Level Agreements (SLAs), the Contract Owner must ensure that their delivery under the contract is structured and resourced to meet or exceed those metrics. RMIT must not enter contracts which contain KPIs, SLAs, milestones, and deliverables which it is at risk of not meeting.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 3: Approvals and confirmation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) The Delegations of Authority Policy stipulates the roles which can authorise contracting activities. Due to the nature of a contract, including its value, risks, and subject matter, several other RMIT staff members may be required to approve a contract before it receives the final signature of approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Before communicating to the other party that a set of terms or conditions are acceptable to RMIT, the Contract Owner must obtain the approval in writing of relevant internal stakeholders and subject matter experts (as per the Delegations of Authority Policy). The Legal Services Group can direct the Contract Owner on the specific approvals required for a contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(25) Contract Owners must ensure they have approval from the Central Finance team or the relevant College or Portfolio if the contract will require additional funding or changes to a budget, managing tax compliance (local and international as relevant), foreign exchange or currency risk, payment terms, or other financial structuring issues.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(26) Before entering into certain types of contracts, RMIT may be required by law to review and assess the contracts and notify relevant authorities of RMIT’s intent to enter that contract. Instances of this include notifications to the Department of Foreign Affairs and Trade by the RMIT Foreign Relations Management team, and Notifications to the Tertiary Education Quality and Standards Agency by the RMIT Education Regulation Compliance and Assurance (ERCA) Team.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 4: Signature and execution",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(27) Prior to the commencement of a contract, the Contract Owner must ensure that the Contract Signatory has approved and signed the contract in accordance with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(28) The Contract Signatory must be satisfied with the advice, guidance, and approvals in relation to the contract before signing it on behalf of RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(29) The following contracts must be signed via the Central Contracts team:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "contracts which are required by the Delegations of Authority Policy to be signed by a person in a role with level 1 or higher delegation of authority (or their subdelegate)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "or as otherwise advised by Legal Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(30) The Legal and Compliance team in RMIT Vietnam, and local European law firms for RMIT Europe, advise on separate processes that govern contracting in their respective jurisdictions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 5: Recording",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) The final signed copies of all contracts must be uploaded in TRIM, RMIT’s Record Management System, and document repository for contracts as per Information Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where a contract has been signed via the Legal Services Group, a member of the Central Contracts team will upload it into TRIM.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Where a contract is signed in any way other than via the Legal Services Group the Contract Owner is responsible for ensuring it is uploaded into TRIM.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(32) For financial non-research contracts, the Contract Owner must ensure that a contract is uploaded and recorded in Workday by completing the relevant Finance Service Connect form and accurately reflecting the key features of the contract so that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "purchase order can be raised, and invoices paid against an expense contract;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "invoices can be raised and sent to customers for revenue contracts",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(33) For financial research contracts relating to research projects, the contract data can be uploaded to Workday by Central Finance via the Awards Management team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(34) The Contract Owner must ensure other key information is recorded and managed in systems which are relevant to their College or Portfolio (e.g. Salesforce, Research Master or TRIM) including, but not limited to, milestone dates, name and contract details of the other party, RMIT’s key personnel, and any related contracts in line with Data Quality Standard.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 6: Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(35) The Contract Owner is accountable for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "monitoring and managing performance for both RMIT and the other parties to the contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensuring RMIT and the third parties comply with the contract, including monitoring and reporting on performance metrics, meeting key milestones, and the achievement of payment, service, and delivery obligations under the contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring maintenance of records about the contract delivery and performance, or any other significant events or circumstances regarding the contract, such as notifications from the other party, invoices and purchase orders created or received, and payments made or received",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "ensuring identification, recording and management of risks identified during performance of the contract in compliance with RMIT’s Risk Management Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "managing the relationship with the other party, including ensuring appropriate communication mechanisms and expectations are established, and, if appropriate, an escalation process to respond to or manage issues under the contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "ensuring other contract stakeholders in RMIT are informed about relevant activities or issues under the contract, including any non-compliance or breaches",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "ensuring handover and transition of duties related to the contract in instances where the Contract Owner or Contract Manager departs RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(36) The Contract Owner or appointed teams must engage the Legal Services Group (or, for research contracts, the Research Contracts Team) if they require advice on:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the interpretation of the contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "actual or potential breaches of the contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "changes or amendments which either RMIT or the other party want to make to the contract",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "any disputes or disagreements with the other party which could have a material impact on the delivery or performance of the contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(37) It is important that the parties do not unintentionally change the terms of a contract through their conduct or behaviour, or by letting it be delivered or performed differently to how it was agreed, if doing so has a negative or serious impact on one of the parties.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 7: Variation or extension",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(38) Changes to the terms of a contract can only come into effect through a formally documented variation or amendment. Negotiating, agreeing, and signing a variation should be done in the same way as a contract, or via an appointed team in line with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(39) Where a change to a contract alters the recorded data about that contract, the Contract Owner must ensure that the change is also reflected in all relevant contract record systems (e.g. Workday and Salesforce) and TRIM in line with Data Quality Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(40) Before a contract is varied or extended, Contract Owners are responsible for ensuring that contract spends are kept within the set spend limits of any associated head agreement and the spend limits of the Contract Signatory per the Delegations of Authority Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Phase 8: Expiry or termination",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(41) The Contract Owner is accountable for ensuring that when a contract is approaching its expiry, a decision is made about whether the contract should be allowed to expire, be amended, or extended.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(42) If RMIT seeks to end or terminate a contract before its stated expiry date, the Contract Owner must engage Legal Services to seek advice, and ensure that this change is reflected in all relevant contract record systems and TRIM.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(43) When a contract expires or is otherwise ended, the Contract Owner must manage the operational implications and relevant risks and consequences for RMIT by ensuring that the appropriate transition or exit arrangements are planned and complied with.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(44) For the close-out of a contract, the Contract Owner must consider:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "completing handover activities and managing any remediation issues",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "managing the return of physical property or equipment, or security or access passes or tokens, closing or deactivating access accounts",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring intellectual property rights are managed in accordance with the agreed contract terms",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "finalising outstanding financial payment obligations, invoices or acquittals, or other management of securities such as bank guarantees and items held in escrow",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "reporting or meeting other compliance obligations, such as updating external or internal registers or notifying regulators or other relevant authorities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "effecting or confirming the return or destruction of contract materials, such as confidential information with the other party",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "any other steps necessary in relation to RMIT’s obligations or rights following the end of the contract.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

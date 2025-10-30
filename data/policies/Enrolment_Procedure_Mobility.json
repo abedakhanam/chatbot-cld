@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "title": "Enrolment Procedure - Mobility",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=114",
+    "scraped_date": "2025-10-31 01:25:58"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Cross-Institutional Study",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) A higher education student enrolled in an RMIT University program may apply to study single courses (units) at another Australian institution and have their studies credited towards their RMIT University degree, subject to the following conditions:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the student must obtain written approval to undertake a non-standard enrolment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the student is responsible for ensuring course entry requirements are met.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(5) A student approved for cross-institutional study at another Australian tertiary institution must maintain continuity of enrolment at RMIT University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(6) If a student is undertaking all courses at the host institute for a given semester, they must apply for a leave of absence for the RMIT award program by the enrolment deadline.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(7) Any unapproved courses (units) undertaken at the host institute will not be considered as credit toward the student’s RMIT award program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(8) Onshore international students on a student visa are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "not eligible to study Open Universities Australia (OUA) courses as they are not CRICOS registered",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "responsible for maintaining and meeting their visa requirements in any given semester.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(9) A student enrolled in a degree program at another Australian university or recognised higher education provider may apply to study single courses at RMIT on a cross-institutional inbound basis.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Exchange and Study Abroad",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) A student enrolled in an RMIT University program may apply for permission to study full-time at an institution in another country as either:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an exchange student (where RMIT University has a formal exchange agreement with that institution)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a study abroad student (where no exchange agreement exists).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(11) RMIT University students must comply with all RMIT enrolment procedures and deadlines while overseas, including census dates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) A student enrolled in an award program at an institution in another country may apply to enrol in courses offered by RMIT University as either:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an exchange student (where RMIT University had a formal exchange agreement with the other institution)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a study abroad student (where no exchange agreement exists).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Cross-Campus and Inter-Location",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) A student enrolled in an RMIT program offered in one country may apply to undertake one or two semesters of study at an RMIT campus or RMIT partner’s location in another country.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) Students at locations outside Australia may only apply to study in the program offering in Australia if the program is CRICOS registered.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(15) Where the mobility arrangement is approved, students will receive grades from courses they have completed in their semesters in the program at the other location, for equivalent courses in the offering of the program at their original location.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Cross-Study Mode",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) Students enrolled in an RMIT award program with face-to-face delivery may apply to enrol in approved online courses offered by RMIT Online and vice-versa.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) Cross-study mode enrolment is permitted on a short-term basis (one or two semesters) and not a full transfer of program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(18) Only approved courses undertaken in study will be credited towards an RMIT award.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(19) Onshore international students on a student visa are not eligible to study in online study mode via RMIT Online.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Processes for Global Mobility",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) RMIT publishes student information to support global mobility on the RMIT website, on the authority of the Executive Director, Students.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

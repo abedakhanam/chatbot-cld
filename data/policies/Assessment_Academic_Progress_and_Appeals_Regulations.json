@@ -1,0 +1,674 @@
+{
+  "metadata": {
+    "title": "Assessment, Academic Progress and Appeals Regulations",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=190",
+    "scraped_date": "2025-10-31 01:27:24"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - PRELIMINARY",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) The purpose of these Regulations is to :",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "make provision for assessment and appeals relating to academic and student affairs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provide for monitoring and management of students’ academic progress",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "establish College Appeals Committees, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "establish the University Appeals Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(2) These Regulations are made under the RMIT Statute No. 1 and sections 28, 29 and 30 of the Royal Melbourne Institute of Technology Act 2010.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part B - ASSESSMENT AND ACADEMIC PROGRESS",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(3) Every course includes assessment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(4) The assessment is in such written, oral, electronic or practical form or forms as the relevant college or the School of Graduate Research prescribes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(5) For each course the college or the School of Graduate Research makes available to students, course guides that provide information on assessment as prescribed in the relevant policies and procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(6) Where a student provides evidence that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "they were, or will be, prevented from attending or completing any form of assessment by the prescribed time, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "their performance in any form of assessment has been severely affected by illness or other cause,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(7) Each school establishes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "course assessment committees, which are responsible for monitoring and managing the assessment and results outcomes for individual courses managed by the school, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "program assessment boards, which are responsible for monitoring and managing coursework student academic performance at the program level, including making recommendations to the dean/head of school for the exclusion of students who have had sustained unsatisfactory academic progress.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(8) A student may appeal against a decision made:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "under clause (7)a. to the relevant College Appeals Committee in accordance with Part C of these Regulations, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "under clause (6) or (7)b. to the University Appeals Committee in accordance with Part D of these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(9) The research component of higher degree by research programs is assessed via external, independent examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(10) The research component is in such written, oral or practical form or forms as the School of Graduate Research prescribes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(11) Where, due to compassionate or compelling circumstances, a student provides evidence that they will be prevented from attending or completing any presentation relating to their research examination, the student may apply in writing to the Higher Degree by Research Coordinator in their school for a postponement of the presentation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(12) Each school establishes research candidature milestone review panels which are responsible for monitoring and managing the research thesis/project progress of the student towards their timely completion of the degree.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(13) The progress of research students is also formally monitored and documented at the regular meetings students have with their supervisors.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(14) Each college establishes research candidate progress committees that will be responsible for monitoring and managing student performance in the program, including deciding whether a student’s candidature should be terminated where the student is classified as having established unacceptable academic progress.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(15) A student may appeal against a decision made:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "under clause (12) to the RMIT Research Committee in accordance with the relevant policies and procedures, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "under clause (14) to the University Appeals Committee in accordance with Part D of these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(16) The Academic Board determines a schedule of grades.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part C - COLLEGE APPEALS COMMITTEE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) In each college there is a College Appeals Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) Membership of the College Appeals Committee comprises:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the Deputy Vice-Chancellor and Vice-President (or nominee) of the college",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "one member appointed by the College Board from the academic staff, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "one member who is an enrolled student nominated by the relevant recognised RMIT student organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(19) The chair of the College Appeals Committee is the Deputy Vice-Chancellor (or nominee) of the college.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(20) The secretary is the College senior administrative/academic officer (or nominee) and is non-voting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(21) Wherever possible membership of the College Appeals Committee will represent gender equality.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(22) A person will not be appointed a member of the College Appeals Committee or be permitted to carry out the responsibilities of clause (25):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "who has had any involvement in the matter forming the subject of the appeal, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where, for any other reason it would be inappropriate for the person to be a member to hear the appeal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(23) A quorum of the College Appeals Committee is the chair and one (1) voting member.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(24) Subject to satisfying any eligibility criteria described in the relevant policies or procedures, a student may appeal to the relevant Deputy Vice-Chancellor to request a hearing of the College Appeals Committee against:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the student’s final result in any course delivered by the college, and/or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the outcome of an application for credit.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(25) The Deputy Vice-Chancellor (or nominee) will decide whether the application satisfies the grounds of appeal as defined in the relevant policies or procedures to determine whether the appeal can proceed to a hearing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(26) Where eligibility criteria are deemed:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "to have been met, the Deputy Vice-Chancellor (or nominee) will approve the request and arrange for a hearing of the College Appeals Committee,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "not to have been met, the Deputy Vice-Chancellor (or nominee) will deny the request and advise the student accordingly, including the reasons for the determination. This communication must be sent within twenty (20) working days from the date the appeal submission was deemed by the college to be complete and will also advise the student of their right to seek a further internal or external review of the decision, as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(27) Any appeal under clause (24) will be made by lodging a notice of appeal in the prescribed form with the relevant Deputy Vice-Chancellor not later than the timeframe set within the relevant policies or procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(28) Where a hearing of the College Appeals Committee has been granted, the College Appeals Committee will, other than in exceptional circumstances, hear the appeal within twenty (20) working days from the date the appeal submission was deemed by the college to be complete.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(29) The student will be given notice in writing not less than five (5) working days before the date of the hearing, stating:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the date, time and place of the hearing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "that the student has the right to: be heard make a written submission be accompanied by any other person be represented by another person be present throughout the hearing call any persons as witnesses engage an interpreter, provided that if the student intends to be represented by another person or to call other persons as witnesses the student will notify the secretary of the College Appeals Committee in writing of the names of such persons no less than one (1) working day before the date of the hearing,",
+              "subclauses": [
+                "make a written submission",
+                "be accompanied by any other person",
+                "be represented by another person",
+                "be present throughout the hearing",
+                "call any persons as witnesses",
+                "engage an interpreter, provided that if the student intends to be represented by another person or to call other persons as witnesses the student will notify the secretary of the College Appeals Committee in writing of the names of such persons no less than one (1) working day before the date of the hearing,"
+              ]
+            },
+            {
+              "clause_number": "3",
+              "text": "no party will be permitted to have legal representation at the appeals hearing, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the student will not be present when the College Appeals Committee is considering its decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(30) The relevant dean/head of school (or nominee) will be given notice in writing not less than five (5) working days before the date of the hearing, stating:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the date, time and place of the hearing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the substance of the student’s appeal and the grounds for the appeal",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "that they have the right to: be heard make a written submission be present throughout the hearing call any persons as witnesses, and",
+              "subclauses": [
+                "make a written submission",
+                "be present throughout the hearing",
+                "call any persons as witnesses, and"
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "that they will not be present when the College Appeals Committee is considering its decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(31) Notwithstanding clauses (29)b.i. and (30)c.i. where the student does not appear at the hearing and has not submitted any reasonable cause for their absence or the relevant dean/head of school is not represented at the hearing, the hearing may proceed and the decision of the College Appeals Committee will not thereby be invalidated.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(32) The College Appeals Committee will hear the appeal and after giving the student and such other persons as it considers appropriate an opportunity to be heard will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "dismiss the appeal, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "make such other decision as it considers appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "36",
+              "text": "(33) Within five (5) working days of the hearing of appeal the secretary of the College Appeals Committee will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "in writing, notify the student, the relevant Dean/Head of School and other areas as considered appropriate, of the decision of the College Appeals Committee, including the reason for the decision, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where the decision has been other than to uphold the appeal, inform the student of their right to seek a further internal, or external review of the decision, as appropriate.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part D - UNIVERSITY APPEALS COMMITTEE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(34) There is a University Appeals Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(35) Membership of the University Appeals Committee comprises:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the chair of the Academic Board (or nominee)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "one (1) member appointed by the Academic Board from the academic staff, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "one (1) member who is an enrolled student nominated by the relevant recognised RMIT student organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(36) The chair of the University Appeals Committee is the chair of the Academic Board (or nominee).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(37) The secretary will be the University Secretary and Academic Registrar (or nominee) and is non-voting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(38) Wherever possible membership of the University Appeals Committee will represent gender equality.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(39) A person will not be appointed a member of the University Appeals Committee or be permitted to carry out the responsibilities of clause (43):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "who has had any involvement in the matter forming the subject of the appeal, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where for any other reason it would be inappropriate for the person to be a member to hear the appeal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(40) All members as identified under clause (35) must be formally invited to the appeal hearing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(41) A quorum of the University Appeals Committee is the chair and one (1) voting member.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(42) Subject to satisfying any eligibility criteria described in the relevant policies or procedures, a student may appeal to the University Secretary and Academic Registrar (or nominee) to request a hearing of the University Appeals Committee regarding:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "an outcome of a College Appeals Committee application where it can be established that a breach of University legislation, policy or procedure by the college has occurred that has had a significant impact on the outcome of the application",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a decision to exclude the student or terminate their higher degree by research candidature for unsatisfactory academic progress",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the outcome of an application for special consideration",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the outcome of an application for a future assessment adjustment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the outcome of an application for an equitable assessment arrangement, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the outcome of a thesis/project examination for a student in a research program where there is evidence of a breach of University legislation, policy or procedure that has had a significant impact on the outcome of the examination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(43) The University Secretary and Academic Registrar (or nominee) will decide whether the application satisfies the grounds for appeal defined in the relevant policies or procedures to determine whether the appeal can proceed to hearing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(44) Where eligibility criteria are deemed:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "to have been met, the University Secretary and Academic Registrar (or nominee) will approve the request and arrange for a hearing of the University Appeals Committees",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "not to have been met, the University Secretary and Academic Registrar (or nominee) will deny the request and advise the student accordingly, including the reasons for the determination. This communication must be sent within twenty (20) working days from the date the appeal submission was deemed by the University Secretary and Academic Registrar (or nominee) to be complete and will also advise the student of their right to seek a further internal or external review of the decision, as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(45) Any appeal under clause (42) will be made by lodging a notice of appeal in the prescribed form with the University Secretary and Academic Registrar (or nominee) not later than the timeframe set within the relevant policies or procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(46) Where a hearing of the University Appeals Committee has been granted, the University Appeals Committee will, other than in exceptional circumstances, hear the appeal within twenty (20) working days from the date the appeal submission was deemed by the University Secretary and Academic Registrar (or nominee) to be complete.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(47) The student will be given notice in writing not less than five (5) working days before the date of the hearing, stating:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the date, time and place of the hearing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "that the student has the right to: be heard make a written submission be accompanied by any other person be represented by another person be present throughout the hearing call any persons as witnesses engage an interpreter, provided that if the student intends to be represented by another person or to call other persons as witnesses the student will notify the University Secretary and Academic Registrar (or nominee) in writing of the names of such persons no less than one (1) working day before the date of the hearing,",
+              "subclauses": [
+                "make a written submission",
+                "be accompanied by any other person",
+                "be represented by another person",
+                "be present throughout the hearing",
+                "call any persons as witnesses",
+                "engage an interpreter, provided that if the student intends to be represented by another person or to call other persons as witnesses the student will notify the University Secretary and Academic Registrar (or nominee) in writing of the names of such persons no less than one (1) working day before the date of the hearing,"
+              ]
+            },
+            {
+              "clause_number": "3",
+              "text": "no party will be permitted to have legal representation at the appeal hearing, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the student will not be present when the University Appeals Committee is considering its decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(48) The original determination authority will be given notice in writing not less than five (5) working days before the date of the hearing, stating:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the date, time and place of the hearing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the substance of the student’s appeal and the grounds for the appeal",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "that they have the right to: be heard make a written submission be present throughout the hearing call any persons as witnesses, and",
+              "subclauses": [
+                "make a written submission",
+                "be present throughout the hearing",
+                "call any persons as witnesses, and"
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "that they will not be present when the University Appeals Committee is considering its decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(49) Notwithstanding clauses (47)b.i. and (48)c.i. where the student does not appear at the hearing and has not submitted any reasonable cause for their absence or the relevant original determination authority is not represented at the hearing, the hearing may proceed and the decision of the University Appeals Committee will not thereby be invalidated.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(50) The University Appeals Committee will hear the appeal and after giving the student and such other persons as it considers appropriate an opportunity to be heard will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "dismiss the appeal, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "make such other decision as it considers appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "41",
+              "text": "(51) Within five (5) working days of hearing the appeal the University Secretary and Academic Registrar (or nominee) will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "in writing, notify the student, the original determination authority and other areas as considered appropriate, of the decision of the University Appeals Committee, including the reason for the decision, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where the decision has been other than to uphold the appeal, inform the student of their right to seek a further internal or external review of the decision, as appropriate.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 1 – Address for Notice",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(52) Any written notice required to be given by the University under these Regulations may be sent via email. In the case of the student, it will be to the student email address as recorded on the official University student database.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(53) Subject to University legislation, a panel, board or committee constituted under these Regulations regulates its own proceedings and in hearing any case is not bound by the rules or practices as to evidence or procedure, but may inform itself in relation to any matter as it considers appropriate.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 2 – Transitional Provisions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(54) In this Division:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "commencement date means the day on which these Regulations come into operation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "old regulations means the Regulations 5.4.1, 5.4.2 and 5.4.4 in force up until the commencement date of these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(55) Any appeal process commenced, on and from the commencement date, is to be dealt with under these Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(56) Any appeal process commenced, prior to the commencement date, is to be dealt with under the old regulations.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Division 3 – Revocation of Regulations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(57) On the commencement of these Regulations the following Regulations are revoked:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Regulation 5.4.1 Assessment and Academic Progress",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Regulation 5.4.2 The College Appeals Committee",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Regulation 5.4.4 The University Appeals Committee.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

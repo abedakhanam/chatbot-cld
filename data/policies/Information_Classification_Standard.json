@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "Information Classification Standard",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=227",
+    "scraped_date": "2025-10-31 01:23:45"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Background",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) According the Information Governance Policy, an individual assumes the role of an Information Custodian when RMIT Information is in their possession.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Information Classification is administrative metadata that enables the secure and effective management of Information across its lifecycle and provides a mechanism for Information Custodians to meet specific responsibilities and accountabilities to protect Information in their custodianship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Information Classification includes Security Classification and Management Classifications.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(10) Information Custodians must follow the Information Classification and Handling Procedure on how to classify and handle Information.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Security Classification",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Security Classification (or security labelling) signifies the confidentiality requirements and enables the appropriate application of security protections and controls for Information. It functions similarly to a Protective Markings Scheme under the Victorian Protective Data Security Framework (VPDSF).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(12) Security Classification is mandatory for all Information and must be applied by an Information Custodian at the point of Information creation or collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(13) Schedule 1 of the Information Governance Policy defines the different levels of Security Classification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(14) The Security Classification of Information must be reclassified if its confidentiality changes, or if the Information is incorrectly classified across the Information lifecycle.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(15) Processes and systems must be designed to enable the effective implementation of Security Classifications including ensuring Information Custodians understand the controls and protections enabled by the Security Classification and its impacts to Information access, use and movement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) Access, movement, and use of Information must be informed by the Security Classification.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Management Classifications",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) Management Classifications are additional classifications which enable the management of Information across its lifecycle. They function similarly to the Information Management Markings (IMMs) under the Victorian Protective Data Security Framework (VPDSF).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) Management Classifications enable the identification of:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Institutional Data, Research Data and Unofficial Information as defined in Section 4 of Data and Information Lifecycle Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Information subject to public records retention requirements outlined in the Retention and Disposal Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Information Domains within the Information Domain Register and accountable trustee(s) for Institutional Data",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Information subject to the Privacy Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Information subject to legal privilege.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(19) Management Classifications enable an accurate and discoverable account of Information assets and may be applied by Information Custodians and administrative governance functions at any of the following levels:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "individual record level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "physical storage location level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "information asset level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "technology asset level",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Information Asset Register level, implemented via the RMIT Information Domain Register.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Information Custodians are responsible for the proactive annual review of classification of Information under their custodianship.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Information Stewards are responsible for providing an advisory role and support for operational data governance functions, in accordance with the Information Governance Policy and its resources.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) The Chief Data and Analytics Officer is responsible for delivery of the RMIT Information Domain Register as the enterprise Information Asset Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) The Chief Information Officer is responsible for delivery of Technology Assets, in accordance with the Information Technology and Security Policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

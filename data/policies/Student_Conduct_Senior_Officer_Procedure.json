@@ -1,0 +1,654 @@
+{
+  "metadata": {
+    "title": "Student Conduct - Senior Officer Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=170",
+    "scraped_date": "2025-10-31 01:26:38"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Senior Officer",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) In determining a student conduct matter, a Senior Officer:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "must act in accordance with this procedure and all applicable policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "must act fairly and reasonably in all the circumstances, which may include contacting the respondent student to inform them of the potential student misconduct report, and to explain the nature of their investigation and enquiries",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "must ensure that all parties, including advocates and support persons are aware of the Student Conduct Policy and corresponding procedure requirements, including those relating to records, privacy, and confidentiality",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "is not bound by the rules of evidence, technicalities, or legal forms, including rules which apply in any court or tribunal in Australia, such as those set out in the Evidence Act 2008 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "may make such inquiries and communicate with the people they determine to be relevant and necessary to enable them to properly determine the matter",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "may ask any student to attend a hearing or interview, or to provide information in relation to the matter; however a Senior Officer may not compel or force a student to attend a hearing or interview, or to provide information relating to a student conduct matter, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "must have due regard for the Intellectual Freedom Policy in the exercise of any authority or discretion granted to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(6) A Senior Officer may make determinations about all matters relating to the conduct of a hearing, including but not limited to: attendance, scheduling and re-scheduling, any pausing or adjournment of the hearing, any additional material or information required, and the provision of information about the process and the determination. All such determinations are subject to this procedure, the Student Conduct Policy, and the Student Conduct Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(7) Where a Senior Officer accepts a report of potential academic or general misconduct as referred under this procedure, the Senior Officer has 30 working days from receipt of the referral or report to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "make a determination regarding a student conduct matter based on a student’s written submission, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(8) Clause (7) does not apply where there are relevant circumstances which impact the ability to act within this time or where the matter has been paused or suspended due to external requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(9) The Senior Officer is responsible for managing the conduct records including outcomes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(10) Any notice or written communication to students is to be provided in accordance with requirements of the Student Conduct Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Referral of Potential Student Misconduct",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Referrals to a Senior Officer of matters relating to potential general or academic misconduct must be made in accordance with Student Conduct Policy and Student Conduct Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(12) If a Senior Officer receives a potential general or academic student misconduct report or referral, or is otherwise aware of information which gives rise to a reasonable belief that a student may have engaged in misconduct under the Student Conduct Policy, the Senior Officer may:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "do anything reasonable and proportionate to the circumstances to resolve the report informally without making a determination of misconduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "direct the Course Coordinator (or equivalent) to treat the conduct matter as an assessment issue, which can be addressed as part of the assessment of the student's work in accordance with the Academic Integrity Policy and corresponding procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "redirect the report to another Senior Officer with specialised subject matter expertise such as sexual harm, IT security, academic integrity, or discipline specialisation or to avoid an actual, potential or perceived conflict of interest as provided by the Conflict of Interest Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "investigate the matter themselves and/or request an internal investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "accept the report as referred, convene a hearing or determine by written submission, make findings, and apply penalties and/or consequences, where appropriate, in accordance with the Student Conduct Regulations, Student Conduct Policy and clause (7) of this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "determine that no further action is required under the Student Conduct Policy and this procedure, provide appropriate notification to the referring officer or reporting person through their preferred method of contact and the respondent student (where appropriate), or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "if the matter is considered serious or complex in nature, refer the report to the Student Conduct Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(13) Senior Officer actions at clause (12) will generally be actioned within 30 working days from receipt of the report or referral of potential student misconduct. Every effort will be made to resolve or action matters as quickly and efficiently as possible, however a longer period may be required if the report or referral is unusually complex.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(14) A Senior Officer must refer potential student misconduct reports to the Student Conduct Board when it concerns:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "serial academic misconduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "unethical conduct, including but not restricted to the purchase of assessment materials, or the impersonation of a student for an assessment task, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "a student who is also a staff member and the matter could result in an investigation by RMIT’s human resources team.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(15) Where a potential student misconduct report referred to a Senior Officer relates to or may affect or impact the safety of any person, present any increased level of risk, or where it involves sexual harm, the Senior Officer must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "have completed relevant training in relation to sexual harm, and taking a trauma-informed approach, (the matter will otherwise be referred to an appropriately trained Senior Officer), and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "consult with Safer Community on the appropriate arrangements for conducting any investigation, hearing or other matters involving the consideration of the reported conduct.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Investigations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) A Senior Officer may determine:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "whether an investigation should be conducted in relation to a potential student misconduct report, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "how any such investigation may be carried out subject to the requirements of the Student Conduct Policy and corresponding procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(17) A Senior Officer may decide that an investigation will be conducted by",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an officer, group, or Senior Officer of RMIT with appropriate subject-matter expertise.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(18) Where a Senior Officer requests an internal investigation at clause 12 (d), the investigation will commence within 10 days of the request.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(19) Where the reported conduct is serious or complex in nature or may require an external investigation, the investigation must be referred to the University Secretary and Academic Registrar (or delegate) in accordance with the Student Conduct Board Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(20) If an officer is appointed to investigate, the Senior Officer should consider the nature of the reported conduct and the kind of investigation required, as well as any other relevant circumstances. For example:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "If the report relates to misuse of RMIT computer or network facilities, it may be appropriate for an investigation to be carried out by a person with sufficiently high IT security access",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If the report involves students from within a particular discipline, it may be appropriate to have the investigation carried out by someone from a different discipline or portfolio to ensure impartiality and the absence of actual or perceived bias",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "If the nature of a discipline’s activities are a particularly relevant context for a report (such as requiring knowledge of a building or a research function or protocols), it may be appropriate for a staff member with knowledge of that discipline or context to carry out the investigation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(21) The Senior Officer, or officer may make any necessary enquiries in relation to the reported conduct as part of their investigation, which may include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "reviewing any relevant documents, electronic files, CCTV footage and other evidence",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "requesting access to any relevant documents, electronic files, CCTV footage, copies of records or material held by other groups within RMIT such as electronic documents or records, emails or other records of communication through RMIT’s computing and network facilities, although such access may be limited and subject to approval by the relevant authority",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "contact with external parties to confirm authenticity and authorship such as medical practices, health providers, or access to any relevant documents, electronic files, CCTV footage, copies of records or material held by the external party, including but not restricted to placement providers and student residences affiliated with RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "seeking to interview persons who may have relevant information (such as witnesses or recipients of communications including staff, students and referring officer).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(22) Where a Senior Officer determines that an investigation is required by another Senior Officer the investigating officer will be briefed on their involvement including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "conducting their investigation in accordance with this procedure,",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "determining whether each of the assertions within the potential student misconduct report are able to be substantiated",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "preparing an investigation report containing findings supported by documentary evidence for the initiating Senior Officer.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(23) If whilst conducting an investigation a Senior Officer becomes aware of any additional information leading to their reasonable belief that a more serious instance of misconduct may have occurred, the Senior Officer may refer the matter to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a different Senior Officer who has relevant subject matter expertise or training, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the Student Conduct Board.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(24) In carrying out an investigation, the investigating officer will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "seek to apply a trauma-informed approach, with the objective of harm minimisation. This includes minimising the number of times and number of people to whom a reporting person is required to recount their experience",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "conduct the investigation on a “need to know” only basis, including, to the extent possible, maintaining anonymity over the identity of the person who made any relevant disclosure or report, as well as over the student who is the subject of the investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "enable flexibility within the process to minimise any risk to wellbeing, such as re-exposure to trauma.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(25) A student may be accompanied by a support person and/or advocate at any interview that occurs during the conduct investigation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The student must notify the Chair, Student Conduct Board, Senior Officer or investigating officer as appropriate in advance of the name of the support person or advocate who will attend and advise if this person is a legal practitioner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "An advocate, and not a support person, is permitted to make submissions on the respondent student’s behalf.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Any person who is under the age of 18 must be accompanied to any meeting by a parent, guardian or caregiver who is responsible for their interaction with the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(26) A student cannot be compelled or required to participate in an investigation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(27) Investigations will be conducted such that participants are appropriately informed of timeframes, roles, possible outcomes and any other aspects of the student conduct process relevant to the investigation, including the use of the findings of the investigation in staff as well as student conduct matters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "34",
+              "text": "(28) Upon concluding an investigation, the Senior Officer must form a preliminary view about the potential student misconduct based on the report, relevant evidence, their enquiries, any internal final investigation reports (where applicable) and may either:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "determine that the conduct may constitute misconduct under the Student Conduct Policy and convene a hearing, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "determine that no further action is required under the Student Conduct Policy and this procedure where the misconduct is considered not to be substantiated. The Senior Officer (or delegate) will notify the respondent student, referring officer and reporting person by their preferred method of contact (where appropriate) of this determination as quickly as practicable and confirm it in writing.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Senior Officer Hearing",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) Where the Senior Officer forms a view that the potential student misconduct may constitute general or academic misconduct, the Senior Officer will advise the Secretary to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "make arrangements for a hearing in accordance with the Student Conduct Policy and this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "notify the respondent student: of the opportunity to respond to the potential student misconduct report by the method determined by the Senior Officer with notifications, documentation and timelines provided in accordance with clause (35) that they may be accompanied by a support person, a representative from their principal student organisation or other advocate, and their Safer Community case manager in accordance with this procedure (where applicable), and details of available student support services.",
+              "subclauses": [
+                "of the opportunity to respond to the potential student misconduct report by the method determined by the Senior Officer with notifications, documentation and timelines provided in accordance with clause (35)",
+                "that they may be accompanied by a support person, a representative from their principal student organisation or other advocate, and their Safer Community case manager in accordance with this procedure (where applicable), and",
+                "details of available student support services."
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "(30) Where a matter involves a report from another person, that person will be informed of when and where the Senior Officer hearing is to take place.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(31) For matters involving sexual harm or other behaviour that is concerning, threatening or inappropriate, the Senior Officer (or delegate) may invite any person impacted or affected by the respondent student's conduct to make a written submission to the Senior Officer regarding the impact or effect of the respondent student's conduct on them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(32) Where the Senior Officer determines that misconduct has occurred, the Senior Officer will consider reports from persons impacted by the misconduct when determining to apply one or more consequences, or administrative, disciplinary, or academic penalties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(33) At the Senior Officer hearing, where invited to participate in person, the respondent student may be accompanied by a support person or advocate as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the support person is not permitted to make submissions on the respondent student's behalf, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the advocate may make submissions on the respondent student’s behalf.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(34) Any person who is under the age of 18 must be accompanied to any meeting or hearing by a parent, guardian or caregiver who is responsible for their interaction with the University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(35) A student may respond to a potential student misconduct report, the investigation materials and related documentation to be considered via either of the following means (at the discretion of the Senior Officer):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "written submission with a due date no earlier than 10 working days from the date of the written notification and provision of the report and related documentation, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "invitation to participate in a hearing in person (which may include by telephone or online video conference) with date, time, and location details (and connection information where applicable) scheduled no earlier than 10 working days from the date of the written notification and provision of the report and related documentation, or if the respondent student does not wish to participate in the hearing, they may provide a written submission no later than two working days before the date of the scheduled hearing.",
+              "subclauses": [
+                "with date, time, and location details (and connection information where applicable) scheduled no earlier than 10 working days from the date of the written notification and provision of the report and related documentation, or",
+                "if the respondent student does not wish to participate in the hearing, they may provide a written submission no later than two working days before the date of the scheduled hearing."
+              ]
+            },
+            {
+              "clause_number": "14",
+              "text": "(36) Where a respondent student makes a written submission to the Senior Officer and/or elects not to participate in a hearing (where appropriate), the Senior Officer will consider the matter based on the potential student misconduct report and the response provided by the student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(37) A respondent student must confirm their attendance and the name of their support person/s and/or any advocate at least two working days before the hearing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(38) The Senior Officer may reschedule a hearing where the respondent student:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "provides reasonable evidence that they are unable to attend at the scheduled time, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provides written consent to waive the requirement of 10 working days notice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(39) The Senior Officer may request written documentation to support the respondent student’s reasonable cause for not attending, including but not limited to a health practitioner’s report and or a statutory declaration.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(40) If the respondent student does not make a written submission or does not attend a hearing within 10 minutes of the scheduled commencement time, and has not provided information about a reasonable cause for their non-submission or non-attendance as the case may be, the Senior Officer may proceed with consideration of the conduct matter and any determination made will be binding.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(41) The Senior Officer will ensure that the hearing:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "is held confidentially, and in a comfortable venue (if not conducted via telephone or online video conference), and that the safety and wellbeing of the respondent student, their support person/s, and any other persons in attendance including RMIT staff, other students, or witnesses is supported",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "as far as possible provides the respondent student and their support person/s and/or advocate access to a separate private space for consultation before and after the hearing (if applicable when telephone or online video conference is used)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "starts at the scheduled time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "proceeds without interruption",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "is managed to ensure that all parties are treated with respect, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "includes advice to attendees that there must not be audio or video recording of the proceedings, including if they are conducted electronically or via video link.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(42) The Senior Officer:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "must conduct the hearing in accordance with this procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "must act fairly in all the circumstances",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "may make such inquiries and communicate with the people they determine to be relevant and necessary to enable them to properly determine the matter",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "may require any officer to attend the hearing, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "may ask any student to attend a hearing or interview, or to provide information in relation to the matter; however the Senior Officer may not compel or force a student to attend a hearing or interview, or to provide information relating to a student conduct matter.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "34",
+              "text": "(43) The Senior Officer may also make inquiries with any reporting person or persons who were affected or impacted by the reported conduct, taking into account guidance from Safer Community in relation to how this may be done in a trauma-informed and appropriately sensitive manner.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Senior Officer Determinations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(44) Once the Senior Officer has considered all relevant materials, and the respondent student's response (where applicable), the Senior Officer must determine:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "what occurred, as a finding of fact, on the balance of probabilities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "whether what was found to have occurred constitutes misconduct, and then",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "to: take no further action, or apply consequences or penalties or any other steps available to them in accordance with the Student Conduct Regulations and Student Conduct Policy.",
+              "subclauses": [
+                "take no further action, or",
+                "apply consequences or penalties or any other steps available to them in accordance with the Student Conduct Regulations and Student Conduct Policy."
+              ]
+            }
+          ]
+        },
+        {
+          "section_title": "Senior Officer Outcome Notification",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(45) The Senior Officer (or delegate) must provide written notification of the outcome within 10 working days of the scheduled hearing or deadline for written response advising, where relevant:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the specific provisions of the Student Conduct Policy or other policy document that has been reported to have been breached or not complied with",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the reasons for the determination",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any consequences, penalties and/or conditions imposed, and why any are appropriate in view of the nature of the established misconduct",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "that consequences can arise from a failure to comply with outcome determinations in accordance with the Student Conduct Policy and that this may lead to further conduct action",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "any other consequences for, or impacts on, the respondent student and their relationship with RMIT, including any implications there may be in relation to a respondent student’s visa",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "information about available support services for the respondent student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "that a determination to suspend a completing respondent student (where appropriate) will preclude RMIT from issuing them with any award of RMIT until the suspension has concluded, unless this requirement is specifically waived by the Academic Registrar, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "the opportunity to lodge an appeal against the determination and any consequences or penalties in accordance with the Student Conduct - Appeals Procedure within 20 working days of the date of the written outcome notification.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(46) Senior Officers must promptly notify the University Secretary and Academic Registrar (or delegate) to implement any penalties or consequences that will impact a respondent student’s academic or enrolment record, or where a suspension is to be imposed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(47) Where a matter relates to a report from another person, the Senior Officer (or delegate) will advise that person, by their preferred method of contact, the outcome determination.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(48) Where a finding of misconduct has resulted in the imposition of consequences or penalties, the specific nature of the consequences or penalties imposed should only be communicated to the reporting person to the extent relevant and appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "In some cases, for privacy reasons, the details of an outcome and the corresponding consequences or penalties cannot be communicated to anyone other than the respondent student and their representatives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If a Senior Officer has applied a consequence or penalty, this would not be communicated to the reporting person, unless it was directly relevant to the reporting person because of an impact or repercussion for them as a result of that consequence or penalty. For example, if a respondent student has been suspended from RMIT premises, and if this is relevant to a reporting person for the purposes of their attendance at RMIT premises, this would be communicated to the reporting person.",
+              "subclauses": [
+                "For example, if a respondent student has been suspended from RMIT premises, and if this is relevant to a reporting person for the purposes of their attendance at RMIT premises, this would be communicated to the reporting person."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

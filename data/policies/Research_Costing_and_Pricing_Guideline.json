@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "title": "Research Costing and Pricing Guideline",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=303",
+    "scraped_date": "2025-10-31 01:23:09"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) The University seeks to standardise the costing and pricing of externally funded research projects.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) Project budgets for competitive research grants and all associated expenditure will comply with the specific funding body guidelines (including allowable costs) and all relevant University policies, procedures and guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) Where another institution sub-contracts part of a project to RMIT, the pricing (including any RMIT in-kind contributions) will comply with this guideline and all relevant University policies, procedures and guidelines.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) The pricing of external funded research projects will be approved by the Dean (or nominee) of each participating School prior to the University entering into an agreement with the funder.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Direct Costs",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) Direct costs are those costs that can be directly attributed to a specific project and are directly related to achieving the objectives and outcomes of the project. Direct costs include, but are not limited to: • personnel costs (salary and on-costs); • scholarships (stipend payments); • data management; • equipment; • consumables/maintenance; • travel; • subcontracts; • governance and collaboration costs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) Personnel costs incurred by RMIT University employees on a research project will, where possible, be included in the price charged to the funder (e.g. in most research contracts and tenders, full cost recovery is required and no in-kind contributions for current staff will be permitted).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(12) All personnel costs charged to a project will include the appropriate Full Time Equivalent (FTE) rate, as well as on-costs. On-costs include expenses incurred in addition to standard salary payments such as superannuation, payroll tax, central leave levy and workers compensation. On-costs are automatically calculated within the Research Costing and Pricing Tool. On-costs rates in the Tool may be edited from time to time by the R&I Portfolio to ensure they reflect any changes to University on-cost rates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(13) Where national and international competitive funding prohibits the inclusion of RMIT personnel costs in proposal budgets, they may be included as in-kind contributions, subject to the approval of the Dean or delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(14) Annual indexation on any personnel costs in projects with multiple years, including in-kind contributions and stipends, will be included in the price charged to the funder where possible. Annual indexation is to be calculated as per the salary rates outlined in the RMIT Enterprise Agreements.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Indirect Costs",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) Indirect costs (or overheads) are the costs incurred by the University in support of a research project but which cannot be directly attributed to a specific project. Indirect costs include, but are not limited to: • space; • People team/HR; • research administration; • legal services; • information technology; • library services; • university infrastructure; • service maintenance; • insurance; • financial services; • utility costs (water, gas, electricity).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(16) Indirect costs will be calculated against the total project direct costs of research projects.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(17) The minimum indirect cost applied for each College is set out in Schedule A. The indirect cost rate may be increased based on the IP arrangements as per Schedule A.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(18) For projects with external collaborators, RMIT will only cost for RMIT University’s portion of indirect costs.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(19) For competitive research grant funding, if an indirect cost rate prescribed by the funder is lower than the rate set out in Schedule A, the lower rate will be applied. If a higher indirect cost rate is prescribed by the funder, the higher rate will be applied. Further information on the costing of Research Grants is outlined in Schedule B.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(20) For Australian research tenders, a multiplier against the personnel costs will apply instead of an indirect cost rate, as set out in Schedule B.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(21) A list of permitted variations from applying an indirect cost rate are set out in Schedule B.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Costing and Pricing of Research Projects",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(22) The full cost of research projects, including direct and indirect costs, will be calculated by using one of the Research Costing and Pricing Tools accessible via the Researcher Portal. The Costing and Pricing Tool summary is to be uploaded as part of the Request Contract Approval and Project Creation (RCAPC) form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(23) The Research Contracts Costing and Pricing Tool considers direct costs, indirect costs, third party costs, and where intellectual property may be either generated or transferred to an external party in research contracts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(24) The Research Tenders Costing and Pricing Tool considers the requirements of any Commonwealth and State Government Panels where applicable. For Australian research tenders which aren’t covered by Commonwealth and State Government Panels, a multiplier of two- or three-times salary will apply dependent on the market competition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(25) For research tenders, project pricing will comply with the Victorian State Government’s Competitive Neutrality Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(26) Wherever possible, the price charged to the funder will be adjusted in line with factors such as: market competition; access to project intellectual property; risk; and the uniqueness of the expertise, infrastructure or research capability, thereby recovering a margin on the project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(27) Only the price, not the itemised budget, should be provided to the contracting partner.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "RMIT Cash Contributions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(28) Annual indexation may apply for RMIT University cash contributions, in line with the R&I Grant Co-funding Guidelines.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Distribution of Indirect Costs and Margins",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(29) All funding received from the application of the indirect cost rate and margins in research projects will be distributed to the College of the CI leading the research project, unless otherwise agreed upfront with endorsement by the College ADVC R&Is.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(30) All funding from applying the indirect cost rate and margins to externally funded research projects will go to supporting research and strategic research initiatives, not other aspects of university operations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(31) Each College is responsible for administering the distribution of the recovered indirect cost funding and margins, including the associated governance and administrative workload.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Waivers",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(32) The indirect cost rate is not mandatory where the total direct project costs are less than AUD $10,000.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(33) Where the total direct project costs are equal to or greater than AUD $10,000, waivers can be requested when all three of the following circumstances apply, and require the approval of the ADVC R&I or delegate: • Within the first 12 months of an early-stage collaboration opportunity with a new partner aligned to University/College strategic priority areas; • Research projects funded by not-for-profit organisations where there is an allocated sum of funding to deliver the research; and • Where an early career academic is developing a collaborative relationship with an industry partner and it’s the first collaborative research agreement being entered into between the parties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(34) Applications for waivers of indirect costs will need to be approved/rejected by the College ADVC R&I or delegate prior to the project costing and pricing being approved by the Dean or delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(35) To apply for a waiver, researchers need to complete and lodge a College Waiver Request form. The ADVC R&I or delegate will consider the application and the outcome will be communicated to the applicant via email. If approved the email response needs to be attached with the Costing and Pricing Tool summary as part of the Request Contract Approval and Project Creation (RCAPC) form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(36) A waiver will automatically be provided for contracts which are exclusively for an HDR stipend or HDR internship program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(37) Researchers are not permitted to solicit letters or instructions from funders on the status of overheads or indirect costs. The Research Proposals and Awards Management team are responsible for seeking any clarification on allowable grant inclusions or exclusions.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

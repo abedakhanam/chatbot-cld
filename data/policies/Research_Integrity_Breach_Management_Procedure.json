@@ -1,0 +1,555 @@
+{
+  "metadata": {
+    "title": "Research Integrity Breach Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=30",
+    "scraped_date": "2025-10-31 01:26:31"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Guiding Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT University (RMIT) has principles-based responsibilities for the prevention, detection, investigation and resolution of potential breaches of research integrity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) A breach is defined as a failure to meet the principles and responsibilities of research integrity, as described in the Code and RMIT Research Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) In the investigation, management and determination of breaches of research integrity RMIT is committed to rigour, and the exercise of sound judgement and careful deliberation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(7) In keeping with the Code, RMIT recognises breaches of research integrity occur on a spectrum, from minor or less serious to major or more serious.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(8) The seriousness of a breach of research integrity will be determined on a case-by-case basis, with due consideration of:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the extent of the departure from the principles and responsibilities of research integrity",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the extent of the departure from accepted research practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the extent to which research participants, the wider community, animals and the environment are, or may have been, affected",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the extent to which the breach affects the trustworthiness of research",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the level of experience of the researcher/s",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "whether there are repeated breaches by the researcher/s",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "whether institutional failures have contributed to the breach",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "any other mitigating or aggravating circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(9) The principles of procedural fairness apply to all aspects of management of a potential breach of research integrity, including any assessment or investigation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(10) In keeping with these principles, RMIT’s process and procedures for managing a potential breach of research integrity will be:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "proportional, to the extent of the potential breach of the Code",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "fair, in affording procedural fairness to respondents and, where appropriate complainants or others who may be adversely affected",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "impartial, in requiring investigators to be impartial and to declare and appropriately manage any conflicts of interest",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "timely, in conducting investigations in a timely manner and avoiding undue delays",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "transparent, in making information about related institutional processes and procedures readily available and ensuring accurate records are maintained",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "confidential, in dealing with research integrity matters confidentially and not disclosing information unless required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(11) The principles of procedural fairness do not include a right to legal representation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(12) While all complaints about a potential breach of research integrity lodged with the Research Integrity Office (RIO) will be managed confidentially, RMIT may share information about the management and resolution of potential breaches of research integrity with, or seek input from, other internal and external parties where this is required and/or appropriate. Parties to a complaint are also expected to maintain the confidentiality of complaints regarding a potential research integrity breach.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(13) Complaints must be made responsibly, in that they are: made in good faith and without malice, based on facts that have not been substantially the subject of a previous complaint, and that may meet the definition of a research integrity breach.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(14) Complainants and respondents will be informed of resources to support their welfare throughout the course of the process, including the opportunity to use a support person where appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(15) The University may take immediate action to protect research participants, animals, the environment, research data and records, or any other intervention where a complaint presents major or severe or ongoing risk.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(16) University employees and any other authorised persons who are involved in investigating a potential breach of research integrity must reach conclusions based on a fair hearing of each point of view and must respect the privacy and confidentiality of all parties as far as practicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(17) University employees and any other authorised persons who are involved in managing and investigating a potential breach of research integrity must reach conclusions based on a fair hearing of each point of view.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Making a Complaint",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) A complaint about a potential breach of research integrity occurs where a concern is raised or identified that one or more RMIT researchers have conducted research that is not in accordance with the principles and responsibilities of research integrity, as established in the Code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(19) In considering whether to make a complaint and/or where unsure of whether a potential breach of research integrity (as defined above) has occurred, potential complainants are encouraged to seek advice from a Research Integrity Advisor (RIA).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(20) Every person to whom this procedure applies, who reasonably believes that a breach of research integrity has occurred will make a complaint.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(21) Anyone can make a complaint and these may arise from a range of sources, internal or external to RMIT, including but not limited to researchers, research administrative, technical or support staff, examiners, editors, research participants, members of the public, research institutions and funding agencies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(22) Complaints may be made anonymously; however, this may limit the assessment or investigation of the complaint and communications with the complainant.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(23) Complaints should be submitted in writing and lodged with the RIO at RMIT University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(24) In making a complaint, complainants are encouraged to provide all pertinent information and documentation, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the type of breach/es alleged to have occurred, including any other relevant details, such as, the date/s (when) and site/s (where)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the researcher/s against whom the complaint is being made",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "all supporting evidence reasonably at hand.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(25) Complainants are responsible and liable for the content of their complaints and must not make a complaint in bad faith or provide information they know to be inaccurate or misleading. Doing so may result in disciplinary action and/or be reported to an appropriate external regulatory body or agency.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(26) The RIO may assist a complainant to lodge a complaint. In providing this assistance, staff of the RIO will declare, and appropriately manage, any conflicts of interest.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(27) RMIT is obliged to assess the nature of all complaints and consider whether to proceed to a preliminary assessment, even where a complainant chooses not to proceed with a complaint.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Receipt and Consideration of Complaints",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(28) The Designated Officer (DO) receives all complaints.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(29) Upon receipt of a complaint, the DO will consider the complaint and determine whether, or not, it relates to a potential breach of research integrity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where the DO determines the complaint represents a potential breach of research integrity, it will proceed to preliminary assessment (see Preliminary Assessment Stage).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Where the DO determines the complaint does not represent a potential breach of research integrity, it may be dismissed or referred to other institutional processes (such as staff or student conduct processes), as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(30) In undertaking the consideration, the DO or their delegate may engage with the complainant or other relevant stakeholders, to inform the appropriate consideration of the complaint.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Preliminary Assessment Stage",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) The purpose of the preliminary assessment is to collect and evaluate facts and information, to inform the determination of whether a complaint if proven, would constitute a breach of research integrity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(32) An Assessment Officer (AO) assigned by the DO will oversee the conduct of the preliminary assessment, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "identifying, collecting, evaluating and securing relevant facts, information and documentation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "considering the need to consult with the complainant and respondent to collect or clarify facts, information or documentation, and consulting as appropriate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "considering the need to consult with the DO and other relevant institutional stakeholders, and consulting as appropriate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "considering the need to engage with internal or external experts, to provide specific and/or independent advice to facilitate the preliminary assessment, and consulting as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(33) Where it is considered necessary to engage with the respondent as part of the preliminary assessment, the AO will notify the respondent.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(34) On completion of the preliminary assessment, the AO provides written advice to the DO in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(35) The DO will consider the advice and will make a determination about the complaint. Possible determinations include that a complaint be:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "resolved locally, with or without corrective actions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "referred for investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "referred to other institutional processes, as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(36) Following the making of the determination, the institution will provide the outcome, in a timely manner and as appropriate, to the respondent, complainant and other relevant stakeholders.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Investigation Stage",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(37) The purpose of the investigation is to make a finding of fact which enables the Responsible Executive Officer (REO) at RMIT to assess whether a breach of research integrity has occurred, the seriousness and extent of the breach and the recommended actions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(38) The investigation will be conducted by an investigation Panel (Panel) nominated by the DO.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(39) Following a determination that a matter be referred to investigation, the DO will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "prepare the statement of allegations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "establish the terms of reference for the investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "nominate the related Panel, including a Chair where the Panel comprises more than one person",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "seek legal advice on matters of process, as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(40) In nominating the Panel, the DO will consider:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the expertise and skills required, including: an appropriately qualified Chair appropriate level of experience and expertise in the relevant discipline the need for a person/s with prior experience of similar panels or relevant experience knowledge and understanding of research integrity and related processes",
+              "subclauses": [
+                "an appropriately qualified Chair",
+                "appropriate level of experience and expertise in the relevant discipline",
+                "the need for a person/s with prior experience of similar panels or relevant experience",
+                "knowledge and understanding of research integrity and related processes"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "the appropriate number of members (noting that a Panel can be comprised of one person)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the diversity of members required, including gender",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the need for members to be free from conflicts of interest or bias.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(41) Prior to finalisation of the Panel, the DO will inform the respondent of the Panel’s composition and the respondent will be provided an opportunity to raise any concerns.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(42) Once finalised the Panel will convene, develop an investigation plan and conduct the investigation in keeping with the principles of procedural fairness, the terms of reference as appropriate, institutional process, the Guide and the Code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(43) The panel is to determine whether, having regard to evidence and on the balance of probabilities the respondent has breached research integrity. To do this, the Panel:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "assesses the evidence (including its veracity) and considers if more may be required",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "may request expert advice to assist the investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "arrives at findings of fact about the allegation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "identifies whether the principles and responsibilities of the Code have been breached",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "considers the seriousness of any breach",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "provides a report into its findings of fact consistent with its terms of reference",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "makes recommendations as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(44) On completing the investigation, the Panel will prepare a written report of the investigation, including findings of fact, and any recommendations, to be submitted to the DO.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Prior to finalising and submitting the report to the DO, the draft report, or a summary, will be provided to the respondent in a reasonable timeframe, for comment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Where a complainant will also be affected by the outcome, the draft report, or a summary, will be provided to the complainant in a reasonable timeframe, for comment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(45) The DO will consider the findings of fact, evidence presented, and any recommendations made by the Panel. The DO will also consider the extent of the breach, the appropriate corrective actions and if referral to disciplinary procedures is required. The DO will provide the final report to the REO with recommendations. The REO will consider the Panel report and DO’s recommendations, and decide a finding of whether, or not, there has been a breach of research integrity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "If the REO finds there has not been a breach of research integrity, the following will be considered: where a complaint is found to have no basis in fact, efforts or actions that will be undertaken to restore the reputation of those alleged to have breached research integrity where a complaint is found to have been made in bad faith or is vexatious, efforts or actions that can be undertaken to address this with the complainant, in keeping with appropriate institutional processes the mechanisms for communicating with and supporting the respondent and complainant.",
+              "subclauses": [
+                "where a complaint is found to have no basis in fact, efforts or actions that will be undertaken to restore the reputation of those alleged to have breached research integrity",
+                "where a complaint is found to have been made in bad faith or is vexatious, efforts or actions that can be undertaken to address this with the complainant, in keeping with appropriate institutional processes",
+                "the mechanisms for communicating with and supporting the respondent and complainant."
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "If the REO finds there has been a breach of research integrity, the REO will decide RMIT’s institutional response, considering: the seriousness and extent of the breach any adjunct and/or honorary appointments of the respondent and appropriate management of these appointments with other institutions efforts or actions that can be undertaken to correct the public record of research including publications, as appropriate.",
+              "subclauses": [
+                "the seriousness and extent of the breach",
+                "any adjunct and/or honorary appointments of the respondent and appropriate management of these appointments with other institutions",
+                "efforts or actions that can be undertaken to correct the public record of research including publications, as appropriate."
+              ]
+            },
+            {
+              "clause_number": "3",
+              "text": "Where any systemic issues are identified, the REO will refer these as appropriate within RMIT to ensure they are addressed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(46) Following the consideration of the report by the REO as outlined above, the institution will communicate the decisions and actions, to the respondent and complainant. Other relevant parties (such as funding bodies, agencies, authorities or other institutions) will be informed as relevant and/or required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(47) RMIT is obliged to address the findings of an investigation appropriately, even where a respondent leaves RMIT prior to or during an investigation. This may include appropriate and lawful disclosure, correction of the research record, or referral of the matter to the new employing institution.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review of a Code Investigation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(48) In keeping with the Code, requests for a review of an investigation will only be considered on the grounds of procedural fairness. That is, the review will consider the procedures and processes used by the Panel in conducting the investigation itself, rather than affirm, or not, the related findings of fact and recommendations arising out of the investigation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(49) Requests for review will be directed by the RIO to an appropriate Review Officer (RO) within a reasonable timeframe of the outcome of the investigation being communicated to the respondent and complainant.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(50) The RO will undertake a review in accordance with the Code and institutional processes and procedures including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a thorough examination of procedures followed by the Panel in conducting the investigation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "further clarification of these procedures, as relevant or required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(51) Upon completion of the review, the RO will determine an outcome, as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The conduct of the investigation aligns with institutional processes, the Guide and the Code, and the principles of procedural fairness.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The conduct of the investigation does not align with institutional processes, the Guide and the Code, and the principles of procedural fairness.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(52) Respondents and complainants may additionally seek review by other appropriate external bodies or agencies, which may include without limitation the Australian Research Integrity Committee (ARIC).",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

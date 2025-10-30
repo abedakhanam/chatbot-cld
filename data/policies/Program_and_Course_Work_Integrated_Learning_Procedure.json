@@ -1,0 +1,628 @@
+{
+  "metadata": {
+    "title": "Program and Course Work Integrated Learning Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=119",
+    "scraped_date": "2025-10-31 01:22:09"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Overview",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) Work Integrated Learning (WIL) is an educational approach that uses relevant work-based experiences to allow students to integrate theory with the meaningful practice of work as an intentional and assessed component of the curriculum. Defining elements of this educational approach require that students engage in authentic and meaningful work-related tasks and must involve three stakeholders: the student, RMIT and the workplace/community.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) WIL may encompass a range of models and approaches to learning and assessment with discipline theory, knowledge and skills as an integral part of program and course design.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(7) WIL provides the opportunity for students to gain professional and/or vocational experience in their chosen field by completing approved activities that, when successfully completed, count towards their program of study.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(8) The term ‘WIL Coordinator’ is used throughout this document to mean either the WIL practitioner, WIL Coordinator or nominee (these could be an academic, teaching or professional staff member).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(9) All WIL activities must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "integrate theoretical learning with practical application in professional contexts that engage students in meaningful and consequential learning activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "be integrated throughout the program to enable students to achieve course and program learning outcomes, RMIT Capabilities and vocational education employability skills as they progress through the program",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "include student preparation, supervision and monitoring of progress and reflective practice or debriefing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be aligned to the requirements of professional registration, accrediting bodies and training package rules (where applicable)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "involve the student undertaking authentic assessment in line with RMIT’s Assessment and Assessment Flexibility Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "comply with relevant government legislation and regulations, RMIT policies, procedures and resources",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "be undertaken in a safe workplace context, whether on campus, off campus, or online.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(10) Industry engagement in WIL activities is expected to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "involve students interacting with organisations (industry, government and community) through discipline relevant projects and work placements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "include continuous feedback from all stakeholders to ensure ongoing evaluation and quality improvements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "be negotiated with partner organisations (where relevant) and designed to be safe, accessible, equitable and mutually beneficial for all stakeholders",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "involve relevant practitioners or partners actively working in industry, community, or government organisations, and, where located in Australia, the partners can provide an actively registered business name or ABN, or other appropriate business or company registration identifier.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(11) WIL Coordinators must ensure WIL activities will not cause unnecessary or unreasonable hardship for students or partner organisations, outside of the stated WIL requirements in the program guide.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(12) WIL activities can be offered face-to-face, online or in a blended approach.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Program and course requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) Programs offering WIL must comprise the following minimum number of WIL units, courses, or credit points:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Certificate III, Certificate IV, Diploma, or Advanced Diploma programs other than apprenticeships, traineeships: one unit of competency or WIL activity specified in the program rules",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Associate Degree, Graduate Diploma, Masters by Coursework: 12 credit points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Higher Education Diploma: 6 credit points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Bachelor degree, Bachelor honours degree other than one-year (96 credit point) Bachelor honours degree: 24 credit points",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "double degree comprising Bachelor degrees and/or bachelor honours degrees: 24 credit points. The WIL courses in double degrees must, however, provide the learning outcomes of the core WIL courses of both component single degrees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(14) In higher education, designated WIL courses that are core to the program must comprise WIL activities that align with at least 50% of the assessment. It is preferable that the WIL assessment is a hurdle requirement to pass the course. WIL in elective or optional courses do not need to meet the 50% assessment requirement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(15) For vocational education and training programs where WIL activities are spread across more than the minimum of units of competency or cluster of units, WIL activities must be appropriately incorporated into the assessment requirements consistent with the training package rules.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(16) WIL courses may offer different types of WIL at different locations and with different cohorts if these are deemed to be equivalent and to meet course learning outcomes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(17) The Programs Committee can approve exemptions from the above requirements of WIL components in higher education programs where:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "professional accreditation requirements prevent WIL being offered within the normal program duration",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the program is primarily intended as a credit pathway to a higher program that meets the WIL requirements in the previous section",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the program is designed to provide a specific skill such as a language proficiency rather than an employability outcome",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "progressive learning of professional skills requires that WIL placements be distributed as an assessment component weighted at less than 50% in numerous courses, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "in a dual or double degree, requirements for meeting prescribed learning outcomes within a reduced volume of learning prevent WIL experiences being offered.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(18) Program Managers can approve an alternative to the WIL activity in vocational education and training programs where the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "workplace or project-based WIL activity is not a mandatory requirement of the program or course and there is no requirement for assessment to occur in the workplace",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "simulated WIL activity is not a mandatory requirement of the program or course and there is no requirement for assessment to occur in a simulated workplace.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Program and course guides",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(19) The requirements for information relating to WIL in program and course guides are prescribed by the Program and Course Guide Instruction and must include the eligibility requirements of both academic prerequisites and non-academic requirements (which may include, but are not limited to immunisations and vaccinations, visas, Working with Children Checks, Police Checks, NDIS Worker Screening Check and responsibilities for associated costs), including those aligned to the requirements of professional registration and accrediting bodies (where applicable).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "WIL Agreements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) WIL agreements, and any corresponding Student Undertakings or commitments, insurance and other relevant documentation such as roles, rights and responsibilities of all stakeholders are to be completed before commencement of a WIL activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) Agreements and any corresponding Student Undertakings, or other documents put into place between students, RMIT and partner organisations may vary according to higher education or vocational education and training contexts, specific discipline requirements, location (online, local, interstate, international or national regulatory requirements) and whether the student will be paid a stipend or scholarship or engaged separately as an employee, or not; or whether RMIT will make any payments to the partner organisation for hosting the student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) WIL Coordinators must ensure that all parties are adequately prepared and informed in a timely manner about their duties, roles, rights and responsibilities for participating in WIL activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) WIL arrangements must be consistent with the guidance available from Fair Work Australia regarding placements for the purposes of credit towards study, as well as work experience and internships. For students on overseas placements, workplace arrangements must comply with local employment and workplace legislation, including safety.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(24) Ownership and rights regarding intellectual property created through or used as part of the WIL activity must be agreed between the student, RMIT and the partner and documented, before an activity starts. Students must properly understand what they can and cannot do with intellectual property resulting from or provided to them in a WIL activity, as well as confidential information or proprietary material of the partner organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(25) Any WIL agreements requiring translation must be undertaken by a translation service accredited by the National Accreditation Authority for Translators and Interpreters. The cost of the translation and interpreting services are charged to the relevant school/industry cluster or nominated area.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(26) Partner organisations may request that RMIT use the partner organisation’s WIL agreement. Any such agreement must be reviewed by RMIT Legal Services prior to signing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(27) WIL agreements must be used for all WIL activities (including paid) involving partner organisations (including RMIT), regardless of whether the activity is on campus, off campus or online, and must have the appropriate RMIT approval as set out in the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(28) RMIT staff must not commit RMIT to any additional legal or other obligations or costs without seeking appropriate advice from Legal Services.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(29) In situations where an overarching WIL agreement or memorandum of understanding is in place establishing a relationship between a partner organisation and RMIT, students must sign a Student Undertaking (also known as a Schedule – Student Undertaking) that acknowledges:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "their acceptance and understanding of their roles, rights and responsibilities during WIL activities with that partner organisation, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the roles, rights and responsibilities of RMIT and the partner organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(30) RMIT WIL agreement templates, change annexures, the Student Undertakings and information sheets must be accessed from the RMIT staff WIL website to ensure the most up-to-date version is used.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(31) Completed WIL agreements, change annexures, associated information sheets and Student Undertakings are to be managed by the WIL Coordinator (or delegate).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(32) Electronic copies of the WIL agreement, Student Undertaking, change annexure, insurance documents and WIL Risk Assessment Checklist must be filed in:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "TRIM, for RMIT Vietnam",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "InPlace, which is the designated WIL data collection system for RMIT Australia and for any other global WIL experiences.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(33) The collection of personal information must be undertaken in accordance with the RMIT Privacy Policy and Retention and Disposal Standard.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(34) College/school/industry cluster WIL teams will complete due diligence and risk assessment related to health, safety and wellbeing when engaging industry or community partners to ensure risks are adequately managed by the partner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(35) The relevant WIL Coordinator or Course Coordinator will assess a student’s eligibility to undertake a WIL activity against the requirements prescribed in the program or course guide, including mandatory requirements or applicable acceptance criteria.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(36) Before any student who is 17 years or younger starts an off-campus WIL activity, the WIL Coordinator or Course Coordinator must ensure supervising staff of the partner organisation (the provider of the placement or activity) supplies proof before the placement begins that supervising staff have current, valid Working with Children Check.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(37) Students must fulfil all mandatory requirements and meet any applicable acceptance criteria, including those required by a partner organisation, in relation to a WIL activity before commencing the activity. Where a partner organisation or professional body requires students to submit a satisfactory Police Check, Working with Children Check, NDIS Check or other mandated compliance requirement including immunisation, vaccination, licences, and first aid certificates before commencing the WIL activity, and the student does not do this by the timeline communicated by the WIL Coordinator, RMIT may not be able to approve that the student commences the WIL activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(38) Where a student does not fulfil applicable hurdle assessment or mandatory requirements or meet any applicable acceptance criteria, including those required by a partner organisation, for a WIL activity before commencing the activity, the consequences may include the student:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "being unable to complete the relevant course, undertake applicable assessment, or meet other timing or pre-requisites for the course or program, which may delay other course or program activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "receiving a fail (NN) or hurdle fail result (NH) or not yet competent result (NYC) for the course, including if the compliance deadline is after the relevant census date for that course",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "needing to take other steps, including meeting with the relevant Program Manager, to re-map their studies or program, including re-scheduling where possible.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(39) Where WIL activities are to be completed overseas, students must be registered in Student Mobility Management Systems (Mobi) and processed through Global Learning. Refer to the Travel Instruction - Leading Student Travel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(40) The WIL Coordinator has a responsibility to ensure students are informed:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "of their roles, rights and responsibilities throughout the WIL activity as documented in the WIL agreement and Student Undertaking, as well as the applicable eligibility requirements or pre-conditions such as the provision of proof of immunisations, vaccinations, Police Checks, Working with Children Checks, or where to find out about applicable eligibility requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "of required conduct and safety policies and procedures on campus, online and at partner organisation workplaces",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "that if the student decides to end a WIL activity early, to contact their designated RMIT contact as soon as practicable, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "that RMIT student wellbeing, student support and Safer Community services remain available if the student experiences unreasonable or unsafe workplace behaviour or sexual harm during the WIL activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(41) Where applicable, the WIL Coordinator must also ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "students are assigned to, and/or are approved for, appropriate WIL activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reasonable adjustments to WIL activities are made for students with a disability, long-term illness or a mental health condition, where those students have disclosed the need for the adjustments, including by way of an Equitable Learning Plan, and the reasonable adjustment is required for the student to participate in or continue to participate in, or derive or continue to derive, any substantial benefit from the WIL placement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(42) The WIL Coordinator has a responsibility to inform partner organisations:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "of their roles, responsibilities, and obligations regarding students, including to supervise and monitor student progress if the activity is a placement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "that they must provide an induction or orientation for students in relation to applicable policies and procedures in their workplaces, including in relation to safety, if the activity is a placement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "that they must immediately notify RMIT of any health, safety or well-being concerns relating to the student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "any reasonable adjustments that are required for the student to engage in the WIL activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(43) The WIL Coordinator is responsible for ensuring the ongoing processes for monitoring and supervising student progress throughout the WIL activity are determined before commencement of the activity and documented in the Schedule – Student Undertaking.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(44) Monitoring, supervising and reporting on the student learning progress and assessment outcomes are the responsibility of both RMIT and the partner organisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(45) The WIL Coordinator and partner organisation must ensure potential risk management issues, such as hazards, are identified before commencement of the WIL activity using the appropriate risk assessment document and that risk mitigations are put in place.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(46) Risk assessments must consider travel arrangements where students are undertaking WIL activities in a rural location, interstate or overseas. Refer to the Travel Procedure - Student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(47) In line with RMIT Health, Safety and Wellbeing processes and Student Safety Measures Procedure, WIL Coordinators must report all WIL emergencies, critical incidents or identified hazards to the partner organisation supervisor, RMIT Health, Safety and Wellbeing through the relevant online incident reporting system, and the program manager.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(48) It is the responsibility of students studying in Australia on a student visa to be aware of their current visa conditions in terms of paid, unpaid or volunteer work and any impact an offshore WIL activity may have on future visa applications.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(49) Students studying in Australia on a student visa are only permitted to work (which includes paid and unpaid industry placement WIL hours) a maximum number of hours per fortnight while classes are in session unless the work-based training hours have been registered for their program on CRICOS (Commonwealth Register of Institutions and Courses for Overseas Students). Refer to the Department of Home Affairs for current number of hours permitted or other conditions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Changes or cancellation of WIL activities in WIL courses",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(50) In situations where WIL activities are no longer supported by a partner organisation and must be ended before originally anticipated, the Course Coordinator will use reasonable endeavours to facilitate alternative WIL activities where possible, considering:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lead times for arranging new partner organisations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the requirements of any accrediting bodies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the duration and nature of the activity to be provided, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "assessments required as part of the relevant course or program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(51) In the case of WIL activity cancellation by a partner organisation, the affected student should be prioritised for a new activity by the Course Coordinator, where possible, to minimise any impact on the student’s progression in the program. The nature and duration of the activity, the credit points allocated, specific learning outcomes required to be achieved, any corresponding assessments, and therefore any potential substitute activities may affect what alternatives can be provided for an affected student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(52) For WIL activities that are still able to continue but have significant changes to mode of delivery, activities, assessment, or any other significant change, the WIL Coordinator must ensure that a change annexure is completed to update the WIL Agreement details, as well as updating data and records in InPlace.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(53) If a student wants to end their WIL activity early, they must put their request in writing to their WIL Coordinator or Program Manager setting out their reasons for wanting to end it prior to the anticipated end date. The WIL Coordinator or Program Manager:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "may seek advice from relevant subject matter experts in considering all the relevant circumstances of the request, including Risk, Safer Community, and ARG, and obtain any additional relevant information to assess the request. In considering a request, the WIL Coordinator or Program Manager should put in place any interim, precautionary or safety measures as appropriate to manage risk, including under the Student Safety Measures Procedure or other relevant policies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "must provide a response to the student within a reasonable timeframe, setting out whether the activity should continue, stop, or for an alternative activity to be progressed. The decision should consider: the nature of the student’s reasons and the activity accrediting requirements assessments consequences for other course and program progression availability and duration of other activities, and any other relevant circumstances or requirements, including the application of other relevant policies and procedures.",
+              "subclauses": [
+                "the nature of the student’s reasons and the activity",
+                "accrediting requirements",
+                "consequences for other course and program progression",
+                "availability and duration of other activities, and",
+                "any other relevant circumstances or requirements, including the application of other relevant policies and procedures."
+              ]
+            },
+            {
+              "clause_number": "11",
+              "text": "(54) A partner organisation or the relevant school or industry cluster may decide that it can no longer proceed with a student’s WIL activity, or that the activity must be stopped prior to the anticipated end date for a range of reasons. These reasons include, but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the partner’s inability to continue supervision or meet other expectations in the WIL agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "concerns raised by a student, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the student's conduct or performance during a WIL activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(55) The relevant school or industry cluster may also decide to end an activity based on information which a partner organisation or a student has provided.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(56) If the partner organisation decides to end an activity early, the school or industry cluster will seek relevant information from the partner which has informed their decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Where a partner or the school or industry cluster ends an activity because of concerns or issues regarding a student’s performance or competency, behaviour, or compliance with their obligations, the school or industry cluster will seek as much relevant information as possible about the circumstances leading to the partner’s decision. Information may include records or a summary of behaviours or performance, any documentation provided to the student by the partner, steps taken by the partner to improve or address concerns such as meetings, additional training or coaching, feedback or other adjustments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The school or industry cluster will also seek information from the student about the activity, the partner and any other relevant circumstances, such as their own records, accounts or feedback.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(57) Where the basis for the end of a WIL activity relates to behaviour or conduct of the student which may also constitute misconduct under the Student Conduct Policy, the school or industry cluster will apply the relevant processes under that policy suite, including regarding investigations and the provision of procedural fairness.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(58) Where the basis for the end of a WIL activity relates to competency or performance, the school or industry cluster will inform the student, and will meet with the student to provide an opportunity for the student to respond, or provide any other relevant information. Unsatisfactory progress (poor performance) and feedback on assessment must be managed in accordance with the Assessment and Assessment Flexibility Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(59) In all instances where a WIL activity is ended early the WIL Coordinator, Program Manager and relevant Dean, Head of School or Cluster Director must make a decision about the student’s progress in relation to the WIL course to which the WIL activity corresponds. The decision may be determined:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "by the outcome of and consequences following any Student Conduct Policy process",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "with reference to the circumstances leading to the end of the WIL activity, and the materials and information provided by the partner and the student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "by the options which are practically available for progress, such as alternative WIL activities within a relevant teaching period, semester or course term",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "by considering the learning outcomes, course requirements, program structure, and any other assessment requirements, such as whether the WIL activity is a hurdle requirement for a course, as well as what assessment outcomes or grades (e.g. pass, or NN, NH fail) are applicable. Depending on the course and program structure, and partner availability, it may be necessary for a student to undertake a placement or project in a subsequent teaching period, which also requires the student to re-enrol in the course",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "by any other relevant facts or circumstances regarding the student, the partner, and the WIL activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(60) Refer to the following documents which are established in accordance with this procedure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Program and Course Work Integrated Learning Procedure RACI Matrix",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Work Integrated Learning for staff including InPlace and online resources for WIL Coordinators",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "WIL Ready for Staff learning module.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

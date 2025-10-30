@@ -1,0 +1,562 @@
+{
+  "metadata": {
+    "title": "Under 18 International Student Curfew Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=310",
+    "scraped_date": "2025-10-31 01:22:51"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Curfew Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) All students subject to a CAAW are required to abide by a curfew of 10:00 PM. Once curfew attendance has been registered at a Purpose-Built Student Accommodation facility (PBSA) or the student has returned to their homestay (Homestay), students are expected to remain at the approved accommodation provider until 06:00AM the next morning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) Students subject to an RMIT CAAW who are accommodated in a PBSA must register curfew attendance and show ID, every night, in person, before 10:00 PM. Once curfew attendance has been registered or the student has returned to their homestay, students are expected to remain at the approved accommodation provider until 06:00 AM the next morning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) The curfew sign-in process must be supervised by a PBSA staff member. Sign in must be conducted in a common area of the accommodation facility.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) A curfew breach occurs when one (or more) of the following occurs:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a student subject to RMIT CAAW leaves the approved accommodation after 10:00 PM without an exemption or after having registered curfew attendance",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "a student subject to RMIT CAAW uses a third party or proxy to register curfew attendance",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "a student subject to RMIT CAAW arrives at accommodation after 10:00 PM or fails to check-in without having first secured an RMIT approved Curfew Extension (see (11)).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(10) If a student subject to RMIT CAAW knows they will arrive at their accommodation later than 10:00 PM, they must contact their accommodation provider and caregiver to explain the reason for a breach of curfew as soon as practicably possible.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Curfew Exemptions and Extensions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Students subject to an RMIT CAAW who wish to return to their approved accommodation after 10:00 PM must secure an RMIT University approved Curfew Extension Request (CER). A CER may be approved if the following conditions have been met:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "evidence of parental or guardian consent has been submitted [see Definitions]",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the assigned caregiver has acknowledged the CER",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the accommodation provider has been provided CER details",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "event details, including transport to and from, have been provided to RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the student has provided emergency contact details",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the CER does not exceed 1:00 AM.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(12) Students who wish to reside overnight or over a series of nights with a visiting relative who has been approved by the Department of Home Affairs, , and not at their approved accommodation, must secure an approved Temporary Welfare Waiver (TWW). A Temporary Welfare Waiver may be approved if the following conditions have been met:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "evidence of parental or guardian consent has been submitted [see Definitions]",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the assigned caregiver has acknowledged the TWW",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the accommodation provider has been provided TWW details",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "RMIT has received confirmation of the flight and accommodation details of the parent, relative, or legal guardians.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(13) Students who wish to return to their home-country for a holiday must secure an approved Holiday Request. A Holiday Request may be approved if the following conditions have been met:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "evidence of parental or legal guardian consent [see ‘Section 5 Definitions’ below] has been submitted",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the requested dates do not unreasonably impose on relevant study periods",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the assigned caregiver has acknowledged the Holiday Request",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the accommodation provider has been provided Holiday Request details",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "RMIT has received confirmation of students outbound and returning flight details.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(14) Applications for exemptions detailed under clauses (11) and (12) above should be submitted at least three business days prior to the planned absence from their approved accommodation. Applications for exemptions detailed under clause (22) should be submitted at least two weeks prior to the planned absence from the approved accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Applications submitted later than these deadlines are not guaranteed to be considered in time for the period in the request.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Applications for curfew exemptions submitted on weekends, during public holidays, university closure, or after university operating hours, will not be assessed until the next business day.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Same day processing and approval of submissions for CER received after 3:00 may not be guaranteed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(15) RMIT may reject a CER if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the proposed arrangements are deemed inadequate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the CER application is incomplete",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the CER application is submitted after the nominated curfew extension time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the student has previously breached curfew without authorised approval",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the student has a recorded history of behaviours of concern [see Definition below], or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "if the exemption is believed to expose the student to undue risk.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(16) If a student can provide supporting documentation of exceptional circumstances for a late check-in, absence, or failure to submit a CER, a formal curfew breach may be waived.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Curfew Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(17) PBSAs must report the daily curfew register to RMIT University by the following day.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(18) All breaches and curfew exemptions must be included in curfew report. Exemptions and breaches of curfew may include, but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "curfew register signed by 10:30 PM with valid reason for late signature",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "failure to sign register but is independently confirmed on residence before 10:00 PM",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any exemption granted by an approved CER, TWW, or Holiday Request, as outlined in clauses (11)–(13) above.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(19) Homestay hosts are not required to submit a curfew report but are required to comply with Curfew Exemption clauses (11)-(13) and Curfew Breach clauses below (21)–(29).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Managing Curfew Breaches",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) RMIT University will advise accommodation providers of the contact details of caregivers assigned to students and the 24-hour emergency phone line. These details must be maintained and used by accommodation providers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) If a student subject to RMIT CAAW is moving into new accommodation and does not arrive within an hour of the expected date and time, the accommodation provider must notify the caregiver, the parent or legal guardian, and RMIT University.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) The accommodation provider must provide details of the curfew breach to RMIT University no later than the next day and at minimum include the following details:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "RMIT student ID number",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "student phone number",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "time and details of last contact with student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "time of last sighting of student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "confirmation of actions undertaken to confirm the whereabouts of the student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "observations of student behaviour when last sighted or contacted",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "reported welfare concerns from third parties, where applicable.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(23) If a student subject to RMIT CAAW is in breach of curfew at their approved accommodation, the accommodation provider must undertake the following actions within 30 minutes of 10:00 PM:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Call the student’s mobile phone to confirm student location, movement, and safety.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If the student does not answer the phone call, conduct onsite check of the student’s room.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "If the student does not answer the door, the accommodation provider must open the door to conduct a welfare check in accordance with house rules.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "If the student is not onsite or contactable by phone, the accommodation provider must contact the caregiver immediatelye. If the caregiver is un-contactable, the accommodation provider must immediately contact emergency services and RMIT Security.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(24) When the caregiver is notified that a student has not signed in for curfew, is not present in their room, and is not answering their mobile phone, the following actions are taken:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Caregiver staff to attempt to communicate with student within 30 minutes of notification from accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If student answers, check student is safe, confirm location, and confirm how student will safely travel back to accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Notify accommodation provider that student is returning to approved accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Accommodation provider to note time student returns and email details to caregiver and RMIT University [see: (22)].",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(25) If the caregiver is unable to contact the student, the sequence of actions between the caregiver and the parent or legal guardian is:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Caregiver to immediately contact student’s parents or legal guardians, advise them of breach of curfew, and that they have been unable to contact the student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Caregiver to request the parents or legal guardians attempt to contact the student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "If the parent or legal guardian makes contact with the student, they must update the caregiver immediately.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Caregiver to update accommodation provider of student's location, travel plans, and proposed time of return to accommodation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Accommodation provider to note time student returns and email caregiver and RMIT University [see: (22)].",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(26) Caregiver must provide a written report of the incident to RMIT University by the following morning and at minimum include the following details:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "RMIT student ID number",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "student phone number",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "time and details of last contact with student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "time of last sighting of student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "confirmation of actions hereto undertaken to confirm the whereabouts of the student",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "observations of student behaviour when last sighted or contacted",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "reported welfare concerns from third parties, where applicable",
+              "subclauses": []
+            },
+            {
+              "clause_number": "35",
+              "text": "(27) If caregiver, parents or legal guardian cannot establish contact with the student within 1 hour of 10:00 PM:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "caregiver to immediately contact emergency services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "caregiver to notify RMIT University Security and 24-hour emergency contact",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "caregiver to continue trying to establish contact",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "RMIT University Security to advise Critical Incident Management Team (CIMT).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "RMIT University to initiate Missing Student protocol.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "41",
+              "text": "(28) RMIT Under 18 International Student Welfare must report all curfew breaches with welfare concern to Wellbeing Case Management (urgent.studentsupport@rmit.edu.au) as soon as notification received. See Curfew Breach Penalties Schedule [Appendix].",
+              "subclauses": []
+            },
+            {
+              "clause_number": "42",
+              "text": "(29) Repeated breach of curfew or curfew breaches that present unacceptable risk to RMIT University or the student may result in the cancellation of a student’s CAAW. See Curfew Breach Penalties Schedule [Appendix].",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(30) RMIT University, approved accommodation providers, and caregiver services are responsible for the provision of curfew information to students upon confirmation of CAAW, accommodation contract, caregiver contract, and upon a student’s arrival in Australia.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(31) RMIT University is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the provision of the assigned caregiver details to the contracted accommodation provider",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "monitoring and recording curfew reporting and curfew breaches and for issuing curfew breach notices.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(32) Students and parents or legal guardians are responsible for ensuring they are familiar with curfew requirements and all other conditions of a CAAW.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(33) Accommodation providers and caregivers are responsible for the timely reporting of student curfew registration, curfew breaches, welfare concerns, or other activities that may impact a student CAAW.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(34) RMIT Under 18 International Student Welfare is responsible for maintaining curfew breach and curfew register records and for the issuance of curfew breach penalties, where applicable. Curfew Breach Penalties are detailed in the Appendix.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(35) The RMIT Youth Wellbeing Senior Advisor and RMIT Under 18 International Student Welfare are responsible for assessing risk thresholds associated with non-critical curfew breaches and determining appropriate action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(36) The RMIT Youth Wellbeing Senior Advisor and assigned caregiver are responsible for organising and attending a meeting with students who have been issued a curfew breach notice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(37) The RMIT Youth Wellbeing Senior Advisor and the RMIT Associate Director Student Wellbeing, within RMIT operational hours, are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "initiating critical incident response when a student cannot be contacted",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the issuance of final curfew breach notifications and for organising and attending a meeting with the student.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(38) RMIT Under 18 International Student Welfare is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "notifying the student and parents or legal guardians of intention to cancel CAAW",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "maintaining welfare until appropriate alternate welfare arrangements are in place",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "notifying RMIT Enrolment Services of the cancellation of a CAAW",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "notifying the Department of Home Affairs of the cancellation of a CAAW via PRISMS in accordance with Standard 5 of the National Code and Section 19 of the ESOS Act.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(39) The Executive Director Students is responsible for monitoring compliance with this procedure and reviewing the procedure every three years.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

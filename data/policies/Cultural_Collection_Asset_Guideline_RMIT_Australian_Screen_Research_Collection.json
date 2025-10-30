@@ -1,0 +1,911 @@
+{
+  "metadata": {
+    "title": "Cultural Collection Asset Guideline: RMIT Australian Screen Research Collection",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=158",
+    "scraped_date": "2025-10-31 01:22:56"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Collections Scope",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) The RMIT Australian Screen Research Collection collects material related to cinema and television industry and culture from around the world with a focus on Australian cinema through the following themes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "film theory and criticism",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Australian television",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Australian directors",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "international film distribution and marketing within Australia",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "filmmaking processes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "film cultures around the world.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) The RMIT Australian Screen Research Collection also collects specified areas of changing University curriculum including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Histories of Film Theory",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Authorship and Narrative",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Screening Politics and Economies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Australian film distribution and marketing within Australia and internationally",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(8) The RMIT Australian Screen Research Collection collection scope covers from 1895 to the present day.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(9) The geographic focus of the collection is Australia but may extend to other areas in accordance with changing University curriculum.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(10) The RMIT Australian Screen Research Collection will collect:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "film and television scripts",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "newspaper and magazine clippings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "film promotional material, including posters, brochures",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "film festival catalogues",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(11) Priorities for collection development will be identified annually by RMIT Australian Screen Research Collection staff and the RMIT Australian Screen Research Collection Collection Advisory Panel (CAP).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(12) Collection priorities will be shared with the RMIT Culture Advisory Panel at the first meeting each year.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acquisitions",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) RMIT Australian Screen Research Collection will acquire items by donation, bequest, purchase or transfer of title.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) RMIT Australian Screen Research Collection will not accept:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "conditional donations, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "permanent loans. Extended loans for established periods of time will be negotiated as required (see Loans).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(15) Items offered to RMIT for RMIT Australian Screen Research Collection under the Cultural Gifts Program will be assessed in accordance with the Cultural Gifts Program Guideline.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(16) RMIT Australian Screen Research Collection will conduct acquisition processes in accordance with the ICOM Code of Ethics.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(17) All offers of donation will be reviewed considered by the Collection Advisory Panel, with final approval resting with the Director, Philanthropy and Public Engagement (or their approved delegate).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(18) Proposed acquisitions must meet the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Legal Requirements: The RMIT Australian Screen Research Collection will only accept items where the donor/ vendor has clear legal title to the item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Provenance and Documentation: The history of the item must be known and associated documentation and support material can be provided.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Storage: Acceptance of large items (or collections) will be conditional on storage space being available as well as resources required to house them appropriately.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(19) Proposals will be further assessed according to the following criteria:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Significance: Items which are significant for their historic, aesthetic, scientific/research or social/spiritual value.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Relevance: Items that relate to their collection purpose and collection scope (see Collections Scope).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Condition, Intactness, Integrity: Items should be in good condition, suitable for research or display and not requiring extensive conservation work or treatment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Interpretive and Teaching Potential: Items that enhance the interpretation of collection themes or align with the University’s teaching and learning objectives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Rarity: Rare examples of a particular kind of item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Representativeness: Excellent representative examples of a particular kind of item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Duplications: Items that duplicate items already within the collection or elsewhere within RMIT will not be accepted unless they are of superior condition and/or historic value.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Acquisition Process",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) Any travel costs in excess of $100, associated with assessment or acquiring of a potential collection item, must be pre-approved by the Manager, Cultural Collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(21) No material should be brought onsite without prior approval from the Manager, Cultural Collections (or their delegate). Early receipt of material should only occur in instances of exceptional circumstances.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(22) In general, material will be considered unavailable for research, teaching and learning purposes until fully processed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) In general, the first point of contact is the Collection Coordinator. Potential Donors should be referred to the Collections Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(24) Potential donors, in liaison with the Collection Coordinator, may be required to complete an Offer of Donation Form to record the context, history, significance and associations of the material, and will provide any supporting documentation demonstrating provenance. Relevant information will be compiled by the AFIRC Librarian in the Acquisition Proposal Form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(25) The Collection Coordinator, will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "appraise offers of donation against the Collection Scope and Acquisition Criteria and include this in the Acquisition Proposal Form",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensure the Acquisition Proposal Form is complete and sent to the Manager, Cultural Collections at least two weeks prior to the next Collection Advisory Panel meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(26) The Manager, Cultural Collections will send proposed acquisitions documentation and meeting agenda to the Collection Advisory Panel at least one week prior to meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(27) The Collection Advisory Panel will recommend the offer of donation be approved or declined. Final approval for acquisitions rests with the Director, Philanthropy and Public Engagement (or their approved delegate).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(28) On approval of the proposed donation, the donor will be informed of the outcome and required to sign a Deed of Gift assigning legal ownership for the material to the RMIT Australian Screen Research Collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(29) The material will be transferred onsite for inventory, registering (or cataloguing), physical numbering, photographing (or digitisation) and rehousing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(30) If any material is brought on site before it has been assessed and rejected by the Collection Advisory Panel, the material will be returned to the donor with an explanatory letter within 30 days.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(31) If the material for whatever reason is not claimed by the donor or it is not able to be returned, RMIT may treat any such material as uncollected goods according to the Australian Consumer Law and Fair Trading Act 2012 (Vic).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(32) The Collection Coordinator will be responsible for all vendor negotiations and, in general, be the first point of contact with them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(33) Any member of the RMIT Australian Screen Research Collection may make recommendations for acquisitions by purchase via the Acquisition Proposal Form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(34) The Collections Coordinator will ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "acquisition proposals are appraised against the Collection Scope and Acquisition Criteria.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the Acquisition Proposal Form is complete and sent to the Manager, Cultural Collections at least two weeks prior to the next Collection Advisory Panel meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(35) The Manager, Cultural Collections (or their delegate) will send proposed acquisitions documentation and meeting agenda to the Collection Advisory Panel at least one week prior to meetings.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(36) Items acquired for the RMIT Australian Screen Research Collection permanent collection by purchase, must obtain financial approval from the appropriate delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Should the total price for a purchased collection item exceed the capitalisation threshold of $5000, including costs incurred in getting the asset to a position of use (e.g. import duties, delivery fees), RMIT Australian Screen Research Collection will inform Financial Control in accordance with the Cultural Asset Management Procedure. This threshold excludes Library items and Works of Art.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Collection Storage and Conservation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(37) RMIT Australian Screen Research Collection aims to achieve high standards of collection care and storage.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Collection storage areas will be secure, tidy and sealed against the weather.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Access to storage areas will be controlled and monitored by Collections staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Ultra-violet light will be excluded from storage areas. When storage areas are not in use lights must be turned off.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Preference will be given to archival quality storage materials.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "No material will enter collection stores without first being quarantined.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Storage areas will be regularly cleaned and checked for pests and other problems in accordance with the RMIT Cultural Collections Integrated Pest Management Plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Collection items will be allocated a permanent storage location and, when not in immediate use, will be stored there at all times. Any change of location (including temporary) will be recorded immediately in the collection management system by trained personnel.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Items should not be stored on the floor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Untrained personnel are not allowed to handle, clean, treat or restore collection items without supervision of collections staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Researchers will be given guidance on how to appropriately handle specific materials prior to handling collections items and where required PPE will be provided to them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "All professional staff and volunteers working with to handling collections will be required to participate in annual refresher training, to be led by collections staff.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Deaccessioning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(38) An item may be considered for deaccessioning if:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the physical condition of the item is so poor that restoration is not practicable or would compromise its integrity items that are damaged beyond reasonable repair and are of no use for study or teaching purposes may be destroyed",
+              "subclauses": [
+                "items that are damaged beyond reasonable repair and are of no use for study or teaching purposes may be destroyed"
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "the item poses threats to health and safety to the staff and the public",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the item breaches Aboriginal, Torres Strait Islander or other community group cultural guidelines",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "AFIRC is unable to care adequately for the item because of its particular requirements for storage or conservation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "the item is a duplicate that has no added value as part of a series",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "the item is of poor quality and lacks aesthetic, historical and/or scientific value for exhibition or study purposes and no longer meets the criteria listed above under Acquisition Criteria",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "authenticity or attribution of the item is determined to be false or fraudulent, and the fraudulent item lacks sufficient aesthetic, historical and/or research value to warrant retention. In disposing of a presumed forgery, the RMIT Australian Screen Research Collection shall consider all related legal, curatorial and ethical consequences, and should avoid releasing the item to public auction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "the item is more suited to another collecting organisation and its collecting scope",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "RMIT Australian Screen Research Collection's possession of the item is inconsistent with applicable law or ethical principles, e.g., the item was, or may have been, stolen or illegally exported or imported, or the item may be subject to other legal claims for return or restitution",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "the item is no longer consistent with the RMIT Australian Screen Research Collection's mission or collecting goals",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "a substantiated request for the return of the item to its original owner/donor is received.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(39) Collections staff will identify and propose material to the Collection Advisory Panel for consideration, with close reference to the Criteria for Deaccessioning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(40) Deaccessioning proposals will be presented in writing via the Acquisitions Proposal Form and contain:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a brief description of the item and provenance (if known)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "acquisition details and legal status",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reasons for recommending deaccessioning.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(41) Where possible and appropriate donors, or their legal representative, will be contacted and notified of intent to deaccession.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(42) The item identified for deaccession must be held for a twelve-month ‘cooling-off’ period before it is finally disposed of unless it poses an unacceptable hazard to personnel or to other collections, in which case it may be disposed of earlier, in consultation with Health, Safety and Wellbeing.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(43) When deaccessioned, the details provided as part of the deaccessioning proposal will be recorded on the item’s file and will be available for inspection if required. Accession numbers will not be reallocated to other items.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(44) Staff, volunteers, committee members and their families are prohibited from purchasing, or otherwise obtaining, any deaccessioned item.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(45) Any funds realised from the deaccessioning and disposal of an item will be used solely for the benefit of the collection in accordance with the Guidelines on Deaccessioning of the International Council of Museums.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(46) Where the RMIT Australian Screen Research Collection has decided to dispose by exchange, the agreement for exchange may include provision for payment or receipt of money in addition to the deaccessioned object, in recognition of the difference in value between the objects exchanged.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(47) Where possible and relevant, the name of the donor or the fund from which a deaccessioned item was originally acquired is to be credited to a new acquisition.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(48) Approved methods of disposal in priority order are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Return to original donor (unless the item was acquired under the Australian Government’s Cultural Gifts Program).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Transfer to a like-minded organisation, relevant, public collecting institution.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Redistribution within RMIT as an educative/interpretive tool.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Sale by public auction (unless the item was acquired under the Australian Government’s Cultural Gifts Program).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Access",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(49) Access to RMIT Australian Screen Research Collection is facilitated in the following ways:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "collection databases will be made available via the RMIT Australian Screen Research Collection",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "physical collection records and items are made available for research purposes by appointment under collection staff supervision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where possible, collections engagement will be enhanced through open storage, displays and public programs. RMIT Australian Screen Research Collection will lend items to other organisations for exhibition. It will not lend to private collectors, students or individuals.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Loans",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(50) The RMIT Australian Screen Research Collection may:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "lend and borrow material to help meet its purpose.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "lend items to other collecting organisations. It will not lend to private collectors, students, or individuals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(51) The RMIT Australian Screen Research Collection does not accept permanent, long-term or conditional loans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(52) Loan forms must specify the agreed insurance coverage to be met by the Borrower.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(53) Loans documentation will be managed by Collection Coordinator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(54) Inter-Library Loans will be coordinated and managed by RMIT Library staff in coordination with collections staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(55) Inward loans shall only be accepted for specific research and for fixed periods of time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A representative of both RMIT Australian Screen Research Collection and the lender will be required to sign an agreed inward loan form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Each party will hold a copy of this agreement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "This form will record conditions of the loan and the period of the loan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Loans shall remain in the possession of RMIT Australian Screen Research Collection for the time specified on the form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(56) RMIT Australian Screen Research Collection agrees to exercise the same care with respect to loans as it does for its own collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(57) RMIT Australian Screen Research Collection may request to renew loans if required. Documentation recording renewal must be signed by the RMIT Australian Screen Research Collection and the lender.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(58) RMIT Australian Screen Research Collection will recognise the asset at current market value at insurance value set by the Lender and agreed to by RMIT's Enterprise Risk Management.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(59) RMIT Australian Screen Research Collection will inform Financial Control of receipt of any loaned item in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(60) RMIT Australian Screen Research Collection may lend items to other collecting organisations. It will not lend to private collectors, students or individuals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "A formal loan agreement will be signed by both parties, outlining any conditions and the period of the loan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The Borrower must exercise care in the handling, storage and display of the loaned item and must be prepared to meet the conditions outlined in the outward loan agreement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The Borrower will provide a secure display and/or storage area.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "The maximum loan period is 12 months. Applications for extension of this period must be made prior to the loan expiry date.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(61) Loaned items may not be treated or altered in any way without the written permission of the RMIT Australian Screen Research Collection or the Manager, Cultural Collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(62) Loans will remain in the possession of the borrower until returned to the RMIT Australian Screen Research Collection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(63) For any item listed on the asset register loaned to an outside institution, the RMIT Australian Screen Research Collection will notify Financial Control of the change of location, in accordance with the Cultural Asset Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Born Digital and Digital Collections",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(64) The RMIT Australian Screen Research Collection acknowledges that digital collections are as important as physical and analogue collections.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(65) Decisions on born digital material will be subject to the same acquisition criteria and processes as non-digital items.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(66) The Digital Preservation Process will include the following steps:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Quarantine: Records are checked for viruses and completeness against lists provided by government agencies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Preservation: Records are preserved (normalised, or converted, into open formats)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Storage: Records are deposited for long-term storage in a digital archive.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Back-up: Digital records are regularly backed-up (daily to RMIT server; monthly to external hard-drive).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(67) Digitisation projects will be guided by the National Library of Australia Image capture standards and the National Film and Sound Archive of Australia Technical Specifications for Preservation Digitisation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Oral Histories",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(68) The RMIT Australian Screen Research Collection will observe their legal, ethical and moral obligations in the recording, transcribing and subsequent use of oral history interviews in accordance with the Oral History Australia Guidelines for Ethical Practice as well as the RMIT Research Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(69) An Oral History Agreement must be signed by the person interviewed, which clearly states the purpose and intended uses of the interviews and what copyright provisions apply.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(70) RMIT Australian Screen Research Collection aims to have full copyright over any material it collects with regards to oral histories.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(71) Associated material collected as a result of an interview (e.g. diaries, photographs, etc.) will be subject to the same collection acquisition criteria as outlined in Acquisitions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Legal/Ethical Obligations",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(72) RMIT Australian Screen Research Collection endorses Article 31 of the United Nations Declaration on the Rights of Indigenous Peoples which states that Indigenous peoples have the right to maintain, control, protect and develop their cultural heritage, traditional knowledge and traditional cultural expressions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(73) The RMIT Australian Screen Research Collection is committed to providing an accessible and inclusive learning and work environment that promotes diversity, inclusion and equal opportunity, and is free from discrimination, sexual harm, victimisation and vilification in accordance with RMIT’s Inclusion, Diversity and Equity Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(74) These principles will form the basis of an ongoing dialogue between stakeholders and the Collection, and will be periodically reviewed and revised in order to better facilitate understanding, collaboration and organisational goals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(75) The RMIT Australian Screen Research Collection recognises First Nations Peoples' ownership of their Indigenous Cultural and Intellectual Property that may be held in our collections and works proactively with Aboriginal and Torres Strait Islander staff members and communities to provide access to collections. This includes any cultural heritage and knowledge recorded in published works.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(76) The management and display of collection items and/or documentation pertaining to any Aboriginal and Torres Strait Islander material will comply with the:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Australian Museums and Galleries Association (AMAGA) First Peoples: A Roadmap for Enhancing Indigenous Engagement in Museums and Galleries",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Aboriginal and Torres Strait Islander Protocols for Libraries, Archives and Information Services (2012)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Tandanya-Adelaide Declaration (2019)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Dhumbah Goorowa Reconciliation Plan 2019-2020",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(77) In doing so, the RMIT Australian Screen Research Collection will promote standards of excellence in practice, in accordance with National and State Libraries Australasia National position statement for Aboriginal and Torres Strait Islander library services and collections, with a focus on the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The right of Aboriginal and Torres Strait Islander peoples to: be informed about collections items that exist relating to them, their culture, language and heritage determine any use and access provisions for collection items that relate to them, their culture, language, history and perspectives request the removal of or limiting of access to content that should not be accessed due to cultural restrictions.",
+              "subclauses": [
+                "be informed about collections items that exist relating to them, their culture, language and heritage",
+                "determine any use and access provisions for collection items that relate to them, their culture, language, history and perspectives",
+                "request the removal of or limiting of access to content that should not be accessed due to cultural restrictions."
+              ]
+            },
+            {
+              "clause_number": "2",
+              "text": "The development of strategies to return usable copies of collection material to cultural owners to support cultural and language maintenance or revitalisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Aboriginal and Torres Strait Islander people will be: consulted in relation to the catalogue description and classification of collection materials, and opportunities will be made for them to annotate and describe material that relates to themselves and their communities consulted and involved with all aspects of any interpretation of any collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes.",
+              "subclauses": [
+                "consulted in relation to the catalogue description and classification of collection materials, and opportunities will be made for them to annotate and describe material that relates to themselves and their communities",
+                "consulted and involved with all aspects of any interpretation of any collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes."
+              ]
+            },
+            {
+              "clause_number": "4",
+              "text": "Aboriginal and Torres Strait Islander communities will be consulted about and before any digital content that might be made available online, including websites and social media.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Where materials are accessible, whether online or physically, access will be preceded by a notice advising Aboriginal and Torres Strait Islander people of potentially sensitive or distressing content such as images, sounds and names of deceased persons; images of people who have not yet been identified; and historical images containing nudity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(78) RMIT should consult LGBTIQA+ communities in relation to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "catalogue descriptions and classifications of collection materials, or opportunities for them to annotate and describe material that relates to themselves and their communities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "interpretation of collection items that exist relating to them, their culture, language and heritage, whether for exhibition, publication or educational purposes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "annual review of LGBTIQA+ terminology, in accordance with that of RMIT Inclusion, Diversity, Equity and Access, to ensure catalogue entries continue to reflect the expectations of LGBTIQA+ communities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(79) To the extent permitted by law and to the extent necessary to enable RMIT to exercise its rights, the RMIT Australian Screen Research Collection will uphold:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "all intellectual rights (as defined in Article 2 of the Convention Establishing the World Intellectual Property Organization (WIPO Convention)(1967))",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the principles of the Intellectual Property Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "all moral rights, rights of integrity and rights of attribution inherent in an acquisition",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(80) The RMIT Australian Screen Research Collection will adhere to the RMIT Privacy Policy and affirms RMIT’s commitment to privacy and its approach to the responsible handling of personal and sensitive information in all its forms, consistent with relevant legislation.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

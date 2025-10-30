@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "title": "Retention and Disposal Standard",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=55",
+    "scraped_date": "2025-10-31 01:21:04"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Recordkeeping",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) RMIT records that must be retained includes those which are created, maintained, sent or received whilst carrying out work at RMIT that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "will support the current or future needs of RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "provide evidence of RMIT activities",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "provide advice, instructions or recommendations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "are used to reach a decision or substantiate a sequence of decisions, actions or processes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "contain a commitment or agreement, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "are required to satisfy legal or regulatory requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(7) All staff members are required to create and maintain data and information as records which show evidence of workplace activities and decisions. These records must be full, accurate, reliable and managed in an appropriate location.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Retention Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) RMIT must preserve data and information as records for at least the period specified in Section 5 – RMIT Records Retention & Disposal Authority (RDA). Records may be retained longer if there is a justifiable reason.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Records which fall under Normal Administrative Practice (NAP) principles are not subject to Section 5 – RMIT Retention and Disposal Authority. The Destruction of Information Procedure provides guidance for identifying and managing records under NAP principles.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(10) Storage locations must be able to support the retention of records for as long as they are required for legal and business purposes, including for data analytics purposes, be able to provide sufficient protection over time and support the application of required metadata.at",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(11) Records must be maintained in a format that is expected to survive and be readable for the required life of the records. The Public Record Office of Victoria (PROV) standard: PROS 19/05 S3: Long Term Sustainable Formats provides specific requirements for digital records.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Controls must be designed and applied to processes and systems to ensure records are protected from unauthorised activity and can be trusted as credible evidence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(13) Records must be retained with required metadata, accessible for authorised use and effectively managed for as long as they are required or until they are able to be lawfully disposed of or destroyed.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Disposal Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) Disposal can involve either destruction of records of temporary retention value or transfer of state archives to PROV or a registered Place of Deposit.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) Records that have met the minimum retention period defined below in Section 5 – RMIT Retention and Disposal Authority and are eligible for disposal. Once disposal is authorised, records should be disposed of in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(16) Prior to disposal, RMIT must check that the records are eligible for destruction or transfer to another Victorian agency or registered place of deposit. The Destruction of Information Procedure outlines the requirements for records destruction.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(17) Destruction of records must follow the Destruction of Information Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) Records that fall under NAP are pre-authorised for destruction.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(19) The RMIT Retention and Disposal Authority (RDA) is adapted from, and incorporates, the following list of PROV Retention and Disposal Authorities, pursuant to the Public Records Act 1973 (Vic):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "PROS 07/01 Retention and Disposal Authority for Common Administrative Functions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "PROS 16/07 Retention and Disposal Authority for Higher and Further Education Functions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "PROS 16/01 Retention and Disposal Authority for Training Function – Accredited",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "PROS 16/02 Retention and Disposal Authority for Training Function – Non-Accredited",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "PROS 09/05 Retention and Disposal Authority for Local Government Functions (covers Childcare and Early Education)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "PROS 17/03 Retention and Disposal Authority for Records of Museum and Gallery Functions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "PROS 11/06 Retention and Disposal Authority for Patient Information Records",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "PROS 13/03 Retention and Disposal Authority for Adult Multicultural Education Services (AMES)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "PROS 24/03 Retention and Disposal Authority for Human Resources Management Function",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "PROS 22/07 Retention and Disposal Authority for Identity Verification Function",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(20) The RMIT Retention and Disposal (RDA) is outlined below. A RMIT Retention and Disposal (RDA) Search Tool is available to assist navigation of retention classes contained within the RDA. Please contact the Data and Analytics team for further guidance or questions regarding the RDA.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "14. Support and Other Services",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) For the purposes of this Standard:",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

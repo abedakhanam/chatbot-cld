@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "title": "Timetable Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=163",
+    "scraped_date": "2025-10-31 01:27:14"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Timetable Priorities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) The scheduling of learning and teaching activities must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "achieve learning outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "support student completion of a standard program structure in minimum time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "provide outcomes that enhance the student experience",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "maximise the use of the University’s facilities and teaching resources",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "maximise efficiencies for academic and teaching staff.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(6) The following considerations must be taken in account when scheduling timetables:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "classes will be scheduled taking into account scarcity of resources",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "first-year classes will have precedence for day timetabling (8:30am – 6:30pm) over later year classes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "classes that occupy large blocks of time will be scheduled prior to those which occupy small block of time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "classes of a longer duration will be prioritised in ‘upper’ floors of buildings to reduce vertical transport use",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "classes will be scheduled into venues that closest meet the requirements of the teaching activity including planned class size",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "precedence will be given to classes requiring specialised facilities in multi-use space access for students and or staff with disabilities will take precedence, matching resources with accessibility.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Scheduling",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Schools to complete class scheduling prior to the planned timetable scheduling period commencing the 1st Monday of September of the preceding calendar year.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) All class scheduled synchronous classes offered by the University under a face-to-face course offering in SAMS must be timetabled on the university’s timetable system.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Scheduling to prioritise student centric outcomes as the primary objective as governed by the planned student enrolment pathways.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Teaching Spaces",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) All lecture theatres and generic classrooms must be centrally managed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(11) All teaching spaces must be booked via the prescribed scheduling system.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(12) Timetabling Services is responsible for assigning and coordinating specialist teaching spaces in conjunction with the managing college and/or school to identify any standard setup/set down time allowances to be built into the location resource.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(13) All teaching spaces must be prioritised to standard teaching activities from ‘0’ week of respective calendars prior to being made available for assessments, enrolments, orientation, balloting, exhibitions or ad-hoc activities.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Planning",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) Classes must be timetabled within the spread of University’s teaching hours.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) Standard delivery periods are defined as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "standard DAY delivery period is 8:30am to 6:30pm Monday to Friday",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "standard EVENING delivery period is 6:30pm to 9:30pm Monday to Friday.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(16) To improve room availability, multi-hour classes must be scheduled commencing from 8.30am to maximise utilisation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(17) Classes of non-whole hour duration (1.5 hours, 2.5 hours, etc.) will be be scheduled back to back to facilitate optimal spatial use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(18) City, Brunswick and Bundoora West teaching periods must commence on the half hour.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(19) Bundoora East campus teaching periods must commence on the hour to facilitate student and staff movement between Bundoora East and West campuses.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(20) Classes will end ten (10) minutes prior to published end time to enable room changeover and allow students to move to the next class.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(21) Breaks in the timetable must be scheduled between the hours of 11.30am and 2.30pm for staff and students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(22) Any teaching booking of duration of 4 hours or more must have a break period incorporated into the delivery block.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(23) Bundoora and Brunswick common lunch hour must remain class-free unless otherwise approved by the campus director.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(24) Wherever possible, classes scheduled on evenings, weekends and public holidays must consolidate rooms into energy efficient spaces and buildings rather than spread across teaching facilities on a relevant campus, to support the University’s greenhouse gas emissions reduction target.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(25) Where possible and when student centric outcomes are not compromised, timetables should be scheduled to achieve a nominal minimum booked frequency to facilitate the temporary closure of venues, to support the University’s greenhouse gas emissions reduction targets.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(26) Speciality teaching spaces defined as needing lab support must be timetabled within the scope of hours determined by the controlling college.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(27) Classes must be allocated to resources as per the academic requirements provided, i.e., class size, equipment, space type.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(28) Programs or courses with periods of professional experience must only be timetabled for those weeks when campus resources are required, to enable rooms to be timetabled for other purposes when students are undertaking off-campus activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(29) Intensives and other non-standard teaching must minimise impact on standard semester classes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(30) A staff member’s timetable will operate in accordance with their employment terms and conditions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Publication and Changes",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(31) Full-year timetables will be published prior to the close of re-enrolment for the following year to permit students to make informed choices about course selection.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(32) Changes to the timetable, post-publication, will be minimised; valid reasons for changes include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "unexpected academic or teaching staff changes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "unexpected surge/decline in enrolled student numbers",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "health or safety hazards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "adjustments required to accommodate staff or students with special needs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "late changes to Vocational Education Training Packages",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "changes to student placement arrangements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(33) Changes to the published timetable relating to a change of day/time and/or delivery will require the approval of the college Dean or delegate as determined by the Deputy Vice-Chancellor for the respective college.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(34) Changes to published timetable will generate appropriate notification to staff and students as necessary.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(35) Timetabling Services has a responsibility to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensure the University’s timetabling process is conducted in a coordinated, efficient and effective manner",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "minimise the need for students and staff to travel between campuses on the same day",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "minimise the spread of classes across the week and avoid large gaps of time during the day for students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "assist with the resolution of timetable clashes and escalate matters to the Senior Manager, Timetable Services as required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(36) Program Managers or equivalent are responsible for providing program-specific information to ensure the timetable meets all requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(37) Where a Program Manager or delegate is not identified, responsibility for the provision of program specific information is delegate to next senior level responsible person within the organisation structure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(38) Academic and Teaching staff are responsible for submitting course teaching requirements and their hours of work unavailability through the prescribed channels.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

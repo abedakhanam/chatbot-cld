@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "title": "Financial Management Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=70",
+    "scraped_date": "2025-10-31 01:27:16"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) RMIT is committed to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the proper use and management of both public and private funds for which it is responsible",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "establishing and maintaining effective internal control systems over financial transactions and dealings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "maintaining segregation of duties where possible, or appropriate review mechanisms to ensure safety of its assets",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "identifying and managing financial risks",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "maintaining proper accounting records and systems in accordance with accounting standards, government regulations and directions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "establishing and maintaining measures to minimise and manage the risk of fraud, corruption and other losses",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "compliance with external reporting and other information provision requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "complying with all relevant financial laws and relevant regulations in the jurisdictions in which it operates.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Risk and Financial Authorisation Frameworks",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) RMIT maintains a framework to identify, assess, monitor, report on and mitigate financial risks.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) Issues and risks relating to Commonwealth taxation obligations and concessions that are not unique to RMIT and which have potential sector-wide implications are reported to the relevant government authority. In jurisdictions outside Australia, similar sector-wide tax issues and risks that are not unique to RMIT should be reported to the appropriate local authorities where applicable and managed in line with local regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) The Delegations of Authority Policy provides a framework for the authorisation of all financial transactions and commitments, including liabilities, expenditure and bank accounts.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) All financial transactions across the RMIT Group are recorded correctly, in an acceptable timeframe and supported by adequate, appropriate documentation.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Internal Control System",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(10) RMIT maintains an internal control system in relation to financial management, performance and sustainability which includes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "timely reconciliation of financial transactions and balances in accordance with applicable accounting standards",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "duties being assigned to appropriately trained individuals",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "appropriate segregation of duties between relevant individuals.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Financial Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) RMIT expects all staff to conduct financial dealings with integrity, and act in the best interests of RMIT and ensure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "all assets and funds are only utilised for appropriate and approved purposes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the commitment of funds is appropriately authorised and documented",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "all financial transactions are appropriately documented, approved and reported in an accurate and timely manner and in accordance with applicable accounting standards, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "all assets are appropriately secured, managed and maintained in the best interests of RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(12) RMIT is committed to robust financial management practices in accordance with applicable laws, regulations, standards and codes of practice across all jurisdictions in which it operates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Revenue and debtors are managed in accordance with the Revenue Contracts and Debtors Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Expenditure is incurred in compliance with the Business Expenses Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Assets are procured, maintained, disposed of and accounted for in accordance the Procurement and Expenditure Policy and the Asset Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Use of RMIT corporate credit cards is governed by the Corporate Card Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(13) Taxation obligations are completed in a timely manner to ensure prompt submission of returns/statements and maximisation of cash flows from tax liabilities and entitlements. In jurisdictions such as Vietnam, compliance must also include adherence to local regulations on invoicing, foreign contractor tax, value-added tax (VAT), and local corporate income tax (CIT) documentation requirements.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Treasury and Investments",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(14) RMIT has a framework to mitigate risks associated with treasury management whilst minimising the cost of debt and maximising returns on surplus funds.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(15) RMIT adopts risk principles to protect from adverse market movements, ensuring sufficient liquidity is always available and providing a high degree of certainty in meeting annual financial targets.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(16) RMIT maintains an Investment Strategy to mitigate risks associated with financial investments which specifies acceptable risks, expected returns, appropriate benchmarks, and establishes processes and controls to preserve and grow the value of its endowments and capital for the long term.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(17) RMIT staff involved with investment decisions must refrain from personal business activity that could interfere with the investment process or impair their ability to make impartial investment decisions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(18) RMIT is committed to Responsible Investments and the principles of the UN Global Compact.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(19) RMIT’s Philanthropic investments are managed to realise the objectives of endowment funds and to meet annual spending requirements (e.g., scholarships, prizes, gifts and research).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(20) RMIT’s Investment Advisory Group advises the Chief Financial Officer on investment strategy and direction, provide ongoing oversight of investment portfolios, appoint investment advisors, and review their performance in alignment with agreed investment objectives.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) All material exposures and the associated risk management activities are reported on a timely basis to an appropriate level of management and the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(22) The Audit and Risk Management Committee is responsible for reviewing breaches of this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(23) The Chief Financial Officer is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "maintenance, review and implementation of this policy and associated procedures and guidance",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "handling breaches and determining corrective actions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reporting breaches to the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(24) All staff are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "complying with this policy and relevant supporting procedures and guidelines",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reporting any behaviours or activities that may constitute a breach of this policy to the Chief Financial Officer and the Director, Risk Management",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "reporting known or suspected instances of corrupt, improper or criminal conduct in accordance with the Fraud and Corruption Control Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "maintaining and respecting the confidential and personal nature of financial information and acting in accordance with the Privacy Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "declaring any personal interests which may affect or be affected by an RMIT transaction in accordance with the Conflict of Interest Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(25) Non-compliance with this policy may result in disciplinary action, including termination of employment or engagement, and referral to law enforcement agencies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(26) Breaches of this policy and associated procedures will be reported immediately to the Chief Financial Officer and the Director, Risk Management, who:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "determine whether corrective action is to be taken, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "report to the Audit and Risk Management Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(27) The following policies regulate financial management practices and behaviours and must be read in conjunction with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Fraud and Corruption Control Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Business Expenses Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Conflict of Interest Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Gifts, Benefits and Hospitality Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Information Governance Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Procurement and Expenditure Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Employee Lifecycle Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(28) This policy will be reviewed every five years in accordance with the Policy Governance Policy, unless a change in government regulations or other external requirements necessitates an immediate review.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(29) Refer to the following documents which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Asset Capitalisation Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Asset Disposal Instruction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Asset Management Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Asset Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Asset Stocktake Instruction",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Competitive Neutrality Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Corporate Card Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Costing Models Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Revenue Contracts and Debtors Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Treasury Management Procedure Schedule 1 – Authorised Instruments Schedule 2 – Treasury Delegated Authorities Schedule 3 – Bank Account Management",
+              "subclauses": [
+                "Schedule 1 – Authorised Instruments",
+                "Schedule 2 – Treasury Delegated Authorities",
+                "Schedule 3 – Bank Account Management"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

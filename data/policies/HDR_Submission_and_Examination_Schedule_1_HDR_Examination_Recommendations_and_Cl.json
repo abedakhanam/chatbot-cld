@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "title": "HDR Submission and Examination Schedule 1 - HDR Examination Recommendations and Classifications",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=254",
+    "scraped_date": "2025-10-31 01:24:19"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "HDR Submission and Examination Schedule 1 - HDR Examination Recommendations and Classifications",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) Authority for this document is established by the HDR Submission and Examination Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Masters by Research Grading",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(2) In addition to providing an examination recommendation of R1 to R5, examiners of masters by research submissions are asked to recommend a numerical grade. The grades available to examiners are as follows:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "High Distinction (80-100%)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Distinction (70-79%)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(3) Examinations with similar examiner recommendations (R1-R5)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "If the examiners’ recommended grades are within 15 percentage points of each other, the SGR Examinations team will derive a grade from the mean of the two recommended grades to recommend to the ADVC RTD.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "If the examiners’ grades differ by more than 15 percentage points, the ADVC RTD may refer to a moderator. The moderator must be an RMIT academic staff member who has not been involved in the candidature or the research as this is an internal appointment, and therefore not considered to be wholly independent. For this reason, their grade cannot supersede the examiners’ grades but rather, must consolidate their grades.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "A moderator is given two weeks in which to complete their moderation, which must include recommending a grade that: agrees with one of the examiners’ grades, in which case this shall become the candidate’s final grade after approval; or is within the limits set by the examiners’ grades. In this case the SGR Examinations team will derive a grade from the mean of the grades recommended by both examiners and the moderator.",
+              "subclauses": [
+                "agrees with one of the examiners’ grades, in which case this shall become the candidate’s final grade after approval; or",
+                "is within the limits set by the examiners’ grades. In this case the SGR Examinations team will derive a grade from the mean of the grades recommended by both examiners and the moderator."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

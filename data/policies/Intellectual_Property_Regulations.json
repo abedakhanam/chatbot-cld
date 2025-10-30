@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "title": "Intellectual Property Regulations",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=196",
+    "scraped_date": "2025-10-31 01:23:06"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - PRELIMINARY",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(1) The purpose of these Regulations is to make further provision in relation to intellectual property and to establish the intellectual property committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(2) These Regulations are made under the RMIT Statute No. 1 and sections 28, 29 and 30 of the Royal Melbourne Institute of Technology Act 2010.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part B - INTELLECTUAL PROPERTY COMMITTEE",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(3) There is an Intellectual Property Committee (the committee).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(4) The committee is an advisory committee to the Vice-Chancellor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(5) Membership and conduct of meetings of the committee is as determined by the committee’s terms of reference, as approved by the Vice-Chancellor.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(6) The committee is responsible for all aspects of University intellectual property and without limiting the generality of the same:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a) makes policy recommendations on intellectual property ownership rights between the University, its academic and research groups, members of staff and students, its commercial companies and parties external to the University including the division of any income derived from the commercialisation of intellectual property",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "recommends the extent to which the University will support the development of any intellectual property",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "advises and makes recommendation to the Vice-Chancellor on progress towards intellectual property goals within the context of the University’s Strategic Plan",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "informs the Vice-Chancellor on the activities of the committee",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "provides recommendation on the dissemination of material to inform the wider University community of any matters of intellectual property law, including for research, teaching materials, courseware and student assessment and monitors the effectiveness of such dissemination",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "informs the University community about intellectual property matters, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "recommends to the Vice-Chancellor the establishment of a sub-committee to resolve any dispute submitted to it by a member of staff or student concerning: the ownership of intellectual property the division of any income arising from the commercialisation of intellectual property.",
+              "subclauses": [
+                "the ownership of intellectual property",
+                "the division of any income arising from the commercialisation of intellectual property."
+              ]
+            },
+            {
+              "clause_number": "12",
+              "text": "(7) Where the sub-committee is unable to resolve any dispute submitted to it under clause (6)g., the staff member or student may appeal to the Vice-Chancellor.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part C - REVOCATION OF REGULATIONS",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) On the commencement of these Regulations the following Regulations are revoked:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Regulation 7.1.1 The Intellectual Property Committee.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

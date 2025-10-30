@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "title": "Third-Party Educational Delivery Compliance and Risk Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=274",
+    "scraped_date": "2025-10-31 01:26:05"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Partner Approval Process",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) The process of approving new education delivery third-party arrangements is guided by RMIT Policy and is undertaken in three key stages:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Scoping and Partner Approval – confirms that the proposed partner does not pose a reputational, financial, or academic risk to the RMIT Group and that the type of activity proposed with the partner aligns with RMIT’s strategy and warrants the allocation of university resources to develop.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Program (or Activity) Approval – approves both the academic and business case for the proposed activity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Contract Agreement Approval – approves the signing of the contract agreement in line with policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(7) The International and Engagement portfolio, or schools/colleges/Industry Clusters, undertake an initial scoping assessment for any proposed partners, considering the partner, program, delivery model, alignment with strategy, reputation and likely viability. A scoping brief is approved by the Deputy Vice-Chancellor International and Engagement to proceed with developing the opportunity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(8) Following scoping approval, a formal request for a partner approval is submitted via the Global Partner Approval Process (GPAP). The GPAP is supported by the International and Engagement portfolio with input from key portfolios and encompasses due diligence assessments. It is the first formal approval stage for any new or renewed partnership proposal. The GPAP ensures that all partnership proposals align with RMIT’s strategic goals and confirms that the partner does not pose a significant reputational, financial or academic risk to the RMIT Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(9) The GPAP assesses the proposed partner against six categories of risk:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Regulatory Compliance and Accreditation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Institutional and Strategic Alignment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Governance, Operations and Infrastructure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Rankings and Reputation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Financial and Commercial",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(10) If any concerns are identified during the initial due diligence assessment of the proposed partner, they are escalated to the Education, Regulation, Compliance and Assurance (ERCA) team, and are provided to the relevant portfolio executive for further advice and decision.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(11) The GPAP Assessment recommendation together with detail of the due diligence undertaken and concern rating outcomes for each risk assessment category are provided to the Deputy Vice-Chancellor International and Engagement, and the Deputy Vice-Chancellor Education (on academic matters) for review and approval of the prospective partner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(12) Following the approval of the GPAP, the detailed development of a business case and academic case can commence in accordance with the Program and Course Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(13) A GPAP must be completed, and a proposed partner approved before program approval documentation can be submitted to Programs Committee, as per the Program and Course Policy suite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(14) Detail on academic case requirements, including those for third-party delivery, can be found within the Program and Course Approval Procedures:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Program and Course Approval Procedure - Higher Degree by Research",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Program and Course Approval Procedure - Higher Education Coursework, Short Courses and Micro-credentials",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Program and Course Approval Procedure - Vocational Education and Training",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(15) The Program and Course Schedule - Approval and Discontinuation should be referred to for all endorsements and approval governance steps related to third-party programs and course establishment and discontinuation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(16) A formal contract between RMIT and the third-party provider is drawn up by Legal Services in accordance with the requirements of the Contract Management Policy and the Revenue Contracts and Debtors Procedure and is signed in accordance with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(17) Contracts must clearly allocate rights and responsibilities of the relevant RMIT Group entity as the registered provider, and the responsibilities of the third-party provider which include, but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "nature and extent of appointment of the third-party provider",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "term of the agreement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "legal, accreditation and regulatory compliance requirements in all relevant jurisdictions",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "award title (where relevant) that is conferred upon completion and arrangement or process for qualification issuance, or non-award title and the arrangements for validation of program completion",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "whether further sub-contracting is permitted and any associated controls",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "processes for monitoring and reporting on academic integrity",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "quality assurance and review arrangements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "student complaint mechanisms, grievances, and appeals",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "staffing arrangements and qualifications in accordance with regulatory requirements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "provision of course materials, required facilities and academic and student support services including the protection and management of students under the age of 18",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "governance arrangements, including policy and procedure framework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "obligations of the RMIT Group and third-party provider in relation to records, reporting, access to records and reports, audits, marketing material, academic personnel, representation, reputation, maintenance of approvals",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "student admission and enrolment requirements, including English language requirements, credit, recognition of prior learning and advanced standing",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "obligations of RMIT and the third-party provider in relation to teaching, assessment, marking and monitoring of student academic progress and feedback to students",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "student and staff induction and ongoing professional learning",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "tuition and non-tuition fees, costs and charges, including invoicing, remittance and payment arrangements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "intellectual property rights and moral rights",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "indemnities, insurance and liability",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "confidential information, sharing information and privacy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "review, amendment and termination conditions and processes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "dispute resolution processes and notices",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "exit arrangements for programs which ensure RMIT’s obligations to students are met.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Program and Course Monitoring and Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) Programs and courses delivered by third-party providers are reviewed in accordance with the Program and Course Review Procedure and the Program and Course External Referencing and Benchmarking Procedure, including the monitoring and review of externally accredited programs and courses. This includes, but is not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ongoing course monitoring",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Annual Program Review",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Comprehensive Program Review",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Annual Program Review of Training and Assessment Strategy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Vocational Education Cyclical Review of Assessments.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(19) The performance and experience of students in programs and courses delivered in collaboration with partners is reported to Academic Board as part of RMIT's normal quality reporting.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Partnership Assurance and Enhancement",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(20) As part of RMIT’s commitment to continuous improvement and compliance assurance, RMIT will conduct annual and cyclical assurance (at least every five years) and enhancement of offshore partnerships and partner-delivered programs. The Offshore Partnership Assurance and Enhancement Framework aims to deliver:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "proactive management of the partnership",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an educative, enhancement and partner engagement approach to understanding the regulatory context in which RMIT and partners operate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "assurance that partner-delivered programs meet RMIT’s quality standards and are delivered to a comparable and equivalent level of quality",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "assurance that students receive a quality learning experience that is aligned with RMIT’s strategic direction and provides value for students within the local context of delivery",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "opportunities for exchange of knowledge between partners, with an objective to learn from our partners and student feedback",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "continuous improvement through identifying and addressing issues, risks and areas for improvement and strengthening of systems and processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(21) Where a significant issue is identified in the annual review, an unscheduled assurance assessment may be conducted. Any changes to the Terms of Reference for a review must be agreed upon by the Chief Financial Officer, Deputy Vice-Chancellor Education and Deputy Vice-Chancellor International and Engagement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(22) The Director, Education Regulations Compliance Assurance is responsible for coordinating the reviews. Reviews will be conducted and reported on in partnership with the Associate Deputy Vice-Chancellor Education or delegate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(23) The outcomes of reviews will be reported to the Audit and Risk Management Committee and the Academic Board by the Chief Financial Officer, Deputy Vice-Chancellor Education and Deputy Vice-Chancellor International and Engagement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(24) The International and Engagement portfolio provides the Partner Regulatory Status Report which monitors in-country regulatory approval and contract status for RMIT’s third-party delivery partnerships. The report provides details of each partnership and includes:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "registration and accreditation",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "actions required and in progress",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(25) Partner Regulatory Status Reports are compiled and provided to the Audit and Risk Management Committee, and are reported to Council, on a quarterly basis.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "External Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(26) RMIT is required to notify regulatory bodies of all new third-party arrangements, material or substantial changes in relation to those agreements, and breaches by partners within the timelines required by each body. These notifications are in accordance with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Chief Financial Officer notifies the Tertiary Education Quality and Standards Agency (TEQSA)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Deputy Vice-Chancellor Vocational Education notifies the Australian Skills Quality Authority (ASQA), and Victorian Registration and Qualifications Authority (VRQA) and the Victorian government.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(27) The Chief Financial Officer, and Deputy Vice-Chancellor College of Vocational Education, in accordance with the Delegations of Authority Policy, notifies the relevant regulatory bodies within 30 calendar days of an agreement starting and coming to an end.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(28) The College of Vocational Education obtains prior written approval to proceed from the Victorian government to proceed with the subcontracting of training and assessment by third-parties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(29) The College of Vocational Education obtains written approval from ASQA to use a third-party to deliver an ASQA nominated Course of Concern.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Breaches and Risk",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(30) Compliance breaches are managed in accordance with the Compliance Policy and the Compliance Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(31) Risk activities are managed in accordance with the Risk Management Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(32) In the event of a partner failure, RMIT will proceed per the Business Resilience Policy.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

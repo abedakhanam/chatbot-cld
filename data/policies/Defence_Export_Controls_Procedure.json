@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "title": "Defence Export Controls Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=178",
+    "scraped_date": "2025-10-31 01:24:43"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) Accountability is a core principle of the responsible development, undertaking and reporting of research and requires researchers (staff and students) and others to comply with any relevant legislation, policies and guidelines, this includes Australia’s Defence Export Controls.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) Researchers will be responsible for maintaining an awareness and understanding of Australia’s Defence Export Controls and assessing how these controls might apply to any research projects or activities they undertake.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(8) RMIT will administer the University’s Defence Export Controls (DEC) Client Reference Number and provide professional development, resources, processes and infrastructure that support researchers in understanding when Defence Export Controls apply, in the gaining and maintenance of required permits, and in conducting research in line with these controls and RMIT policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(9) Researchers and any person undertaking research with or on behalf of RMIT will only undertake controlled activities (supply, publish, export or broker) with defence and strategic goods, technologies or in relation to services with the appropriate authorisation to do so.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(10) In Australia, RMIT researchers will comply with Australia’s Defence Trade Controls at all times, including when conducting research at other institutions.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Assessment of Research Activities and Projects",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(11) Researchers must assess whether or not Defence Trade Controls, including those described in the Defence Trade Controls Act 2012 (Cth) Defence Trade Controls Amendment Act 2024 (Cth), and Defence Trade Legislation Amendment Regulations 2024 (Cth), apply to their research activities or projects. In conducting this assessment, researchers will make use of the online tools and resources available on the Defence Export Controls website, including the Defence and Strategic Goods List (DSGL). Support and advice about this assessment can also be sought from the Research Ethics, Integrity and Governance team (REIG).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(12) REIG will support researchers in finalising an assessment of whether Defence Trade Controls apply to their research activities or projects, and in progressing an application for a Defence Trade Control permit if one is required (see below).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Applying for a Defence Trade Controls (DTC) Permit",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) Researchers must gain and maintain appropriate permits for all controlled activities (supply, publish, export or broker) with defence and strategic goods or technologies under the RMIT Defence Client Registration Number administered by REIG, and in accordance with this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) Researchers must work with REIG to complete and finalise an online application for a permit in the DEC online portal and are responsible for providing all information and supporting documentation required, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a description of the military or dual-use goods and/or technologies, and/or defence services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "details of the proposed activities (export, supply or publish) to be undertaken with the military or dual-use goods and/or technologies, and/or defence services",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "date/s or period/s over which these activities will occur, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(15) Only RMIT staff can be named as an applicant or contact person on a DTC permit application.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(16) REIG will complete a governance check of the permit application before it is submitted to the DEC team in the Department of Defence, via the DEC online portal, for review and approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(17) All applications must be approved, with confirmation and a copy of the permit received from the DEC team, via the DEC online portal before any controlled activities commence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(18) Researchers will need to retain a copy of the DEC permit as part of their research management records. REIG will retain a copy of all DEC permits as part of the University’s records",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "AUKUS Licence-free environment",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(19) Under the Defence Trade Controls Amendment Act 2024 (Cth), Australia, the United Kingdom and the United States have established an AUKUS licence-free environment to removes barriers to defence trade, collaboration, co-development, research and innovation between the AUKUS partners.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(20) The AUKUS Licence-free environment exempts certain Defence and Strategic Goods List (DSGL) goods, technology, and services from permit requirements when transferring between Australia, the United States and/or the United Kingdom, where the following criteria are met:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "End-user: the supply or provision is to an Australian/UK/US citizen or permanent resident, corporation or government/government authority.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Location: the supply is to, or the services are received at, a place in Australia/UK/US.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Goods/technology: the DSGL goods/technologies are not on the Excluded Goods & Technologies List or Australian Military Sales Program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Registration: the exporter/supplier is registered as an AUKUS authorised user.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Pre-notification: Defence has been notified of the export/supply before the activity occurs (via the online portal).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(21) RMIT is the process of registering the University and its personnel to operate in the AUKUS Licence-free environment. While this registration is pending, all related queries must be forwarded to REIG for consideration. Noting, until the University’s registration is finalised appropriate DT permits will still need to be gained and maintained in keeping with provisions 13-18 above.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Variations to a Defence Trade Controls (DTC) Permit",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(22) Only minor additions or revisions are permitted to an existing permit issued by the Department of Defence.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(23) Where there are any proposed minor additions or revisions to the controlled goods, technologies or activitieswhich are the subject of a DTC permit, researchers will work with REIG to complete and finalise any request for an amendment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(24) REIG will complete a governance check of the request for amendment before it is submitted to the DEC team, via the DEC online portal, for review and approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(25) All requests for amendment must be approved, with confirmation and a copy of the notice of variation received from the DEC team, before any changes to the controlled goods, technologies or activities are made.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(26) Researchers will advise the REIG of the outcome of their request for amendment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(27) Where researchers want to make a significant addition or revision (for example, addition of new destinations or multiple new end users or consignees, or significant increases in quantities, or different technology) a new application will be required.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Management of Defence Trade Controls (DTC) Records",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(28) Researchers must create, manage and maintain all required records of their research activities with controlled goods or technologies in line with the legislative and RMIT requirements, including:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a description of the goods or technologies supplied",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the dates of supply, and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where a permit covers supply over a period of time, the period or periods during which the supply of the goods or technologies occurred.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(29) Researchers and REIG will manage and maintain required records relating to the gaining and maintaining of permits and professional development in line with the legislative and RMIT requirements.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

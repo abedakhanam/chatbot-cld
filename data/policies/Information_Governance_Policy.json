@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "title": "Information Governance Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=53",
+    "scraped_date": "2025-10-31 01:22:08"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) Data Quality from creation - RMIT implements procedures and practices to ensure that Information is captured accurately and completely, and that the quality of Information is monitored, managed and continuously improved throughout its lifecycle.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(9) Information is discoverable - RMIT Information classification is applied to enable appropriate management of Information, to ensure Information is easy to find and to promote its re-use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(10) RMIT supports openness and collaboration - RMIT Information is accessible and transparent. Access to Information should only be restricted when required by legislation, policy or contract.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(11) Information is protected from unauthorised access, use and disclosure - RMIT Information is managed in accordance with procedures and resources established by this policy, the Privacy Policy, and the Information Technology and Security Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(12) Information is retained, managed and disposed of lawfully and ethically – RMIT Information collection, creation, use, re-use and exchange is performed according to ethical practices, applicable laws and with due consideration for individual privacy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(13) RMIT is a digital organisation - Information is created and retained in a digital format unless otherwise required by legislation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(14) A data-literate workforce - RMIT is committed to ensuring that staff have the knowledge, competencies and ability to interact with Information in their roles. RMIT provides staff development through a Data Literacy Program and access to training materials.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Information Governance Framework",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) Information Governance is established based on Information Domains, as defined in the RMIT Information Domain Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(16) The Information Governance Board (IGB) provides advice and recommendations for strategy, policy and risk-related matters impacting RMIT’s Information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(17) Information Governance priorities are guided by the value of Information to RMIT, government and the community over time, considering the risks of improper management of Information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(18) RMIT is the custodian of all Information managed by RMIT. No individual function or group own any part of Information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(19) An individual assumes the role of Information Custodian when RMIT Information is in their possession.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(20) Information Governance controls are defined in consultation with Information Stewards. The Information Stewards Group (ISG) is established to provide operational support and recommendations to the Information Governance Board.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(21) All individuals who manage, handle or process RMIT Group Information as set out in the scope of this policy are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring that they understand and adhere to the framework and principles established by this policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "managing RMIT’s Information in accordance with procedures and resources under this policy, the Privacy Policy and Information Technology and Security Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "supporting a culture that promotes good Information governance practices and reporting any identified compliance breaches or incidents.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(22) Information Custodians are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "responsible for ensuring that appropriate controls and processes are in place for the protection of Information under their custodianship in accordance with all applicable policies, legislation and contractual agreements",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "accountable for decisions and implications of access to Information under their custodianship. This includes Information sharing and access, movement of Information, physical protection and integration between systems.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(23) The Information Governance Board (IGB) and its members are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing strategic direction and advocating for Information governance in the best interests of RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(24) Information Trustees are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "accountable for Information governance decisions that impact how Information is managed in their Information Domain",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "responsible for nominating Information Stewards for their Information Domain.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(25) Information Stewards are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing operational support to Information Trustees and relevant stakeholders for Information within their respective domains as set out in the Information Domain Register",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "taking steps to improve the quality and compliance of Information identified as high-priority to RMIT in the Information Domain Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(26) The Chief Data and Analytics Officer is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "overseeing Information governance at RMIT to ensure effectiveness and fitness for purpose",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "establishing an Information Governance Network comprised of Information Stewards and Information Trustees",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "promoting a data-driven culture and encouraging RMIT staff to develop capability, competency and knowledge to interact with Information in their roles.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(27) The Chief Information Officer is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing Information Technology services for storage, processing, safekeeping and the integrity of Information in digital formats under the custodianship of RMIT",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "implementing appropriate safeguards without creating unjustified obstacles to the conduct of RMIT operations and the provision of services, as specified in the Information Technology and Security Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(28) The Chief Information Security Officer is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "implementing appropriate Information and Information security controls, processes and technologies to protect RMIT from cybersecurity threats",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "monitoring and improving the effectiveness of security controls for Information in digital formats under the custodianship of RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(29) The Privacy Office is the first point of contact for privacy matters within RMIT and is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "overseeing responsible handling of personal, sensitive and health information in all its forms, consistent with relevant legislation, as specified in the RMIT Privacy Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(30) Investigations of breaches of this policy or non-compliance with legislation are undertaken in accordance with the Compliance Breach Management Procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(31) This policy, as well as procedures and resources under this policy, include consideration of compliance requirements from the following legislation:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Crimes Act 1958 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Data Availability and Transparency Act 2022 (Cth)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Freedom of Information Act 1982 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "General Data Protection Regulation (EU)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Health Records Act 2001 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "National Vocational Education and Training Regulator Act 2011",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Privacy Act 1988 (Cth)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Privacy and Data Protection Act 2014 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Public Records Act 1973 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Tertiary Education Quality and Standards Agency Act 2011 (Cth)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Vietnam’s Decree 53/2022/ND-CP (Vn).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(32) This policy is to be read in conjunction with existing University policy documents which include but are not limited to the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Information Technology and Security Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Intellectual Property Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) The Information Governance Board will review this policy annually and undertake a major review every five years in accordance with the Policy Governance Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(34) This policy includes the following schedule(s):",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Information Classification Levels Schedule 1.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(35) Refer to the following documents, which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Classification of Analytics Data Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Data and Information Lifecycle Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Data Quality Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Data Quality Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Destruction of Information Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Information Classification and Handling Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Information Classification Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "Key Term Definition Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Master Data Management Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "Responsible Artificial Intelligence (AI) Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "Retention and Disposal Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "Source Data Extract Controls Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(36) Local resources are available via the Data and Analytics website.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

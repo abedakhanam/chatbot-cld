@@ -1,0 +1,772 @@
+{
+  "metadata": {
+    "title": "Animal Ethics Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=82",
+    "scraped_date": "2025-10-31 01:24:45"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Animal Ethics Requirements",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) All research and teaching activities (projects and programs) at RMIT involving the care and use of animals require approval from the RMIT Animal Ethics Committee (AEC), including the acquisition, transport, breeding, housing and husbandry of the animals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) RMIT University will provide professional development, resources, processes and infrastructure supporting researchers to: • recognise that they require ethics approval • gain and maintain appropriate ethics approval, and • conduct their research in line with the relevant ethics approval and all applicable Codes, legislation, regulations and RMIT policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) In Australia, RMIT researchers must be compliant with the Animal Code as well as any relevant legislation or regulations at all times, including when conducting research at other institutions. While outside Australia, RMIT staff members must remain compliant with the Animal Code, provided that such compliance does not breach any relevant local legislation. Research cannot be conducted in other countries specifically to avoid compliance with the Animal Code. For advice on compliance with animal ethics requirements, please contact the Research Ethics, Integrity and Governance team (animalethics@rmit.edu.au).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Gaining Animal Ethics Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) All use of animals in research and/or learning and teaching will require formal written ethics approval from the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) To gain this formal ethics approval, the Principal Investigator will:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be a member of RMIT staff, or a person deemed acceptable by the AEC",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "apply for approval using the AEC approved forms on the Research Ethics Platform (REP)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "discuss applications with an Animal Welfare Officer(s) and Facility Manager(s) prior to their submission, to ensure that the proposed activity addresses animal welfare and that RMIT has the capacity and technical expertise to house and care for the animals, as appropriate",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "submit applications online, via REP, to the Research Ethics, Integrity and Governance team (REIG) and AEC in line with the instructions and User’s Guide for Researchers provided on the RMIT Researcher Portal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(9) Submission dates for applications to the AEC are listed on the Researcher Portal. Where an application does not meet an upcoming submission date or other requirements, it will be reviewed at the following meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(10) The establishment and maintenance of breeding programs (colonies) will be reviewed and approved by the AEC. The process for gaining this approval is outlined above (see clauses 7 and 8).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(11) For breeding programs involving the creation of new animal lines where the impact on animal wellbeing is unknown or uncertain, all persons involved in such programs will be regarded as researchers and listed on the relevant application. A report on the new line must be submitted to the AEC, when the impact on wellbeing is known, and once the AEC has accepted the report, the new animal line will be treated as breeding stock. Responsibility for these animals and all breeding procedures will be assumed by the relevant Principal Investigator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(12) All breeding of animals at RMIT must be managed to minimise the production of excess animals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(13) In keeping with the Animal Code, provisions for animals at the conclusion of their use at RMIT include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "rehousing (rehoming)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "return to normal husbandry conditions or natural habitat",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(14) Researchers must clearly identify the provisions for animals at the conclusion of their use on the original animal ethics application form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(15) The AEC will review all provisions for animals at the conclusion of their use and approve as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(16) Researchers, animal carers and others involved in the care and use of animals at RMIT will ensure that provisions for animals at the conclusion of their use are made promptly and in accordance with the procedures and protocols approved by the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(17) In considering the reuse of animals, the benefits of reusing animals must be balanced against any adverse effects on the animal’s wellbeing, their lifetime experience and the cumulative burden of reuse on each animal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(18) Researchers must clearly identify where animal research and teaching activities (projects or breeding programs) involve genetically modified organisms (GMOs), either as genetically modified (GM) animals or exposure of animals to GMOs, on the animal ethics application form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(19) Researchers using GMOs will also apply for and gain approval from the RMIT Institutional Biosafety Committee (IBC) before commencement of the project, in accordance with the Research Involving Genetically Modified Organisms Procedure. For advice on Institutional Biosafety requirements, please contact biosafety@rmit.edu.au.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(20) Researchers who engage in fieldwork will gain any required permissions from other authorities, in addition to AEC approval. Researchers who engage in fieldwork interstate should contact the REIG team before submitting an AEC application.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(21) Where required, the researcher will submit a copy of any permits obtained for fieldwork or observational studies to the AEC before starting the work. The AEC will retain a copy of all permits provided.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(22) The AEC, AEC Executive, or authorised delegates have the authority to inspect fieldwork or observational studies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(23) Where RMIT is responsible for the research and the planned project also involves research undertaken at other locations or researchers from other institutions:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Principal Investigator should contact the REIG team for guidance before submitting the ethics application.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The related ethics application will formally acknowledge the respective researchers’ responsibilities, acknowledge differing institutional, state or international regulations and/or policies, and accordingly provide detailed information on the arrangements to safeguard the welfare of all animals involved.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "An RMIT Principal Investigator will submit any ethics approvals granted by an external Committee or other relevant review body for acknowledgement by the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(24) Where another institution is responsible for the research and the planned project also involves researchers from RMIT:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The RMIT researchers involved in the external project should contact the REIG team for guidance.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The AEC will not review research that is the sole responsibility of another institution (i.e. an external project). However, the research must be reviewed by another Committee constituted in compliance with the Animal Code.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Where the research has been reviewed by another Committee constituted in compliance with the Animal Code, the RMIT researchers involved in the external project will submit a copy of the relevant application and approval via the REIG Team for AEC acknowledgment before undertaking any scientific procedures on animals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(25) All applications will be vetted by REIG for completeness and compliance with governance requirements. Incomplete, insufficient and/or unauthorised applications will not be accepted for review. Relevant ethics training must be completed before applicants apply for animal ethics approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(26) The AEC will review all applications for all research and teaching activities (projects and programs) involving care and use of animals, and for the establishment of breeding colonies at RMIT in line with relevant Codes, legislation, policy, and processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "33",
+              "text": "(27) Potential outcomes of ethics review of an application are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Approved: the application is approved and the activities involving animals may commence subject to any conditions attached to the ethics approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Revisions required: the application must be resubmitted for review after being revised in accordance with the concerns or queries raised by the AEC .",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Not approved: the application will not be approved, including in any revised form.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "37",
+              "text": "(28) The AEC will inform the Principal Investigator of the outcome of the review in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "38",
+              "text": "(29) Applications will be approved for a maximum of three (3) years, although extensions can be requested beyond the initial three-year approval period up to a maximum of five (5) years.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "39",
+              "text": "(30) Amendments are required where researchers plan to vary any aspect of their approved project or program, including changes to investigators, the number or type of animals used, protocols, provisions for animals at conclusion of use, animals reused or transferred to other projects, or extensions to approval time.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "40",
+              "text": "(31) Researchers must gain AEC approval for an amendment prior to implementing the change.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "41",
+              "text": "(32) Researchers must seek approval for an amendment to extend ethics approval before the approval period has expired. Activities that require ethics approval cannot continue when approval has expired. The AEC cannot approve a retrospective time extension request once a project has expired.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "42",
+              "text": "(33) For amendments to projects or programs approved by an AEC:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The Principal Investigator will submit an application for an amendment via REP, in line with the instructions, guidance and/or schedule of dates provided on the Researcher Portal. Applications that fail to meet applicable submission dates will be held over to a future meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The Principal Investigator may contact the AEC Coordinator or the Chair to request urgent review, where an amendment is time critical. The AEC will determine if the Animal Code allows for an out of session or executive review to be carried out prior to the next available committee meeting.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Reporting",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(34) The Principal Investigator will submit an annual report at the end of each calendar year for the life of the project or program (regardless of the duration of animal ethics approval), via REP, in line with the instructions, guidance and/or schedule of dates provided on the Researcher Portal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(35) The annual report will detail the project progress over the past 12 months. For projects, this will include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the animals used so far in the project",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "what progress has been made towards the objectives of the study",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any adverse incidents or animal welfare concerns observed over the reporting period (including details regarding the nature of the animal welfare concern and the frequency if it is repeated).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(36) The annual report for breeding programs or colonies will include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the animals bred so far in the project",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "what use has been made of the animals (including details of any excess animals)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the health status of the animals",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "any adverse incidents or animal welfare concerns observed over the reporting period (including details regarding the nature of the animal welfare concern and the frequency if it is repeated).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(37) The Animal Facility Coordinator will provide regular (monthly and annual) reports on breeding programs to the AEC including details of animals bred, their usage and any excess animals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(38) Ongoing approval of a project or program is conditional upon the review of annual report by the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(39) In the final year of a project or program, the Principal Investigator will submit a final report within six months after the end of the approval period, via REP, in line with the instructions, guidance and/or schedule of dates provided on the Researcher Portal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(40) For projects, the final report will include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the total number(s) of animals used in the project",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the progress made towards the objectives of the study",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any adverse incidents or animal welfare concerns observed over the reporting period (including the number and types)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "a conclusion detailing the outcomes of the project and outline any publications (either submitted or in progress) resulting from the project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(41) For breeding programs, the final report will include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the total number(s) of animals bred",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "what use of the animals has been made over the life of the program (including details of all excess animals)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "any adverse incidents or animal welfare concerns observed over the life of the program (including the number and types)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "a conclusion detailing the performance of the breeding colony or program.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(42) Reports are still required even where an approved project has not commenced or has been abandoned. If a project has been abandoned, investigators will submit a final report within 6 months after abandonment.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(43) The AEC may decide not to review new applications from a Principal Investigator whilst annual and final reports for previous projects or programs remain outstanding.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Non-Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(44) Any person involved in the care and use of animals for scientific purposes will comply with all relevant regulatory requirements, including the POCTA framework, Animal Code and related RMIT policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(45) Where non-compliance is identified, it will be reported promptly to the AEC in writing. When a researcher detects non-compliance, the Principal Investigator, or, in their absence, the acting Principal Investigator nominated on the approved application will make this report.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(46) Where there is any uncertainty as to whether non-compliance has occurred, researchers must consult REIG. REIG will consult with the AEC and other relevant parties and advise accordingly.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(47) Where non-compliance involves or may involve an unexpected adverse event, researchers must also follow the process set out in the procedures for management of unexpected adverse events.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(48) The AEC will review the written notification of non-compliance and any subsequent actions at its next scheduled meeting.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(49) In reviewing reports of non-compliance, priority will be given to consideration of the wellbeing of the animals. Where any approved activities have the potential to adversely affect animal wellbeing, they must cease immediately. The AEC may require researchers or others to provide further information to modify the project or activity, to complete additional education or training, and/or to carry out further actions as appropriate. The AEC may also suspend or withdraw ethics approval. Where appropriate and/or as required, the AEC will notify the line manager, Licence nominee, the Regulator and/or any other relevant bodies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(50) Where projects involve more than one institution, REIG will report non-compliance to the other institutions involved, as appropriate or required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(51) REIG will maintain records of reports of non-compliance and any breaches of the Animal Code.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Expected and Unexpected Adverse Events",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(52) The Animal Code requires rapid detection, investigation and reporting of adverse events. Researchers must be aware of and accept their responsibilities under the Animal Code. These include:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "providing appropriate and sufficient detail about expected or foreshadowed adverse events in ethics applications",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "developing, implementing and reviewing strategies to detect, avoid and minimise any pain and distress in animals, including humane endpoints as defined in the Animal Code",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring that animals are monitored and assessed at all stages of the project or program for signs of pain and distress, including abnormal behaviour (at a frequency and level commensurate with the projected welfare impacts of the program or project, as approved by the AEC)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "prompt notification of any unexpected adverse event (see procedures for management of unexpected adverse events).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(53) An unexpected adverse event occurs when animal welfare is or may be negatively impacted, and which is not identified or foreshadowed in the approved project or program. Unexpected adverse incidents that must be reported include, but are not limited to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "death of an animal under anaesthesia",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "death of an animal during or after surgery",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "death of animal during or after a procedure or treatment e.g. oral gavage, intraperitoneal injection",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "other unexpected events detrimental to animal wellbeing (including death) before or after a procedure or treatment",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "when there is a greater level of pain or distress than predicted in the original project",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "when adverse events occur in a larger number of animals than predicted in the original project, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "an emergency situation such as a power failure, inclement weather or other factors external to a project or activity that negatively impact on the welfare of animals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(54) Where an unexpected adverse event occurs, researchers must notify the AWO immediately for information and advice. The advice of the AWO, including any actions or instructions to alleviate animal pain or distress, must be followed diligently and promptly. Where there is a need for more immediate action to address any animal wellbeing issues, such action should be prioritised (please see clause 55 below).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(55) In managing and responding to unexpected adverse events, priority must be given to the wellbeing of the animals at all times. Alleviating unanticipated pain and distress must take precedence over an individual animal reaching the planned endpoint of the project, or the continuation or completion of the project.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(56) Prompt action will be undertaken to alleviate unanticipated pain and distress occurring in an approved project or activity, or resulting from an emergency. This action may include immediate humane killing. Where the AWO is unavailable, the Animal Facility Coordinator may use their technical expertise and judgement to decide upon appropriate action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(57) Where there is any uncertainty or ambiguity as to whether an unexpected adverse event has occurred, the AWO, as the delegate of the AEC, will determine whether the adverse event constitutes an unexpected adverse event, in consultation with relevant parties.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(58) Researchers will make an initial report of all unexpected adverse events and emergencies to the AEC via REP within 48 hours, noting that reports should be made as soon as possible once the unexpected event or emergency is identified. Researchers will refer to the instructions and guidance provided on the Researcher Portal, which specify that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "The report form will be completed and submitted by the Principal Investigator or, in their absence, the acting Principal Investigator nominated on the approved application.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "The AWO will review all Adverse Event Reports for accuracy and completeness before submission of the Adverse Event Report form to the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "21",
+              "text": "(59) Following receipt of a complete Adverse Event Report form, REIG will add discussion of an Adverse Event Report to the Agenda for the next scheduled meeting of the AEC. At this meeting, the incident and any subsequent actions will be reviewed by the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "22",
+              "text": "(60) Following review of the Adverse Event Report, the AEC must take appropriate action to ensure that animal wellbeing is not compromised, the issue is addressed promptly, and activities that have the potential to adversely affect animal wellbeing cease immediately. Actions may include further consultation and, where necessary, suspending or withdrawing approval for the project or activity. Where appropriate and/or as required, the AEC will notify the Principal Investigator’s line manager, RMIT licence nominee, and/or the Regulator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(61) When an animal dies unexpectedly or is humanely killed due to unforeseen complications, a post-mortem (necropsy) must be performed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(62) The necropsy will be performed by a person competent in post-mortem procedures; at RMIT this will normally be the AWO. In the event that the AWO is absent or unavailable, the Animal Facility Coordinator should be contacted to make alternative arrangements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "25",
+              "text": "(63) Where there is uncertainty as to whether an animal death should be reported as an unexpected adverse event, researchers must consult the AWO procedures for management of unexpected adverse events.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Monitoring Approval",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(64) The AEC will monitor all approved activities (projects and programs) involving the care and use of animals at RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(65) The AEC, with assistance and advice from the AWOs and Facility Coordinator, will monitor the care and use of animals through inspection of animals, animal housing and the conduct of scientific procedures; and/or reviewing of records and reports (including annual and final reports, and Adverse Event Report forms).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(66) The AEC, or the AEC Chair and/or Deputy Chair may suspend or withdraw approval for any project when:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the welfare of animals has been compromised through practice that is non-compliant with the approved project",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "an animal is being used in a manner non-compliant with the approved protocol",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "the approved protocol has a greater impact on animal welfare than originally anticipated or understood",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "the researchers do not fulfil their reporting requirements, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "any other instance of non-compliance with the Animal Code that is deemed to be of a sufficiently serious nature.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(67) The AWO may take emergency actions to relieve an animal’s pain or distress, including the suspension of activities under AEC approval. The AWO will communicate their instructions to relevant animal users and care staff, who must comply with these instructions. The AEC will be notified accordingly.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(68) Where the AEC has suspended or withdrawn approval for a project, the relevant line manager/s of the Principal Investigator and RMIT licence nominee will be notified accordingly., The Regulator and other parties will also be notified as appropriate or required. The status of the project will be updated accordingly in REP.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(69) In reviewing cases of non-compliance or situations in which animal welfare has been compromised, the AEC will refer the matter to the institution (the Designated Officer at RMIT), or the Regulator as appropriate for consideration. Where required, the AEC will refer a matter to the institution (the Research Integrity Office) for consideration in line with the Research Integrity Breach Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Standard Operating Procedures",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(70) As set out in the Animal Code, the AEC can establish approved Standard Operating Procedures (SOPs) relating to the care and use of animals.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(71) The AEC will regularly review SOPs at least every three (3) years, or as required, to align with changes to best practice as advised by the Animal Facility Coordinator, AWOs and other stakeholders.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(72) Researchers are encouraged to reference approved SOPs in ethics approval applications, including the full title and approval date, to standardise the application.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(73) Copies of all approved SOPs are available online in the Researcher Portal for all RMIT researchers and committee members to access.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Facilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(74) RMIT is licenced by Animal Welfare Victoria to conduct scientific procedures on specific premises, including animal facilities. Scientific procedures approved by the AEC can only be conducted in licenced premises. Researchers should contact REIG if they are unsure of the licensing status of the premises they would like to use for scientific procedures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(75) The AEC will inspect and approve all animal facilities used for research and teaching purposes at RMIT annually, at minimum, to ensure compliance with the relevant regulatory requirements. The Regulator will also inspect these animal facilities, as required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(76) The licence nominee will register any RMIT facilities in Victoria with Animal Welfare Victoria.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(77) Should additional facilities be required for use in live animal research and/or teaching, researchers must contact the RIEG Team who will provide advice and liaise with the Regulator to register these facilities for use.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(78) Should a facility no longer be required for animal research and/or teaching, REIG will de-register the facility.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Complaints",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(79) Staff, students, members of the public, or any other concerned persons may make a complaint concerning the care and use of animals in research or teaching at RMIT. This includes conscientious objection in the case of any learning and teaching activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(80) These complaints will be forwarded to REIG, who will manage the complaints in keeping with the Animal Code and relevant RMIT complaints, privacy and data governance policy and processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(81) Where there are apparent ongoing animal welfare impacts that extend beyond those described in the application, RMIT may require that researchers cease activities, and the AEC may suspend or withdraw approval.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(82) Complaints will be forwarded to the REIG Team who will notify REIG, the AWO and the Chair. REIG will acknowledge receipt of the complaint and take one or more of the following steps:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "where the complaint relates to activities that would normally require AEC ethics approval: refer the complaint to the AEC to investigate in accordance with the Animal Code",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "where the complaint raises the possibility of research misconduct or a breach that is not related to ethics approval: refer the complaint to the Designated Person who will handle the complaint in line with the Research Integrity Breach Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "where the complaint alleges misconduct that is not research-related: refer to the appropriate institutional process or procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "dismiss the complaint and provide reasons for the dismissal.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "(83) REIG will update the complainant and other relevant parties, including the Regulator, as appropriate and in a timely manner.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(84) The AEC is the ultimate decision-making authority regarding the ethical acceptability of an activity, in line with the Animal Code. Therefore, any decisions regarding the ethics of animal research made by the AEC cannot be overridden.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(85) Staff, students, members of the public, or any other concerned persons may make these complaints.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(86) Such complaints will relate to AEC operations such as the process of review of an application or report, and can include resolution of disagreements between AEC members, between the AEC and investigators, and between the AEC and the institution.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "13",
+              "text": "(87) Complaints should be made in writing to the Director, Research Services, who will notify relevant RMIT stakeholders.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(88) Where communication between the Complainant and the AEC and/or other relevant RMIT stakeholders cannot resolve the complaint, a Subcommittee will be established by the Director, Research Services to investigate the facts of the complaint, formulate a response and produce a report including any findings and recommendations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(89) Where the subcommittee cannot resolve the complaint:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "a person external to the AEC (the RMIT Designated Officer or nominee) will review the operational process followed by the AEC, and report findings and recommendations to the complainant and to the AEC.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the AEC will consider the findings and recommendations of this review, in line with the Animal Code.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

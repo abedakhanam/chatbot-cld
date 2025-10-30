@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "title": "Data and Information Lifecycle Management Procedure",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=226",
+    "scraped_date": "2025-10-31 01:25:10"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - Institutional Data",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) Institutional Data refers to Information that is governed by the Information Governance Policy, set out under each of the Information Domains defined in the Information Domain Register. It excludes Research Data as defined by the Research Policy, which is covered in Part B of this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(7) The stages of information lifecycle applicable to Institutional Data include: Planning and Design, Creation and Acquisition, Management, Storage and Retention, and Disposal.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Planning and Design",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(8) The Information Domain Register is established by the Information Governance Policy. It is RMIT’s enterprise data catalogue and must be maintained by and available to everyone with responsibility for managing Institutional Data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Custodianship of sensitive information must be identified and catalogued in the Information Domain Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Information architecture must be documented in the Information Domain Register.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The authoritative source of master data and reference data must be declared and catalogued in RMIT’s Information Domain Register to enable its reuse.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(9) RMIT’s information assets support RMIT processes and can exist in many formats (e.g. a collection of reports, a database, Information contained in a database, etc.).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(10) Data Management Strategies provide documented decisions and direction for the governance, accountability and maintenance of information in each information domain. Data Management Strategies will be endorsed by the Information Governance Board and approved by Information Trustees.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(11) RMIT records must be digital unless otherwise justified. Digitisation must be lawful and authorised.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Creation and Acquisition",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(12) Information must be created and managed to provide evidence of RMIT activities, in accordance with the Retention and Disposal Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(13) Information must be collected in accordance with RMIT’s Privacy Statements and in compliance with the Privacy Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(14) Information acquired from external sources for RMIT use must be governed as per Part A of this procedure.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(15) Copies of Institutional Data approved for research use must be governed as per Part B of this procedure.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) Data structures in systems must be documented and maintained consistently and accurately in a central repository. The introduction or modification of data structures in systems must be governed by the System Administrator.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(17) Information created, managed and used at RMIT must be of high quality and measured in accordance with RMIT’s Data Quality Standard. The Data Quality Guideline provides practical guidance for staff to implement the Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(18) All projects and initiatives must consider the impact on data and ensure that appropriate data management controls are in place.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(19) Master data refers to data that is common to different functions and is used in multiple processes. Master data usually describes entities that are participating in a transaction or event (e.g. information about a course, a person, or a location). Reference data is a type of master data that refers to data that is used to categorise other data (e.g. status codes), or related to information beyond the boundaries of the organisation (e.g. fields of study).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(20) Master data must be managed and stored in alignment with the approach specified in the RMIT Data Management Strategies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(21) Common requirements for master data management across all Information Domains are:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "master data created, managed and used must be of high quality and there must be processes in place to ensure its quality meets expectations",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "the data quality of master data must be tracked, managed and improved",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "accountability and responsibility for the management of master data must be identified",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "master data must have an identified system of record as its authoritative source",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "master data must be properly integrated across RMIT systems to preserve integrity (i.e. via the use of a unique identifier).",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Storage and Retention",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(22) Active records refer to information that is required for current use and execution of RMIT processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Active records must be managed in compliance with the Retention and Disposal Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "When migrating records between systems or formats, the Information Custodian must assess the retention requirements and must ensure that the value of the records is not lost and that the records continue to be managed beyond the life of the system, for as long as they are required.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(23) Inactive records refer to information that is no longer required for current use and execution of RMIT processes, and has not been transferred for long term archiving and preservation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Inactive records must be stored in authoritative source systems, which are compliant and certified for long-term retention of information and must be managed in compliance with the RMIT Retention and Disposal Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Changes to Information Custodian responsibility and/or information classification for inactive records must be managed.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(24) Preserved records are records that have been transferred for long term archiving and preservation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Records must be appraised and reclassified prior to preservation.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Preserved records must be managed in compliance with the Retention and Disposal Standard.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Disposal",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(25) The Retention and Disposal Standard details the requirements for disposal of information at RMIT and includes Section 5 – Retention and Disposal Authority (RDA) which specifies the required retention periods for RMIT Information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(26) The Retention and Disposal Guideline provides instruction for compliant disposal of RMIT information.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(27) Disposal of master data and reference data (e.g. deduplication) must preserve the referential integrity of records.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part B - Research Data",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(28) Research Data is defined by the Research Policy. It refers to Information in any format generated during research undertaken by RMIT researchers (staff and students).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(29) The Research Data Management Procedure defines the lifecycle for Research Data. The procedure specifies that researchers must complete Research Data Management Plan prior to commencing research, and defines requirements for the collection; storage; ownership; access and sharing; Indigenous data sovereignty; confidentiality; retention; and destruction of Research Data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(30) Research Data of archival and historical value must be managed in compliance with the Retention and Disposal Standard.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(31) Information submitted to RMIT by HDR candidates as part of HDR Submission and Examination Procedure is governed under Part A of this document.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(32) Information submitted to RMIT by researchers as part of Dissemination of Research Outputs Procedure is governed under Part A of this document.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part C - Unofficial Information",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(33) Unofficial Information refers to Information that is not covered by Part A or Part B of this procedure. Unofficial Information is unrelated to official RMIT work duties or functions (e.g. holiday photos stored on Microsoft Teams, photo of child’s birth certificate stored on OneDrive, etc.). Content in this category has no operational impact. This information is in scope of acceptable use according to the Information Technology and Security Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Creation",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(34) Unofficial Information should only be created or stored on RMIT systems when necessary.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(35) When Unofficial Information is used for RMIT purposes, it may become Institutional Data or Research Data and must be treated according to Part A or Part B as appropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(36) The Acceptable Use Standard- Information Technology outlines both acceptable and unacceptable use of RMIT information technology for the storage of unofficial information.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Management",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(37) Unofficial Information should be minimised as the storage of such may carry additional risk and costs for RMIT.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(38) RMIT systems must not be the authoritative source of unofficial information.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Destruction",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(39) Unofficial information will be destroyed before or at termination of engagement between RMIT and the Information Custodian.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(40) Refer to the relevant policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(41) Refer to the following documents which are established in accordance with this procedure:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Retention and Disposal Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Retention and Disposal Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Data Quality Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Data Quality Guideline",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "Source Data Extract Controls Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "Master Data Management Standard",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "Data Management Strategies",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "RMIT Research Data Management Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "9",
+              "text": "Acceptable Use Standard – Information Technology",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

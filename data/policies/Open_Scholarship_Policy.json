@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "title": "Open Scholarship Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=267",
+    "scraped_date": "2025-10-31 01:22:32"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Part A - Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(5) RMIT encourages University-generated scholarly outputs, ideas, and knowledge to be made open access without barriers to use and reuse. RMIT scholarly output should strive to be ‘open where possible, closed where necessary’ in consideration of contractual, confidentiality, ethical, Indigenous Knowledge Authority, and privacy restrictions and requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(6) Open scholarly practices recognise the reciprocal relationship between research and practice of teaching that enables impactful research, education, and learning. This benefits the economy, society, environment, and culture by:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "broadening engagement with scholarship",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "driving greater impact of research and scholarly outputs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "increasing recognition of open scholarly publication for academic promotion purposes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(7) RMIT open scholarship practices adopt creative, innovative and responsible approaches to negotiating ownership of scholarly output wherever possible, while recognising and respecting contractual, confidentiality, ethical, Indigenous Knowledge Authority, intellectual property and privacy restrictions and requirements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(8) RMIT authors, where possible, align practice to the Dissemination of Research Outputs Procedure when entering into agreements and:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "retain copyright in their works, or",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "publish under an open license (preferably within the Creative Commons licensing framework) and ensure they retain the right to use and self-archive without embargo.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(9) RMIT recognises the significance of Indigenous Cultural and Intellectual Property, and that it must be respected, protected, and recognised. The University will ensure that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Open research and scholarly practices recognise and protect the rights and interests of Indigenous knowledge holders and custodians.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Open research and scholarly practices with Aboriginal and Torres Strait Islander individuals, communities, or groups, recognise, respect and value connection to place.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "The open dissemination of scholarly practices aligns with the AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research, RMIT’s Indigenous Research Plan (2023-2025).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(10) Protection and commercialisation of intellectual property (IP) is designed to foster an innovative culture where the creation of IP and entrepreneurial endeavour are valued and rewarded. Open scholarship enables the use and commercialisation of RMIT’s IP by industry, government, and community for local, national and global benefit.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(11) RMIT encourages researchers and educators to disseminate scholarly output as widely as possible, subject to confidentiality, Indigenous Knowledge Authority, trade secrets, privacy and commercialisation restrictions.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(12) Research or educational scholarly published output intended for commercialisation or containing confidential information should not be considered for open scholarly release or publication.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(13) Ownership of intellectual property rights (including copyright) in scholarly works is governed by the Intellectual Property Policy, and general law (including statute law and contracts).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT retains a perpetual, royalty free, non-exclusive licence to use scholarly works for educational and research purposes as defined within Intellectual Property Policy, and subject to contractual obligations the creator owes to third parties (for example, a publisher of a journal article).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "In RMIT’s commitment to open scholarship, RMIT reserves a non-exclusive, perpetual, irrevocable, royalty-free licence to use and archive copies of scholarly works and to make them as widely available as possible, in exercise of the non-exclusive licence subject to contractual obligations the creator owes to third parties (for example, a publisher of a journal article).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(14) In collaboration with consortia partners, the University Library seeks to improve equitable participation in the dissemination of scholarly output including but not limited to the following:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "enacting read and publish agreements to reduce or remove article processing charges (APCs) for University researchers",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "negotiating to improve the value of transformative (read and publish) agreements.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(15) RMIT is committed to open and responsible dissemination of publicly funded research output and providing open access to the public, government, industry partners and developing countries, while respecting any restrictions on dissemination. This commitment will lead to increased research visibility and impact.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "RMIT supports compliance with the University’s obligations under the contracts, funding rules and open access policies of the Australian Research Council (ARC), National Health and Medical Research Council (NHMRC), national or international funding bodies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Open access publication and dissemination of research findings must align with the Dissemination of Research Outputs Procedure and embody the principles of honesty, rigour, transparency, fairness, recognition, and accountability of the Australian Code for Responsible Conduct of Research, 2018, and RMIT Values.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(16) RMIT supports the Policy Statement on FAIR (Findable, Accessible, Interoperable and Reusable) Access to Australia’s Research Outputs and the CARE Principles for Indigenous Data Governance in the open and responsible dissemination of research data.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(17) RMIT is committed to the widest possible dissemination of educational scholarly output to promote critical and free enquiry, transforming how our communities discover, share, use and create knowledge.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(18) RMIT supports the creation and adoption of open educational resources where they are of high quality, contextually relevant and enhance student learning in preference to the adoption of commercially published educational resources.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(19) RMIT affirms open scholarly practices in education as a model of innovative pedagogy to enhance the quality of the student experience and reflect the principles of equity, inclusion, and social justice.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "30",
+              "text": "(20) RMIT strives to embed the principles of social justice, equity and inclusion within scholarly teaching practice and commits to the Diversity and Inclusion Framework and Action Plans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "31",
+              "text": "(21) Educators are encouraged to apply a Creative Commons licence to their teaching materials and share via appropriate open platforms.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "32",
+              "text": "(22) The creation, publication and underlying pedagogy of open educational resources will be compliant with the recommended standards outlined in the TEQSA Higher Education Standards Framework (2021) and the Program and Courses Policy.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Part B - Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(23) The Deputy Vice-Chancellor Education is responsible for this policy and may delegate this responsibility.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(24) Researchers, educators and others in relevant roles are required to comply with all applicable:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Laws enacted by the Commonwealth, States or Territories in Australia and/or in other countries",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Institutional policies and professional or disciplinary standards and codes of practice",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "RMIT policies, including but not limited to: Intellectual Freedom Policy Code of Conduct (staff) Intellectual Property Policy Research Policy Inclusion, Diversity, and Equity Policy Higher Degrees by Research Policy Program and Course Policy Conflict of Interest Policy Privacy Policy Sustainability Policy Authorship of Research Outputs Procedure Research Integrity Breach Management Procedure Dissemination of Research Outputs Procedure Research Data Management Procedure Disclosing and Exploiting Intellectual Property Process Corporate Social Responsibility Framework RMIT’s Indigenous Research Plan (2023-2025).",
+              "subclauses": [
+                "Intellectual Freedom Policy",
+                "Code of Conduct (staff)",
+                "Intellectual Property Policy",
+                "Inclusion, Diversity, and Equity Policy",
+                "Higher Degrees by Research Policy",
+                "Program and Course Policy",
+                "Conflict of Interest Policy",
+                "Sustainability Policy",
+                "Authorship of Research Outputs Procedure",
+                "Research Integrity Breach Management Procedure",
+                "Dissemination of Research Outputs Procedure",
+                "Research Data Management Procedure",
+                "Disclosing and Exploiting Intellectual Property Process",
+                "Corporate Social Responsibility Framework",
+                "RMIT’s Indigenous Research Plan (2023-2025)."
+              ]
+            },
+            {
+              "clause_number": "6",
+              "text": "(25) Refer to the following documents which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Open Scholarly Works Dissemination Procedure",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(26) (Note: Commonly defined terms are in the RMIT Policy Glossary. Any defined terms below are specific to this policy).",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

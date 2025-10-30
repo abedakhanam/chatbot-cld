@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Source Data Extract Controls Standard",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=161",
+    "scraped_date": "2025-10-31 01:22:05"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Introduction",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(4) RMIT has many systems capturing and generating a significant amount of data. This data is often needed by systems or processes across the organisation and externally, outside of the system from which it originates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(5) Requests for the data have created numerous extracts from the sources systems, most bespoke to meet the consumers’ needs. This leads to significant processing load, as well as entanglement of systems, inhibiting updates of both producers and consumers.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(6) This set of standards and guidelines for source system owners intends to point towards providing a reduced, base set of ‘raw’ data extracts, allowing focus on the original primary intent of the system.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Data Extraction Standards",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Data extract set design must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be based on the source system’s data structure, not a consumer’s data requirements (accurate);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensure all of the system’s business data is included (complete);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensure there are no overlaps between extracts (efficient); and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "not extract data that did not originate in the system (original).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(8) Data extract design must:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "be based on the source system’s data structure, not a consumer’s data requirements (accurate);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "include all data that naturally fits in the extract at hand, and does not omit data if it adds value (complete);",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "include all records (unfiltered); and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "be natural, not enriched using business rules foreign to the system (not enriched).",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(9) All batch data extracts must have the following data movement controls:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "extraction process end date-time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "data batch record count",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "data batch sequence number or business scheduled date",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "source system unique identifier",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "data set time zone identifier.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(10) Delta batch data extracts must also have the following data movement controls:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "delta batch data point start date-time",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "delta batch data point end date-time.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

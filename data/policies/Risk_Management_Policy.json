@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "title": "Risk Management Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=60",
+    "scraped_date": "2025-10-31 01:25:28"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Risk Management Objective",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) The objective of risk management is to support the delivery of our strategic objectives, while taking advantage of potential opportunities and managing possible adverse effects, through the effective identification, measurement, prioritisation, treatment, and ongoing monitoring of risk.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Risk Management Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(7) Risk is inherent: Risk is inherent in all academic and administrative activities of RMIT Group, and in all markets where RMIT Group operates.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(8) Risk is aligned to strategy: Our risk appetite specifies the amount of risk the RMIT Group is willing to seek or accept in pursuit of its strategic objectives and delivery of its annual operating plans.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "(9) Clarity of accountability: RMIT Group risk management supports clear accountabilities for all stakeholders across the risk management lifecycle, and ensures those stakeholders are adequately equipped to exercise them.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "(10) Evidence-based: RMIT Group approach to risk management is evidence-based and data-driven, supporting effective evaluation, prioritisation and decision-making.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(11) Positive risk culture: Risk is everyone’s responsibility and is embedded in the way work is conducted across all RMIT Group academic, research and non-academic operations. It encourages open and transparent discussion about risk and opportunity.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(12) Risk is a life cycle: Risks change over time. Risks are monitored, reviewed and assured to ensure RMIT’s position remains relevant and appropriate, and in line with our risk appetite.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Risk Management Framework",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(13) This policy seeks to establish and maintain the culture, structure and processes to support the RMIT Group to take advantage of potential opportunities and manage possible adverse effects in line with the RMIT Group risk appetite.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "(14) This policy is implemented through the RMIT Group Risk Management Framework. It consists of the following components:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Risk Management Model (refer to diagram in Schedule 1) The Risk Management Model describes the key components of the RMIT Group Risk Management Framework. It sets out the overall risk management process, along with the supporting oversight, accountability and operating models.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Risk Appetite Statement The Risk Appetite Statement specifies the amount of risk the University is willing to accept in pursuit of its strategic objectives and delivery of its annual operating plans (business objectives). The Risk Appetite Statement is set by Council and reviewed annually. It is considered during RMIT Group planning and decision-making processes.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Risk Management Lines of Accountability The Risk Management Lines of Accountability provides detailed guidance, based on the Responsibilities section below, on the risk and assurance activities specific to key roles and committees across the RMIT Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Supporting Risk Management Procedures, Systems, Processes and Training These are the supporting processes and tools that enable the effective implementation of the Risk Management Process.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(15) RMIT University Council (Council) is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "overseeing and monitoring the assessment and management of risk across the RMIT Group, including commercial activities, in accordance with the Royal Melbourne Institute of Technology Act 2010",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "setting the risk appetite for the RMIT Group",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "ensuring a sound system of risk oversight and assurance, with appropriate policies and processes for management, internal control, and external oversight, in accordance with the RMIT Council Governance Charter.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(16) Academic Board is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "oversight and monitoring of the academic affairs of the RMIT Group as required by the RMIT Act and Council’s establishment of Academic Board as the peak academic governance body within the RMIT Group.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "oversight of academic risks as specified in the Academic Board Regulations.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(17) Audit and Risk Management Committee is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "acting on behalf of Council to monitor the audit and risk management of the RMIT Group and associated processes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "reviewing RMIT’s risk profile, risk framework, risk identification and risk management on a regular basis to ensure they are regularly updated, and material business risks of the RMIT Group are dealt with appropriately and on a timely basis.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "11",
+              "text": "(18) The Enterprise Risk Management Team is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "developing and maintaining the Risk Management Policy and associated framework; this includes the risk management operating rhythm, processes, guidance and tools",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "facilitating and coordinating the regular reporting of risks to Council and sub-committees, the Audit and Risk Management Committee, the Academic Board and University Executive Committee",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "advising and supporting teams across RMIT in the implementation of the Risk Management Framework, and the effective identification of risks, assessment of risk exposure, and in the development of risk mitigation and monitoring strategies.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(19) Executive and Senior Management is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "demonstrating risk leadership by taking accountability for risk management, dedicating appropriate resources to the management of risks, and implementing risk management processes within their area of responsibility, including executive management committee oversight",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "promoting a strong risk culture by adhering to delegation thresholds, managing risk exposures, and enabling considered, transparent and risk-aware decisions to be made.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "18",
+              "text": "(20) All employees, including contractors and third parties are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "identifying, understanding, owning, and managing any relevant or emerging risks related to their activities, role or area of responsibility",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "developing appropriate treatment plans when they decide to manage a risk by reducing the risk exposure within risk appetite",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "appropriately documenting risks, controls, action plans and risk decisions within their area of responsibility or influence",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "continuing to monitor and review risks within their area of responsibility or influence",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "reporting and escalating any actual or perceived risks that may impact the RMIT Group as they become known.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "24",
+              "text": "(21) Specific responsibilities defined by role and leadership position are outlined in the Risk Management Policy – Schedule 2 - Lines of Accountability.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Review",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(22) This policy and the Risk Management Model demonstrate the RMIT Group commitment to managing risks and will be reviewed every five years in accordance with the Policy Governance Policy, and aligned in accordance with:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Royal Melbourne Institute of Technology 2010 Act",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ISO (the International Organization for Standardization) 31000 (2018)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Victorian Government Risk Management Framework (VGRMF)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "Commonwealth Government Risk Management Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "(23) Performance against this policy, including non-compliance with the schedules, statements, and procedures, are reported to Council, Audit and Risk Management Committee and University Executive Committee.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(24) Breaches of this policy will be managed in accordance with the relevant staff and student procedures and Code of Conduct.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "(25) This policy includes the following schedules:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Risk Management Policy Schedule 1 – Risk Management Model Diagram",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Risk Management Policy Schedule 2 – Lines of Accountability",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Risk Management Policy Schedule 3 – Risk Appetite Statement",
+              "subclauses": []
+            },
+            {
+              "clause_number": "12",
+              "text": "(26) Refer to the following documents, which are established in accordance with this policy:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Risk Management Procedure.",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}

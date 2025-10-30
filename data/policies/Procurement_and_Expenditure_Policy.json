@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "title": "Procurement and Expenditure Policy",
+    "approval_date": "",
+    "review_date": "2025-10-31",
+    "source_path": "https://policies.rmit.edu.au/document/view.php?id=221",
+    "scraped_date": "2025-10-31 01:21:38"
+  },
+  "structure": [
+    {
+      "part_title": "Main Content",
+      "sections": [
+        {
+          "section_title": "Principles",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(6) RMIT’s expenditure on third party goods or services is subject to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Australian Commonwealth laws, including the Modern Slavery Act 2018 (Cth)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Victorian State laws, including the Financial Management Act 1994 (Vic)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Other legal requirements, as applicable to the nature of the goods or services, or the relevant country or jurisdiction of supply or delivery.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(7) RMIT Group procurement and expenditure activities:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "support RMIT’s strategic objectives and organisational needs",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "are conducted to ensure probity in its procurement and expenditure activities reflect: honesty, equity and fairness in the treatment of suppliers integrity, and consistency, making objective, justifiable and auditable decisions demonstrating impartiality and the consideration of all relevant criteria transparency, and confidentiality for proprietary or confidential information (where appropriate), and respect for intellectual property rights",
+              "subclauses": [
+                "honesty, equity and fairness in the treatment of suppliers",
+                "integrity, and consistency, making objective, justifiable and auditable decisions demonstrating impartiality and the consideration of all relevant criteria",
+                "transparency, and confidentiality for proprietary or confidential information (where appropriate), and respect for intellectual property rights"
+              ]
+            },
+            {
+              "clause_number": "3",
+              "text": "be conducted with an appropriate market approach that promotes open and fair competition in all dealings",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "seek to achieve value for money outcomes in expenditure activities which support RMIT’s commercial objectives.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(8) RMIT is committed to the triple bottom line approach regarding environmental, social and financial sustainability. All procurement decisions will take account of RMIT’s responsibilities and obligations regarding:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "diversity, inclusion and accessibility",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "labour and human rights principles, including the risk of modern slavery in supply chains",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "social and environmental sustainability",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "supporting the business and entrepreneurial endeavours of Aboriginal and Torres Strait Islanders",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "data privacy and data security",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "corporate governance and ethical business practices",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "document and records retention",
+              "subclauses": []
+            },
+            {
+              "clause_number": "8",
+              "text": "wellbeing, health and safety of all RMIT employees, contractors, consultants and students.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "19",
+              "text": "(9) Any actual, perceived or potential conflict of interest in procurement activities must be disclosed and managed in accordance with the Conflict of Interest Policy and RMIT Supplier Code of Conduct.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "20",
+              "text": "(10) Suppliers are required to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "declare any Conflicts of Interest (COI) through the RMIT strategic sourcing system as part of the tender process; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "disclose any Conflicts of Interest (COI) directly to the Procurement team or relevant business unit representative during quotation or direct negotiation activities.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "23",
+              "text": "(11) RMIT staff are required to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "declare any Conflicts of Interest (COI) with a supplier entity prior to engagement and/or requesting its registration as an RMIT supplier; and",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "ensure that any declared Conflicts of Interest (COI) are documented and managed in accordance with RMIT’s Conflict of Interest Policy and Conflict of Interest Management Procedure before progressing with supplier engagement.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "26",
+              "text": "(12) Failure by either suppliers or RMIT staff to disclose Conflicts of Interest may result in appropriate action being taken, including an exclusion from procurement activities, termination of supplier engagement, or disciplinary measures.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "27",
+              "text": "(13) Approvals for procurement activities must be sought and provided in accordance with the Delegations of Authority Policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "28",
+              "text": "(14) Where an RMIT staff member receives gifts, hospitality or any other benefits from third parties, including current or prospective suppliers, the University’s Gifts, Benefits and Hospitality Policy applies, which may require the gifts or benefits to be declined or otherwise declared.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "29",
+              "text": "(15) For the purposes of complying with the thresholds established through the Delegations of Authority Policy and this policy, the disposal of an RMIT asset is to be assessed as if it were an expenditure of money.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Responsibilities",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(16) The RMIT Procurement team is responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "ensuring suppliers are registered in accordance with RMIT’s Corporate Social Responsibility requirements and Corporate Social Responsibility Framework",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "providing governance and process oversight of expenditure, including reporting non-compliance with policy and process for the RMIT Group",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "providing easy to use clear and compliant processes that enable expenditure activities in accordance with the Delegations of Authority Policy",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "leading the sourcing activities for high-value and high-risk expenditure to ensure process governance, risk-appropriate commercial decision making, and the best value for money outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "RMIT’s category and vendor management, through developing and implementing strategies that deliver significant value, including the management of key supplier relationships.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "7",
+              "text": "(17) All RMIT staff are responsible for:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "complying with the requirements for quotations, payment methods and engagement of the Procurement team, as set out in Procurement Schedule 1 - Purchasing Threshold (Australia and Vietnam)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "using preferred suppliers and panels, in accordance with the panel rules, as established by the RMIT Procurement team",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "proactively assessing the need for a proposed expenditure, and its likely value and risk profile",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "referring high-value or high-risk expenditure to the RMIT Procurement team in a timely manner, to enable RMIT to achieve appropriate value for money outcomes",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "where an expenditure activity does not require the engagement of the Procurement team, obtaining the required number of quotations, and seeking a value for money outcome",
+              "subclauses": []
+            },
+            {
+              "clause_number": "6",
+              "text": "creating an approved purchase order in Workday prior to committing to the expenditure with the supplier.",
+              "subclauses": []
+            }
+          ]
+        },
+        {
+          "section_title": "Compliance",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "text": "(18) An RMIT staff member may obtain approval, in accordance with the Delegations of Authority Policy, to:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "use a supplier which is not an approved or preferred supplier or a panel of approved suppliers for a particular activity or supply",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "obtain a lower number of quotations than as required under Procurement Schedule 1 – Purchasing Threshold (Australia and Vietnam)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "extend or vary an existing agreement with a current supplier without conducting a separate quotation or tender process",
+              "subclauses": []
+            },
+            {
+              "clause_number": "5",
+              "text": "(19) Approval under clause (18) may only be granted where one or more of the following criteria applies:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "the approved supplier or panel of approved suppliers cannot supply the goods or services required;",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "demonstrated unique technical requirements with only one sole supplier in the market (e.g. a unique service or product which is not-substitutable)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "time-critical events that have been caused by unforeseen circumstances",
+              "subclauses": []
+            },
+            {
+              "clause_number": "4",
+              "text": "other exceptional circumstances based on business necessity as determined by the Chief Officer Procurement or the Chief Operating Officer",
+              "subclauses": []
+            },
+            {
+              "clause_number": "10",
+              "text": "(20) This policy applies to procurement and expenditure activities that use research funding to purchase goods or services. Stakeholders who purchase goods or services on behalf of RMIT using research funding must be aware that:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "approval of a funding submission by an RMIT staff member is not a sufficient approval or waiver for the purposes of this policy.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "obtaining quotes for a research funding application may not be sufficient to meet the requirements of this policy or its corresponding procedures if the funding application is successful.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "RMIT may engage specific institutions or partners to provide specialised research services, particularly where the engagement is in the form of specialised subcontracts, without conducting a competitive tender or seeking a tender waiver. These engagements are project specific and inherently specialised, making market testing impractical and inappropriate.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "14",
+              "text": "(21) Where the RMIT Procurement team is leading a Strategic Sourcing event, a Procurement Control Group (PCG) or the relevant business unit executive will be notified to provide oversight of procurement reporting, performance and policy compliance. It is the responsibility of the PCG or the relevant business unit executive to endorse and approve sourcing recommendations and decisions in accordance with the Procurement Plan or endorsed strategy. A Procurement Project Control Group (PCG) is required for procurement activities of higher risk, complexity or value, as determined in the Procurement Plan.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "15",
+              "text": "(22) RMIT treats any breach of policies or procedures seriously. Instances of non-compliance with this policy must be reported in accordance with the Compliance Breach Management Procedure and may lead to disciplinary action.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "16",
+              "text": "(23) RMIT does not tolerate fraud or corruption. The Fraud and Corruption Control Policy sets out RMIT’s approach to preventing and dealing with fraud and corruption. Any potential breach of this policy must be reported to the relevant body or role, as detailed in the Escalation guide: Regulatory, Legal, Conduct, Safety and Security Matters.",
+              "subclauses": []
+            },
+            {
+              "clause_number": "17",
+              "text": "(24) Refer to the following documents which are established in accordance with this policy for RMIT Australia:",
+              "subclauses": []
+            },
+            {
+              "clause_number": "1",
+              "text": "Procurement Schedule 1 - Purchasing Threshold (Australia and Vietnam)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "2",
+              "text": "Procurement Strategic Sourcing Procedure (Australia)",
+              "subclauses": []
+            },
+            {
+              "clause_number": "3",
+              "text": "Procurement Quotation Procedure (Australia)",
+              "subclauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "qa_index": []
+}
