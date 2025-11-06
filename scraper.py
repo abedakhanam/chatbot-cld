@@ -263,7 +263,7 @@ def scrape_all_policies(output_dir: str = OUTPUT_DIR, max_policies: int = None) 
         print("❌ No policy links found")
         return {"success": 0, "failed": 0, "total": 0}
     
-    # Limit number if specified
+    # Limit number if specified, didnt implement it later
     if max_policies:
         policy_links = policy_links[:max_policies]
     
@@ -292,10 +292,10 @@ def scrape_all_policies(output_dir: str = OUTPUT_DIR, max_policies: int = None) 
             print(f"  ❌ Error: {e}")
             failed_count += 1
         
-        # Rate limiting to be respectful
+        # rate limiting to be respectful
         time.sleep(1)
     
-    # Summary
+    # summary just to visualize
     print("\n" + "=" * 60)
     print("📊 Scraping Summary")
     print("=" * 60)
@@ -312,5 +312,4 @@ def scrape_all_policies(output_dir: str = OUTPUT_DIR, max_policies: int = None) 
 
 
 if __name__ == "__main__":
-    # Run scraper when executed directly
     scrape_all_policies()
